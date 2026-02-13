@@ -1,8 +1,51 @@
-# TryHackMe Database
+```
+ ███████╗██╗     ██╗      ██████╗
+ ██╔════╝██║     ██║     ██╔════╝
+ █████╗  ██║     ██║     ██║
+ ██╔══╝  ██║     ██║     ██║
+ ██║     ███████╗███████╗╚██████╗
+ ╚═╝     ╚══════╝╚══════╝ ╚═════╝
+  TRYHACKME OPERATIONS — 2026
+```
 
-<img src="./picture.jpg" alt="Alt-Text" width="200" height="200">
+<p align="center">
+<img src="https://img.shields.io/badge/FLLC-TryHackMe-00FFFF?style=for-the-badge&labelColor=0D0D2B"/>
+<img src="https://img.shields.io/badge/Rooms-992-FF00FF?style=for-the-badge&labelColor=0D0D2B"/>
+<img src="https://img.shields.io/badge/Cheatsheets-10-7B2FBE?style=for-the-badge&labelColor=0D0D2B"/>
+<img src="https://img.shields.io/badge/AI_Red_Team-2026-00FFFF?style=for-the-badge&labelColor=0D0D2B"/>
+</p>
 
-My own private TryHackMe Database to lookup for answers.
+---
+
+## FLLC Cheatsheets
+
+| Cheatsheet | Focus |
+|------------|-------|
+| [Pentest Methodology](fllc-cheatsheets/PENTEST_METHODOLOGY.md) | Full pentest lifecycle |
+| [Nmap](fllc-cheatsheets/NMAP_CHEATSHEET.md) | Network scanning reference |
+| [Linux PrivEsc](fllc-cheatsheets/LINUX_PRIVESC.md) | Linux privilege escalation |
+| [Windows PrivEsc](fllc-cheatsheets/WINDOWS_PRIVESC.md) | Windows privilege escalation |
+| [Active Directory](fllc-cheatsheets/ACTIVE_DIRECTORY.md) | AD attack techniques |
+| [Web Exploitation](fllc-cheatsheets/WEB_EXPLOITATION.md) | OWASP Top 10, Burp, APIs |
+| [OSINT](fllc-cheatsheets/OSINT_CHEATSHEET.md) | Open-source intelligence |
+| [Reverse Engineering](fllc-cheatsheets/REVERSE_ENGINEERING.md) | Binary analysis, Ghidra, GDB |
+| [AI Red Teaming](fllc-cheatsheets/AI_RED_TEAMING.md) | LLM exploitation, adversarial ML |
+| [Compliance Pentest](fllc-cheatsheets/COMPLIANCE_PENTEST.md) | NIST/CIS/PCI mapping |
+
+## FLLC Methodology
+
+| Document | Description |
+|----------|-------------|
+| [Attack Frameworks](fllc-methodology/ATTACK_FRAMEWORKS.md) | MITRE ATT&CK, PTES, OWASP, Kill Chain |
+| [Medium Articles](fllc-methodology/MEDIUM_ARTICLES.md) | Top THM writeups and learning paths |
+
+---
+
+## Room Database
+
+<img src="./picture.jpg" alt="TryHackMe" width="200" height="200">
+
+TryHackMe room solutions database — 992 rooms indexed.
 
 # Rooms (992)
 
