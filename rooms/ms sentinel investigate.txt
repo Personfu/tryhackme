@@ -1,0 +1,49 @@
+MS Sentinel: Investigate
+https://tryhackme.com/room/sentinelinvestigate
+
+Q2.1 — ordinary point-in-time activity
+event
+
+Q2.2 — disruptive event requiring investigation
+incident
+
+Q3.1 — other contributors to incidents
+Nay
+
+Q4.1 — consistent SecOps operation
+process standardization
+
+Q4.2 — uniform handling of incidents
+Incident Tasks
+
+Q5.1 — alert-log link in incident view
+Link to LA
+
+Q5.2 — queries during graph investigation
+exploration
+
+Q6.1 — red-team incident closure
+Benign Positive
+
+Q6.2 — false-positive suppression without rule editing
+Automation rule
+
+Q6.3 — classification of a real attack
+True Positive
+
+Q8.1 — Solorigate tactic
+Command and Control
+
+Q8.2 — disabled-account sign-in IP
+175.45.176.99
+
+Q8.3 — location of that IP
+Korea
+
+Q8.4 — targeted disabled account
+johns@m365x816222.onmicrosoft.com
+
+Q8.5 — failed sign-in attempt count
+4
+
+Source: https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey/blob/29ceea16dff8d3d728ab687af03ffe2db3e352f8/Defending%20Azure/Microsoft%20Sentinel/Easy%20%F0%9F%94%97%20-%20MS%20Sentinel%3A%20Investigate.md

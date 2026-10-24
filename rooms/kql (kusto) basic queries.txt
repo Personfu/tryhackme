@@ -1,0 +1,46 @@
+KQL (Kusto): Basic Queries
+https://tryhackme.com/room/kqlkustobasicqueries
+
+Q2.1 — purpose of a where clause
+Filtering data
+
+Q3.1 — implicit query time window
+Last 24 hours
+
+Q3.2 — sort column in the example
+ProcessName
+
+Q4.1 — search without a known table
+search
+
+Q4.2 — custom log table suffix
+_CL
+
+Q5.1 — variable declaration operator
+Let
+
+Q6.1 — time-window example event ID
+4625
+
+Q6.2 — current UTC time function
+now()
+
+Q7.1 — render operator placement
+Yea
+
+Q7.2 — fields grouped by summarize
+Process, Computer, AccountType
+
+Q9.1 — logoff event ID
+4634
+
+Q9.2 — timadmin privilege event
+4672 - Special privileges assigned to new logon
+
+Q9.3 — DC10 login and logout count
+21
+
+Q9.4 — timadmin authentication package
+Kerberos
+
+Source: https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey/blob/29ceea16dff8d3d728ab687af03ffe2db3e352f8/Defending%20Azure/KQL/Easy%20%F0%9F%94%97%20-%20KQL%20(Kusto)%3A%20Basic%20Queries.md

@@ -1,0 +1,49 @@
+MS Entra ID: Authentication
+https://tryhackme.com/room/entraidauthentication
+
+Q1.1 — sign-in without a password
+passwordless
+
+Q1.2 — primary authenticator method
+Microsoft Authenticator App
+
+Q1.3 — role managing authentication methods
+Authentication Policy Administrator
+
+Q1.4 — SSPR and guest method
+Email one-time passcode
+
+Q2.1 — combined authentication methods
+authentication strength
+
+Q2.2 — strongest option for sensitive resources
+phishing-resistant MFA
+
+Q2.3 — method excluded from phishing-resistant MFA
+microsoft authenticator app
+
+Q6.1 — weak-password blocking feature
+password protection
+
+Q6.2 — initial lockout failure limit
+lockout threshold
+
+Q6.3 — editing the global banned list
+Nay
+
+Q6.4 — custom banned-list entries
+key base terms
+
+Q6.5 — single password across many users
+password spray attack
+
+Q7.1 — self-managed password changes
+self-service password reset
+
+Q7.2 — SSPR prerequisite configuration
+authentication methods
+
+Q7.3 — email OTP for tenant members
+Nay
+
+Source: https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey/blob/29ceea16dff8d3d728ab687af03ffe2db3e352f8/Defending%20Azure/Microsoft%20Entra%20ID/6%20%20.%20%20Medium%20%F0%9F%94%97%20-%20MS%20Entra%20ID%3A%20Authentication.md

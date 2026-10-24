@@ -1,0 +1,51 @@
+AI Threat Modelling
+https://tryhackme.com/room/aithreatmodelling
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/AI%20Threat%20Modelling
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+Embedding Vectors
+
+Q2
+Model Registry / Artifacts
+
+Q3
+Data Collection
+
+Q4
+Tampering
+
+Q5
+Model Extraction
+
+Q6
+Elevation of Privilege
+
+Q7
+LLM06: 2025 — Excessive Agency
+
+Q8
+Denial of Wallet
+
+Q9
+Adversarial Threat Landscape for Artificial-Intelligence Systems
+
+Q10
+Morris II
+
+Q11
+AML.T0024
+
+Q12
+6
+
+Q13
+Improper Output Handling
+
+Q14
+Training Pipeline
+
+Q15
+THM{AI_THREAT_MODEL_COMPLETE}
+

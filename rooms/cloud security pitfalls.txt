@@ -1,7 +1,7 @@
 Cloud Security Pitfalls
 https://tryhackme.com/room/cloudsecuritypitfalls
 
-Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/Cloud%20Security%20Pitfalls
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Cloud%20Security%20Pitfalls
 Answers in the source's question order; room revisions may change numbering.
 
 Q1

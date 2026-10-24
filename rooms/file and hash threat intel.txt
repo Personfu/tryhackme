@@ -1,8 +1,10 @@
 File and Hash Threat Intel
 https://tryhackme.com/room/fileandhashthreatintel
 
-Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/File%20and%20Hash%20Threat%20Intel
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/File%20and%20Hash%20Threat%20Intel
+Source: https://medium.com/@rayenhafsawy/file-and-hash-threat-intel-tryhackme-writeup-with-flags-6730338cf10d
 Answers in the source's question order; room revisions may change numbering.
+The second source corrects Q10; the first source says svchost.dll there.
 
 Q1
 payroll.pdf, Double extensions
@@ -32,7 +34,7 @@ Q9
 werfault.exe
 
 Q10
-svchost.dll
+svchost.exe
 
 Q11
 hxxp://121.182.174.27:3000/server.exe

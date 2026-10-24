@@ -1,0 +1,47 @@
+Hashing 101
+https://tryhackme.com/room/hashingcrypto101aa
+
+Q1.1 — base64 classification
+encoding
+
+Q2.1 — MD5 output length in bytes
+16
+
+Q2.2 — whether collisions can be eliminated
+Nay
+
+Q2.3 — number of eight-bit digest values
+256
+
+Q3.1 — first MD5 plaintext
+basketball
+
+Q3.2 — second MD5 plaintext
+p4ssw0rd
+
+Q3.3 — password encryption recommendation
+Nay
+
+Q4.1 — default sha512crypt rounds
+5000
+
+Q4.2 — Hashcat Citrix example digest
+1765058016a22f1b4e076dccd1c3df4e8e5c0839ccded98ea
+
+Q4.3 — NTLM digest character count
+32
+
+Q5.1 — bcrypt plaintext
+85208520
+
+Q5.2 — SHA-256 plaintext
+halloween
+
+Q5.3 — sha512crypt plaintext
+spaceman
+
+Q5.4 — final MD5 plaintext
+funforyou
+
+Source: https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey/blob/29ceea16dff8d3d728ab687af03ffe2db3e352f8/Medium%20%F0%9F%94%97%20-%20Hashing%20101.md
+Source: https://www.jalblas.com/blog/tryhackme-hashing-crypto-101-walkthrough/

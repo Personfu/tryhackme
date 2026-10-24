@@ -1,0 +1,37 @@
+MS Sentinel: Ingest Data
+https://tryhackme.com/room/sentinelingestdata
+
+Q1.1 — log ingestion mechanism
+data connectors
+
+Q2.1 — connector specificity by source
+Yea
+
+Q2.2 — connector availability methods
+2
+
+Q3.1 — bundled Sentinel content
+solutions
+
+Q3.2 — non-solution content type
+standalone
+
+Q5.1 — Entra ID content source type
+Solution
+
+Q5.2 — Entra ID content categories
+Identity, Security - Automation (SOAR)
+
+Q6.1 — connector detail page
+connector page
+
+Q6.2 — workspace permission to configure Entra ID
+Microsoft Sentinel Contributor
+
+Q7.1 — MDTI imported data
+Indicators of Compromise
+
+Q7.2 — IP and domain threat indicators
+Yea
+
+Source: https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey/blob/29ceea16dff8d3d728ab687af03ffe2db3e352f8/Defending%20Azure/Microsoft%20Sentinel/Easy%20%F0%9F%94%97%20-%20MS%20Sentinel%3A%20Ingest%20Data.md

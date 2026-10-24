@@ -1,0 +1,8 @@
+HealthGPT
+https://tryhackme.com/room/healthgpt
+
+Q1.1 — challenge flag
+THM{policy_bypassed}
+
+Source: https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey/blob/29ceea16dff8d3d728ab687af03ffe2db3e352f8/Easy%20%F0%9F%9A%A9%20-%20HealthGPT.md
+Source: https://prosetesting.prose.sh/healthgpt

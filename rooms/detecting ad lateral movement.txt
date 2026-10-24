@@ -1,7 +1,7 @@
 Detecting AD Lateral Movement
 https://tryhackme.com/room/detectingadlateralmovement
 
-Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/Detecting%20AD%20Lateral%20Movement
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Detecting%20AD%20Lateral%20Movement
 Answers in the source's question order; room revisions may change numbering.
 
 Q1

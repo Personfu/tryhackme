@@ -1,7 +1,7 @@
 AWS Security Logging
 https://tryhackme.com/room/awssecuritylogging
 
-Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/AWS%20Security%20Logging
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/AWS%20Security%20Logging
 Answers in the source's question order; room revisions may change numbering.
 
 Q1

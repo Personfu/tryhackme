@@ -1,0 +1,51 @@
+Elastic: Using Elastic Defend
+https://tryhackme.com/room/elasticdefend
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Elastic%3A%20Using%20Elastic%20Defend
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+9.2.0
+
+Q2
+Prevent
+
+Q3
+python3.12
+
+Q4
+ipv4
+
+Q5
+/usr/bin/bash
+
+Q6
+find /home -name *creds*
+
+Q7
+creds
+
+Q8
+73
+
+Q9
+malicious_file
+
+Q10
+47
+
+Q11
+Privilege Escalation
+
+Q12
+3
+
+Q13
+/usr/bin/printf
+
+Q14
+10.10.10.100 4444
+
+Q15
+system-update
+

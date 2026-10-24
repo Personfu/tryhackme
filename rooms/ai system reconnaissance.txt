@@ -1,0 +1,36 @@
+AI System Reconnaissance
+https://tryhackme.com/room/aisystemreconnaissance
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/AI%20System%20Reconnaissance
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+10.10.45.20
+
+Q2
+5000
+
+Q3
+NV-Status
+
+Q4
+inference.GRPCInferenceService
+
+Q5
+/api/2.0/mlflow/model-versions/search
+
+Q6
+Cyphira-MLfl0w-2024!
+
+Q7
+AML.T0010
+
+Q8
+AML.TA0002
+
+Q9
+MLOKit
+
+Q10
+Enable MLflow authentication
+

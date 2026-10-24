@@ -1,7 +1,7 @@
 Monitoring AWS Workloads
 https://tryhackme.com/room/monitoringawsworkloads
 
-Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/Monitoring%20AWS%20Workloads
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Monitoring%20AWS%20Workloads
 Answers in the source's question order; room revisions may change numbering.
 
 Q1

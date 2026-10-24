@@ -1,7 +1,7 @@
 JavaScript: Simple Demo
 https://tryhackme.com/room/javascriptsimpledemo
 
-Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/JavaScript%3A%20Simple%20Demo
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/JavaScript%3A%20Simple%20Demo
 Answers in the source's question order; room revisions may change numbering.
 
 Q1

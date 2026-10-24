@@ -1,0 +1,49 @@
+Session Forensics
+https://tryhackme.com/room/sessionforensics
+Source: https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey/blob/29ceea16dff8d3d728ab687af03ffe2db3e352f8/Medium%20%F0%9F%94%97%20-%20Session%20Forensics.md
+Source: https://www.sharonjebitok.com/session-forensics-tryhackme
+
+Q: Session concepts — revocation
+A: revocation
+
+Q: Session concepts — stolen session ID
+A: session hijacking
+
+Q: Log source — application logs
+A: application logs
+
+Q: Log source — web server logs
+A: web server logs
+
+Q: Log source — identity provider logs
+A: identity provider logs
+
+Q: Token investigation — user agent
+A: Mozilla/5.0
+
+Q: Token investigation — token type
+A: JWT
+
+Q: Token investigation — identity provider
+A: auth.catportal.internal
+
+Q: Token investigation — requesting user
+A: FluffyCat
+
+Q: Token investigation — changed role
+A: admin
+
+Q: Token investigation — malicious token value
+A: eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJ1c2VybmFtZSI6IkZsdWZmeUNhdCIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTcyMTQzMTgwMCwiZXhwIjoxNzIxNDM1NDAwfQ
+
+Q: Token investigation — malicious token algorithm
+A: none
+
+Q: Token investigation — previous legitimate token
+A: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkZsdWZmeUNhdCIsInJvbGUiOiJ1c2VyIiwiZXhwIjoxNzIxNDM1NDAwfQ.WMKctz1p5KLwNP_C7XXcWbP8uEpbwSeEY_hU_dhG6Rk
+
+Q: Token investigation — legitimate token algorithm
+A: HS256
+
+Q: Task 5.1 — safeguard against JWT tampering
+A: Token Verification

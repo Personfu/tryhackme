@@ -1,0 +1,22 @@
+Data Integrity & Model Poisoning
+https://tryhackme.com/room/modelpoisoning
+
+Task 2.1 — Website used for the malicious GPT-J-6B upload
+Hugging Face
+
+Task 2.2 — Collective term for external AI components
+supply chain
+
+Task 3.1 — Deliberate corruption of model training data
+Model poisoning
+
+Task 4.1 — First altered answer from the poisoned model
+New York
+
+Task 4.2 — Second altered answer from the poisoned model
+London
+
+Task 5.1 — Whether unauthenticated libraries should be loaded blindly
+nay
+
+Source: https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey/blob/29ceea16dff8d3d728ab687af03ffe2db3e352f8/Medium%20%F0%9F%94%97%20-%20Data%20Integrity%20%26%20Model%20Poisoning.md

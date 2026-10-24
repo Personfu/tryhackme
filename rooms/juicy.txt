@@ -1,0 +1,18 @@
+Juicy
+https://tryhackme.com/room/juicy
+
+Q1.1 — hidden system-prompt flag
+THM{ef2a23f500198ae5afd6af4d3c1073be}
+
+Q1.2 — forbidden-output flag
+THM{f0626fe6bb06656abf34478081ce8dd2}
+
+Q1.3 — internal panel flag
+THM{cf986b58a02c9899d97c11f891bea6e0}
+
+Q1.4 — household Wi-Fi passphrase
+ball-chicken-park-7
+
+Source: https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey/blob/29ceea16dff8d3d728ab687af03ffe2db3e352f8/Medium%20%F0%9F%9A%A9%20Juicy.md
+Source: https://tryhackmyoffsecbox.github.io/TryHackMe-CN/en/docs/Modules/Attacking%20LLMs/juicy/
+Source: https://medium.com/%40Sle3pyHead/juicy-ctf-notes-tryhackme-160e6ae5ed28

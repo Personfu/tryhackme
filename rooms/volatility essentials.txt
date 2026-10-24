@@ -1,0 +1,46 @@
+Volatility Essentials
+https://tryhackme.com/room/volatilityessentials
+Source: https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey/blob/29ceea16dff8d3d728ab687af03ffe2db3e352f8/Medium%20%F0%9F%94%97%20-%20Volatility%20Essentials.md
+Source: https://tryhackmyoffsecbox.github.io/TryHackMe-CN/en/docs/Modules/Memory%20Analysis/volatilityessentials/
+
+Q: Task 3.1 — Memory acquisition
+A: 2600.xpsp.080413-2111
+
+Q: Task 3.2 — Memory acquisition
+A: 2012-07-22 02:45:08
+
+Q: Task 4.1 — Processes and connections
+A: C:\Program Files\Adobe\Reader 9.0\Reader\Reader_sl.exe
+
+Q: Task 4.2 — Processes and connections
+A: explorer.exe
+
+Q: Task 4.3 — Processes and connections
+A: 1484
+
+Q: Task 4.4 — Processes and connections
+A: 3
+
+Q: Task 4.5 — Processes and connections
+A: CritSecOutOfMemoryEvent
+
+Q: Task 5.1 — Hunting
+A: explorer.exe,reader_sl.exe
+
+Q: Task 6.1 — Advanced forensics
+A: 0x8056e27c
+
+Q: Task 7.1 — Practical investigation
+A: @WanaDecryptor@
+
+Q: Task 7.2 — Practical investigation
+A: C:\Intel\ivecuqmanpnirkt615\@WanaDecryptor@.exe
+
+Q: Task 7.3 — Practical investigation
+A: tasksche.exe
+
+Q: Task 7.4 — Practical investigation
+A: Wannacry
+
+Q: Task 7.5 — Practical investigation
+A: windows.filescan

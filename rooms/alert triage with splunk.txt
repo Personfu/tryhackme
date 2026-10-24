@@ -1,7 +1,7 @@
 Alert Triage With Splunk
 https://tryhackme.com/room/alerttriagewithsplunk
 
-Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/Alert%20Triage%20With%20Splunk
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Alert%20Triage%20With%20Splunk
 Answers in the source's question order; room revisions may change numbering.
 
 Q1

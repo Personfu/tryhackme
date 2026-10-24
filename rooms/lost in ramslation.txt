@@ -1,7 +1,7 @@
 Lost in RAMslation
 https://tryhackme.com/room/lostinramslation
 
-Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/Lost%20in%20RAMslation
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Lost%20in%20RAMslation
 Answers in the source's question order; room revisions may change numbering.
 
 Q1

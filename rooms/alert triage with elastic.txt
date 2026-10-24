@@ -1,7 +1,7 @@
 Alert Triage With Elastic
 https://tryhackme.com/room/alerttriagewithelastic
 
-Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/Alert%20Triage%20With%20Elastic
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Alert%20Triage%20With%20Elastic
 Answers in the source's question order; room revisions may change numbering.
 
 Q1

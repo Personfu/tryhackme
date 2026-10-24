@@ -1,7 +1,7 @@
 Directory
 https://tryhackme.com/room/directorydfirroom
 
-Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/Directory
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Directory
 Answers in the source's question order; room revisions may change numbering.
 
 Q1

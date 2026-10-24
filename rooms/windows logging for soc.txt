@@ -1,7 +1,7 @@
 Windows Logging for SOC
 https://tryhackme.com/room/windowsloggingforsoc
 
-Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/Windows%20Logging%20for%20SOC
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Windows%20Logging%20for%20SOC
 Answers in the source's question order; room revisions may change numbering.
 
 Q1

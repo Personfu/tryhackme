@@ -1,0 +1,51 @@
+Prompt Engineering
+https://tryhackme.com/room/promptengineeringaisec
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Prompt%20Engineering
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+Tokens
+
+Q2
+Temperature
+
+Q3
+Top-p
+
+Q4
+Context window
+
+Q5
+Output Format
+
+Q6
+Constraints
+
+Q7
+Context
+
+Q8
+Instruction
+
+Q9
+System prompt
+
+Q10
+Instruction hierarchy
+
+Q11
+Chain-of-Thought
+
+Q12
+Zero-shot
+
+Q13
+Prompt templates
+
+Q14
+Let's think step by step
+
+Q15
+THM{Pr0mpt_3ng1neer}
+

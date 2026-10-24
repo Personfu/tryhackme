@@ -1,7 +1,7 @@
 Log Analysis with SIEM
 https://tryhackme.com/room/loganalysiswithsiem
 
-Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/Log%20Analysis%20with%20SIEM
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Log%20Analysis%20with%20SIEM
 Answers in the source's question order; room revisions may change numbering.
 
 Q1

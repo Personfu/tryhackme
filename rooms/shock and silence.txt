@@ -1,7 +1,7 @@
 Shock and Silence
 https://tryhackme.com/room/shockandsilence
 
-Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/Shock%20and%20Silence
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Shock%20and%20Silence
 Answers in the source's question order; room revisions may change numbering.
 
 Q1

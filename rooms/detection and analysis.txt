@@ -1,0 +1,51 @@
+Detection and Analysis
+https://tryhackme.com/room/detectionandanalysis
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Detection%20and%20Analysis
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+Detection
+
+Q2
+Analysis
+
+Q3
+Third-party notification
+
+Q4
+Ticketing systems
+
+Q5
+Indicator of Compromise
+
+Q6
+IOC Tracker
+
+Q7
+223.123.4.50
+
+Q8
+Amsterdam
+
+Q9
+2026-03-30 16:41:30
+
+Q10
+HR Policy Update — Immediate Action Required
+
+Q11
+nexus-verify.thm
+
+Q12
+2
+
+Q13
+k.patel@nexusfinancial.thm
+
+Q14
+Junk Filter Update
+
+Q15
+2
+

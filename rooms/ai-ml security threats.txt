@@ -1,7 +1,7 @@
-AI-ML Security Threats
+AI/ML Security Threats
 https://tryhackme.com/room/aimlsecuritythreats
 
-Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/AI-ML%20Security%20Threats
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/AI-ML%20Security%20Threats
 Answers in the source's question order; room revisions may change numbering.
 
 Q1

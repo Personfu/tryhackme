@@ -1,0 +1,48 @@
+The Hidden Gateway
+https://tryhackme.com/room/thehiddengateway3
+Source: https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey/blob/29ceea16dff8d3d728ab687af03ffe2db3e352f8/Medium%20%F0%9F%9A%A9%20-%20The%20Hidden%20Gateway.md
+
+Q: Flag 1
+A: FLAG{b3f6f539c4312a11c9e4e9c88c1d3d7e}
+
+Q: Flag 2
+A: FLAG{19a3b5e6d14acb9ed0e66d3c22ad86b3}
+
+Q: Flag 3
+A: FLAG{d8f2a19e9469b7c85c4d12389f65beeb}
+
+Q: Flag 4
+A: FLAG{9b91f372b5600f14b3a0e2b520a0a8b8}
+
+Q: Flag 5
+A: FLAG{56a8b3be0e927a99d85fc6ec4a12fb35}
+
+Q: Flag 6
+A: FLAG{91f66a5ea7b8a54e0e720a04ad6dbb8e}
+
+Q: Flag 7
+A: FLAG{9c1061fd4b34bba667fa11877474f19e}
+
+Q: Flag 8
+A: FLAG{501fe2f1a7c9f69b68f0f0cb4a3c9d3e}
+
+Q: Flag 9
+A: FLAG{eaeb216e0d60a3d9a64fb1c925f83a85}
+
+Q: Flag 10
+A: FLAG{b21c93b1e8c074d31f1ab9d65d7f95ad}
+
+Q: Flag 11
+A: FLAG{b8f60273a80bbd8b7c2a2433456fb5ff}
+
+Q: Flag 12
+A: FLAG{d1d1f383ae6c8e7d983586572145da21}
+
+Q: Flag 13
+A: FLAG{ec16fcb9d51c178f8cbf91fc1edaa445}
+
+Q: Flag 14
+A: FLAG{74b87a9ec54d5a22c029763730d32ac3}
+
+Q: Flag 15
+A: FLAG{3f64e31c87d7f6f3fa5d24b7e35ac4da}

@@ -1,0 +1,45 @@
+AppSec IR
+https://tryhackme.com/room/appsecir
+
+Task 2.1 — Application security event tool
+SIEM
+
+Task 2.2 — Phase for emergency WAF controls
+Containment
+
+Task 3.1 — Incident prevention approach
+Secure by Design
+
+Task 3.2 — OWASP observability category
+A09: Security Logging and Monitoring Failures
+
+Task 3.3 — Incident procedure document
+IR Playbooks
+
+Task 4.1 — Third-party vulnerability reporting program
+Bug Bounty
+
+Task 4.2 — Switch for disabling a feature without redeployment
+Feature Flag
+
+Task 4.3 — Traffic filtering control
+WAF
+
+Task 5.1 — Fast code fix
+hotfix
+
+Task 5.2 — Phase before reopening disabled routes
+Containment
+
+Task 5.3 — Lessons-learned review
+Post-mortem
+
+Task 5.4 — Final incident document
+Incident Report
+
+Task 6.1 — Practical investigation flag
+THM{AppS3c_Inc1d3NT_R3spONder}
+
+Source: https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey/blob/29ceea16dff8d3d728ab687af03ffe2db3e352f8/Medium%20%F0%9F%94%97%20-%20AppSec%20IR.md
+Source: https://medium.com/@sukumedic/tryhackme-appsec-ir-df83753fdff0
+Source: https://medium.com/@dhruva0/appsec-ir-writeup-tryhackme-52e908983ee9

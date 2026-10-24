@@ -1,7 +1,7 @@
 SOC Role in Blue Team
 https://tryhackme.com/room/socroleinblueteam
 
-Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/SOC%20Role%20in%20Blue%20Team
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/SOC%20Role%20in%20Blue%20Team
 Answers in the source's question order; room revisions may change numbering.
 
 Q1

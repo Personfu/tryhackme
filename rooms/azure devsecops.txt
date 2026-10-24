@@ -1,0 +1,40 @@
+Azure DevSecOps
+https://tryhackme.com/room/azuredevsecops
+
+Task 2.1 — Deployment model with greater direct control
+On-premises
+
+Task 2.2 — Model suited to fast scaling
+Cloud
+
+Task 3.1 — Azure DevOps source-code service
+Azure Repos
+
+Task 3.2 — Azure DevOps package-sharing service
+Azure Artefacts
+
+Task 3.3 — Azure DevOps build and release service
+Azure Pipelines
+
+Task 4.1 — Control that requires branch approvers
+branch policies
+
+Task 4.2 — Rule restricting who may approve changes
+branch protection rules
+
+Task 5.1 — Host plan for Azure App Service
+Azure App Service Plan
+
+Task 5.2 — Vulnerability prevented by App Service protection
+subdomain takeovers
+
+Task 6.1 — Azure CLI scripting language besides Bash
+PowerShell
+
+Task 6.2 — CLI option to enforce HTTPS
+--httpsOnly=true
+
+Task 6.3 — Reviewer-count requirement
+Branch Policy
+
+Source: https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey/blob/29ceea16dff8d3d728ab687af03ffe2db3e352f8/Medium%20%F0%9F%94%97%20-%20Azure%20DevSecOps.md

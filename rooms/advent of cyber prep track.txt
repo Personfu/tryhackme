@@ -1,0 +1,35 @@
+Advent of Cyber Prep Track
+https://tryhackme.com/room/adventofcyberpreptrack
+
+Task 5.1 — Password challenge flag
+THM{StrongStart}
+
+Task 6.1 — Suspicious executable flag
+THM{NotSoSweet}
+
+Task 7.1 — AttackBox welcome flag
+THM{Ready2Hack}
+
+Task 8.1 — Hidden Windows file flag
+THM{WhereIsMcSkidy}
+
+Task 9.1 — Linux home directory flag
+THM{TrustNoBunny}
+
+Task 10.1 — Breached email check flag
+THM{LeakedAndFound}
+
+Task 11.1 — Router password flag
+THM{NoMoreDefault}
+
+Task 12.1 — Connected app flag
+THM{AppTrapped}
+
+Task 13.1 — Sensitive chatbot message flag
+THM{DontFeedTheBot}
+
+Task 14.1 — Suspicious browser log flag
+THM{EastmasIsComing}
+
+Source: https://ritheachengkh.github.io/aoc2025/preptrack/
+Source: https://medium.com/@jsnut1001/advent-of-cyber-2025-prep-track-walkthrough-challenges-a0f03a144c78
