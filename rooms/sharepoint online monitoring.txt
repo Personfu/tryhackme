@@ -1,0 +1,47 @@
+SharePoint Online Monitoring
+https://tryhackme.com/room/sharepointonlinemonitoring
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/SharePoint%20Online%20Monitoring
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+OneDrive
+
+Q2
+site
+
+Q3
+22192ff2-272a-458c-8fac-7155db417700
+
+Q4
+Instructions.pdf
+
+Q5
+ahmad.khan@opendoor.thm
+
+Q6
+FileDownloaded
+
+Q7
+ApplicationDisplayName
+
+Q8
+OneNote
+
+Q9
+AddedToSecureLink
+
+Q10
+2026-02-03 12:49:44
+
+Q11
+li.wang@tryhatme.thm, susan.moore@deceptitech.thm, william.baker@probablyfine.thm
+
+Q12
+945ff3a1-e059-0000-b054-6e5ee5ff2a81
+
+Q13
+THM PoC B2E.pptx
+
+Q14
+Amsterdam

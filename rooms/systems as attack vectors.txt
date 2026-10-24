@@ -1,0 +1,35 @@
+Systems as Attack Vectors
+https://tryhackme.com/room/systemsattackvectors
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/Systems%20as%20Attack%20Vectors
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+Yea
+
+Q2
+Yea
+
+Q3
+Vulnerability
+
+Q4
+Supply Chain
+
+Q5
+CVE-2025-53770
+
+Q6
+Patch
+
+Q7
+Nay
+
+Q8
+Penetration Testing
+
+Q9
+THM{patch_or_reconfigure?}
+
+Q10
+THM{best_systems_defender!}

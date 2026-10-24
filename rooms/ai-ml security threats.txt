@@ -1,0 +1,50 @@
+AI-ML Security Threats
+https://tryhackme.com/room/aimlsecuritythreats
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/AI-ML%20Security%20Threats
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+semi-supervised learning
+
+Q2
+input layer
+
+Q3
+deep learning
+
+Q4
+synapses
+
+Q5
+large language models
+
+Q6
+pre-training
+
+Q7
+transformer
+
+Q8
+ATLAS
+
+Q9
+model theft
+
+Q10
+deepfake
+
+Q11
+phishing
+
+Q12
+108
+
+Q13
+threat hunting
+
+Q14
+model monitoring
+
+Q15
+thm{443/60/16384}

@@ -1,0 +1,35 @@
+Man-in-the-Middle Detection
+https://tryhackme.com/room/mitmdetection
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/Man-in-the-Middle%20Detection
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+10
+
+Q2
+02:fe:fe:fe:55:55
+
+Q3
+2
+
+Q4
+2
+
+Q5
+14
+
+Q6
+221
+
+Q7
+2
+
+Q8
+192.168.10.55
+
+Q9
+1
+
+Q10
+Secret123!

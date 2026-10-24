@@ -1,0 +1,26 @@
+The CIA Triad
+https://tryhackme.com/room/theciatriad
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/The%20CIA%20Triad
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+Integrity
+
+Q2
+Confidentiality
+
+Q3
+Availability
+
+Q4
+Integrity
+
+Q5
+CIA Triad
+
+Q6
+THM{CIA_IS_ABOUT_BALANCE}
+
+Q7
+Security mindset

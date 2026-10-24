@@ -1,0 +1,23 @@
+Python: Simple Demo
+https://tryhackme.com/room/pythonsimpledemo
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/Python%3A%20Simple%20Demo
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+print()
+
+Q2
+int()
+
+Q3
+elif
+
+Q4
+That number is out of range. Try again.
+
+Q5
+while
+
+Q6
+You got it in 3 tries!

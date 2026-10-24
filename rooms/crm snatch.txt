@@ -1,0 +1,23 @@
+CRM Snatch
+https://tryhackme.com/room/crmsnatch
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/CRM%20Snatch
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+matthew.collins
+
+Q2
+3455
+
+Q3
+167.172.41.141
+
+Q4
+Rclone
+
+Q5
+yWKgVA7Rv1iIoG-VWAr7NAFbwKHNiMZGNybJ4QybJHtiFg
+
+Q6
+lucas.rivera@deceptitech.thm

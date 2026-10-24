@@ -1,0 +1,47 @@
+Linux Threat Detection 2
+https://tryhackme.com/room/linuxthreatdetection2
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/Linux%20Threat%20Detection%202
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+Amazon
+
+Q2
+/var/lib/ultrasec/malscan
+
+Q3
+/home/itsupport/debug.sh
+
+Q4
+ps -eo pid,ppid,cmd,%mem,%cpu --sort=-%cpu
+
+Q5
+greg@tryhackme.thm
+
+Q6
+artifacts.elastic.co
+
+Q7
+/var/tmp/helper.sh
+
+Q8
+curl
+
+Q9
+45.9.148.125
+
+Q10
+last
+
+Q11
+ds_agent,falcon,sentinel
+
+Q12
+kernupd.tar.gz
+
+Q13
+nohup /tmp/.apt/kernupd/kernupd
+
+Q14
+10.10.12.1-10.10.12.10

@@ -1,0 +1,29 @@
+Humans as Attack Vectors
+https://tryhackme.com/room/humansattackvectors
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/Humans%20as%20Attack%20Vectors
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+Humans
+
+Q2
+Access
+
+Q3
+Social Engineering
+
+Q4
+Impersonation
+
+Q5
+Mitigation
+
+Q6
+Security Awareness Training
+
+Q7
+THM{anyone_else_at_risk?}
+
+Q8
+THM{human_protection_expert!}

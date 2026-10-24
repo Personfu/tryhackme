@@ -1,0 +1,38 @@
+Data Exfiltration Detection
+https://tryhackme.com/room/dataexfildetection
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/Data%20Exfiltration%20Detection
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+Network-based
+
+Q2
+tunnelcorp.net
+
+Q3
+315
+
+Q4
+192.168.1.103
+
+Q5
+5
+
+Q6
+customer_data.xlsx
+
+Q7
+192.168.1.105
+
+Q8
+THM{ftp_exfil_hidden_flag}
+
+Q9
+192.168.1.103
+
+Q10
+THM{http_raw_3xf1ltr4t10n_succ3ss}
+
+Q11
+THM{1cmp_3ch0_3xf1ltr4t10n_succ3ss}

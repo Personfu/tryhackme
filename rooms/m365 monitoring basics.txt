@@ -1,0 +1,56 @@
+M365 Monitoring Basics
+https://tryhackme.com/room/m365monitoringbasics
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/M365%20Monitoring%20Basics
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+Identity Provider
+
+Q2
+Device
+
+Q3
+MFA
+
+Q4
+Logs
+
+Q5
+allan.smith@finegalo.thm
+
+Q6
+2804:2488:7082:a4c0:fd97:b11b:9895:49c0
+
+Q7
+Belo Horizonte
+
+Q8
+2/11/26 6:16:53.000 PM
+
+Q9
+One Outlook Web
+
+Q10
+User started security info registration
+
+Q11
+Update user
+
+Q12
+Reset password (self-service)
+
+Q13
+Exchange
+
+Q14
+New-InboxRule
+
+Q15
+URGENT: Approval for new internal VPN Access
+
+Q16
+2/11/26 6:20:09.000 PM
+
+Q17
+\Deleted Items

@@ -1,0 +1,20 @@
+Dev Diaries
+https://tryhackme.com/room/devdiaries
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/Dev%20Diaries
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+uat-testing.marvenly.com
+
+Q2
+notvibecoder23
+
+Q3
+freelancedevbycoder23@gmail.com
+
+Q4
+The project was marked as abandoned due to a payment dispute
+
+Q5
+THM{g1t_h1st0ry_n3v3r_f0rg3ts}

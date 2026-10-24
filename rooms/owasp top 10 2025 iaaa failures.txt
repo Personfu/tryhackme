@@ -1,0 +1,26 @@
+OWASP Top 10 2025: IAAA Failures
+https://tryhackme.com/room/owasptopten2025one
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/OWASP%20Top%2010%202025%3A%20IAAA%20Failures
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+Identity, Authentication, Authorisation, Accountability
+
+Q2
+Horizontal
+
+Q3
+THM{Found.the.Millionare!}
+
+Q4
+THM{Account.confusion.FTW!}
+
+Q5
+203.0.113.45
+
+Q6
+admin
+
+Q7
+/supersecretadminstuff

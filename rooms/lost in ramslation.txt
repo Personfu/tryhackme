@@ -1,0 +1,23 @@
+Lost in RAMslation
+https://tryhackme.com/room/lostinramslation
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/Lost%20in%20RAMslation
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+C:\Windows\Tasks\MicrosoftUpdate.dll
+
+Q2
+2928
+
+Q3
+rundll32.exe C:\Windows\Tasks\MicrosoftUpdate.dll, RunMe
+
+Q4
+notepad.exe
+
+Q5
+fc4889ce48
+
+Q6
+172.16.2.9

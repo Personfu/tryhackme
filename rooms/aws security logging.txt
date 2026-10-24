@@ -1,0 +1,47 @@
+AWS Security Logging
+https://tryhackme.com/room/awssecuritylogging
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/AWS%20Security%20Logging
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+Control Plane
+
+Q2
+Amazon EC2
+
+Q3
+149.40.62.48
+
+Q4
+398985017225
+
+Q5
+prod-website-thm
+
+Q6
+ProtonVPN
+
+Q7
+/home/ubuntu/xmrig-6.24.0/xmrig, donate.v2.xmrig.com
+
+Q8
+arn:aws:iam::398985017225:root
+
+Q9
+22, 3389
+
+Q10
+168.84.119.124
+
+Q11
+14
+
+Q12
+backup.tar.gz
+
+Q13
+Managed Service
+
+Q14
+Falco

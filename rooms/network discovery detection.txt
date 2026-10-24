@@ -1,0 +1,35 @@
+Network Discovery Detection
+https://tryhackme.com/room/networkdiscoverydetection
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/Network%20Discovery%20Detection
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+Services
+
+Q2
+log-session-2.csv
+
+Q3
+2276
+
+Q4
+203.0.113.25
+
+Q5
+203.0.113.0/24
+
+Q6
+192.168.230.145
+
+Q7
+80, 445, 3389
+
+Q8
+192.168.230.127
+
+Q9
+TCP SYN Scan
+
+Q10
+N

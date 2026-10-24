@@ -1,0 +1,32 @@
+JavaScript: Simple Demo
+https://tryhackme.com/room/javascriptsimpledemo
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/JavaScript%3A%20Simple%20Demo
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+let
+
+Q2
+const
+
+Q3
+console.log()
+
+Q4
+parseInt()
+
+Q5
+Too high, try again.
+
+Q6
+That number is out of range. Try again.
+
+Q7
+while
+
+Q8
+tries
+
+Q9
+!==

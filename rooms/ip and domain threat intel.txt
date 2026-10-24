@@ -1,0 +1,56 @@
+IP and Domain Threat Intel
+https://tryhackme.com/room/ipanddomainthreatintel
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/IP%20and%20Domain%20Threat%20Intel
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+172.67.189.143,104.21.9.202
+
+Q2
+jaziel[.]ns[.]cloudflare[.]com, summer[.]ns[.]cloudflare[.]com
+
+Q3
+12/27/2010, 3:51:03 PM
+
+Q4
+administrative,technical
+
+Q5
+France
+
+Q6
+AS136258
+
+Q7
+FTP
+
+Q8
+6
+
+Q9
+5ea8e6046bdabaa8e23a1a012c01d1be5ccd42c66ef2577a59f3b3f0f056d12e
+
+Q10
+archive.scene.org
+
+Q11
+ff4c287c60ede1990442115bddd68201d25a735458f76786a938a0aa881d14ef.exe
+
+Q12
+Ace Data Centers, Inc
+
+Q13
+ARIN
+
+Q14
+AS62904
+
+Q15
+4
+
+Q16
+ns-298.awsdns-37.com
+
+Q17
+30/10/2022

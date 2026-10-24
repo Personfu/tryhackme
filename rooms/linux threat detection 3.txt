@@ -1,0 +1,41 @@
+Linux Threat Detection 3
+https://tryhackme.com/room/linuxthreatdetection3
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/Linux%20Threat%20Detection%203
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+svctrypingme
+
+Q2
+THM{revshells_practitioner!}
+
+Q3
+10.14.105.255
+
+Q4
+grep -iR pass .
+
+Q5
+su root
+
+Q6
+nGql1pQkGa
+
+Q7
+THM{hidden_penguin!}
+
+Q8
+THM{ressurect_on_reboot!}
+
+Q9
+koichi
+
+Q10
+/root/.ssh/authorized_keys
+
+Q11
+Yea
+
+Q12
+Yea

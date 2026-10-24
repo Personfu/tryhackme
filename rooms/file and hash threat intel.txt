@@ -1,0 +1,59 @@
+File and Hash Threat Intel
+https://tryhackme.com/room/fileandhashthreatintel
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/File%20and%20Hash%20Threat%20Intel
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+payroll.pdf, Double extensions
+
+Q2
+2672b6688d7b32a90f9153d2ff607d6801e6cbde61f509ed36d0450745998d58
+
+Q3
+trojan.graftor/flystudio
+
+Q4
+2025-05-15 12:03:49
+
+Q5
+CyberFortress
+
+Q6
+DLL Side-Loading
+
+Q7
+BlackMoon, Discovery, windows-server-utility
+
+Q8
+regsvr32 %WINDIR%\Media\ActiveX.ocx /s
+
+Q9
+werfault.exe
+
+Q10
+svchost.dll
+
+Q11
+hxxp://121.182.174.27:3000/server.exe
+
+Q12
+454
+
+Q13
+43b0ac119ff957bb209d86ec206ea1ec3c51dd87bebf7b4a649c7e6c7f3756e7
+
+Q14
+akira, filecryptor
+
+Q15
+2024-10-30 17:17:24 UTC
+
+Q16
+akira_readme.txt
+
+Q17
+Get-WmiObject Win32_Shadowcopy | Remove-WmiObject
+
+Q18
+T1490

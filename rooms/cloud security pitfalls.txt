@@ -1,0 +1,35 @@
+Cloud Security Pitfalls
+https://tryhackme.com/room/cloudsecuritypitfalls
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/Cloud%20Security%20Pitfalls
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+IaaS
+
+Q2
+SaaS
+
+Q3
+Yea
+
+Q4
+Nay
+
+Q5
+Nay
+
+Q6
+Paid logs
+
+Q7
+Workloads
+
+Q8
+CWPP
+
+Q9
+THM{flag_as_a_service!}
+
+Q10
+THM{ready_for_cloud_migration!}

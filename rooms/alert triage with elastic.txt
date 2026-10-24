@@ -1,0 +1,47 @@
+Alert Triage With Elastic
+https://tryhackme.com/room/alerttriagewithelastic
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/Alert%20Triage%20With%20Elastic
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+1467
+
+Q2
+203.0.113.55
+
+Q3
+3
+
+Q4
+python-requests/2.25.1
+
+Q5
+20
+
+Q6
+hostname
+
+Q7
+17166
+
+Q8
+964
+
+Q9
+4720
+
+Q10
+svc_backup
+
+Q11
+net localgroup "Remote Desktop Users" svc_backup /add
+
+Q12
+17254
+
+Q13
+net group "Domain Admins" /domain
+
+Q14
+finance_it_archive.rar

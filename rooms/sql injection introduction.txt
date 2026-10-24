@@ -1,0 +1,50 @@
+SQL Injection Introduction
+https://tryhackme.com/room/sqlinjectionintroduction
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/main/SQL%20Injection%20Introduction
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+UNION
+
+Q2
+information_schema
+
+Q3
+'
+
+Q4
+In-Band
+
+Q5
+Error-Based
+
+Q6
+database()
+
+Q7
+1=1
+
+Q8
+SLEEP
+
+Q9
+DNS
+
+Q10
+xp_dirtree
+
+Q11
+Prepared Statements
+
+Q12
+THM{SQL_INJECTION_3840}
+
+Q13
+THM{SQL_INJECTION_9581}
+
+Q14
+THM{SQL_INJECTION_1093}
+
+Q15
+THM{SQL_INJECTION_MASTER}
