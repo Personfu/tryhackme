@@ -1,0 +1,21 @@
+Cache Me Outside
+https://tryhackme.com/room/cachemeoutside
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Cache%20Me%20Outside
+Room link evidence: https://medium.com/@happygamer289/list/a414e587817a
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+Jim Lee
+
+Q2
+jimleepro1@gmail.com
+
+Q3
++40 743 321 239
+
+Q4
+Timișoara
+
+Q5
+Piața Gheorghe Domășneanu

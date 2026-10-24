@@ -1,0 +1,49 @@
+MS Sentinel: Deploy
+https://tryhackme.com/room/sentineldeploy
+
+Q1.1 — Sentinel classification
+service
+
+Q1.2 — cross-region logging expense
+Bandwidth costs
+
+Q2.1 — workspace's storage role
+centralized repository
+
+Q2.2 — workspace after Sentinel enablement
+Microsoft Sentinel workspace
+
+Q3.1 — role needed to enable Sentinel
+Microsoft Sentinel Contributor
+
+Q3.2 — workspace prerequisite
+yea
+
+Q3.3 — setting governing data location
+Region
+
+Q5.1 — whether every workspace runs Sentinel
+Nay
+
+Q5.2 — resource created before onboarding
+Log analytics workspace
+
+Q6.1 — incident responder's role
+Microsoft Sentinel Responder
+
+Q6.2 — Content Hub engineer's role
+Microsoft Sentinel Contributor
+
+Q6.3 — read-only executive role
+Microsoft Sentinel Reader
+
+Q7.1 — settings group count
+2
+
+Q7.2 — retention under workspace settings
+Yea
+
+Q7.3 — retention settings subcategory
+Usage and estimated costs
+
+Source: https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey/blob/29ceea16dff8d3d728ab687af03ffe2db3e352f8/Defending%20Azure/Microsoft%20Sentinel/Easy%20%F0%9F%94%97%20-%20MS%20Sentinel%3A%20Deploy.md

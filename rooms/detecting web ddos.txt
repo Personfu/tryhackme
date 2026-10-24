@@ -1,0 +1,50 @@
+Detecting Web DDoS
+https://tryhackme.com/room/detectingwebddos
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Detecting%20Web%20DDoS
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+Denial-of-Service
+
+Q2
+Botnet
+
+Q3
+Reputational Damage
+
+Q4
+Hacktivism
+
+Q5
+203.12.23.195
+
+Q6
+/login
+
+Q7
+503
+
+Q8
+/search
+
+Q9
+203.0.113.7
+
+Q10
+60
+
+Q11
+Java/1.8.0_181
+
+Q12
+207
+
+Q13
+10.10.0.27
+
+Q14
+CAPTCHA
+
+Q15
+Load-balancing

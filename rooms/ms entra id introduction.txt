@@ -1,0 +1,19 @@
+MS Entra ID: Introduction
+https://tryhackme.com/room/entraidintroduction
+
+Q6.1 — new group's type
+security
+
+Q6.2 — error on deleting final owner
+The group must have at least one owner.
+
+Q6.3 — User Administrator assignment attempt
+Nay
+
+Q6.4 — password reset output
+temporary password
+
+Q6.5 — User Administrator access to sign-in logs
+Nay
+
+Source: https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey/blob/29ceea16dff8d3d728ab687af03ffe2db3e352f8/Defending%20Azure/Microsoft%20Entra%20ID/1%20%20.%20%20Easy%20%F0%9F%94%97%20-%20MS%20Entra%20ID%3A%20Introduction.md

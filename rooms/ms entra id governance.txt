@@ -1,0 +1,43 @@
+MS Entra ID: Governance
+https://tryhackme.com/room/entraidgovernance
+
+Q1.1 — privileged access management service
+Privileged Identity Management
+
+Q1.2 — temporary privileged access
+just-in-time access
+
+Q1.3 — Security Administrator PIM assignments
+Nay
+
+Q2.1 — non-global privileged role assigner
+Privileged Role Administrator
+
+Q2.2 — eligible role activation
+activate
+
+Q3.1 — eligible versus active assignment
+Yea
+
+Q3.2 — assignment with start and end times
+time-bound
+
+Q4.1 — HR role activation justification
+reason
+
+Q4.2 — recent activation tab
+active assignments
+
+Q5.1 — per-role setting customization
+Yea
+
+Q9.1 — pending approval location
+Approve Requests
+
+Q10.1 — audit history duration
+30
+
+Q10.2 — sensitive audit action
+Update role setting in PIM
+
+Source: https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey/blob/29ceea16dff8d3d728ab687af03ffe2db3e352f8/Defending%20Azure/Microsoft%20Entra%20ID/8%20.%20Easy%20%F0%9F%94%97%20-%20MS%20Entra%20ID%3A%20Governance.md

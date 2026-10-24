@@ -1,0 +1,17 @@
+Windows CLI Basics
+https://tryhackme.com/room/windowsclibasics
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Windows%20CLI%20Basics
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+C:\Users\Administrator\Documents\Notes\research_yn6\exports_imv\screenshots\notes_wi6
+
+Q2
+TASK-BRIEF-FOUND
+
+Q3
+thmlab
+
+Q4
+10.0.17763 N/A Build 17763

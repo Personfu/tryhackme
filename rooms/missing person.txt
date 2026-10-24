@@ -1,0 +1,29 @@
+Missing Person
+https://tryhackme.com/room/missingperson
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Missing%20Person
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+Pertamina Mandalika International Street Circuit
+
+Q2
+03-05/10/2025
+
+Q3
+Cantina Mexicana
+
+Q4
+19:55:30
+
+Q5
+Jl. Raya Kuta, Kuta, Kec. Pujut, Kabupaten Lombok Tengah, Nusa Tenggara Bar
+
+Q6
+Bong Leleh
+
+Q7
+Gua Sumur
+
+Q8
+085333137345

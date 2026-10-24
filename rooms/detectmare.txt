@@ -1,0 +1,36 @@
+DetectMare
+https://tryhackme.com/room/detectmare
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/DetectMare
+Room link evidence: https://www6.twstalker.com/DjalilAyed
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+Hypersonic_Test_Schedule_2025.docm
+
+Q2
+THM{OfFicE_LOL_bIN}
+
+Q3
+researchdeploy.exe
+
+Q4
+THM{sIgNeD_bInArY_PrOxY}
+
+Q5
+m.okafor
+
+Q6
+THM{DuMpInG_LsAsS}
+
+Q7
+03/11/2025 10:40:00.000 AM
+
+Q8
+THM{PaSs_ThE_HaSh}
+
+Q9
+D:\Backups\nightly
+
+Q10
+THM{ArChIvE_AnD_ExFiL}

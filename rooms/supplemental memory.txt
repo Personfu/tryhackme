@@ -1,0 +1,39 @@
+Supplemental Memory
+https://tryhackme.com/room/supplementalmemory
+Source: https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey/blob/29ceea16dff8d3d728ab687af03ffe2db3e352f8/Medium%20%F0%9F%94%97%20-%20Supplemental%20Memory.md
+
+Q: Task 3.1 — Lateral movement and discovery
+A: wmiprvse.exe
+
+Q: Task 3.2 — Lateral movement and discovery
+A: t1021.006
+
+Q: Task 3.3 — Lateral movement and discovery
+A: TeamsView.exe
+
+Q: Task 3.4 — Lateral movement and discovery
+A: S-1-5-21-3147497877-3647478928-1701467185-1008
+
+Q: Task 3.5 — Lateral movement and discovery
+A: Domain Users
+
+Q: Task 3.6 — Lateral movement and discovery
+A: ipconfig.exe,systeminfo.exe,whoami.exe
+
+Q: Task 3.7 — Lateral movement and discovery
+A: 34.244.169.133:1995
+
+Q: Task 4.1 — Privilege escalation and credential access
+A: C:\Windows\Temp\pan.exe
+
+Q: Task 4.2 — Privilege escalation and credential access
+A: Local System
+
+Q: Task 4.3 — Privilege escalation and credential access
+A: privilege::debug sekurlsa::logonpasswords
+
+Q: Task 4.4 — Privilege escalation and credential access
+A: Mimikatz
+
+Q: Task 4.5 — Privilege escalation and credential access
+A: T1036

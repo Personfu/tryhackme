@@ -1,0 +1,18 @@
+Defensive Security Intro
+https://tryhackme.com/room/defensivesecurityintroqW
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Defensive%20Security%20Intro%20%282%29
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+Detect and respond to attacks
+
+Q2
+32.122.195.63
+
+Q3
+https://fakebank.com/admin
+
+Q4
+THM{FAKEBANK-SECURED}
+

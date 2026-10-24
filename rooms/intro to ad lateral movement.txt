@@ -1,0 +1,45 @@
+Intro to AD Lateral Movement
+https://tryhackme.com/room/introductiontoadlateralmovement
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Intro%20to%20AD%20Lateral%20Movement
+Room link evidence: https://fr.linkedin.com/posts/anthony-robert-ar_cybersecurity-activedirectory-lateralmovement-activity-7477006628182118400-MY8x
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+Pass-the-Hash
+
+Q2
+Remote Management Users
+
+Q3
+7045
+
+Q4
+THM{ps3x3c_syst3m_sh3ll}
+
+Q5
+fa0af7f6a73316dd59f0be812dbf3c12
+
+Q6
+THM{w1nrm_r3m0t3_sh3ll}
+
+Q7
+--local-auth
+
+Q8
+THM{p4ss_th3_h4sh_ftw}
+
+Q9
+2508e1ce9cfcfe1011a74c34297b05ea
+
+Q10
+-sT
+
+Q11
+THM{d0m41n_c0mpr0m1s3d_v1a_p1v0t}
+
+Q12
+Windows LAPS
+
+Q13
+7045

@@ -1,0 +1,53 @@
+AI Forensics
+https://tryhackme.com/room/aiforensics
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/AI%20Forensics
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+Anomaly Detection
+
+Q2
+Precision
+
+Q3
+non-determinism
+
+Q4
+Convolutional Neural Network
+
+Q5
+Sentiment Analysis
+
+Q6
+Time-Sequenced
+
+Q7
+Dynamic Analysis
+
+Q8
+Daubert
+
+Q9
+Black Box
+
+Q10
+Facial Recognition
+
+Q11
+Federated Learning
+
+Q12
+03:01:02
+
+Q13
+Phishing
+
+Q14
+akeane@poseidonenergy.net
+
+Q15
+sudo nano /home/r.house/.ssh/authorized_keys
+
+Q16
+/dev/shm/.core_dump_2025.tgz.enc

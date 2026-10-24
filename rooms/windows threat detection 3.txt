@@ -1,0 +1,47 @@
+Windows Threat Detection 3
+https://tryhackme.com/room/windowsthreatdetection3
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Windows%20Threat%20Detection%203
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+URGENT!.zip
+
+Q2
+C:\Users\Administrator\AppData\Roaming\update.exe
+
+Q3
+route.m365officesync.workers.dev
+
+Q4
+6
+
+Q5
+support
+
+Q6
+Administrators
+
+Q7
+Data Protection Service
+
+Q8
+AmazonSync
+
+Q9
+THM{c2_is_on_schedule!}
+
+Q10
+C:\Windows\explorer.exe
+
+Q11
+Done doing bad stuff!
+
+Q12
+THM{persisting_in_basket!}
+
+Q13
+Ransomware
+
+Q14
+Initial Access

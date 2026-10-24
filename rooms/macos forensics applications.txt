@@ -1,0 +1,55 @@
+macOS Forensics: Applications
+https://tryhackme.com/room/macosforensicsapplications
+
+Q2.1 — Microsoft Office install time
+2025-04-26 06:41:43
+
+Q2.2 — Word installation package
+Microsoft_Word_Internal.pkg
+
+Q3.1 — update agent launch arguments
+"/Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app/Contents/MacOS/Microsoft Update Assistant.app/Contents/MacOS/Microsoft Update Assistant", "--launchByAgent"
+
+Q4.1 — application with full disk access
+com.apple.Terminal
+
+Q5.1 — machine user's email
+thmguy535@gmail.com
+
+Q5.2 — whether FaceTime call was answered
+N
+
+Q5.3 — animal in received image
+Dog
+
+Q5.4 — message read time
+2025-04-26 05:38:23
+
+Q6.1 — calendar invite date
+2025-04-27 11:00:00
+
+Q6.2 — invite sender time zone
+GMT+03:00
+
+Q6.3 — Jungle cruise start time
+2025-04-25 16:00:00
+
+Q6.4 — shared note title
+Aquickbrownfoxjumpedoverthelazydog
+
+Q6.5 — animal in other note attachment
+Giraffe
+
+Q6.6 — unfinished reminder due date
+2025-04-26 21:00:00
+
+Q6.7 — last Word document path
+/Users/umair-thm/Downloads/Report-final-updated.pdf
+
+Q7.1 — Safari TryHackMe room URL
+https://tryhackme.com/room/macosforensicsartefacts
+
+Q8.1 — new APOLLO pass field
+PAYMENT_TRANSACTION.PID
+
+Source: https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey/blob/29ceea16dff8d3d728ab687af03ffe2db3e352f8/Hard%20%F0%9F%94%97%20-%20macOS%20Forensics%3A%20Applications.md

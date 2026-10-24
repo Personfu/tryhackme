@@ -1,0 +1,54 @@
+KQL (Kusto): Advanced Queries
+https://tryhackme.com/room/kqlkustoadvancedqueries
+
+Q2.1 — left table preserving join
+Kind=leftouter
+
+Q2.2 — all matching row combinations
+Kind=inner
+
+Q3.1 — union of both tables
+Yea
+
+Q3.2 — ThreatStatus detail
+Threat Status is currently not supported in MDATP
+
+Q4.1 — operator for column order
+project-reorder
+
+Q4.2 — project-task follow-up (source wording conflicts)
+Yea
+
+Q5.1 — new free-space column
+FreeSpaceinGB
+
+Q5.2 — category assigned to event 4624
+logon
+
+Q6.1 — parsed source column
+EventData
+
+Q6.2 — number of projected columns
+6
+
+Q8.1 — saved-function menu
+Workspace functions
+
+Q9.1 — software inventory table
+ConfigurationData_CL
+
+Q9.2 — TeamViewer machine count
+13
+
+Q9.3 — critical JBOX00 update count
+6
+
+Q9.4 — distinct Linux machine count
+4
+
+Q9.5 — Chrome machine count
+2
+
+Note: The source labels Q4.2 with a repeated ThreatStatus question while giving the answer Yea; verify this item in the room.
+
+Source: https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey/blob/29ceea16dff8d3d728ab687af03ffe2db3e352f8/Defending%20Azure/KQL/Medium%20%F0%9F%94%97%20-%20KQL%20(Kusto)%3A%20Advanced%20Queries.md

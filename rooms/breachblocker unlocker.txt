@@ -1,0 +1,13 @@
+BreachBlocker Unlocker
+https://tryhackme.com/room/sq4-aoc2025-32loz4zepk
+
+Q: Source-code challenge flag?
+A: THM{eggsposed_source_code}
+
+Q: Streaming-service challenge flag?
+A: THM{fluffier_things_season_4}
+
+Q: Bank challenge flag?
+A: THM{neggative_balance}
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/BreachBlocker%20Unlocker

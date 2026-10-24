@@ -1,0 +1,13 @@
+The Great Disappearing Act
+https://tryhackme.com/room/sq1-aoc2025-fzpnrt2sau
+
+Q: First escape flag?
+A: THM{h0pp1ing_m4d}
+
+Q: Second escape flag?
+A: THM{Y0u_h4ve_b3en_j3stered_739138}
+
+Q: Third escape flag?
+A: THM{p0p_go3s_THe_W3as3l}
+
+Source: https://medium.com/@nayanjyoti16/tryhackme-the-great-disappearing-act-walkthrough-9236accda7ff

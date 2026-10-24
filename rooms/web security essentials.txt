@@ -1,0 +1,41 @@
+Web Security Essentials
+https://tryhackme.com/room/websecurityessentials
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Web%20Security%20Essentials
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+Yea
+
+Q2
+Web App Owner
+
+Q3
+Request
+
+Q4
+Apache
+
+Q5
+Host Machine
+
+Q6
+Mitigation
+
+Q7
+Patch Management
+
+Q8
+Host-Based
+
+Q9
+Signature-Based
+
+Q10
+THM{web_app_secured!}
+
+Q11
+THM{server_security_expert!}
+
+Q12
+THM{the_final_security_layer!}

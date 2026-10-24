@@ -1,0 +1,59 @@
+Penetration Testing Frameworks
+https://tryhackme.com/room/penetrationtestingframeworks
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Penetration%20Testing%20Frameworks
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+Thoroughness
+
+Q2
+Compliance
+
+Q3
+Risk Assessment Values
+
+Q4
+Inquiry
+
+Q5
+WSTG-INPV
+
+Q6
+3
+
+Q7
+Target vulnerability validation
+
+Q8
+1
+
+Q9
+Covering tracks
+
+Q10
+tactics
+
+Q11
+techniques
+
+Q12
+T1190
+
+Q13
+PCI DSS Penetration Testing Guidelines
+
+Q14
+OWASP Mobile Application Security Testing Guide
+
+Q15
+CSA Cloud Control Matrix
+
+Q16
+NIST SP 800-115
+
+Q17
+WSTG,MASTG,PCI DSS
+
+Q18
+CBEST

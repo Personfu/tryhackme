@@ -1,0 +1,41 @@
+Phishing Basics
+https://tryhackme.com/room/phishingbasics
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Phishing%20Basics
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+sms
+
+Q2
+Whaling
+
+Q3
+Urgency
+
+Q4
+Authority
+
+Q5
+Curiosity
+
+Q6
+Fear
+
+Q7
+Typosquatting
+
+Q8
+DKIM, DMARC, SPF
+
+Q9
+High risk
+
+Q10
+Attachment Detonation Rate
+
+Q11
+Focused security awareness training
+
+Q12
+THM{you_just_got_phished!}

@@ -1,0 +1,50 @@
+Introduction to EDR
+https://tryhackme.com/room/introductiontoedrs
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Introduction%20to%20EDR
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+Visibility
+
+Q2
+cmd.exe
+
+Q3
+immigration check
+
+Q4
+svchost.exe
+
+Q5
+Antivirus
+
+Q6
+Agent
+
+Q7
+sensor
+
+Q8
+Network Connections
+
+Q9
+registry
+
+Q10
+IOC Matching
+
+Q11
+CURL.exe
+
+Q12
+C:\Users\Public\install.exe
+
+Q13
+C:\Users\haris.khan\AppData\Local\Temp\syncsvc.exe
+
+Q14
+https://files-wetransfer.com/upload/session/ab12cd34ef56/dump_2025.dmp
+
+Q15
+Known internal IT utility tool

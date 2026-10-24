@@ -1,0 +1,26 @@
+Living Off the Land Attacks
+https://tryhackme.com/room/livingoffthelandattacks
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Living%20Off%20the%20Land%20Attacks
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+GTFOBins
+
+Q2
+Sysinternals
+
+Q3
+T1546.003
+
+Q4
+SMB
+
+Q5
+IEX
+
+Q6
+create
+
+Q7
+THM{LOL-but-not-that-lol-you-finishit}

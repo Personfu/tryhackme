@@ -1,0 +1,24 @@
+Have a Break
+https://tryhackme.com/room/haveabreak
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Have%20a%20Break
+Room link evidence: https://medium.com/@melissanyk/tryhackmewriteup-have-a-break-6c973e99da1b
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+Mullvad
+
+Q2
+Kroměřížská 1281, 768 24 Hulín, Czechia
+
+Q3
+22:14:09
+
+Q4
+BR-0312
+
+Q5
+BR-0291
+
+Q6
+Radovan Blšťák

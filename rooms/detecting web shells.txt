@@ -1,0 +1,47 @@
+Detecting Web Shells
+https://tryhackme.com/room/detectingwebshell
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Detecting%20Web%20Shells
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+T1505.003
+
+Q2
+.aspx
+
+Q3
+www-data
+
+Q4
+THM{W3b_Sh3ll_Usag3}
+
+Q5
+query strings
+
+Q6
+creat
+
+Q7
+find /var/www/ -type f -name "*.php"
+
+Q8
+http.request.method == "PUT"
+
+Q9
+203.0.113.66
+
+Q10
+/wordpress
+
+Q11
+upload_form.php
+
+Q12
+whoami
+
+Q13
+linpeas.sh
+
+Q14
+THM{W3b_Sh3ll_Int3rnals}

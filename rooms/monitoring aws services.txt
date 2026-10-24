@@ -1,0 +1,48 @@
+Monitoring AWS Services
+https://tryhackme.com/room/monitoringawsservices
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Monitoring%20AWS%20Services
+Room link evidence: https://medium.com/@Sle3pyHead/monitoring-aws-services-walkthrough-notes-tryhackme-ecb8aef3c585
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+2025-12-31 17:48:12
+
+Q2
+TempAccessDeniedDebug
+
+Q3
+212.8.250.220
+
+Q4
+53, repo.zip
+
+Q5
+website-access-sg, SSH
+
+Q6
+i-082579354380296e6
+
+Q7
+45.78.205.134
+
+Q8
+2025-12-31 21:58:34
+
+Q9
+db-thm-preprod-qa
+
+Q10
+dcb54877, 0a3b23c1
+
+Q11
+ListAttachedUserPolicies
+
+Q12
+lars.andersen
+
+Q13
+Denial of Wallet
+
+Q14
+Yea

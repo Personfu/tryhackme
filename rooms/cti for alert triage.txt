@@ -1,0 +1,33 @@
+CTI for Alert Triage
+https://tryhackme.com/room/ctiforalerttriage
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/CTI%20for%20Alert%20Triage
+Room link evidence: https://simontaplin.net/2026/07/05/answers-for-the-tryhackme-cti-for-alert-triage-room/
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+Context
+
+Q2
+Attribution
+
+Q3
+python-requests/2.31.0
+
+Q4
+Red Hat
+
+Q5
+Permanent blocking
+
+Q6
+Your logs
+
+Q7
+Yea
+
+Q8
+Confidence level
+
+Q9
+THM{cti_is_more_than_vt_lookup!}

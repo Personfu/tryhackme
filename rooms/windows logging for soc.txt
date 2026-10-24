@@ -1,0 +1,53 @@
+Windows Logging for SOC
+https://tryhackme.com/room/windowsloggingforsoc
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Windows%20Logging%20for%20SOC
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+Security / 4624
+
+Q2
+10.10.53.248
+
+Q3
+Administrator
+
+Q4
+0x183C36D
+
+Q5
+svc_sysrestore
+
+Q6
+Backup Operators, Remote Desktop Users
+
+Q7
+Yea
+
+Q8
+Google Chrome
+
+Q9
+C:\Users\sarah.miller\Downloads\ckjg.exe
+
+Q10
+http://gettsveriff.com/bgj3/ckjg.exe
+
+Q11
+C:\Users\sarah.miller\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\DeleteApp.url
+
+Q12
+193.46.217.4:7777
+
+Q13
+hkfasfsafg.click
+
+Q14
+Get-ComputerInfo
+
+Q15
+May 18, 2025
+
+Q16
+THM{it_was_me!}

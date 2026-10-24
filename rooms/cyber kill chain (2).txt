@@ -1,0 +1,57 @@
+Cyber Kill Chain
+https://tryhackme.com/room/cyberkillchain
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Cyber%20Kill%20Chain%20%282%29
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+7
+
+Q2
+Google Dorking
+
+Q3
+passive reconnaissance
+
+Q4
+Obfuscation
+
+Q5
+Macro
+
+Q6
+Malvertising
+
+Q7
+Smishing
+
+Q8
+Zero-day exploit
+
+Q9
+MFA
+
+Q10
+web shell
+
+Q11
+allowlisting
+
+Q12
+DNS tunnelling
+
+Q13
+HTTPS
+
+Q14
+Data Exfiltration
+
+Q15
+principle of least privilege
+
+Q16
+Ransomware
+
+Q17
+THM{CKC_NJHERDX327}
+

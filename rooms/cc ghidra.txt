@@ -1,0 +1,19 @@
+CC: Ghidra
+https://tryhackme.com/room/ccghidra
+
+Task 4.1 — User-defined function count, including main
+2
+
+Task 4.2 — First value assigned in main
+10
+
+Task 4.3 — First value assigned in fn1
+hello
+
+Task 4.4 — Output when the binary receives 1
+nice!
+
+Task 6.1 — Function that produces the success message
+goodjob
+
+Source: https://mrinalprakash4577.substack.com/p/cc-ghidra-tryhackme-walkthrough

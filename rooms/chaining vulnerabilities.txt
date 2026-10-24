@@ -1,0 +1,11 @@
+Chaining Vulnerabilities
+https://tryhackme.com/room/chainingvulnerabilitiesZp
+
+Task 4.1 — Admin panel flag
+THM{57648b8e-3382-47bb-abbc-f125e128f8ab}
+
+Task 4.2 — Weakness used to change the admin password
+Cross-Site Scripting
+
+Source: https://medium.com/@AT24/chaining-vulnerabilities-tryhackme-9e2ab6d5da5b
+Source: https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey/blob/29ceea16dff8d3d728ab687af03ffe2db3e352f8/Easy%20%F0%9F%94%97%20-%20Chaining%20Vulnerabilities.md

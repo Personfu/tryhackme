@@ -1,0 +1,35 @@
+The Silent Transfer
+https://tryhackme.com/room/operationsilenttransfer
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/The%20Silent%20Transfer
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+10.14.30.88
+
+Q2
+cdn-updates.microsoftservice.net
+
+Q3
+7f3b2e1a9c8d4f5e6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f90
+
+Q4
+51000
+
+Q5
+t13d190900_9dc949149365_97f8aa674fd9
+
+Q6
+23
+
+Q7
+10.14.0.12
+
+Q8
+backup.corpfiles-sync.com
+
+Q9
+a3f8e2c1d4b7a9e0f2c3d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6
+
+Q10
+whoami

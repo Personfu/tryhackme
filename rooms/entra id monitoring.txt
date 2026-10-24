@@ -1,0 +1,56 @@
+Entra ID Monitoring
+https://tryhackme.com/room/entraidmonitoring
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Entra%20ID%20Monitoring
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+94.20.222.248
+
+Q2
+38.165.231.218
+
+Q3
+amanda.costa@finegalo.thm
+
+Q4
+allan.senna@finegalo.thm
+
+Q5
+2026-03-03 13:51
+
+Q6
+anonymizedIPAddress
+
+Q7
+Block Suspicious Countries
+
+Q8
+94.20.222.251
+
+Q9
+igor.bicalho@finegalo.thm
+
+Q10
+500121
+
+Q11
+DK
+
+Q12
+2026-03-04 13:26
+
+Q13
+rafael.maciel@finegalo.thm
+
+Q14
+Global Administrator
+
+Q15
+2026-03-04 13:36
+
+Q16
+Mail.Read.All
+
+Q17
+Consent to application

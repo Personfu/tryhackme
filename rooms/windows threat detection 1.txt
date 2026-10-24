@@ -1,0 +1,50 @@
+Windows Threat Detection 1
+https://tryhackme.com/room/windowsthreatdetection1
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Windows%20Threat%20Detection%201
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+T1190
+
+Q2
+Phishing
+
+Q3
+Administrator
+
+Q4
+203.205.34.107
+
+Q5
+DESKTOP-QNBC4UU
+
+Q6
+THM{misleading_extension}
+
+Q7
+http://wp16.hqywlqpa.thm:8000/cgi-bin/f
+
+Q8
+best-cat.jpg.exe
+
+Q9
+C:\Users\Administrator\Downloads\top-cats.zip
+
+Q10
+C:\Users\Administrator\Pictures
+
+Q11
+5484
+
+Q12
+rjj.store
+
+Q13
+E:\Open Sandisk 4GB USB.exe
+
+Q14
+C:\Users\Public\Documents\winupdate.exe
+
+Q15
+F:

@@ -1,0 +1,44 @@
+Wireless Security
+https://tryhackme.com/room/wirelesssecurity
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Wireless%20Security
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+Association Process
+
+Q2
+Interference
+
+Q3
+Evil Twin
+
+Q4
+WPS
+
+Q5
+WPA3
+
+Q6
+Pairing
+
+Q7
+2.4 GHz
+
+Q8
+Bluesnarfing
+
+Q9
+Cloning
+
+Q10
+Deactivated
+
+Q11
+Zigbee
+
+Q12
+S0
+
+Q13
+THM{w1r3l3ss_thr34ts_1d3nt1f13d}

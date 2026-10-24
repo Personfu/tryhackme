@@ -1,0 +1,17 @@
+Senior Security Analyst Intro
+https://tryhackme.com/room/seniorsecanalystintro
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Senior%20Security%20Analyst%20Intro
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+Both
+
+Q2
+Yea
+
+Q3
+Attacker Mindset
+
+Q4
+THM{much_more_than_alert_triage}

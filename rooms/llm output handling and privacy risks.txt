@@ -1,0 +1,11 @@
+LLM Output Handling and Privacy Risks
+https://tryhackme.com/room/outputhandlingandprivacyrisks
+
+Q3.1 — trusting generated output without checks
+Improper Output Handling
+
+Q5.1 — contents of flag.txt
+THM{LLM_c0mmand_3xecution_1s_r34l}
+
+Source: https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey/blob/29ceea16dff8d3d728ab687af03ffe2db3e352f8/Easy%20%F0%9F%94%97%20-%20LLM%20Output%20Handling%20and%20Privacy%20Risks.md
+Source: https://tryhackmyoffsecbox.github.io/TryHackMe-CN/en/docs/Modules/Attacking%20LLMs/outputhandlingandprivacyrisks/

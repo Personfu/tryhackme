@@ -1,0 +1,33 @@
+CSRF Introduction
+https://tryhackme.com/room/csrfintroduction
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/CSRF%20Introduction
+Room link evidence: https://medium.com/@Sle3pyHead/csrf-introduction-walkthrough-notes-tryhackme-ac684e49bf95
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+Trust
+
+Q2
+Cookies
+
+Q3
+State-changing
+
+Q4
+POST
+
+Q5
+CSRF tokens
+
+Q6
+THM{Got_The_Evil_Email001}
+
+Q7
+THM{My_Special_Email007}
+
+Q8
+THM{Weak_CSRF_Role_001}
+
+Q9
+base64

@@ -1,0 +1,13 @@
+Plant Photographer
+https://tryhackme.com/room/plantphotographer
+
+Q: Storage-service API key?
+A: THM{Hello_Im_just_an_API_key}
+
+Q: Flag in the local-only admin page?
+A: THM{c4n_i_haz_flagz_plz?}
+
+Q: Flag in the server web directory?
+A: THM{SSRF2RCE_2_1337_4_M3}
+
+Source: https://github.com/mrblue223/TryHackMe/blob/64cdb27aa97e1ab22754fb676ae3348baa459b76/PlantPhotographer/writeup.md

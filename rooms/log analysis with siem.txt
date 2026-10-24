@@ -1,0 +1,56 @@
+Log Analysis with SIEM
+https://tryhackme.com/room/loganalysiswithsiem
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Log%20Analysis%20with%20SIEM
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+Correlation
+
+Q2
+Centralisation
+
+Q3
+Normalisation
+
+Q4
+Host-Based
+
+Q5
+10.10.114.80
+
+Q6
+SharePoInt.exe
+
+Q7
+770D14FFA142F09730B415506249E7D1
+
+Q8
+Office365 Install
+
+Q9
+2025-08-12 09:52:57
+
+Q10
+jack-brown
+
+Q11
+10.14.94.82
+
+Q12
+4
+
+Q13
+7654
+
+Q14
+/wp-login.php
+
+Q15
+10.10.243.134
+
+Q16
+Brute Force
+
+Q17
+WPScan

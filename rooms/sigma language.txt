@@ -1,0 +1,44 @@
+Sigma Language
+https://tryhackme.com/room/sigmalanguage
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Sigma%20Language
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+uncoder.io
+
+Q2
+sigma-cli
+
+Q3
+Emotet
+
+Q4
+filter_optional_remote_signed
+
+Q5
+OriginalFileName
+
+Q6
+process_creation
+
+Q7
+sigma check
+
+Q8
+Processes.process
+
+Q9
+FolderPath
+
+Q10
+process.command_line
+
+Q11
+THM{P0W3R_SH3LL_CR4DL3}
+
+Q12
+THM{CR3D_DUMP_4TTCK}
+
+Q13
+THM{R3N4M3D_P53X3C}

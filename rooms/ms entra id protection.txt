@@ -1,0 +1,49 @@
+MS Entra ID: Protection
+https://tryhackme.com/room/entraidprotection
+
+Q1.1 — identity protection risk category
+identity-based
+
+Q1.2 — user with a flagged sign-in
+risky
+
+Q1.3 — sign-in compromise likelihood
+risk level
+
+Q1.4 — remediation after password reset
+automatic
+
+Q2.1 — suspicious account activities
+risk detections
+
+Q2.2 — user risk level count
+3
+
+Q2.3 — relative sign-in detection count
+Yea
+
+Q2.4 — denied MFA notification detection
+User reported suspicious activity
+
+Q3.1 — risk detection groupings
+Yea
+
+Q3.2 — blocking from risky user details
+Yea
+
+Q4.1 — risky user access recovery
+password change
+
+Q4.2 — risky sign-in recovery requirement
+Multifactor authentication
+
+Q4.3 — policy support for both risk types
+Yea
+
+Q5.1 — report for at-risk users
+Risky Users report
+
+Q5.2 — other investigation portal
+Microsoft 365 Defender for Identity
+
+Source: https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey/blob/29ceea16dff8d3d728ab687af03ffe2db3e352f8/Defending%20Azure/Microsoft%20Entra%20ID/7%20%20.%20%20Medium%20%F0%9F%94%97%20-%20MS%20Entra%20ID%3A%20Protection.md

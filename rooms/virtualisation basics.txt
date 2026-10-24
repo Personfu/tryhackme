@@ -1,0 +1,29 @@
+Virtualisation Basics
+https://tryhackme.com/room/virtualisationbasics
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Virtualisation%20Basics
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+physical server
+
+Q2
+hypervisor
+
+Q3
+type 2
+
+Q4
+containers
+
+Q5
+Monitoring-SYS
+
+Q6
+DB-Cluster-01
+
+Q7
+8
+
+Q8
+HV-PROD-02

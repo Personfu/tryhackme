@@ -1,0 +1,36 @@
+Broken Authentication
+https://tryhackme.com/room/brokenauthentication
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Broken%20Authentication
+Room link evidence: https://classroom.anir0y.in/post/thm-room-brokenauthentication/
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+Credential Reuse
+
+Q2
+simon
+
+Q3
+steve
+
+Q4
+robert
+
+Q5
+steve/thunder
+
+Q6
+THM{AUTH_BYPASS_COMPLETE}
+
+Q7
+THM{COOKIE_TAMPERING}
+
+Q8
+463729
+
+Q9
+THM{BASE64_ENCODING}
+
+Q10
+eyJpZCI6MSwiYWRtaW4iOnRydWV9

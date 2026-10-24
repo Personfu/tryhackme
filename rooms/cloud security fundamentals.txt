@@ -1,0 +1,48 @@
+Cloud Security Fundamentals
+https://tryhackme.com/room/cloudsecurityfundamentals
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Cloud%20Security%20Fundamentals
+Room link evidence: https://classroom.anir0y.in/post/thm-room-cloudsecurityfundamentals/
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+IaaS
+
+Q2
+Provider
+
+Q3
+Effect
+
+Q4
+Role
+
+Q5
+Public
+
+Q6
+Backups
+
+Q7
+0.0.0.0/0
+
+Q8
+Lateral movement
+
+Q9
+169.254.169.254
+
+Q10
+1
+
+Q11
+8080
+
+Q12
+dev-notes.txt
+
+Q13
+storage:*
+
+Q14
+THM{sh4r3d_r3sp0ns1b1l1ty_br0k3n}

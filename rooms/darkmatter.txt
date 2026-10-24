@@ -1,0 +1,7 @@
+DarkMatter
+https://tryhackme.com/room/hfb1darkmatter
+
+Q: Recovered cryptography flag?
+A: THM{d0nt_l34k_y0ur_w34k_m0dulu5}
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/DarkMatter

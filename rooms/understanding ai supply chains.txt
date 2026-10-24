@@ -1,0 +1,44 @@
+Understanding AI Supply Chains
+https://tryhackme.com/room/understanding-ai-supplychains
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Understanding%20AI%20Supply%20Chains
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+Build Process
+
+Q2
+Transitive Dependency
+
+Q3
+datasets, dependencies, frameworks, models
+
+Q4
+Serialised Objects
+
+Q5
+gguf
+
+Q6
+Model Layer
+
+Q7
+Serialisation-level
+
+Q8
+Data Layer
+
+Q9
+Dependency Layer
+
+Q10
+Infrastructure Layer
+
+Q11
+trustworthy-ai-models
+
+Q12
+127
+
+Q13
+SafeTensors

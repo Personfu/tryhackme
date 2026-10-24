@@ -1,0 +1,38 @@
+Alert Triage With Splunk
+https://tryhackme.com/room/alerttriagewithsplunk
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Alert%20Triage%20With%20Splunk
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+500
+
+Q2
+5
+
+Q3
+root
+
+Q4
+system-utm
+
+Q5
+5816
+
+Q6
+cmd.exe
+
+Q7
+Administrators
+
+Q8
+DEV-QA-SERVER
+
+Q9
+2025-09-14 21:20:27
+
+Q10
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+
+Q11
+4

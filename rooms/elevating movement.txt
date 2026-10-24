@@ -1,0 +1,23 @@
+Elevating Movement
+https://tryhackme.com/room/elevatingmovement
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Elevating%20Movement
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+2025-06-30 16:33:18
+
+Q2
+C:\Users\emily.ross\Documents\Coreinfo64.exe
+
+Q3
+Meterpreter
+
+Q4
+pcd.exe /accepteula -ma lsass.exe text.txt
+
+Q5
+2025-06-30 19:47:14
+
+Q6
+eb3d2de2f21b31933fb4a4fd7a7d314d

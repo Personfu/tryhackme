@@ -1,0 +1,48 @@
+Detection Rules Development
+https://tryhackme.com/room/detectionrulesdevelopment
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Detection%20Rules%20Development
+Room link evidence: https://medium.com/@sudoroot523/tryhackme-detection-rules-development-fcaa4e6f295c
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+tryhatme.thm\sysadmin
+
+Q2
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngentask.exe
+
+Q3
+nltest.exe
+
+Q4
+22
+
+Q5
+Custom query
+
+Q6
+1
+
+Q7
+5.62.18.132, 50
+
+Q8
+10
+
+Q9
+source.ip
+
+Q10
+False Positive
+
+Q11
+Machine Learning
+
+Q12
+Contextual
+
+Q13
+0x557e9
+
+Q14
+Full Rework

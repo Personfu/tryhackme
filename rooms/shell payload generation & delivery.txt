@@ -1,0 +1,50 @@
+Shell Payload Generation & Delivery
+https://tryhackme.com/room/shellgenerationdelivery
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Shell%20Payload%20Generation%20%26%20Delivery
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+named pipe
+
+Q2
+System.Net.Sockets.TCPClient
+
+Q3
+/dev/tcp
+
+Q4
+linux/x64/shell_reverse_tcp
+
+Q5
+-i
+
+Q6
+meterpreter
+
+Q7
+use multi/handler
+
+Q8
+-j
+
+Q9
+sessions -i
+
+Q10
+shell_exec
+
+Q11
+POST
+
+Q12
+php-reverse-shell.php
+
+Q13
+-f elf
+
+Q14
+Sending stage
+
+Q15
+sysinfo

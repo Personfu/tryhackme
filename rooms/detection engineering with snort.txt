@@ -1,0 +1,45 @@
+Detection Engineering With Snort
+https://tryhackme.com/room/detectionengineeringwithsnort
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Detection%20Engineering%20With%20Snort
+Room link evidence: https://josepraveen.medium.com/detection-engineering-with-snort-tryhackme-detection-challenge-fce70d12d3f2
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+10.14.22.202
+
+Q2
+30
+
+Q3
+25
+
+Q4
+10.14.22.88
+
+Q5
+39887
+
+Q6
+52
+
+Q7
+20
+
+Q8
+15
+
+Q9
+3
+
+Q10
+170
+
+Q11
+10.14.22.99
+
+Q12
+25
+
+Q13
+12

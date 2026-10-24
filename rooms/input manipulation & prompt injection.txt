@@ -1,0 +1,22 @@
+Input Manipulation & Prompt Injection
+https://tryhackme.com/room/inputmanipulationpromptinjection
+
+Q2.1 — exposed hidden instructions
+Leakage
+
+Q3.1 — keyword-filter evasion
+Obfuscation
+
+Q4.1 — instructions carried through outside content
+Indirect
+
+Q4.2 — instructions supplied in user text
+Direct
+
+Q5.1 — injection challenge flag
+THM{pi_33f7a14a468eba7d3bc2d81a4445134c}
+
+Q5.2 — system-prompt flag
+33f7a14a468eba7d3bc2d81a4445134c
+
+Source: https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey/blob/29ceea16dff8d3d728ab687af03ffe2db3e352f8/Easy%20%F0%9F%94%97%20-%20Input%20Manipulation%20%26%20Prompt%20Injection.md

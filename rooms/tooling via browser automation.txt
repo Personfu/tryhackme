@@ -1,0 +1,22 @@
+Tooling via Browser Automation
+https://tryhackme.com/room/customtoolingviabrowserautomation
+Source: https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey/blob/29ceea16dff8d3d728ab687af03ffe2db3e352f8/Easy%20%F0%9F%94%97%20-%20Tooling%20via%20Browser%20Automation.md
+Source: https://medium.com/@Sle3pyHead/tooling-via-browser-automation-notes-tryhackme-f8934e1957eb
+
+Q: Task 2.1 — Automation tools
+A: pyppeteer
+
+Q: Task 2.2 — Automation tools
+A: Power Automate
+
+Q: Task 3.1 — Security control bypass
+A: THM{Csrf_bypass_using_automation}
+
+Q: Task 4.1 — CAPTCHA bypass
+A: THM{Captcha_bypass_using_automation}
+
+Q: Task 5.1 — Vulnerability scan
+A: 2
+
+Q: Task 5.2 — Vulnerability scan
+A: execute_automation()

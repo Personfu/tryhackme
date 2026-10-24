@@ -1,0 +1,12 @@
+Soupedecode 01
+https://tryhackme.com/room/soupedecode01
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Soupedecode%2001
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+28189316c25dd3c0ad56d44d000d62a8
+
+Q2
+27cb2be302c388d63d27c86bfdd5f56a
+

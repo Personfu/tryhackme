@@ -1,0 +1,10 @@
+The Case: Seven Minutes on the Seine
+https://tryhackme.com/room/thecasesevenminutesontheseine
+
+Q: Seine incident investigation flag?
+A: THM{n1c3_h31st_r3s34rch}
+
+Q: Louvre CCTV investigation flag?
+A: THM{cctv_4ud1ts_4r3_fun}
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/The%20Case%3A%20Seven%20Minutes%20on%20the%20Seine

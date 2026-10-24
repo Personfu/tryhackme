@@ -1,0 +1,26 @@
+Linux CLI Basics
+https://tryhackme.com/room/linuxclibasics
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Linux%20CLI%20Basics
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+command-line interface
+
+Q2
+/home/ubuntu/Documents/.research/archive/mission_brief.txt
+
+Q3
+MISSION-FOUND
+
+Q4
+ubuntu
+
+Q5
+6.14.0-1018-aws
+
+Q6
+58G
+
+Q7
+END-OF-DAY1

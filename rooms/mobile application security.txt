@@ -1,0 +1,51 @@
+Mobile Application Security
+https://tryhackme.com/room/mobilesecurity
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Mobile%20Application%20Security
+Room link evidence: https://www.sharonjebitok.com/mobile-application-security-tryhackme
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+Manifest
+
+Q2
+Sandbox
+
+Q3
+4
+
+Q4
+White-box
+
+Q5
+Mobsf
+
+Q6
+Improper Credential Usage
+
+Q7
+Objection
+
+Q8
+Runtime Instrumentation
+
+Q9
+Insecure Data Storage
+
+Q10
+Root and jailbreak detection
+
+Q11
+AIzaSyHX3mR9vKcT8nP2wY5dL0qJ7eZbFgVuN4o
+
+Q12
+Helix@2024!DBroot
+
+Q13
+MainActivity
+
+Q14
+NSAllowsArbitraryLoads
+
+Q15
+HelixiOS_Secret_9mK2P!wX

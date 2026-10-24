@@ -1,0 +1,47 @@
+WAF: Introduction
+https://tryhackme.com/room/wafintroduction
+Source: https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey/blob/29ceea16dff8d3d728ab687af03ffe2db3e352f8/Easy%20%F0%9F%94%97%20-%20WAF%3A%20Introduction.md
+Source: https://tryhackme.com/room/wafintroduction
+Coverage: Tasks 2.1–2.2 are lab confirmation prompts; their submitted values were not verified.
+
+Q: Task 1.1 — WAF basics
+A: Web Application Firewall
+
+Q: Task 3.1 — Firewall concepts
+A: ACK
+
+Q: Task 3.2 — Firewall concepts
+A: stateful
+
+Q: Task 4.1 — WAF inspection layer
+A: Layer 7
+
+Q: Task 4.2 — Mitigation without code edits
+A: virtual patching
+
+Q: Task 4.3 — WAF behavior
+A: 403 Forbidden
+
+Q: Task 5.1 — Detection methods
+A: signature-based
+
+Q: Task 5.2 — Detection methods
+A: zero-day
+
+Q: Task 6.1 — Rules
+A: libinjection
+
+Q: Task 6.2 — Rules
+A: urldecodeuni
+
+Q: Task 6.3 — Rules
+A: anomaly score
+
+Q: Task 6.4 — Rules
+A: /?parameter=../../../etc/passwd
+
+Q: Task 7.1 — Limitations
+A: encryption
+
+Q: Task 8.1 — Defense strategy
+A: Defence in Depth

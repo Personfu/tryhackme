@@ -1,0 +1,50 @@
+Sensitive Information Disclosure
+https://tryhackme.com/room/sensitiveinformationdisclosure
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Sensitive%20Information%20Disclosure
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+LLM02
+
+Q2
+Similarity
+
+Q3
+Top-k
+
+Q4
+EchoLeak
+
+Q5
+Cosine
+
+Q6
+Inversion
+
+Q7
+Top-k
+
+Q8
+Namespace
+
+Q9
+Per-tenant
+
+Q10
+Deterministic
+
+Q11
+Redaction
+
+Q12
+Retention
+
+Q13
+Broad Retrieval
+
+Q14
+Semantic Collision
+
+Q15
+Metadata Filtering

@@ -1,0 +1,47 @@
+Web Server Attacks - I
+https://tryhackme.com/room/webserverattacks
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Web%20Server%20Attacks%20-%20I
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+SimpleHTTP/0.6 Python/3.12.3
+
+Q2
+X-Powered-By
+
+Q3
+nginx
+
+Q4
+S3cur3DBPass!
+
+Q5
+THM{py_server_exposed}
+
+Q6
+mod_status
+
+Q7
+THM{apache_dir_listing}
+
+Q8
+development
+
+Q9
+THM{node_debug_exposed}
+
+Q10
+autoindex on
+
+Q11
+/nginx_status
+
+Q12
+THM{nginx_autoindex}
+
+Q13
+X-Frame-Options
+
+Q14
+Directory indexing found

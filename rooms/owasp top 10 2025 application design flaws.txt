@@ -1,0 +1,18 @@
+OWASP Top 10 2025: Application Design Flaws
+https://tryhackme.com/room/owasptopten2025two
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/OWASP%20Top%2010%202025%3A%20Application%20Design%20Flaws
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+THM{V3RB0S3_3RR0R_L34K}
+
+Q2
+THM{SUPPLY_CH41N_VULN3R4B1L1TY}
+
+Q3
+THM{CRYPTO_FAILURE_H4RDCOD3D_K3Y}
+
+Q4
+THM{1NS3CUR3_D35IGN_4SSUMPT10N}
+

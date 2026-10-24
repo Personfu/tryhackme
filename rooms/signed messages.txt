@@ -1,0 +1,7 @@
+Signed Messages
+https://tryhackme.com/room/lafb2026e8
+
+Q: Forged-signature flag?
+A: THM{PR3D1CT4BL3_S33D5_BR34K_H34RT5}
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Signed%20Messages

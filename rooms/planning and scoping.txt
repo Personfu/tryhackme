@@ -1,0 +1,63 @@
+Planning and Scoping
+https://tryhackme.com/room/planningandscoping
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Planning%20and%20Scoping
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+authorization
+
+Q2
+7
+
+Q3
+vulnerability assessment
+
+Q4
+Pre-engagement Interactions
+
+Q5
+unknown environment
+
+Q6
+internal
+
+Q7
+allowlist
+
+Q8
+overly narrow
+
+Q9
+NDA
+
+Q10
+Nay
+
+Q11
+escalation procedures
+
+Q12
+critical
+
+Q13
+AES-256
+
+Q14
+Requirement 11.4
+
+Q15
+data processor
+
+Q16
+known environment
+
+Q17
+NDA
+
+Q18
+internal penetration test
+
+Q19
+THM{PL4nning_scopiNG}
+

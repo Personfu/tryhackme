@@ -1,0 +1,42 @@
+Data Poisoning in RAG Systems
+https://tryhackme.com/room/datapoisoninginragsystems
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Data%20Poisoning%20in%20RAG%20Systems
+Room link evidence: https://simontaplin.net/2026/06/28/answers-for-the-tryhackme-data-poisoning-in-rag-systems-room/
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+Training Data
+
+Q2
+Corpus Flooding
+
+Q3
+Embedding-Level Poisoning
+
+Q4
+Semantic Mimicry
+
+Q5
+Ingestion Pipeline
+
+Q6
+Malicious Packages
+
+Q7
+Subtle
+
+Q8
+Data
+
+Q9
+Behavioural Monitoring
+
+Q10
+250 million
+
+Q11
+Reference Material
+
+Q12
+Data Poisoning

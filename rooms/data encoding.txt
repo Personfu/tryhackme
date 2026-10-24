@@ -1,0 +1,27 @@
+Data Encoding
+https://tryhackme.com/room/dataencoding
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Data%20Encoding
+Room link evidence: https://github.com/winterrdog/tryhackme-free-rooms/blob/main/README.md
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+64
+
+Q2
+#
+
+Q3
+BEL
+
+Q4
+U+0001F60C
+
+Q5
+U+30B7
+
+Q6
+☕
+
+Q7
+♘

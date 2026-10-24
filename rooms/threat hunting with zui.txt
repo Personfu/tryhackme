@@ -1,0 +1,35 @@
+Threat Hunting with Zui
+https://tryhackme.com/room/threathuntingwithzui
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Threat%20Hunting%20with%20Zui
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+1807
+
+Q2
+10.14.22.88
+
+Q3
+update.softpatch-cdn.com
+
+Q4
+5348854
+
+Q5
+/upload/data
+
+Q6
+backup_archive.zip
+
+Q7
+03237a4102d830519fa0dfb47c88c467
+
+Q8
+23
+
+Q9
+10.14.0.5
+
+Q10
+55

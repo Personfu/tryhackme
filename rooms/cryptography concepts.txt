@@ -1,0 +1,26 @@
+Cryptography Concepts
+https://tryhackme.com/room/cryptographyconcepts
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Cryptography%20Concepts
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+THM{CAESAR_CIPHER_MASTER_2026}
+
+Q2
+HDGJW
+
+Q3
+SIMPLE CAESAR CIPHER
+
+Q4
+private key
+
+Q5
+Yay
+
+Q6
+key distribution
+
+Q7
+symmetric

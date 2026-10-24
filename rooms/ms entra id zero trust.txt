@@ -1,0 +1,49 @@
+MS Entra ID: Zero Trust
+https://tryhackme.com/room/entraidzerotrust
+
+Q1.1 — breach-assuming security model
+zero trust
+
+Q1.2 — trust behind the firewall
+nay
+
+Q1.3 — replacement for implicit trust
+explicit verification
+
+Q2.1 — maturity stage using phishing-resistant MFA
+advanced
+
+Q2.2 — maturity stage using JIT/JEA
+optimal
+
+Q3.1 — MFA under security defaults
+yea
+
+Q3.2 — third authentication factor category
+Something you are
+
+Q4.1 — number of per-user MFA states
+3
+
+Q4.2 — MFA enabled before user registration
+enabled
+
+Q4.3 — Conditional Access Administrator's MFA scope
+yea
+
+Q7.1 — preferred MFA enablement method
+Conditional Access
+
+Q7.2 — other access enforcement action
+block access
+
+Q8.1 — least-privilege policy creator
+Yea
+
+Q9.1 — Azure Portal target application
+Microsoft Azure Management
+
+Q9.2 — password-change grant condition
+Yea
+
+Source: https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey/blob/29ceea16dff8d3d728ab687af03ffe2db3e352f8/Defending%20Azure/Microsoft%20Entra%20ID/5%20%C2%B7%20Medium%20%F0%9F%94%97%20-%20MS%20Entra%20ID%3A%20Zero%20Trust.md

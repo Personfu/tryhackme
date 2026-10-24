@@ -1,0 +1,26 @@
+SOC Role in Blue Team
+https://tryhackme.com/room/socroleinblueteam
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/SOC%20Role%20in%20Blue%20Team
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+CISO
+
+Q2
+Blue Team
+
+Q3
+Defensive
+
+Q4
+CIRT
+
+Q5
+MSSP
+
+Q6
+SOC L2 Analyst
+
+Q7
+THM{trysecureme_is_secured!}

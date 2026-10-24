@@ -1,0 +1,50 @@
+Detecting AD Lateral Movement
+https://tryhackme.com/room/detectingadlateralmovement
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Detecting%20AD%20Lateral%20Movement
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+nltest  /domain_trusts
+
+Q2
+Import-Module ActiveDirectory; Get-ADUser -Filter * -Properties MemberOf | Select-Object Name, SamAccountName
+
+Q3
+10
+
+Q4
+4648
+
+Q5
+luke.sullivan
+
+Q6
+michelle.smith
+
+Q7
+THM-SQL-SRV
+
+Q8
+C:\Tools\PsExec.exe  -accepteula \THM-SQL-SRV cmd /c "hostname & whoami & ipconfig"
+
+Q9
+10.5.30.120
+
+Q10
+10.5.50.12
+
+Q11
+%SystemRoot%\svcupdate.exe
+
+Q12
+ryan.chen
+
+Q13
+10.5.50.15
+
+Q14
+"cmd" /c "hostname & whoami & ipconfig"
+
+Q15
+THM-HR-WS

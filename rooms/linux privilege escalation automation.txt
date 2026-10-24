@@ -1,0 +1,24 @@
+Linux Privilege Escalation: Automation
+https://tryhackme.com/room/linprivautomation
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Linux%20Privilege%20Escalation%3A%20Automation
+Room link evidence: https://josepraveen.medium.com/linux-privilege-escalation-automation-tryhackme-practical-challenge-6c2fa5a14995
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+CVE-2025-32463
+
+Q2
+THM{splo1ts-r-public}
+
+Q3
+/var/local/syslog-backup.sh
+
+Q4
+THM{getting-root-with-pspy}
+
+Q5
+THM{Frank_Pwned_Privesc}
+
+Q6
+THM{Priv_Ch@l_D0ne}

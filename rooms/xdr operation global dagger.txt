@@ -1,0 +1,33 @@
+XDR: Operation Global Dagger
+https://tryhackme.com/room/xdroperationglobaldagger
+Source: https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey/blob/29ceea16dff8d3d728ab687af03ffe2db3e352f8/Medium%20%F0%9F%9A%A9%20-%20XDR%3A%20Operation%20Global%20Dagger.md
+
+Q: Task 2.1 — Defender XDR investigation
+A: HackTool:PowerShell/PowerSploit.F
+
+Q: Task 2.2 — Defender XDR investigation
+A: Success
+
+Q: Task 2.3 — Defender XDR investigation
+A: HackTool:Win32/DumpLsass.R
+
+Q: Task 2.4 — Defender XDR investigation
+A: Blocked
+
+Q: Task 2.5 — Defender XDR investigation
+A: powershell.exe
+
+Q: Task 2.6 — Defender XDR investigation
+A: UAC bypass was detected
+
+Q: Task 2.7 — Defender XDR investigation
+A: c:\windows\System32\#{payload}
+
+Q: Task 2.8 — Defender XDR investigation
+A: C:\Windows\System32\reg.exe
+
+Q: Task 2.9 — Defender XDR investigation
+A: Compromised account conducting hands-on-keyboard attack
+
+Q: Task 2.9 (second question) — execution command line
+A: "ie4uinit.exe" -UserConfig

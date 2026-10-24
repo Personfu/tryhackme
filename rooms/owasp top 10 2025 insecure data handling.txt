@@ -1,0 +1,13 @@
+OWASP Top 10 2025: Insecure Data Handling
+https://tryhackme.com/room/owasptopten2025three
+
+Q: Flag in the decrypted note?
+A: THM{WEAK_CRYPTO_FLAG}
+
+Q: Flag read through SSTI?
+A: THM{SSTI_FLAG_OBTAINED}
+
+Q: Flag obtained through unsafe deserialization?
+A: THM{INSECURE_DESERIALIZATION}
+
+Source: https://medium.com/@deeptisg0/owasp-top-10-2025-insecure-data-handling-tryhackme-answers-by-deepti-gupta-5f8d5e2ba8ae

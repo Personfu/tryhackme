@@ -1,0 +1,38 @@
+Vectara
+https://tryhackme.com/room/vectara
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Vectara
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+THM{0racl3_9_1s_c0ming}
+
+Q2
+OVERRIDE_9
+
+Q3
+THM{p01s0n3d_fr0m_th3_s0urc3}
+
+Q4
+XR-7-491
+
+Q5
+THM{gh0st_1n_th3_r3g1stry}
+
+Q6
+THM{m4n1f3st_unl0ck3d}
+
+Q7
+D
+
+Q8
+TryHaulMe Central Logistics Bureau
+
+Q9
+THM{GH0ST_FR31GHT}
+
+Q10
+THM{b84bc0f023bc0bc0fdbb85eae75b26c4}
+
+Q11
+THM{med1c4l_xss_ag3nt_w0rm}

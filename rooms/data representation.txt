@@ -1,0 +1,24 @@
+Data Representation
+https://tryhackme.com/room/datarepresentation
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Data%20Representation
+Room link evidence: https://github.com/winterrdog/tryhackme-free-rooms/blob/main/README.md
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+green
+
+Q2
+11101011 00000000 00110111
+
+Q3
+212 216 223
+
+Q4
+1111 1111
+
+Q5
+171
+
+Q6
+17

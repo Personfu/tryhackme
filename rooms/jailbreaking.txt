@@ -1,0 +1,48 @@
+Jailbreaking
+https://tryhackme.com/room/jailbreaking
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Jailbreaking
+Room link evidence: https://medium.com/@Sle3pyHead/jailbreaking-walkthrough-notes-tryhackme-6651cd83262f
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+Jailbreaking
+
+Q2
+The Model
+
+Q3
+RLHF
+
+Q4
+60
+
+Q5
+Alignment tax
+
+Q6
+Low-resource languages
+
+Q7
+Instruction sandwiching
+
+Q8
+The Grandma Exploit
+
+Q9
+84.3%
+
+Q10
+Consistency bias
+
+Q11
+Trigger phrases
+
+Q12
+Poisonous seeds
+
+Q13
+Do Anything Now
+
+Q14
+THM{ja1lbre3ker}

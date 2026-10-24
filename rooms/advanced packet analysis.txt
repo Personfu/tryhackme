@@ -1,0 +1,48 @@
+Advanced Packet Analysis
+https://tryhackme.com/room/advancedpacketanalysis
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Advanced%20Packet%20Analysis
+Room link evidence: https://medium.rebeauty-writing.com/?action=show&id=b66741eaadf1
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+87
+
+Q2
+23
+
+Q3
+/api/v2/check
+
+Q4
+whoami
+
+Q5
+S3cur3P@ssw0rd!
+
+Q6
+Compress-Archive -Path C:\Users\jsmith\Documents\* -DestinationPath C:\Temp\docs.zip
+
+Q7
+winservice-patch-4891.pdf
+
+Q8
+4ec66c72e7d80620891118cb32206771ac37a227b6e77a2549b046748d8c234b
+
+Q9
+d17a83cf82a3cf4e5b3891e8b0923d00b22181e3079624cec60ca105c0eaf369
+
+Q10
+Cobalt Strike
+
+Q11
+update.softpatch-cdn.com
+
+Q12
+t13d040400_98dd3bb0ed34_34f36fd09b12
+
+Q13
+exfil.fastsync-cdn.net
+
+Q14
+8

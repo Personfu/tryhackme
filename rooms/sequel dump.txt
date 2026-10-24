@@ -1,0 +1,7 @@
+Sequel Dump
+https://tryhackme.com/room/hfb1sequeldump
+
+Q: Database dump challenge flag?
+A: THM{r3tr13v1ng_th3_dump}
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Sequel%20Dump

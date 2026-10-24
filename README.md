@@ -10,7 +10,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/FLLC-TryHackMe-00FFFF?style=for-the-badge&labelColor=0D0D2B"/>
-<img src="https://img.shields.io/badge/Rooms-992-FF00FF?style=for-the-badge&labelColor=0D0D2B"/>
+<img src="https://img.shields.io/badge/Rooms-1231-FF00FF?style=for-the-badge&labelColor=0D0D2B"/>
 <img src="https://img.shields.io/badge/Cheatsheets-10-7B2FBE?style=for-the-badge&labelColor=0D0D2B"/>
 <img src="https://img.shields.io/badge/AI_Red_Team-2026-00FFFF?style=for-the-badge&labelColor=0D0D2B"/>
 </p>
@@ -45,7934 +45,1241 @@
 
 <img src="./picture.jpg" alt="TryHackMe" width="200" height="200">
 
-TryHackMe room solutions database — 992 rooms indexed.
+**1231 room files** are listed below. [Research links for 37 additional rooms](ROOM_RESEARCH.md) are tracked separately.
 
-# Rooms (992)
+New answer keys cite their public writeups. Room revisions may change answer order or validity.
+One older room file is empty. Its entry is marked accordingly.
 
-<table>
-<tr>
-	<th align=left>Room</th>
-	<th align=left>Link</th>
-	<th align=left>Solutions</th>
-</tr>
-<tr>
-<td align=left>0day
-</td>
-<td align=left><a href="https://tryhackme.com/room/0day
-" target="_blank">https://tryhackme.com/room/0day
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/0day.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/0day.txt</a></td>
-</tr>
-<tr>
-<td align=left>0x41haz
-</td>
-<td align=left><a href="https://tryhackme.com/room/0x41haz
-" target="_blank">https://tryhackme.com/room/0x41haz
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/0x41haz.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/0x41haz.txt</a></td>
-</tr>
-<tr>
-<td align=left>25 Days of Cyber Security
-</td>
-<td align=left><a href="https://tryhackme.com/room/learncyberin25days
-" target="_blank">https://tryhackme.com/room/learncyberin25days
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/25 days of cyber security.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/25 days of cyber security.txt</a></td>
-</tr>
-<tr>
-<td align=left>A Bucket of Phish
-</td>
-<td align=left><a href="https://tryhackme.com/room/hfb1abucketofphish
-" target="_blank">https://tryhackme.com/room/hfb1abucketofphish
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/a bucket of phish.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/a bucket of phish.txt</a></td>
-</tr>
-<tr>
-<td align=left>Abusing Windows Internals
-</td>
-<td align=left><a href="https://tryhackme.com/room/abusingwindowsinternals
-" target="_blank">https://tryhackme.com/room/abusingwindowsinternals
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/abusing windows internals.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/abusing windows internals.txt</a></td>
-</tr>
-<tr>
-<td align=left>Active Directory Basics
-</td>
-<td align=left><a href="https://tryhackme.com/room/winadbasics
-" target="_blank">https://tryhackme.com/room/winadbasics
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/active directory basics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/active directory basics.txt</a></td>
-</tr>
-<tr>
-<td align=left>Active Directory Hardening
-</td>
-<td align=left><a href="https://tryhackme.com/room/activedirectoryhardening
-" target="_blank">https://tryhackme.com/room/activedirectoryhardening
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/active directory hardening.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/active directory hardening.txt</a></td>
-</tr>
-<tr>
-<td align=left>Active Reconnaissance
-</td>
-<td align=left><a href="https://tryhackme.com/room/activerecon
-" target="_blank">https://tryhackme.com/room/activerecon
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/active reconnaissance.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/active reconnaissance.txt</a></td>
-</tr>
-<tr>
-<td align=left>AD: Authenticated Enumeration
-</td>
-<td align=left><a href="https://tryhackme.com/room/adauthenticatedenumeration
-" target="_blank">https://tryhackme.com/room/adauthenticatedenumeration
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ad authenticated enumeration.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ad authenticated enumeration.txt</a></td>
-</tr>
-<tr>
-<td align=left>AD: BadSuccessor
-</td>
-<td align=left><a href="https://tryhackme.com/room/adbadsuccessor
-" target="_blank">https://tryhackme.com/room/adbadsuccessor
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ad badsuccessor.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ad badsuccessor.txt</a></td>
-</tr>
-<tr>
-<td align=left>AD: Basic Enumeration
-</td>
-<td align=left><a href="https://tryhackme.com/room/adbasicenumeration
-" target="_blank">https://tryhackme.com/room/adbasicenumeration
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ad basic enumeration.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ad basic enumeration.txt</a></td>
-</tr>
-<tr>
-<td align=left>AD Certificate Templates
-</td>
-<td align=left><a href="https://tryhackme.com/room/adcertificatetemplates
-" target="_blank">https://tryhackme.com/room/adcertificatetemplates
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ad certificate templates.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ad certificate templates.txt</a></td>
-</tr>
-<tr>
-<td align=left>AD Tier Model
-</td>
-<td align=left><a href="https://tryhackme.com/room/adtiermodel
-" target="_blank">https://tryhackme.com/room/adtiermodel
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ad tier model.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ad tier model.txt</a></td>
-</tr>
-<tr>
-<td align=left>Advanced ELK Queries
-</td>
-<td align=left><a href="https://tryhackme.com/room/advancedelkqueries
-" target="_blank">https://tryhackme.com/room/advancedelkqueries
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/advanced elk queries.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/advanced elk queries.txt</a></td>
-</tr>
-<tr>
-<td align=left>Advanced SQL Injection
-</td>
-<td align=left><a href="https://tryhackme.com/room/advancedsqlinjection
-" target="_blank">https://tryhackme.com/room/advancedsqlinjection
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/advanced sql injection.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/advanced sql injection.txt</a></td>
-</tr>
-<tr>
-<td align=left>Advanced Static Analysis
-</td>
-<td align=left><a href="https://tryhackme.com/room/advancedstaticanalysis
-" target="_blank">https://tryhackme.com/room/advancedstaticanalysis
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/advanced static analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/advanced static analysis.txt</a></td>
-</tr>
-<tr>
-<td align=left>Advent of Cyber 1 [2019]
-</td>
-<td align=left><a href="https://tryhackme.com/room/25daysofchristmas
-" target="_blank">https://tryhackme.com/room/25daysofchristmas
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 1 [2019].txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 1 [2019].txt</a></td>
-</tr>
-<tr>
-<td align=left>Advent of Cyber 2 [2020]
-</td>
-<td align=left><a href="https://tryhackme.com/room/adventofcyber2
-" target="_blank">https://tryhackme.com/room/adventofcyber2
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 2 [2020].txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 2 [2020].txt</a></td>
-</tr>
-<tr>
-<td align=left>Advent of Cyber 2022
-</td>
-<td align=left><a href="https://tryhackme.com/room/adventofcyber4
-" target="_blank">https://tryhackme.com/room/adventofcyber4
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 2022.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 2022.txt</a></td>
-</tr>
-<tr>
-<td align=left>Advent of Cyber 2024
-</td>
-<td align=left><a href="https://tryhackme.com/room/adventofcyber2024
-" target="_blank">https://tryhackme.com/room/adventofcyber2024
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 2024.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 2024.txt</a></td>
-</tr>
-<tr>
-<td align=left>Advent of Cyber 2023
-</td>
-<td align=left><a href="https://tryhackme.com/room/adventofcyber2023
-" target="_blank">https://tryhackme.com/room/adventofcyber2023
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 2023.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 2023.txt</a></td>
-</tr>
-<tr>
-<td align=left>Advent of Cyber '23 Side Quest
-</td>
-<td align=left><a href="https://tryhackme.com/room/adventofcyber23sidequest
-" target="_blank">https://tryhackme.com/room/adventofcyber23sidequest
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 23 side quest.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 23 side quest.txt</a></td>
-</tr>
-<tr>
-<td align=left>Advent of Cyber '24 Side Quest
-</td>
-<td align=left><a href="https://tryhackme.com/room/adventofcyber24sidequest
-" target="_blank">https://tryhackme.com/room/adventofcyber24sidequest
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 24 side quest.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 24 side quest.txt</a></td>
-</tr>
-<tr>
-<td align=left>Advent of Cyber 3 (2021)
-</td>
-<td align=left><a href="https://tryhackme.com/room/adventofcyber3
-" target="_blank">https://tryhackme.com/room/adventofcyber3
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 3 (2021).txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/advent of cyber 3 (2021).txt</a></td>
-</tr>
-<tr>
-<td align=left>Adventure Time
-</td>
-<td align=left><a href="https://tryhackme.com/room/adventuretime
-" target="_blank">https://tryhackme.com/room/adventuretime
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/adventure time.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/adventure time.txt</a></td>
-</tr>
-<tr>
-<td align=left>Agent Sudo
-</td>
-<td align=left><a href="https://tryhackme.com/room/agentsudoctf
-" target="_blank">https://tryhackme.com/room/agentsudoctf
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/agent sudo.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/agent sudo.txt</a></td>
-</tr>
-<tr>
-<td align=left>Agent T
-</td>
-<td align=left><a href="https://tryhackme.com/room/agentt
-" target="_blank">https://tryhackme.com/room/agentt
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/agent t.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/agent t.txt</a></td>
-</tr>
-<tr>
-<td align=left>Airplane
-</td>
-<td align=left><a href="https://tryhackme.com/room/airplane
-" target="_blank">https://tryhackme.com/room/airplane
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/airplane.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/airplane.txt</a></td>
-</tr>
-<tr>
-<td align=left>Alfred
-</td>
-<td align=left><a href="https://tryhackme.com/room/alfred
-" target="_blank">https://tryhackme.com/room/alfred
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/alfred.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/alfred.txt</a></td>
-</tr>
-<tr>
-<td align=left>All in One
-</td>
-<td align=left><a href="https://tryhackme.com/room/allinonemj
-" target="_blank">https://tryhackme.com/room/allinonemj
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/all in one.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/all in one.txt</a></td>
-</tr>
-<tr>
-<td align=left>AllSignsPoint2Pwnage
-</td>
-<td align=left><a href="https://tryhackme.com/room/allsignspoint2pwnage
-" target="_blank">https://tryhackme.com/room/allsignspoint2pwnage
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/allsignspoint2pwnage.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/allsignspoint2pwnage.txt</a></td>
-</tr>
-<tr>
-<td align=left>Amazon EC2 - Attack & Defense
-</td>
-<td align=left><a href="https://tryhackme.com/room/amazonec2attackdefense
-" target="_blank">https://tryhackme.com/room/amazonec2attackdefense
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/amazon ec2 - attack & defense.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/amazon ec2 - attack & defense.txt</a></td>
-</tr>
-<tr>
-<td align=left>Amazon EC2 - Data Exfiltration
-</td>
-<td align=left><a href="https://tryhackme.com/room/amazonec2dataexfiltration
-" target="_blank">https://tryhackme.com/room/amazonec2dataexfiltration
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/amazon ec2 - data exfiltration.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/amazon ec2 - data exfiltration.txt</a></td>
-</tr>
-<tr>
-<td align=left>Analysing Volatile Memory
-</td>
-<td align=left><a href="https://tryhackme.com/room/analysingvolatilememory
-" target="_blank">https://tryhackme.com/room/analysingvolatilememory
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/analysing volatile memory.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/analysing volatile memory.txt</a></td>
-</tr>
-<tr>
-<td align=left>Android Analysis
-</td>
-<td align=left><a href="https://tryhackme.com/room/androidanalysis
-" target="_blank">https://tryhackme.com/room/androidanalysis
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/android analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/android analysis.txt</a></td>
-</tr>
-<tr>
-<td align=left>Android Hacking 101
-</td>
-<td align=left><a href="https://tryhackme.com/room/androidhacking101
-" target="_blank">https://tryhackme.com/room/androidhacking101
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/android hacking 101.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/android hacking 101.txt</a></td>
-</tr>
-<tr>
-<td align=left>Android Malware Analysis
-</td>
-<td align=left><a href="https://tryhackme.com/room/androidmalwareanalysis
-" target="_blank">https://tryhackme.com/room/androidmalwareanalysis
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/android malware analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/android malware analysis.txt</a></td>
-</tr>
-<tr>
-<td align=left>Annie
-</td>
-<td align=left><a href="https://tryhackme.com/room/annie
-" target="_blank">https://tryhackme.com/room/annie
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/annie.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/annie.txt</a></td>
-</tr>
-<tr>
-<td align=left>Anonforce
-</td>
-<td align=left><a href="https://tryhackme.com/room/bsidesgtanonforce
-" target="_blank">https://tryhackme.com/room/bsidesgtanonforce
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/anonforce.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/anonforce.txt</a></td>
-</tr>
-<tr>
-<td align=left>Anonymous Playground
-</td>
-<td align=left><a href="https://tryhackme.com/room/anonymousplayground
-" target="_blank">https://tryhackme.com/room/anonymousplayground
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/anonymous playground.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/anonymous playground.txt</a></td>
-</tr>
-<tr>
-<td align=left>Anonymous
-</td>
-<td align=left><a href="https://tryhackme.com/room/anonymous
-" target="_blank">https://tryhackme.com/room/anonymous
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/anonymous.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/anonymous.txt</a></td>
-</tr>
-<tr>
-<td align=left>Anthem
-</td>
-<td align=left><a href="https://tryhackme.com/room/anthem
-" target="_blank">https://tryhackme.com/room/anthem
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/anthem.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/anthem.txt</a></td>
-</tr>
-<tr>
-<td align=left>Anti-Reverse Engineering
-</td>
-<td align=left><a href="https://tryhackme.com/room/antireverseengineering
-" target="_blank">https://tryhackme.com/room/antireverseengineering
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/anti-reverse engineering.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/anti-reverse engineering.txt</a></td>
-</tr>
-<tr>
-<td align=left>APT28 Inception Theory
-</td>
-<td align=left><a href="https://tryhackme.com/room/apt28inceptiontheory
-" target="_blank">https://tryhackme.com/room/apt28inceptiontheory
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/apt28 inception theory.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/apt28 inception theory.txt</a></td>
-</tr>
-<tr>
-<td align=left>APT28 in the Snare
-</td>
-<td align=left><a href="https://tryhackme.com/room/apt28inthesnare
-" target="_blank">https://tryhackme.com/room/apt28inthesnare
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/apt28 in the snare.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/apt28 in the snare.txt</a></td>
-</tr>	
-<tr>
-<td align=left>APIWizards Breach
-</td>
-<td align=left><a href="https://tryhackme.com/room/apiwizardsbreach
-" target="_blank">https://tryhackme.com/room/apiwizardsbreach
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/apiwizards breach.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/apiwizards breach.txt</a></td>
-</tr>
-<tr>
-<td align=left>Aratus
-</td>
-<td align=left><a href="https://tryhackme.com/room/aratus
-" target="_blank">https://tryhackme.com/room/aratus
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/aratus.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/aratus.txt</a></td>
-</tr>
-<tr>
-<td align=left>Archangel
-</td>
-<td align=left><a href="https://tryhackme.com/room/archangel
-" target="_blank">https://tryhackme.com/room/archangel
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/archangel.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/archangel.txt</a></td>
-</tr>
-<tr>
-<td align=left>Aster
-</td>
-<td align=left><a href="https://tryhackme.com/room/aster
-" target="_blank">https://tryhackme.com/room/aster
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/aster.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/aster.txt</a></td>
-</tr>
-<tr>
-<td align=left>Athena
-</td>
-<td align=left><a href="https://tryhackme.com/room/4th3n4
-" target="_blank">https://tryhackme.com/room/4th3n4
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/athena.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/athena.txt</a></td>
-</tr>
-<tr>
-<td align=left>Atlas
-</td>
-<td align=left><a href="https://tryhackme.com/room/atlas
-" target="_blank">https://tryhackme.com/room/atlas
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/atlas.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/atlas.txt</a></td>
-</tr>
-<tr>
-<td align=left>Atlassian CVE-2022-26134
-</td>
-<td align=left><a href="https://tryhackme.com/room/cve202226134
-" target="_blank">https://tryhackme.com/room/cve202226134
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/atlassian cve-2022-26134.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/atlassian cve-2022-26134.txt</a></td>
-</tr>
-<tr>
-<td align=left>Atomic Bird Goes Purple #1
-</td>
-<td align=left><a href="https://tryhackme.com/room/atomicbirdone
-" target="_blank">https://tryhackme.com/room/atomicbirdone
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/atomic bird goes purple #1.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/atomic bird goes purple #1.txt</a></td>
-</tr>
-<tr>
-<td align=left>Atomic Bird Goes Purple #2
-</td>
-<td align=left><a href="https://tryhackme.com/room/atomicbirdtwo
-" target="_blank">https://tryhackme.com/room/atomicbirdtwo
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/atomic bird goes purple #2.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/atomic bird goes purple #2.txt</a></td>
-</tr>
-<tr>
-<td align=left>Atomic Red Team
-</td>
-<td align=left><a href="https://tryhackme.com/room/atomicredteam
-" target="_blank">https://tryhackme.com/room/atomicredteam
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/atomic red team.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/atomic red team.txt</a></td>
-</tr>
-<tr>
-<td align=left>AttackerKB
-</td>
-<td align=left><a href="https://tryhackme.com/room/attackerkb
-" target="_blank">https://tryhackme.com/room/attackerkb
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/attackerkb.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/attackerkb.txt</a></td>
-</tr>
-<tr>
-<td align=left>Attacking ECB Oracles
-</td>
-<td align=left><a href="https://tryhackme.com/room/attackingecboracles
-" target="_blank">https://tryhackme.com/room/attackingecboracles
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/attacking ecb oracles.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/attacking ecb oracles.txt</a></td>
-</tr>
-<tr>
-<td align=left>Attacking ICS Plant #1
-</td>
-<td align=left><a href="https://tryhackme.com/room/attackingics1
-" target="_blank">https://tryhackme.com/room/attackingics1
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/attacking ics plant #1.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/attacking ics plant #1.txt</a></td>
-</tr>
-<tr>
-<td align=left>Attacking ICS Plant #2
-</td>
-<td align=left><a href="https://tryhackme.com/room/attackingics2
-" target="_blank">https://tryhackme.com/room/attackingics2
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/attacking ics plant #2.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/attacking ics plant #2.txt</a></td>
-</tr>
-<tr>
-<td align=left>Attacking Kerberos
-</td>
-<td align=left><a href="https://tryhackme.com/room/attackingkerberos
-" target="_blank">https://tryhackme.com/room/attackingkerberos
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/attacking kerberos.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/attacking kerberos.txt</a></td>
-</tr>
-<tr>
-<td align=left>Attacktive Directory
-</td>
-<td align=left><a href="https://tryhackme.com/room/attacktivedirectory
-" target="_blank">https://tryhackme.com/room/attacktivedirectory
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/attacktive directory.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/attacktive directory.txt</a></td>
-</tr>
-<tr>
-<td align=left>Auditing and Monitoring
-</td>
-<td align=left><a href="https://tryhackme.com/room/auditingandmonitoringse
-" target="_blank">https://tryhackme.com/room/auditingandmonitoringse
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/auditing and monitoring.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/auditing and monitoring.txt</a></td>
-</tr>
-<tr>
-<td align=left>Aurora EDR
-</td>
-<td align=left><a href="https://tryhackme.com/room/auroraedr
-" target="_blank">https://tryhackme.com/room/auroraedr
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/aurora edr.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/aurora edr.txt</a></td>
-</tr>
-<tr>
-<td align=left>Authentication Bypass
-</td>
-<td align=left><a href="https://tryhackme.com/room/authenticationbypass
-" target="_blank">https://tryhackme.com/room/authenticationbypass
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/authentication bypass.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/authentication bypass.txt</a></td>
-</tr>
-<tr>
-<td align=left>Autopsy
-</td>
-<td align=left><a href="https://tryhackme.com/room/btautopsye0
-" target="_blank">https://tryhackme.com/room/btautopsye0
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/autopsy.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/autopsy.txt</a></td>
-</tr>
-<tr>
-<td align=left>AV Evasion: Shellcode
-</td>
-<td align=left><a href="https://tryhackme.com/room/avevasionshellcode
-" target="_blank">https://tryhackme.com/room/avevasionshellcode
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/av evasion shellcode.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/av evasion shellcode.txt</a></td>
-</tr>
-<tr>
-<td align=left>AVenger
-</td>
-<td align=left><a href="https://tryhackme.com/room/avenger
-" target="_blank">https://tryhackme.com/room/avenger
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/avenger.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/avenger.txt</a></td>
-</tr>
-<tr>
-<td align=left>Avengers Blog
-</td>
-<td align=left><a href="https://tryhackme.com/room/avengers
-" target="_blank">https://tryhackme.com/room/avengers
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/avengers blog.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/avengers blog.txt</a></td>
-</tr>
-<tr>
-<td align=left>AWS API Gateway
-</td>
-<td align=left><a href="https://tryhackme.com/room/awsapigateway
-" target="_blank">https://tryhackme.com/room/awsapigateway
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws api gateway.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws api gateway.txt</a></td>
-</tr>
-<tr>
-<td align=left>AWS Basic Concepts
-</td>
-<td align=left><a href="https://tryhackme.com/room/awsbasicconcepts
-" target="_blank">https://tryhackme.com/room/awsbasicconcepts
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws basic concepts.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws basic concepts.txt</a></td>
-</tr>
-<tr>
-<td align=left>AWS: Cloud 101
-</td>
-<td align=left><a href="https://tryhackme.com/room/cloud101aws
-" target="_blank">https://tryhackme.com/room/cloud101aws
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws cloud 101.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws cloud 101.txt</a></td>
-</tr>
-<tr>
-<td align=left>AWS IAM Enumeration
-</td>
-<td align=left><a href="https://tryhackme.com/room/awsiamenumeration
-" target="_blank">https://tryhackme.com/room/awsiamenumeration
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws iam enumeration.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws iam enumeration.txt</a></td>
-</tr>
-<tr>
-<td align=left>AWS IAM Initial Access
-</td>
-<td align=left><a href="https://tryhackme.com/room/awsiaminitialaccess
-" target="_blank">https://tryhackme.com/room/awsiaminitialaccess
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws iam initial access.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws iam initial access.txt</a></td>
-</tr>
-<tr>
-<td align=left>AWS Lambda
-</td>
-<td align=left><a href="https://tryhackme.com/room/awslambda
-" target="_blank">https://tryhackme.com/room/awslambda
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws lambda.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws lambda.txt</a></td>
-</tr>
-<tr>
-<td align=left>AWS S3 - Attack and Defense
-</td>
-<td align=left><a href="https://tryhackme.com/room/awss3service
-" target="_blank">https://tryhackme.com/room/awss3service
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws s3 - attack and defense.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws s3 - attack and defense.txt</a></td>
-</tr>
-<tr>
-<td align=left>AWS VPC - Attack and Defense
-</td>
-<td align=left><a href="https://tryhackme.com/room/attackingdefendingvpcs
-" target="_blank">https://tryhackme.com/room/attackingdefendingvpcs
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws vpc - attack and defense.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws vpc - attack and defense.txt</a></td>
-</tr>
-<tr>
-<td align=left>AWS VPC - Data Exfiltration
-</td>
-<td align=left><a href="https://tryhackme.com/room/awsvpcdataexfiltration
-" target="_blank">https://tryhackme.com/room/awsvpcdataexfiltration
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws vpc - data exfiltration.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/aws vpc - data exfiltration.txt</a></td>
-</tr>
-<tr>
-<td align=left>b3dr0ck
-</td>
-<td align=left><a href="https://tryhackme.com/room/b3dr0ck
-" target="_blank">https://tryhackme.com/room/b3dr0ck
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/b3dr0ck.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/b3dr0ck.txt</a></td>
-</tr>
-<tr>
-<td align=left>Backtrack
-</td>
-<td align=left><a href="https://tryhackme.com/room/backtrack
-" target="_blank">https://tryhackme.com/room/backtrack
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/backtrack.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/backtrack.txt</a></td>
-</tr>
-<tr>
-<td align=left>Badbyte
-</td>
-<td align=left><a href="https://tryhackme.com/room/badbyte
-" target="_blank">https://tryhackme.com/room/badbyte
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/badbyte.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/badbyte.txt</a></td>
-</tr>
-<tr>
-<td align=left>Baron Samedit
-</td>
-<td align=left><a href="https://tryhackme.com/room/sudovulnssamedit
-" target="_blank">https://tryhackme.com/room/sudovulnssamedit
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/baron samedit.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/baron samedit.txt</a></td>
-</tr>
-<tr>
-<td align=left>Baselines and Anomalies
-</td>
-<td align=left><a href="https://tryhackme.com/room/baselineanomalies
-" target="_blank">https://tryhackme.com/room/baselineanomalies
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/baselines and anomalies.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/baselines and anomalies.txt</a></td>
-</tr>
-<tr>
-<td align=left>Bash Scripting
-</td>
-<td align=left><a href="https://tryhackme.com/room/bashscripting
-" target="_blank">https://tryhackme.com/room/bashscripting
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/bash scripting.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/bash scripting.txt</a></td>
-</tr>
-<tr>
-<td align=left>Basic Dynamic Analysis
-</td>
-<td align=left><a href="https://tryhackme.com/room/basicdynamicanalysis
-" target="_blank">https://tryhackme.com/room/basicdynamicanalysis
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/basic dynamic analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/basic dynamic analysis.txt</a></td>
-</tr>
-<tr>
-<td align=left>Basic Malware RE
-</td>
-<td align=left><a href="https://tryhackme.com/room/basicmalwarere
-" target="_blank">https://tryhackme.com/room/basicmalwarere
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/basic malware re.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/basic malware re.txt</a></td>
-</tr>
-<tr>
-<td align=left>Basic Pentesting
-</td>
-<td align=left><a href="https://tryhackme.com/room/basicpentestingjt
-" target="_blank">https://tryhackme.com/room/basicpentestingjt
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/basic pentesting.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/basic pentesting.txt</a></td>
-</tr>
-<tr>
-<td align=left>Basic Static Analysis
-</td>
-<td align=left><a href="https://tryhackme.com/room/staticanalysis1
-" target="_blank">https://tryhackme.com/room/staticanalysis1
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/basic static analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/basic static analysis.txt</a></td>
-</tr>
-<tr>
-<td align=left>battery
-</td>
-<td align=left><a href="https://tryhackme.com/room/battery
-" target="_blank">https://tryhackme.com/room/battery
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/battery.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/battery.txt</a></td>
-</tr>
-<tr>
-<td align=left>Bebop
-</td>
-<td align=left><a href="https://tryhackme.com/room/bebop
-" target="_blank">https://tryhackme.com/room/bebop
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/bebop.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/bebop.txt</a></td>
-</tr>
-<tr>
-<td align=left>Become a Hacker
-</td>
-<td align=left><a href="https://tryhackme.com/room/becomeahackeroa
-" target="_blank">https://tryhackme.com/room/becomeahackeroa
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/become a hacker.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/become a hacker.txt</a></td>
-</tr>
-<tr>
-<td align=left>Becoming a First Responder
-</td>
-<td align=left><a href="https://tryhackme.com/room/becomingafirstresponder
-" target="_blank">https://tryhackme.com/room/becomingafirstresponder
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/becoming a first responder.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/becoming a first responder.txt</a></td>
-</tr>
-<tr>
-<td align=left>Benign
-</td>
-<td align=left><a href="https://tryhackme.com/room/benign
-" target="_blank">https://tryhackme.com/room/benign
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/benign.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/benign.txt</a></td>
-</tr>
-<tr>
-<td align=left>Biblioteca
-</td>
-<td align=left><a href="https://tryhackme.com/room/biblioteca
-" target="_blank">https://tryhackme.com/room/biblioteca
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/biblioteca.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/biblioteca.txt</a></td>
-</tr>
-<tr>
-<td align=left>Billing
-</td>
-<td align=left><a href="https://tryhackme.com/room/billing
-" target="_blank">https://tryhackme.com/room/billing
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/billing.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/billing.txt</a></td>
-</tr>
-<tr>
-<td align=left>Binary Heaven
-</td>
-<td align=left><a href="https://tryhackme.com/room/binaryheaven
-" target="_blank">https://tryhackme.com/room/binaryheaven
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/binary heaven.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/binary heaven.txt</a></td>
-</tr>
-<tr>
-<td align=left>Binex
-</td>
-<td align=left><a href="https://tryhackme.com/room/binex
-" target="_blank">https://tryhackme.com/room/binex
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/binex.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/binex.txt</a></td>
-</tr>
-<tr>
-<td align=left>Biohazard
-</td>
-<td align=left><a href="https://tryhackme.com/room/biohazard
-" target="_blank">https://tryhackme.com/room/biohazard
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/biohazard.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/biohazard.txt</a></td>
-</tr>
-<tr>
-<td align=left>biteme
-</td>
-<td align=left><a href="https://tryhackme.com/room/biteme
-" target="_blank">https://tryhackme.com/room/biteme
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/biteme.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/biteme.txt</a></td>
-</tr>
-<tr>
-<td align=left>Blaster
-</td>
-<td align=left><a href="https://tryhackme.com/room/blaster
-" target="_blank">https://tryhackme.com/room/blaster
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/blaster.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/blaster.txt</a></td>
-</tr>
-<tr>
-<td align=left>Blizzard
-</td>
-<td align=left><a href="https://tryhackme.com/room/blizzard
-" target="_blank">https://tryhackme.com/room/blizzard
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/blizzard.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/blizzard.txt</a></td>
-</tr>
-<tr>
-<td align=left>Block
-</td>
-<td align=left><a href="https://tryhackme.com/room/blockroom
-" target="_blank">https://tryhackme.com/room/blockroom
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/block.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/block.txt</a></td>
-</tr>
-<tr>
-<td align=left>Blog
-</td>
-<td align=left><a href="https://tryhackme.com/room/blog
-" target="_blank">https://tryhackme.com/room/blog
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/blog.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/blog.txt</a></td>
-</tr>
-<tr>
-<td align=left>Blue
-</td>
-<td align=left><a href="https://tryhackme.com/room/blue
-" target="_blank">https://tryhackme.com/room/blue
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/blue.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/blue.txt</a></td>
-</tr>
-<tr>
-<td align=left>Blueprint
-</td>
-<td align=left><a href="https://tryhackme.com/room/blueprint
-" target="_blank">https://tryhackme.com/room/blueprint
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/blueprint.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/blueprint.txt</a></td>
-</tr>
-<tr>
-<td align=left>Boiler CTF
-</td>
-<td align=left><a href="https://tryhackme.com/room/boilerctf2
-" target="_blank">https://tryhackme.com/room/boilerctf2
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/boiler ctf.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/boiler ctf.txt</a></td>
-</tr>
-<tr>
-<td align=left>Bolt
-</td>
-<td align=left><a href="https://tryhackme.com/room/bolt
-" target="_blank">https://tryhackme.com/room/bolt
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/bolt.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/bolt.txt</a></td>
-</tr>
-<tr>
-<td align=left>Boogeyman 1
-</td>
-<td align=left><a href="https://tryhackme.com/room/boogeyman1
-" target="_blank">https://tryhackme.com/room/boogeyman1
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/boogeyman 1.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/boogeyman 1.txt</a></td>
-</tr>
-<tr>
-<td align=left>Boogeyman 2
-</td>
-<td align=left><a href="https://tryhackme.com/room/boogeyman2
-" target="_blank">https://tryhackme.com/room/boogeyman2
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/boogeyman 2.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/boogeyman 2.txt</a></td>
-</tr>
-<tr>
-<td align=left>Boogeyman 3
-</td>
-<td align=left><a href="https://tryhackme.com/room/boogeyman3
-" target="_blank">https://tryhackme.com/room/boogeyman3
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/boogeyman 3.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/boogeyman 3.txt</a></td>
-</tr>
-<tr>
-<td align=left>Bookstore
-</td>
-<td align=left><a href="https://tryhackme.com/room/bookstoreoc
-" target="_blank">https://tryhackme.com/room/bookstoreoc
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/bookstore.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/bookstore.txt</a></td>
-</tr>
-<tr>
-<td align=left>Borderlands
-</td>
-<td align=left><a href="https://tryhackme.com/room/borderlands
-" target="_blank">https://tryhackme.com/room/borderlands
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/borderlands.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/borderlands.txt</a></td>
-</tr>
-<tr>
-<td align=left>Bounty Hacker
-</td>
-<td align=left><a href="https://tryhackme.com/room/cowboyhacker
-" target="_blank">https://tryhackme.com/room/cowboyhacker
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/bounty hacker.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/bounty hacker.txt</a></td>
-</tr>
-<tr>
-<td align=left>Brainpan 1
-</td>
-<td align=left><a href="https://tryhackme.com/room/brainpan
-" target="_blank">https://tryhackme.com/room/brainpan
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/brainpan 1.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/brainpan 1.txt</a></td>
-</tr>
-<tr>
-<td align=left>Brains
-</td>
-<td align=left><a href="https://tryhackme.com/room/brains
-" target="_blank">https://tryhackme.com/room/brains
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/brains.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/brains.txt</a></td>
-</tr>
-<tr>
-<td align=left>Brainstorm
-</td>
-<td align=left><a href="https://tryhackme.com/room/brainstorm
-" target="_blank">https://tryhackme.com/room/brainstorm
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/brainstorm.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/brainstorm.txt</a></td>
-</tr>
-<tr>
-<td align=left>Breaching Active Directory
-</td>
-<td align=left><a href="https://tryhackme.com/room/breachingad
-" target="_blank">https://tryhackme.com/room/breachingad
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/breaching active directory.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/breaching active directory.txt</a></td>
-</tr>
-<tr>
-<td align=left>Break it
-</td>
-<td align=left><a href="https://tryhackme.com/room/breakit
-" target="_blank">https://tryhackme.com/room/breakit
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/break it.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/break it.txt</a></td>
-</tr>
-<tr>
-<td align=left>Break Out The Cage
-</td>
-<td align=left><a href="https://tryhackme.com/room/breakoutthecage1
-" target="_blank">https://tryhackme.com/room/breakoutthecage1
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/break out the cage.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/break out the cage.txt</a></td>
-</tr>
-<tr>
-<td align=left>Breaking Crypto the Simple Way
-</td>
-<td align=left><a href="https://tryhackme.com/room/breakingcryptothesimpleway
-" target="_blank">https://tryhackme.com/room/breakingcryptothesimpleway
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/breaking crypto the simple way.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/breaking crypto the simple way.txt</a></td>
-</tr>
-<tr>
-<td align=left>Breaking RSA
-</td>
-<td align=left><a href="https://tryhackme.com/room/breakrsa
-" target="_blank">https://tryhackme.com/room/breakrsa
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/breaking rsa.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/breaking rsa.txt</a></td>
-</tr>
-<tr>
-<td align=left>Breakme
-</td>
-<td align=left><a href="https://tryhackme.com/room/breakmenu
-" target="_blank">https://tryhackme.com/room/breakmenu
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/breakme.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/breakme.txt</a></td>
-</tr>
-<tr>
-<td align=left>Brim
-</td>
-<td align=left><a href="https://tryhackme.com/room/brim
-" target="_blank">https://tryhackme.com/room/brim
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/brim.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/brim.txt</a></td>
-</tr>
-<tr>
-<td align=left>broker
-</td>
-<td align=left><a href="https://tryhackme.com/room/broker
-" target="_blank">https://tryhackme.com/room/broker
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/broker.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/broker.txt</a></td>
-</tr>
-<tr>
-<td align=left>Brooklyn Nine Nine
-</td>
-<td align=left><a href="https://tryhackme.com/room/brooklynninenine
-" target="_blank">https://tryhackme.com/room/brooklynninenine
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/brooklyn nine nine.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/brooklyn nine nine.txt</a></td>
-</tr>
-<tr>
-<td align=left>Brute Force Heroes
-</td>
-<td align=left><a href="https://tryhackme.com/room/bruteforceheroes
-" target="_blank">https://tryhackme.com/room/bruteforceheroes
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/brute force heroes.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/brute force heroes.txt</a></td>
-</tr>
-<tr>
-<td align=left>Brute It
-</td>
-<td align=left><a href="https://tryhackme.com/room/bruteit
-" target="_blank">https://tryhackme.com/room/bruteit
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/brute it.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/brute it.txt</a></td>
-</tr>
-<tr>
-<td align=left>Brute
-</td>
-<td align=left><a href="https://tryhackme.com/room/ettubrute
-" target="_blank">https://tryhackme.com/room/ettubrute
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/brute.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/brute.txt</a></td>
-</tr>
-<tr>
-<td align=left>Buffer Overflow Prep
-</td>
-<td align=left><a href="https://tryhackme.com/room/bufferoverflowprep
-" target="_blank">https://tryhackme.com/room/bufferoverflowprep
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/buffer overflow prep.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/buffer overflow prep.txt</a></td>
-</tr>
-<tr>
-<td align=left>Buffer Overflows
-</td>
-<td align=left><a href="https://tryhackme.com/room/bof1
-" target="_blank">https://tryhackme.com/room/bof1
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/buffer overflows.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/buffer overflows.txt</a></td>
-</tr>
-<tr>
-<td align=left>Bugged
-</td>
-<td align=left><a href="https://tryhackme.com/room/bugged
-" target="_blank">https://tryhackme.com/room/bugged
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/bugged.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/bugged.txt</a></td>
-</tr>
-<tr>
-<td align=left>Bulletproof Penguin
-</td>
-<td align=left><a href="https://tryhackme.com/room/bppenguin
-" target="_blank">https://tryhackme.com/room/bppenguin
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/bulletproof penguin.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/bulletproof penguin.txt</a></td>
-</tr>
-<tr>
-<td align=left>Burp Suite: Extensions
-</td>
-<td align=left><a href="https://tryhackme.com/room/burpsuiteextensions
-" target="_blank">https://tryhackme.com/room/burpsuiteextensions
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/burp suite extensions.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/burp suite extensions.txt</a></td>
-</tr>
-<tr>
-<td align=left>Burp Suite: Intruder
-</td>
-<td align=left><a href="https://tryhackme.com/room/burpsuiteintruder
-" target="_blank">https://tryhackme.com/room/burpsuiteintruder
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/burp suite intruder.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/burp suite intruder.txt</a></td>
-</tr>
-<tr>
-<td align=left>Burp Suite: Other Modules
-</td>
-<td align=left><a href="https://tryhackme.com/room/burpsuiteom
-" target="_blank">https://tryhackme.com/room/burpsuiteom
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/burp suite other modules.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/burp suite other modules.txt</a></td>
-</tr>
-<tr>
-<td align=left>Burp Suite: Repeater
-</td>
-<td align=left><a href="https://tryhackme.com/room/burpsuiterepeater
-" target="_blank">https://tryhackme.com/room/burpsuiterepeater
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/burp suite repeater.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/burp suite repeater.txt</a></td>
-</tr>
-<tr>
-<td align=left>Burp Suite: The Basics
-</td>
-<td align=left><a href="https://tryhackme.com/room/burpsuitebasics
-" target="_blank">https://tryhackme.com/room/burpsuitebasics
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/burp suite the basics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/burp suite the basics.txt</a></td>
-</tr>
-<tr>
-<td align=left>Bypass Disable Functions
-</td>
-<td align=left><a href="https://tryhackme.com/room/bypassdisablefunctions
-" target="_blank">https://tryhackme.com/room/bypassdisablefunctions
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/bypass disable functions.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/bypass disable functions.txt</a></td>
-</tr>
-<tr>
-<td align=left>Bypass Really Simple Security
-</td>
-<td align=left><a href="https://tryhackme.com/room/bypassreallysimplesecurity
-" target="_blank">https://tryhackme.com/room/bypassreallysimplesecurity
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/bypass really simple security.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/bypass really simple security.txt</a></td>
-</tr>
-<tr>
-<td align=left>Bypass
-</td>
-<td align=left><a href="https://tryhackme.com/room/bypass
-" target="_blank">https://tryhackme.com/room/bypass
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/bypass.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/bypass.txt</a></td>
-</tr>
-<tr>
-<td align=left>Bypassing UAC
-</td>
-<td align=left><a href="https://tryhackme.com/room/bypassinguac
-" target="_blank">https://tryhackme.com/room/bypassinguac
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/bypassing uac.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/bypassing uac.txt</a></td>
-</tr>
-<tr>
-<td align=left>c4ptur3-th3-fl4g
-</td>
-<td align=left><a href="https://tryhackme.com/room/c4ptur3th3fl4g
-" target="_blank">https://tryhackme.com/room/c4ptur3th3fl4g
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/c4ptur3-th3-fl4g.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/c4ptur3-th3-fl4g.txt</a></td>
-</tr>
-<tr>
-<td align=left>Cactus
-</td>
-<td align=left><a href="https://tryhackme.com/room/cactus
-" target="_blank">https://tryhackme.com/room/cactus
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cactus.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cactus.txt</a></td>
-</tr>
-<tr>
-<td align=left>CALDERA
-</td>
-<td align=left><a href="https://tryhackme.com/room/caldera
-" target="_blank">https://tryhackme.com/room/caldera
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/caldera.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/caldera.txt</a></td>
-</tr>
-<tr>
-<td align=left>CAPA: The Basics
-</td>
-<td align=left><a href="https://tryhackme.com/room/capabasics
-" target="_blank">https://tryhackme.com/room/capabasics
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/capa the basics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/capa the basics.txt</a></td>
-</tr>
-<tr>
-<td align=left>Capture!
-</td>
-<td align=left><a href="https://tryhackme.com/room/capture
-" target="_blank">https://tryhackme.com/room/capture
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/capture!.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/capture!.txt</a></td>
-</tr>
-<tr>
-<td align=left>Capture Returns
-</td>
-<td align=left><a href="https://tryhackme.com/room/capturereturns
-" target="_blank">https://tryhackme.com/room/capturereturns
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/capture returns.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/capture returns.txt</a></td>
-</tr>
-<tr>
-<td align=left>Careers in Cyber
-</td>
-<td align=left><a href="https://tryhackme.com/room/careersincyber
-" target="_blank">https://tryhackme.com/room/careersincyber
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/careers in cyber.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/careers in cyber.txt</a></td>
-</tr>
-<tr>
-<td align=left>Carnage
-</td>
-<td align=left><a href="https://tryhackme.com/room/c2carnage
-" target="_blank">https://tryhackme.com/room/c2carnage
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/carnage.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/carnage.txt</a></td>
-</tr>
-<tr>
-<td align=left>Carpe Diem 1
-</td>
-<td align=left><a href="https://tryhackme.com/room/carpediem1
-" target="_blank">https://tryhackme.com/room/carpediem1
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/carpe diem 1.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/carpe diem 1.txt</a></td>
-</tr>
-<tr>
-<td align=left>Cat Pictures 2
-</td>
-<td align=left><a href="https://tryhackme.com/room/catpictures2
-" target="_blank">https://tryhackme.com/room/catpictures2
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cat pictures 2.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cat pictures 2.txt</a></td>
-</tr>
-<tr>
-<td align=left>Cat Pictures
-</td>
-<td align=left><a href="https://tryhackme.com/room/catpictures
-" target="_blank">https://tryhackme.com/room/catpictures
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cat pictures.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cat pictures.txt</a></td>
-</tr>
-<tr>
-<td align=left>CCT2019
-</td>
-<td align=left><a href="https://tryhackme.com/room/cct2019
-" target="_blank">https://tryhackme.com/room/cct2019
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cct2019.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cct2019.txt</a></td>
-</tr>
-<tr>
-<td align=left>CERTain Doom
-</td>
-<td align=left><a href="https://tryhackme.com/room/certaindoom
-" target="_blank">https://tryhackme.com/room/certaindoom
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/certain doom.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/certain doom.txt</a></td>
-</tr>
-<tr>
-<td align=left>Cheese CTF
-</td>
-<td align=left><a href="https://tryhackme.com/room/cheesectfv10
-" target="_blank">https://tryhackme.com/room/cheesectfv10
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cheese ctf.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cheese ctf.txt</a></td>
-</tr>
-<tr>
-<td align=left>CherryBlossom
-</td>
-<td align=left><a href="https://tryhackme.com/room/cherryblossom
-" target="_blank">https://tryhackme.com/room/cherryblossom
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cherryblossom.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cherryblossom.txt</a></td>
-</tr>
-<tr>
-<td align=left>Chill Hack
-</td>
-<td align=left><a href="https://tryhackme.com/room/chillhack
-" target="_blank">https://tryhackme.com/room/chillhack
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/chill hack.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/chill hack.txt</a></td>
-</tr>
-<tr>
-<td align=left>Chocolate Factory
-</td>
-<td align=left><a href="https://tryhackme.com/room/chocolatefactory
-" target="_blank">https://tryhackme.com/room/chocolatefactory
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/chocolate factory.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/chocolate factory.txt</a></td>
-</tr>
-<tr>
-<td align=left>Chrome
-</td>
-<td align=left><a href="https://tryhackme.com/room/chrome
-" target="_blank">https://tryhackme.com/room/chrome
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/chrome.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/chrome.txt</a></td>
-</tr>
-<tr>
-<td align=left>Chronicle
-</td>
-<td align=left><a href="https://tryhackme.com/room/chronicle
-" target="_blank">https://tryhackme.com/room/chronicle
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/chronicle.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/chronicle.txt</a></td>
-</tr>
-<tr>
-<td align=left>Cicada-3301 Vol:1
-</td>
-<td align=left><a href="https://tryhackme.com/room/cicada3301vol1
-" target="_blank">https://tryhackme.com/room/cicada3301vol1
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cicada-3301 vol1.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cicada-3301 vol1.txt</a></td>
-</tr>
-<tr>
-<td align=left>CI/CD and Build Security
-</td>
-<td align=left><a href="https://tryhackme.com/room/cicdandbuildsecurity
-" target="_blank">https://tryhackme.com/room/cicdandbuildsecurity
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cicd and build security.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cicd and build security.txt</a></td>
-</tr>
-<tr>
-<td align=left>Classic Passwd
-</td>
-<td align=left><a href="https://tryhackme.com/room/classicpasswd
-" target="_blank">https://tryhackme.com/room/classicpasswd
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/classic passwd.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/classic passwd.txt</a></td>
-</tr>
-<tr>
-<td align=left>Clocky
-</td>
-<td align=left><a href="https://tryhackme.com/room/clocky
-" target="_blank">https://tryhackme.com/room/clocky
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/clocky.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/clocky.txt</a></td>
-</tr>
-<tr>
-<td align=left>Cloud-based IaC
-</td>
-<td align=left><a href="https://tryhackme.com/room/cloudbasediac
-" target="_blank">https://tryhackme.com/room/cloudbasediac
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cloud-based iac.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cloud-based iac.txt</a></td>
-</tr>
-<tr>
-<td align=left>Cluster Hardening
-</td>
-<td align=left><a href="https://tryhackme.com/room/clusterhardening
-" target="_blank">https://tryhackme.com/room/clusterhardening
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cluster hardening.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cluster hardening.txt</a></td>
-</tr>
-<tr>
-<td align=left>CMesS
-</td>
-<td align=left><a href="https://tryhackme.com/room/cmess
-" target="_blank">https://tryhackme.com/room/cmess
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cmess.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cmess.txt</a></td>
-</tr>
-<tr>
-<td align=left>CMSpit
-</td>
-<td align=left><a href="https://tryhackme.com/room/cmspit
-" target="_blank">https://tryhackme.com/room/cmspit
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cmspit.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cmspit.txt</a></td>
-</tr>
-<tr>
-<td align=left>Cold VVars
-</td>
-<td align=left><a href="https://tryhackme.com/room/coldvvars
-" target="_blank">https://tryhackme.com/room/coldvvars
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cold vvars.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cold vvars.txt</a></td>
-</tr>
-<tr>
-<td align=left>ColddBox: Easy
-</td>
-<td align=left><a href="https://tryhackme.com/room/colddboxeasy
-" target="_blank">https://tryhackme.com/room/colddboxeasy
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/colddbox easy.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/colddbox easy.txt</a></td>
-</tr>
-<tr>
-<td align=left>Command Injection
-</td>
-<td align=left><a href="https://tryhackme.com/room/oscommandinjection
-" target="_blank">https://tryhackme.com/room/oscommandinjection
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/command injection.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/command injection.txt</a></td>
-</tr>
-<tr>
-<td align=left>Committed
-</td>
-<td align=left><a href="https://tryhackme.com/room/committed
-" target="_blank">https://tryhackme.com/room/committed
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/committed.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/committed.txt</a></td>
-</tr>
-<tr>
-<td align=left>Common Attacks
-</td>
-<td align=left><a href="https://tryhackme.com/room/commonattacks
-" target="_blank">https://tryhackme.com/room/commonattacks
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/common attacks.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/common attacks.txt</a></td>
-</tr>
-<tr>
-<td align=left>Common Linux Privesc
-</td>
-<td align=left><a href="https://tryhackme.com/room/commonlinuxprivesc
-" target="_blank">https://tryhackme.com/room/commonlinuxprivesc
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/common linux privesc.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/common linux privesc.txt</a></td>
-</tr>
-<tr>
-<td align=left>Compiled
-</td>
-<td align=left><a href="https://tryhackme.com/room/compiled
-" target="_blank">https://tryhackme.com/room/compiled
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/compiled.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/compiled.txt</a></td>
-</tr>
-<tr>
-<td align=left>Compromised Windows Analysis
-</td>
-<td align=left><a href="https://tryhackme.com/room/compromisedwindowsanalysis
-" target="_blank">https://tryhackme.com/room/compromisedwindowsanalysis
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/compromised windows analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/compromised windows analysis.txt</a></td>
-</tr> 
-<tr>
-<td align=left>Confidential
-</td>
-<td align=left><a href="https://tryhackme.com/room/confidential
-" target="_blank">https://tryhackme.com/room/confidential
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/confidential.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/confidential.txt</a></td>
-</tr>
-<tr>
-<td align=left>Confluence CVE-2023-22515
-</td>
-<td align=left><a href="https://tryhackme.com/room/confluence202322515
-" target="_blank">https://tryhackme.com/room/confluence202322515
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/confluence cve-2023-22515.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/confluence cve-2023-22515.txt</a></td>
-</tr>
-<tr>
-<td align=left>Container Hardening
-</td>
-<td align=left><a href="https://tryhackme.com/room/containerhardening
-" target="_blank">https://tryhackme.com/room/containerhardening
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/container hardening.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/container hardening.txt</a></td>
-</tr>
-<tr>
-<td align=left>Container Vulnerabilities
-</td>
-<td align=left><a href="https://tryhackme.com/room/containervulnerabilitiesDG
-" target="_blank">https://tryhackme.com/room/containervulnerabilitiesDG
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/container vulnerabilities.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/container vulnerabilities.txt</a></td>
-</tr>
-<tr>
-<td align=left>ContainMe
-</td>
-<td align=left><a href="https://tryhackme.com/room/containme1
-" target="_blank">https://tryhackme.com/room/containme1
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/containme.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/containme.txt</a></td>
-</tr>
-<tr>
-<td align=left>Content Discovery
-</td>
-<td align=left><a href="https://tryhackme.com/room/contentdiscovery
-" target="_blank">https://tryhackme.com/room/contentdiscovery
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/content discovery.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/content discovery.txt</a></td>
-</tr>
-<tr>
-<td align=left>Content Security Policy
-</td>
-<td align=left><a href="https://tryhackme.com/room/csp
-" target="_blank">https://tryhackme.com/room/csp
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/content security policy.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/content security policy.txt</a></td>
-</tr>
-<tr>
-<td align=left>Conti
-</td>
-<td align=left><a href="https://tryhackme.com/room/contiransomwarehgh
-" target="_blank">https://tryhackme.com/room/contiransomwarehgh
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/conti.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/conti.txt</a></td>
-</tr>
-<tr>
-<td align=left>ConvertMyVideo
-</td>
-<td align=left><a href="https://tryhackme.com/room/convertmyvideo
-" target="_blank">https://tryhackme.com/room/convertmyvideo
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/convertmyvideo.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/convertmyvideo.txt</a></td>
-</tr>
-<tr>
-<td align=left>Cooctus Stories
-</td>
-<td align=left><a href="https://tryhackme.com/room/cooctusadventures
-" target="_blank">https://tryhackme.com/room/cooctusadventures
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cooctus stories.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cooctus stories.txt</a></td>
-</tr>
-<tr>
-<td align=left>Core Windows Processes
-</td>
-<td align=left><a href="https://tryhackme.com/room/btwindowsinternals
-" target="_blank">https://tryhackme.com/room/btwindowsinternals
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/core windows processes.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/core windows processes.txt</a></td>
-</tr>
-<tr>
-<td align=left>Corp
-</td>
-<td align=left><a href="https://tryhackme.com/room/corp
-" target="_blank">https://tryhackme.com/room/corp
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/corp.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/corp.txt</a></td>
-</tr>
-<tr>
-<td align=left>Corridor
-</td>
-<td align=left><a href="https://tryhackme.com/room/corridor
-" target="_blank">https://tryhackme.com/room/corridor
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/corridor.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/corridor.txt</a></td>
-</tr>
-<tr>
-<td align=left>CORS & SOP
-</td>
-<td align=left><a href="https://tryhackme.com/room/corsandsop
-" target="_blank">https://tryhackme.com/room/corsandsop
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cors & sop.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cors & sop.txt</a></td>
-</tr>
-<tr>
-<td align=left>Couch
-</td>
-<td align=left><a href="https://tryhackme.com/room/couch
-" target="_blank">https://tryhackme.com/room/couch
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/couch.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/couch.txt</a></td>
-</tr>
-<tr>
-<td align=left>Crack The Hash Level 2
-</td>
-<td align=left><a href="https://tryhackme.com/room/crackthehashlevel2
-" target="_blank">https://tryhackme.com/room/crackthehashlevel2
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/crack the hash level 2.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/crack the hash level 2.txt</a></td>
-</tr>
-<tr>
-<td align=left>Crack the hash
-</td>
-<td align=left><a href="https://tryhackme.com/room/crackthehash
-" target="_blank">https://tryhackme.com/room/crackthehash
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/crack the hash.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/crack the hash.txt</a></td>
-</tr>
-<tr>
-<td align=left>Creative
-</td>
-<td align=left><a href="https://tryhackme.com/room/creative
-" target="_blank">https://tryhackme.com/room/creative
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/creative.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/creative.txt</a></td>
-</tr>
-<tr>
-<td align=left>Credentials Harvesting
-</td>
-<td align=left><a href="https://tryhackme.com/room/credharvesting
-" target="_blank">https://tryhackme.com/room/credharvesting
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/credentials harvesting.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/credentials harvesting.txt</a></td>
-</tr>
-<tr>
-<td align=left>Critical
-</td>
-<td align=left><a href="https://tryhackme.com/room/critical
-" target="_blank">https://tryhackme.com/room/critical
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/critical.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/critical.txt</a></td>
-</tr>
-<tr>
-<td align=left>Crocc Crew
-</td>
-<td align=left><a href="https://tryhackme.com/room/crocccrew
-" target="_blank">https://tryhackme.com/room/crocccrew
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/crocc crew.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/crocc crew.txt</a></td>
-</tr>
-<tr>
-<td align=left>Crylo
-</td>
-<td align=left><a href="https://tryhackme.com/room/crylo4a
-" target="_blank">https://tryhackme.com/room/crylo4a
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/crylo.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/crylo.txt</a></td>
-</tr>
-<tr>
-<td align=left>Cryptography Basics
-</td>
-<td align=left><a href="https://tryhackme.com/room/cryptographybasics
-" target="_blank">https://tryhackme.com/room/cryptographybasics
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cryptography basics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cryptography basics.txt</a></td>
-</tr>
-<tr>
-<td align=left>Cryptography for Dummies
-</td>
-<td align=left><a href="https://tryhackme.com/room/cryptographyfordummies
-" target="_blank">https://tryhackme.com/room/cryptographyfordummies
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cryptography for dummies.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cryptography for dummies.txt</a></td>
-</tr>
-<tr>
-<td align=left>Crypto Failures
-</td>
-<td align=left><a href="https://tryhackme.com/room/cryptofailures
-" target="_blank">https://tryhackme.com/room/cryptofailures
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/crypto failures.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/crypto failures.txt</a></td>
-</tr>
-<tr>
-<td align=left>CSRF
-</td>
-<td align=left><a href="https://tryhackme.com/room/csrfV2
-" target="_blank">https://tryhackme.com/room/csrfV2
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/csrf.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/csrf.txt</a></td>
-</tr>
-<tr>
-<td align=left>CTF collection Vol.1
-</td>
-<td align=left><a href="https://tryhackme.com/room/ctfcollectionvol1
-" target="_blank">https://tryhackme.com/room/ctfcollectionvol1
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ctf collection vol.1.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ctf collection vol.1.txt</a></td>
-</tr>
-<tr>
-<td align=left>CTF collection Vol.2
-</td>
-<td align=left><a href="https://tryhackme.com/room/ctfcollectionvol2
-" target="_blank">https://tryhackme.com/room/ctfcollectionvol2
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ctf collection vol.2.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ctf collection vol.2.txt</a></td>
-</tr>
-<tr>
-<td align=left>Custom Alert Rules in Wazuh
-</td>
-<td align=left><a href="https://tryhackme.com/room/customalertrulesinwazuh
-" target="_blank">https://tryhackme.com/room/customalertrulesinwazuh
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/custom alert rules in wazuh.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/custom alert rules in wazuh.txt</a></td>
-</tr>
-<tr>
-<td align=left>Custom Tooling using Burp
-</td>
-<td align=left><a href="https://tryhackme.com/room/customtoolingviaburp
-" target="_blank">https://tryhackme.com/room/customtoolingviaburp
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/custom tooling using burp.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/custom tooling using burp.txt</a></td>
-</tr>
-<tr>
-<td align=left>Custom Tooling Using Python
-</td>
-<td align=left><a href="https://tryhackme.com/room/customtoolingpython
-" target="_blank">https://tryhackme.com/room/customtoolingpython
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/custom tooling using python.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/custom tooling using python.txt</a></td>
-</tr>
-<tr>
-<td align=left>CVE-2021-41773/42013
-</td>
-<td align=left><a href="https://tryhackme.com/room/cve202141773
-" target="_blank">https://tryhackme.com/room/cve202141773
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cve-2021-4177342013.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cve-2021-4177342013.txt</a></td>
-</tr>
-<tr>
-<td align=left>CVE-2022-26923
-</td>
-<td align=left><a href="https://tryhackme.com/room/cve202226923
-" target="_blank">https://tryhackme.com/room/cve202226923
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cve-2022-26923.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cve-2022-26923.txt</a></td>
-</tr>
-<tr>
-<td align=left>CVE-2023-38408
-</td>
-<td align=left><a href="https://tryhackme.com/room/cve202338408
-" target="_blank">https://tryhackme.com/room/cve202338408
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cve-2023-38408.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cve-2023-38408.txt</a></td>
-</tr>
-<tr>
-<td align=left>Cyber Crisis Management
-</td>
-<td align=left><a href="https://tryhackme.com/room/cybercrisismanagement
-" target="_blank">https://tryhackme.com/room/cybercrisismanagement
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cyber crisis management.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cyber crisis management.txt</a></td>
-</tr>
-<tr>
-<td align=left>Cyber Kill Chain
-</td>
-<td align=left><a href="https://tryhackme.com/room/cyberkillchainzmt
-" target="_blank">https://tryhackme.com/room/cyberkillchainzmt
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cyber kill chain.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cyber kill chain.txt</a></td>
-</tr>
-<tr>
-<td align=left>Cyber Scotland 2021
-</td>
-<td align=left><a href="https://tryhackme.com/room/cyberweek2021
-" target="_blank">https://tryhackme.com/room/cyberweek2021
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cyber scotland 2021.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cyber scotland 2021.txt</a></td>
-</tr>
-<tr>
-<td align=left>CyberChef: The Basics
-</td>
-<td align=left><a href="https://tryhackme.com/room/cyberchefbasics
-" target="_blank">https://tryhackme.com/room/cyberchefbasics
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cyberchef the basics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cyberchef the basics.txt</a></td>
-</tr>
-<tr>
-<td align=left>CyberCrafted
-</td>
-<td align=left><a href="https://tryhackme.com/room/cybercrafted
-" target="_blank">https://tryhackme.com/room/cybercrafted
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cybercrafted.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cybercrafted.txt</a></td>
-</tr>
-<tr>
-<td align=left>CyberHeroes
-</td>
-<td align=left><a href="https://tryhackme.com/room/cyberheroes
-" target="_blank">https://tryhackme.com/room/cyberheroes
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cyberheroes.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cyberheroes.txt</a></td>
-</tr>
-<tr>
-<td align=left>CyberLens
-</td>
-<td align=left><a href="https://tryhackme.com/room/cyberlensp6
-" target="_blank">https://tryhackme.com/room/cyberlensp6
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cyberlens.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cyberlens.txt</a></td>
-</tr>
-<tr>
-<td align=left>Cyborg
-</td>
-<td align=left><a href="https://tryhackme.com/room/cyborgt8
-" target="_blank">https://tryhackme.com/room/cyborgt8
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/cyborg.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/cyborg.txt</a></td>
-</tr>
-<tr>
-<td align=left>Daily Bugle
-</td>
-<td align=left><a href="https://tryhackme.com/room/dailybugle
-" target="_blank">https://tryhackme.com/room/dailybugle
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/daily bugle.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/daily bugle.txt</a></td>
-</tr>
-<tr>
-<td align=left>DAST
-</td>
-<td align=left><a href="https://tryhackme.com/room/dastzap
-" target="_blank">https://tryhackme.com/room/dastzap
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/dast.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/dast.txt</a></td>
-</tr>
-<tr>
-<td align=left>Data Exfiltration
-</td>
-<td align=left><a href="https://tryhackme.com/room/dataxexfilt
-" target="_blank">https://tryhackme.com/room/dataxexfilt
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/data exfiltration.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/data exfiltration.txt</a></td>
-</tr>
-<tr>
-<td align=left>Dav
-</td>
-<td align=left><a href="https://tryhackme.com/room/bsidesgtdav
-" target="_blank">https://tryhackme.com/room/bsidesgtdav
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/dav.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/dav.txt</a></td>
-</tr>
-<tr>
-<td align=left>Dave's Blog
-</td>
-<td align=left><a href="https://tryhackme.com/room/davesblog
-" target="_blank">https://tryhackme.com/room/davesblog
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/daves blog.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/daves blog.txt</a></td>
-</tr>
-<tr>
-<td align=left>Dead End?
-</td>
-<td align=left><a href="https://tryhackme.com/room/deadend
-" target="_blank">https://tryhackme.com/room/deadend
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/dead end.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/dead end.txt</a></td>
-</tr>
-<tr>
-<td align=left>Dear QA
-</td>
-<td align=left><a href="https://tryhackme.com/room/dearqa
-" target="_blank">https://tryhackme.com/room/dearqa
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/dear qa.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/dear qa.txt</a></td>
-</tr>
-<tr>
-<td align=left>Debug
-</td>
-<td align=left><a href="https://tryhackme.com/room/debug
-" target="_blank">https://tryhackme.com/room/debug
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/debug.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/debug.txt</a></td>
-</tr>
-<tr>
-<td align=left>Decryptify
-</td>
-<td align=left><a href="https://tryhackme.com/room/decryptify
-" target="_blank">https://tryhackme.com/room/decryptify
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/decryptify.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/decryptify.txt</a></td>
-</tr>
-<tr>
-<td align=left>Defensive Security Intro
-</td>
-<td align=left><a href="https://tryhackme.com/room/defensivesecurityintro
-" target="_blank">https://tryhackme.com/room/defensivesecurityintro
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/defensive security intro.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/defensive security intro.txt</a></td>
-</tr>
-<tr>
-<td align=left>Deja Vu
-</td>
-<td align=left><a href="https://tryhackme.com/room/dejavu
-" target="_blank">https://tryhackme.com/room/dejavu
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/deja vu.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/deja vu.txt</a></td>
-</tr>
-<tr>
-<td align=left>Dependency Management
-</td>
-<td align=left><a href="https://tryhackme.com/room/dependencymanagement
-" target="_blank">https://tryhackme.com/room/dependencymanagement
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/dependency management.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/dependency management.txt</a></td>
-</tr>
-<tr>
-<td align=left>Develpy
-</td>
-<td align=left><a href="https://tryhackme.com/room/bsidesgtdevelpy
-" target="_blank">https://tryhackme.com/room/bsidesgtdevelpy
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/develpy.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/develpy.txt</a></td>
-</tr>
-<tr>
-<td align=left>Devie
-</td>
-<td align=left><a href="https://tryhackme.com/room/devie
-" target="_blank">https://tryhackme.com/room/devie
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/devie.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/devie.txt</a></td>
-</tr>
-<tr>
-<td align=left>DFIR: An Introduction
-</td>
-<td align=left><a href="https://tryhackme.com/room/introductoryroomdfirmodule
-" target="_blank">https://tryhackme.com/room/introductoryroomdfirmodule
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/dfir an introduction.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/dfir an introduction.txt</a></td>
-</tr>
-<tr>
-<td align=left>Diamond Model
-</td>
-<td align=left><a href="https://tryhackme.com/room/diamondmodelrmuwwg42
-" target="_blank">https://tryhackme.com/room/diamondmodelrmuwwg42
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/diamond model.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/diamond model.txt</a></td>
-</tr>
-<tr>
-<td align=left>Different CTF
-</td>
-<td align=left><a href="https://tryhackme.com/room/adana
-" target="_blank">https://tryhackme.com/room/adana
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/different ctf.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/different ctf.txt</a></td>
-</tr>
-<tr>
-<td align=left>Dig Dug
-</td>
-<td align=left><a href="https://tryhackme.com/room/digdug
-" target="_blank">https://tryhackme.com/room/digdug
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/dig dug.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/dig dug.txt</a></td>
-</tr>
-<tr>
-<td align=left>Digital Forensics Case B4DM755
-</td>
-<td align=left><a href="https://tryhackme.com/room/caseb4dm755
-" target="_blank">https://tryhackme.com/room/caseb4dm755
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/digital forensics case b4dm755.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/digital forensics case b4dm755.txt</a></td>
-</tr>
-<tr>
-<td align=left>Digital Forensics Fundamentals
-</td>
-<td align=left><a href="https://tryhackme.com/room/digitalforensicsfundamentals
-" target="_blank">https://tryhackme.com/room/digitalforensicsfundamentals
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/digital forensics fundamentals.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/digital forensics fundamentals.txt</a></td>
-</tr>
-<tr>
-<td align=left>Dirty Pipe: CVE-2022-0847
-</td>
-<td align=left><a href="https://tryhackme.com/room/dirtypipe
-" target="_blank">https://tryhackme.com/room/dirtypipe
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/dirty pipe cve-2022-0847.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/dirty pipe cve-2022-0847.txt</a></td>
-</tr>
-<tr>
-<td align=left>Disgruntled
-</td>
-<td align=left><a href="https://tryhackme.com/room/disgruntled
-" target="_blank">https://tryhackme.com/room/disgruntled
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/disgruntled.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/disgruntled.txt</a></td>
-</tr>
-<tr>
-<td align=left>Disk Analysis & Autopsy
-</td>
-<td align=left><a href="https://tryhackme.com/room/autopsy2ze0
-" target="_blank">https://tryhackme.com/room/autopsy2ze0
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/disk analysis & autopsy.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/disk analysis & autopsy.txt</a></td>
-</tr>
-<tr>
-<td align=left>DiskFiltration
-</td>
-<td align=left><a href="https://tryhackme.com/room/diskfiltration
-" target="_blank">https://tryhackme.com/room/diskfiltration
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/diskfiltration.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/diskfiltration.txt</a></td>
-</tr>
-<tr>
-<td align=left>Diskrupt
-</td>
-<td align=left><a href="https://tryhackme.com/room/diskrupt
-" target="_blank">https://tryhackme.com/room/diskrupt
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/diskrupt.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/diskrupt.txt</a></td>
-</tr>
-<tr>
-<td align=left>Dissecting PE Headers
-</td>
-<td align=left><a href="https://tryhackme.com/room/dissectingpeheaders
-" target="_blank">https://tryhackme.com/room/dissectingpeheaders
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/dissecting pe headers.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/dissecting pe headers.txt</a></td>
-</tr>
-<tr>
-<td align=left>DLL HIJACKING
-</td>
-<td align=left><a href="https://tryhackme.com/room/dllhijacking
-" target="_blank">https://tryhackme.com/room/dllhijacking
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/dll hijacking.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/dll hijacking.txt</a></td>
-</tr>
-<tr>
-<td align=left>DNS in detail
-</td>
-<td align=left><a href="https://tryhackme.com/room/dnsindetail
-" target="_blank">https://tryhackme.com/room/dnsindetail
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/dns in detail.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/dns in detail.txt</a></td>
-</tr>
-<tr>
-<td align=left>DNS Manipulation
-</td>
-<td align=left><a href="https://tryhackme.com/room/dnsmanipulation
-" target="_blank">https://tryhackme.com/room/dnsmanipulation
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/dns manipulation.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/dns manipulation.txt</a></td>
-</tr>
-<tr>
-<td align=left>DockMagic
-</td>
-<td align=left><a href="https://tryhackme.com/room/dockmagic
-" target="_blank">https://tryhackme.com/room/dockmagic
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/dockmagic.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/dockmagic.txt</a></td>
-</tr>
-<tr>
-<td align=left>Dodge
-</td>
-<td align=left><a href="https://tryhackme.com/room/dodge
-" target="_blank">https://tryhackme.com/room/dodge
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/dodge.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/dodge.txt</a></td>
-</tr>
-<tr>
-<td align=left>dogcat
-</td>
-<td align=left><a href="https://tryhackme.com/room/dogcat
-" target="_blank">https://tryhackme.com/room/dogcat
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/dogcat.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/dogcat.txt</a></td>
-</tr>
-<tr>
-<td align=left>DOM-Based Attacks
-</td>
-<td align=left><a href="https://tryhackme.com/room/dombasedattacks
-" target="_blank">https://tryhackme.com/room/dombasedattacks
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/dom-based attacks.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/dom-based attacks.txt</a></td>
-</tr>
-<tr>
-<td align=left>Dreaming
-</td>
-<td align=left><a href="https://tryhackme.com/room/dreaming
-" target="_blank">https://tryhackme.com/room/dreaming
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/dreaming.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/dreaming.txt</a></td>
-</tr>
-<tr>
-<td align=left>Dumping Router Firmware
-</td>
-<td align=left><a href="https://tryhackme.com/room/rfirmware
-" target="_blank">https://tryhackme.com/room/rfirmware
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/dumping router firmware.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/dumping router firmware.txt</a></td>
-</tr>
-<tr>
-<td align=left>Dunkle Materie
-</td>
-<td align=left><a href="https://tryhackme.com/room/dunklematerieptxc9
-" target="_blank">https://tryhackme.com/room/dunklematerieptxc9
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/dunkle materie.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/dunkle materie.txt</a></td>
-</tr>
-<tr>
-<td align=left>DVWA
-</td>
-<td align=left><a href="https://tryhackme.com/room/dvwa
-" target="_blank">https://tryhackme.com/room/dvwa
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/dvwa.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/dvwa.txt</a></td>
-</tr>
-<tr>
-<td align=left>DX1: Liberty Island
-</td>
-<td align=left><a href="https://tryhackme.com/room/dx1libertyislandplde
-" target="_blank">https://tryhackme.com/room/dx1libertyislandplde
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/dx1 liberty island.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/dx1 liberty island.txt</a></td>
-</tr>
-<tr>
-<td align=left>Dynamic Analysis: Debugging
-</td>
-<td align=left><a href="https://tryhackme.com/room/advanceddynamicanalysis
-" target="_blank">https://tryhackme.com/room/advanceddynamicanalysis
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/dynamic analysis debugging.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/dynamic analysis debugging.txt</a></td>
-</tr>
-<tr>
-<td align=left>DX2: Hell's Kitchen
-</td>
-<td align=left><a href="https://tryhackme.com/room/dx2hellskitchen
-" target="_blank">https://tryhackme.com/room/dx2hellskitchen
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/dx2 hells kitchen.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/dx2 hells kitchen.txt</a></td>
-</tr>
-<tr>
-<td align=left>Easy Peasy
-</td>
-<td align=left><a href="https://tryhackme.com/room/easypeasyctf
-" target="_blank">https://tryhackme.com/room/easypeasyctf
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/easy peasy.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/easy peasy.txt</a></td>
-</tr>
-<tr>
-<td align=left>Eavesdropper
-</td>
-<td align=left><a href="https://tryhackme.com/room/eavesdropper
-" target="_blank">https://tryhackme.com/room/eavesdropper
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/eavesdropper.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/eavesdropper.txt</a></td>
-</tr>
-<tr>
-<td align=left>El Bandito
-</td>
-<td align=left><a href="https://tryhackme.com/room/elbandito
-" target="_blank">https://tryhackme.com/room/elbandito
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/el bandito.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/el bandito.txt</a></td>
-</tr>
-<tr>
-<td align=left>Empire
-</td>
-<td align=left><a href="https://tryhackme.com/room/rppsempire
-" target="_blank">https://tryhackme.com/room/rppsempire
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/empire.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/empire.txt</a></td>
-</tr>
-<tr>
-<td align=left>Empline
-</td>
-<td align=left><a href="https://tryhackme.com/room/empline
-" target="_blank">https://tryhackme.com/room/empline
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/empline.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/empline.txt</a></td>
-</tr>
-<tr>
-<td align=left>En-pass
-</td>
-<td align=left><a href="https://tryhackme.com/room/enpass
-" target="_blank">https://tryhackme.com/room/enpass
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/en-pass.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/en-pass.txt</a></td>
-</tr>
-<tr>
-<td align=left>Encryption - Crypto 101
-</td>
-<td align=left><a href="https://tryhackme.com/room/encryptioncrypto101
-" target="_blank">https://tryhackme.com/room/encryptioncrypto101
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/encryption - crypto 101.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/encryption - crypto 101.txt</a></td>
-</tr>
-<tr>
-<td align=left>Enterprise
-</td>
-<td align=left><a href="https://tryhackme.com/room/enterprise
-" target="_blank">https://tryhackme.com/room/enterprise
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/enterprise.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/enterprise.txt</a></td>
-</tr>
-<tr>
-<td align=left>EnterPrize
-</td>
-<td align=left><a href="https://tryhackme.com/room/enterprize
-" target="_blank">https://tryhackme.com/room/enterprize
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/enterprize.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/enterprize.txt</a></td>
-</tr>
-<tr>
-<td align=left>Enumerating Active Directory
-</td>
-<td align=left><a href="https://tryhackme.com/room/adenumeration
-" target="_blank">https://tryhackme.com/room/adenumeration
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/enumerating active directory.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/enumerating active directory.txt</a></td>
-</tr>
-<tr>
-<td align=left>Enumeration & Brute Force
-</td>
-<td align=left><a href="https://tryhackme.com/room/enumerationbruteforce
-" target="_blank">https://tryhackme.com/room/enumerationbruteforce
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/enumeration & brute force.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/enumeration & brute force.txt</a></td>
-</tr>
-<tr>
-<td align=left>Enumeration
-</td>
-<td align=left><a href="https://tryhackme.com/room/enumerationpe
-" target="_blank">https://tryhackme.com/room/enumerationpe
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/enumeration.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/enumeration.txt</a></td>
-</tr>
-<tr>
-<td align=left>envizon
-</td>
-<td align=left><a href="https://tryhackme.com/room/envizon
-" target="_blank">https://tryhackme.com/room/envizon
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/envizon.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/envizon.txt</a></td>
-</tr>
-<tr>
-<td align=left>Epoch
-</td>
-<td align=left><a href="https://tryhackme.com/room/epoch
-" target="_blank">https://tryhackme.com/room/epoch
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/epoch.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/epoch.txt</a></td>
-</tr>
-<tr>
-<td align=left>Eradication & Remediation
-</td>
-<td align=left><a href="https://tryhackme.com/room/eradicationandremediation
-" target="_blank">https://tryhackme.com/room/eradicationandremediation
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/eradication & remediation.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/eradication & remediation.txt</a></td>
-</tr>
-<tr>
-<td align=left>Erit Securus I
-</td>
-<td align=left><a href="https://tryhackme.com/room/eritsecurusi
-" target="_blank">https://tryhackme.com/room/eritsecurusi
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/erit securus I.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/erit securus I.txt</a></td>
-</tr>
-<tr>
-<td align=left>Erlang/OTP SSH: CVE-2025-32433
-</td>
-<td align=left><a href="https://tryhackme.com/room/erlangotpsshcve202532433
-" target="_blank">https://tryhackme.com/room/erlangotpsshcve202532433
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/erlang otp ssh cve-2025-32433.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/erlang otp ssh cve-2025-32433.txt</a></td>
-</tr>
-<tr>
-<td align=left>Evading Logging and Monitoring
-</td>
-<td align=left><a href="https://tryhackme.com/room/monitoringevasion
-" target="_blank">https://tryhackme.com/room/monitoringevasion
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/evading logging and monitoring.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/evading logging and monitoring.txt</a></td>
-</tr>
-<tr>
-<td align=left>Eviction
-</td>
-<td align=left><a href="https://tryhackme.com/room/eviction
-" target="_blank">https://tryhackme.com/room/eviction
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/eviction.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/eviction.txt</a></td>
-</tr>
-<tr>
-<td align=left>Examinerx9
-</td>
-<td align=left><a href="https://tryhackme.com/room/Examinerctfx9
-" target="_blank">https://tryhackme.com/room/Examinerctfx9
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/examinerx9.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/examinerx9.txt</a></td>
-</tr>
-<tr>
-<td align=left>Exfilibur
-</td>
-<td align=left><a href="https://tryhackme.com/room/exfilibur
-" target="_blank">https://tryhackme.com/room/exfilibur
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/exfilibur.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/exfilibur.txt</a></td>
-</tr>
-<tr>
-<td align=left>ExfilNode
-</td>
-<td align=left><a href="https://tryhackme.com/room/exfilnode
-" target="_blank">https://tryhackme.com/room/exfilnode
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/exfilnode.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/exfilnode.txt</a></td>
-</tr>
-<tr>
-<td align=left>Expediting Registry Analysis
-</td>
-<td align=left><a href="https://tryhackme.com/room/expregistryforensics
-" target="_blank">https://tryhackme.com/room/expregistryforensics
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/expediting registry analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/expediting registry analysis.txt</a></td>
-</tr>
-<tr>
-<td align=left>Exploit Vulnerabilities
-</td>
-<td align=left><a href="https://tryhackme.com/room/exploitingavulnerabilityv2
-" target="_blank">https://tryhackme.com/room/exploitingavulnerabilityv2
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/exploit vulnerabilities.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/exploit vulnerabilities.txt</a></td>
-</tr>
-<tr>
-<td align=left>Exploiting Active Directory
-</td>
-<td align=left><a href="https://tryhackme.com/room/exploitingad
-" target="_blank">https://tryhackme.com/room/exploitingad
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/exploiting active directory.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/exploiting active directory.txt</a></td>
-</tr>
-<tr>
-<td align=left>Expose
-</td>
-<td align=left><a href="https://tryhackme.com/room/expose
-" target="_blank">https://tryhackme.com/room/expose
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/expose.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/expose.txt</a></td>
-</tr>
-<tr>
-<td align=left>EXT Analysis
-</td>
-<td align=left><a href="https://tryhackme.com/room/extanalysis
-" target="_blank">https://tryhackme.com/room/extanalysis
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ext analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ext analysis.txt</a></td>
-</tr>
-<tr>
-<td align=left>Extending Your Network
-</td>
-<td align=left><a href="https://tryhackme.com/room/extendingyournetwork
-" target="_blank">https://tryhackme.com/room/extendingyournetwork
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/extending your network.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/extending your network.txt</a></td>
-</tr>
-<tr>
-<td align=left>Extracted
-</td>
-<td align=left><a href="https://tryhackme.com/room/extractedroom
-" target="_blank">https://tryhackme.com/room/extractedroom
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/extracted.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/extracted.txt</a></td>
-</tr>
-<tr>
-<td align=left>FAT32 Analysis
-</td>
-<td align=left><a href="https://tryhackme.com/room/fat32analysis
-" target="_blank">https://tryhackme.com/room/fat32analysis
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/fat32 analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/fat32 analysis.txt</a></td>
-</tr>
-<tr>
-<td align=left>ffuf
-</td>
-<td align=left><a href="https://tryhackme.com/room/ffuf
-" target="_blank">https://tryhackme.com/room/ffuf
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ffuf.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ffuf.txt</a></td>
-</tr>
-<tr>
-<td align=left>File Carving
-</td>
-<td align=left><a href="https://tryhackme.com/room/filecarving
-" target="_blank">https://tryhackme.com/room/filecarving
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/file carving.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/file carving.txt</a></td>
-</tr>
-<tr>
-<td align=left>File Inclusion, Path Traversal
-</td>
-<td align=left><a href="https://tryhackme.com/room/filepathtraversal
-" target="_blank">https://tryhackme.com/room/filepathtraversal
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/file inclusion, path traversal.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/file inclusion, path traversal.txt</a></td>
-</tr>
-<tr>
-<td align=left>File Inclusion
-</td>
-<td align=left><a href="https://tryhackme.com/room/fileinc
-" target="_blank">https://tryhackme.com/room/fileinc
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/file inclusion.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/file inclusion.txt</a></td>
-</tr>
-<tr>
-<td align=left>FilePeek
-</td>
-<td align=left><a href="https://tryhackme.com/room/filepeek
-" target="_blank">https://tryhackme.com/room/filepeek
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/filepeek.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/filepeek.txt</a></td>
-</tr>
-<tr>
-<td align=left>Firewall Fundamentals
-</td>
-<td align=left><a href="https://tryhackme.com/room/firewallfundamentals
-" target="_blank">https://tryhackme.com/room/firewallfundamentals
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/firewall fundamentals.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/firewall fundamentals.txt</a></td>
-</tr>
-<tr>
-<td align=left>Firewalls
-</td>
-<td align=left><a href="https://tryhackme.com/room/redteamfirewalls
-" target="_blank">https://tryhackme.com/room/redteamfirewalls
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/firewalls.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/firewalls.txt</a></td>
-</tr>
-<tr>
-<td align=left>Fixit
-</td>
-<td align=left><a href="https://tryhackme.com/room/fixit
-" target="_blank">https://tryhackme.com/room/fixit
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/fixit.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/fixit.txt</a></td>
-</tr>
-<tr>
-<td align=left>Flag Vault
-</td>
-<td align=left><a href="https://tryhackme.com/room/hfb1flagvault
-" target="_blank">https://tryhackme.com/room/hfb1flagvault
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/flag vault.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/flag vault.txt</a></td>
-</tr>	
-<tr>
-<td align=left>Flag Vault 2
-</td>
-<td align=left><a href="https://tryhackme.com/room/hfb1flagvault2
-" target="_blank">https://tryhackme.com/room/hfb1flagvault2
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/flag vault 2.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/flag vault 2.txt</a></td>
-</tr>	
-<tr>
-<td align=left>FlareVM: Arsenal of Tools
-</td>
-<td align=left><a href="https://tryhackme.com/room/flarevmarsenaloftools
-" target="_blank">https://tryhackme.com/room/flarevmarsenaloftools
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/flarevm arsenal of tools.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/flarevm arsenal of tools.txt</a></td>
-</tr>
-<tr>
-<td align=left>Flatline
-</td>
-<td align=left><a href="https://tryhackme.com/room/flatline
-" target="_blank">https://tryhackme.com/room/flatline
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/flatline.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/flatline.txt</a></td>
-</tr>
-<tr>
-<td align=left>Flip
-</td>
-<td align=left><a href="https://tryhackme.com/room/flip
-" target="_blank">https://tryhackme.com/room/flip
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/flip.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/flip.txt</a></td>
-</tr>
-<tr>
-<td align=left>Follina MSDT
-</td>
-<td align=left><a href="https://tryhackme.com/room/follinamsdt
-" target="_blank">https://tryhackme.com/room/follinamsdt
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/follina msdt.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/follina msdt.txt</a></td>
-</tr>
-<tr>
-<td align=left>For Business Reasons
-</td>
-<td align=left><a href="https://tryhackme.com/room/forbusinessreasons
-" target="_blank">https://tryhackme.com/room/forbusinessreasons
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/for business reasons.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/for business reasons.txt</a></td>
-</tr>
-<tr>
-<td align=left>Forensic Imaging
-</td>
-<td align=left><a href="https://tryhackme.com/room/forensicimaging
-" target="_blank">https://tryhackme.com/room/forensicimaging
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/forensic imaging.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/forensic imaging.txt</a></td>
-</tr>
-<tr>
-<td align=left>Forensics
-</td>
-<td align=left><a href="https://tryhackme.com/room/forensics
-" target="_blank">https://tryhackme.com/room/forensics
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/forensics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/forensics.txt</a></td>
-</tr>
-<tr>
-<td align=left>Forgotten Implant
-</td>
-<td align=left><a href="https://tryhackme.com/room/forgottenimplant
-" target="_blank">https://tryhackme.com/room/forgottenimplant
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/forgotten implant.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/forgotten implant.txt</a></td>
-</tr>
-<tr>
-<td align=left>Fortress
-</td>
-<td align=left><a href="https://tryhackme.com/room/fortress
-" target="_blank">https://tryhackme.com/room/fortress
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/fortress.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/fortress.txt</a></td>
-</tr>
-<tr>
-<td align=left>Fowsniff CTF
-</td>
-<td align=left><a href="https://tryhackme.com/room/ctf
-" target="_blank">https://tryhackme.com/room/ctf
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/fowsniff ctf.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/fowsniff ctf.txt</a></td>
-</tr>
-<tr>
-<td align=left>Frank & Herby make an app
-</td>
-<td align=left><a href="https://tryhackme.com/room/frankandherby
-" target="_blank">https://tryhackme.com/room/frankandherby
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/frank & herby make an app.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/frank & herby make an app.txt</a></td>
-</tr>
-<tr>
-<td align=left>Frank and Herby try again.....
-</td>
-<td align=left><a href="https://tryhackme.com/room/frankandherbytryagain
-" target="_blank">https://tryhackme.com/room/frankandherbytryagain
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/frank and herby try again......txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/frank and herby try again......txt</a></td>
-</tr>
-<tr>
-<td align=left>Friday Overtime
-</td>
-<td align=left><a href="https://tryhackme.com/room/fridayovertime
-" target="_blank">https://tryhackme.com/room/fridayovertime
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/friday overtime.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/friday overtime.txt</a></td>
-</tr>
-<tr>
-<td align=left>Frosteau Busy with Vim
-</td>
-<td align=left><a href="https://tryhackme.com/room/busyvimfrosteau
-" target="_blank">https://tryhackme.com/room/busyvimfrosteau
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/frosteau busy with vim.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/frosteau busy with vim.txt</a></td>
-</tr>
-<tr>
-<td align=left>Fusion Corp
-</td>
-<td align=left><a href="https://tryhackme.com/room/fusioncorp
-" target="_blank">https://tryhackme.com/room/fusioncorp
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/fusion corp.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/fusion corp.txt</a></td>
-</tr>
-<tr>
-<td align=left>Gallery
-</td>
-<td align=left><a href="https://tryhackme.com/room/gallery666
-" target="_blank">https://tryhackme.com/room/gallery666
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/gallery.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/gallery.txt</a></td>
-</tr>
-<tr>
-<td align=left>Game Zone
-</td>
-<td align=left><a href="https://tryhackme.com/room/gamezone
-" target="_blank">https://tryhackme.com/room/gamezone
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/game zone.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/game zone.txt</a></td>
-</tr>
-<tr>
-<td align=left>GameBuzz
-</td>
-<td align=left><a href="https://tryhackme.com/room/gamebuzz
-" target="_blank">https://tryhackme.com/room/gamebuzz
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/gamebuzz.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/gamebuzz.txt</a></td>
-</tr>
-<tr>
-<td align=left>GamingServer
-</td>
-<td align=left><a href="https://tryhackme.com/room/gamingserver
-" target="_blank">https://tryhackme.com/room/gamingserver
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/gamingserver.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/gamingserver.txt</a></td>
-</tr>
-<tr>
-<td align=left>Gatekeeper
-</td>
-<td align=left><a href="https://tryhackme.com/room/gatekeeper
-" target="_blank">https://tryhackme.com/room/gatekeeper
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/gatekeeper.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/gatekeeper.txt</a></td>
-</tr>
-<tr>
-<td align=left>Geolocating Images
-</td>
-<td align=left><a href="https://tryhackme.com/room/geolocatingimages
-" target="_blank">https://tryhackme.com/room/geolocatingimages
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/geolocating images.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/geolocating images.txt</a></td>
-</tr>
-<tr>
-<td align=left>Getting Started
-</td>
-<td align=left><a href="https://tryhackme.com/room/gettingstarted
-" target="_blank">https://tryhackme.com/room/gettingstarted
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/getting started.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/getting started.txt</a></td>
-</tr>
-<tr>
-<td align=left>Ghizer
-</td>
-<td align=left><a href="https://tryhackme.com/room/ghizerctf
-" target="_blank">https://tryhackme.com/room/ghizerctf
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ghizer.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ghizer.txt</a></td>
-</tr>
-<tr>
-<td align=left>Git and Crumpets
-</td>
-<td align=left><a href="https://tryhackme.com/room/gitandcrumpets
-" target="_blank">https://tryhackme.com/room/gitandcrumpets
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/git and crumpets.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/git and crumpets.txt</a></td>
-</tr>
-<tr>
-<td align=left>Git Happens
-</td>
-<td align=left><a href="https://tryhackme.com/room/githappens
-" target="_blank">https://tryhackme.com/room/githappens
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/git happens.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/git happens.txt</a></td>
-</tr>
-<tr>
-<td align=left>GitLab CVE-2023-7028
-</td>
-<td align=left><a href="https://tryhackme.com/room/gitlabcve20237028
-" target="_blank">https://tryhackme.com/room/gitlabcve20237028
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/gitlab cve-2023-7028.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/gitlab cve-2023-7028.txt</a></td>
-</tr>
-<tr>
-<td align=left>GLITCH
-</td>
-<td align=left><a href="https://tryhackme.com/room/glitch
-" target="_blank">https://tryhackme.com/room/glitch
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/glitch.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/glitch.txt</a></td>
-</tr>
-<tr>
-<td align=left>Gobuster: The Basics
-</td>
-<td align=left><a href="https://tryhackme.com/room/gobusterthebasics
-" target="_blank">https://tryhackme.com/room/gobusterthebasics
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/gobuster the basics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/gobuster the basics.txt</a></td>
-</tr>
-<tr>
-<td align=left>GoldenEye
-</td>
-<td align=left><a href="https://tryhackme.com/room/goldeneye
-" target="_blank">https://tryhackme.com/room/goldeneye
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/goldeneye.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/goldeneye.txt</a></td>
-</tr>
-<tr>
-<td align=left>Google Dorking
-</td>
-<td align=left><a href="https://tryhackme.com/room/googledorking
-" target="_blank">https://tryhackme.com/room/googledorking
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/google dorking.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/google dorking.txt</a></td>
-</tr>
-<tr>
-<td align=left>Gotta Catch'em All!
-</td>
-<td align=left><a href="https://tryhackme.com/room/pokemon
-" target="_blank">https://tryhackme.com/room/pokemon
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/gotta catchem all!.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/gotta catchem all!.txt</a></td>
-</tr>
-<tr>
-<td align=left>Governance & Regulation
-</td>
-<td align=left><a href="https://tryhackme.com/room/cybergovernanceregulation
-" target="_blank">https://tryhackme.com/room/cybergovernanceregulation
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/governance & regulation.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/governance & regulation.txt</a></td>
-</tr>
-<tr>
-<td align=left>Grep
-</td>
-<td align=left><a href="https://tryhackme.com/room/greprtp
-" target="_blank">https://tryhackme.com/room/greprtp
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/grep.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/grep.txt</a></td>
-</tr>
-<tr>
-<td align=left>h4cked
-</td>
-<td align=left><a href="https://tryhackme.com/room/h4cked
-" target="_blank">https://tryhackme.com/room/h4cked
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/h4cked.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/h4cked.txt</a></td>
-</tr>
-<tr>
-<td align=left>HA Joker CTF
-</td>
-<td align=left><a href="https://tryhackme.com/room/jokerctf
-" target="_blank">https://tryhackme.com/room/jokerctf
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ha joker ctf.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ha joker ctf.txt</a></td>
-</tr>
-<tr>
-<td align=left>Hack Back
-</td>
-<td align=left><a href="https://tryhackme.com/room/hackback
-" target="_blank">https://tryhackme.com/room/hackback
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hack back.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hack back.txt</a></td>
-</tr>
-<tr>
-<td align=left>Hack Smarter Security
-</td>
-<td align=left><a href="https://tryhackme.com/room/hacksmartersecurity
-" target="_blank">https://tryhackme.com/room/hacksmartersecurity
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hack smarter security.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hack smarter security.txt</a></td>
-</tr>
-<tr>
-<td align=left>Hacker vs. Hacker
-</td>
-<td align=left><a href="https://tryhackme.com/room/hackervshacker
-" target="_blank">https://tryhackme.com/room/hackervshacker
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hacker vs. hacker.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hacker vs. hacker.txt</a></td>
-</tr>
-<tr>
-<td align=left>hackerNote
-</td>
-<td align=left><a href="https://tryhackme.com/room/hackernote
-" target="_blank">https://tryhackme.com/room/hackernote
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hackernote.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hackernote.txt</a></td>
-</tr>
-<tr>
-<td align=left>Hackfinity Battle
-</td>
-<td align=left><a href="https://tryhackme.com/room/HackfinityBattle
-" target="_blank">https://tryhackme.com/room/HackfinityBattle
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hackfinity battle.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hackfinity battle.txt</a></td>
-</tr>
-<tr>
-<td align=left>Hackfinity Battle Encore
-</td>
-<td align=left><a href="https://tryhackme.com/room/HackfinityBattleEncore
-" target="_blank">https://tryhackme.com/room/HackfinityBattleEncore
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hackfinity battle encore.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hackfinity battle encore.txt</a></td>
-</tr>
-<tr>
-<td align=left>Hacking Hadoop
-</td>
-<td align=left><a href="https://tryhackme.com/room/hackinghadoop
-" target="_blank">https://tryhackme.com/room/hackinghadoop
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hacking hadoop.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hacking hadoop.txt</a></td>
-</tr>
-<tr>
-<td align=left>Hacking with PowerShell
-</td>
-<td align=left><a href="https://tryhackme.com/room/powershell
-" target="_blank">https://tryhackme.com/room/powershell
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hacking with powershell.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hacking with powershell.txt</a></td>
-</tr>
-<tr>
-<td align=left>HackPark
-</td>
-<td align=left><a href="https://tryhackme.com/room/hackpark
-" target="_blank">https://tryhackme.com/room/hackpark
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hackpark.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hackpark.txt</a></td>
-</tr>
-<tr>
-<td align=left>Hamlet
-</td>
-<td align=left><a href="https://tryhackme.com/room/hamlet
-" target="_blank">https://tryhackme.com/room/hamlet
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hamlet.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hamlet.txt</a></td>
-</tr>
-<tr>
-<td align=left>Hammer
-</td>
-<td align=left><a href="https://tryhackme.com/room/hammer
-" target="_blank">https://tryhackme.com/room/hammer
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hammer.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hammer.txt</a></td>
-</tr>
-<tr>
-<td align=left>Hardening Basics Part 1
-</td>
-<td align=left><a href="https://tryhackme.com/room/hardeningbasicspart1
-" target="_blank">https://tryhackme.com/room/hardeningbasicspart1
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hardening basics part 1.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hardening basics part 1.txt</a></td>
-</tr>
-<tr>
-<td align=left>Hardening Basics Part 2
-</td>
-<td align=left><a href="https://tryhackme.com/room/hardeningbasicspart2
-" target="_blank">https://tryhackme.com/room/hardeningbasicspart2
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hardening basics part 2.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hardening basics part 2.txt</a></td>
-</tr>
-<tr>
-<td align=left>harder
-</td>
-<td align=left><a href="https://tryhackme.com/room/harder
-" target="_blank">https://tryhackme.com/room/harder
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/harder.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/harder.txt</a></td>
-</tr>
-<tr>
-<td align=left>Hashing - Crypto 101
-</td>
-<td align=left><a href="https://tryhackme.com/room/hashingcrypto101
-" target="_blank">https://tryhackme.com/room/hashingcrypto101
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hashing - crypto 101.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hashing - crypto 101.txt</a></td>
-</tr>
-<tr>
-<td align=left>Hashing Basics
-</td>
-<td align=left><a href="https://tryhackme.com/room/hashingbasics
-" target="_blank">https://tryhackme.com/room/hashingbasics
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hashing basics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hashing basics.txt</a></td>
-</tr>
-<tr>
-<td align=left>HaskHell
-</td>
-<td align=left><a href="https://tryhackme.com/room/haskhell
-" target="_blank">https://tryhackme.com/room/haskhell
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/haskhell.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/haskhell.txt</a></td>
-</tr>
-<tr>
-<td align=left>hc0n Christmas CTF
-</td>
-<td align=left><a href="https://tryhackme.com/room/hc0nchristmasctf
-" target="_blank">https://tryhackme.com/room/hc0nchristmasctf
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hc0n christmas ctf.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hc0n christmas ctf.txt</a></td>
-</tr>
-<tr>
-<td align=left>HeartBleed
-</td>
-<td align=left><a href="https://tryhackme.com/room/heartbleed
-" target="_blank">https://tryhackme.com/room/heartbleed
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/heartbleed.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/heartbleed.txt</a></td>
-</tr>
-<tr>
-<td align=left>Heist
-</td>
-<td align=left><a href="https://tryhackme.com/room/hfb1heist
-" target="_blank">https://tryhackme.com/room/hfb1heist
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/heist.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/heist.txt</a></td>
-</tr>
-<tr>
-<td align=left>Hijack
-</td>
-<td align=left><a href="https://tryhackme.com/room/hijack
-" target="_blank">https://tryhackme.com/room/hijack
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hijack.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hijack.txt</a></td>
-</tr>
-<tr>
-<td align=left>Hip Flask
-</td>
-<td align=left><a href="https://tryhackme.com/room/hipflask
-" target="_blank">https://tryhackme.com/room/hipflask
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hip flask.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hip flask.txt</a></td>
-</tr>
-<tr>
-<td align=left>History of Malware
-</td>
-<td align=left><a href="https://tryhackme.com/room/historyofmalware
-" target="_blank">https://tryhackme.com/room/historyofmalware
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/history of malware.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/history of malware.txt</a></td>
-</tr>
-<tr>
-<td align=left>Holo
-</td>
-<td align=left><a href="https://tryhackme.com/room/hololive
-" target="_blank">https://tryhackme.com/room/hololive
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/holo.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/holo.txt</a></td>
-</tr>
-<tr>
-<td align=left>Hosted Hypervisors
-</td>
-<td align=left><a href="https://tryhackme.com/room/hostedhypervisors
-" target="_blank">https://tryhackme.com/room/hostedhypervisors
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hosted hypervisors.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hosted hypervisors.txt</a></td>
-</tr>
-<tr>
-<td align=left>How to use TryHackMe
-</td>
-<td align=left><a href="https://tryhackme.com/room/howtousetryhackme
-" target="_blank">https://tryhackme.com/room/howtousetryhackme
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/how to use tryhackme.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/how to use tryhackme.txt</a></td>
-</tr>
-<tr>
-<td align=left>How Websites Work
-</td>
-<td align=left><a href="https://tryhackme.com/room/howwebsiteswork
-" target="_blank">https://tryhackme.com/room/howwebsiteswork
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/how websites work.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/how websites work.txt</a></td>
-</tr>
-<tr>
-<td align=left>HTTP Browser Desync
-</td>
-<td align=left><a href="https://tryhackme.com/room/requestsmugglingbrowserdesync
-" target="_blank">https://tryhackme.com/room/requestsmugglingbrowserdesync
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/http browser desync.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/http browser desync.txt</a></td>
-</tr>
-<tr>
-<td align=left>HTTP in Detail
-</td>
-<td align=left><a href="https://tryhackme.com/room/httpindetail
-" target="_blank">https://tryhackme.com/room/httpindetail
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/http in detail.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/http in detail.txt</a></td>
-</tr>
-<tr>
-<td align=left>HTTP Request Smuggling
-</td>
-<td align=left><a href="https://tryhackme.com/room/httprequestsmuggling
-" target="_blank">https://tryhackme.com/room/httprequestsmuggling
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/http request smuggling.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/http request smuggling.txt</a></td>
-</tr>
-<tr>
-<td align=left>HTTP/2 Request Smuggling
-</td>
-<td align=left><a href="https://tryhackme.com/room/http2requestsmuggling
-" target="_blank">https://tryhackme.com/room/http2requestsmuggling
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/http2 request smuggling.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/http2 request smuggling.txt</a></td>
-</tr>
-<tr>
-<td align=left>Hunt Me I: Payment Collectors
-</td>
-<td align=left><a href="https://tryhackme.com/room/paymentcollectors
-" target="_blank">https://tryhackme.com/room/paymentcollectors
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hunt me i payment collectors.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hunt me i payment collectors.txt</a></td>
-</tr>
-<tr>
-<td align=left>Hunt Me II: Typo Squatters
-</td>
-<td align=left><a href="https://tryhackme.com/room/typosquatters
-" target="_blank">https://tryhackme.com/room/typosquatters
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hunt me ii typo squatters.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hunt me ii typo squatters.txt</a></td>
-</tr>
-<tr>
-<td align=left>Hydra
-</td>
-<td align=left><a href="https://tryhackme.com/room/hydra
-" target="_blank">https://tryhackme.com/room/hydra
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hydra.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hydra.txt</a></td>
-</tr>
-<tr>
-<td align=left>Hypervisor Internals
-</td>
-<td align=left><a href="https://tryhackme.com/room/hypervisorinternals
-" target="_blank">https://tryhackme.com/room/hypervisorinternals
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/hypervisor internals.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/hypervisor internals.txt</a></td>
-</tr>
-<tr>
-<td align=left>IAM Credentials
-</td>
-<td align=left><a href="https://tryhackme.com/room/iamcredentials
-" target="_blank">https://tryhackme.com/room/iamcredentials
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/iam credentials.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/iam credentials.txt</a></td>
-</tr>
-<tr>
-<td align=left>IAM Permissions
-</td>
-<td align=left><a href="https://tryhackme.com/room/iampermissions
-" target="_blank">https://tryhackme.com/room/iampermissions
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/iam permissions.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/iam permissions.txt</a></td>
-</tr>
-<tr>
-<td align=left>IAM Principals
-</td>
-<td align=left><a href="https://tryhackme.com/room/iamprincipals
-" target="_blank">https://tryhackme.com/room/iamprincipals
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/iam principals.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/iam principals.txt</a></td>
-</tr>
-<tr>
-<td align=left>Ice
-</td>
-<td align=left><a href="https://tryhackme.com/room/ice
-" target="_blank">https://tryhackme.com/room/ice
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ice.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ice.txt</a></td>
-</tr>
-<tr>
-<td align=left>IDE
-</td>
-<td align=left><a href="https://tryhackme.com/room/ide
-" target="_blank">https://tryhackme.com/room/ide
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ide.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ide.txt</a></td>
-</tr>
-<tr>
-<td align=left>Identification & Scoping
-</td>
-<td align=left><a href="https://tryhackme.com/room/identificationandscoping
-" target="_blank">https://tryhackme.com/room/identificationandscoping
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/identification & scoping.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/identification & scoping.txt</a></td>
-</tr>
-<tr>
-<td align=left>Identity and Access Management
-</td>
-<td align=left><a href="https://tryhackme.com/room/iaaaidm
-" target="_blank">https://tryhackme.com/room/iaaaidm
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/identity and access management.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/identity and access management.txt</a></td>
-</tr>
-<tr>
-<td align=left>IDOR
-</td>
-<td align=left><a href="https://tryhackme.com/room/idor
-" target="_blank">https://tryhackme.com/room/idor
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/idor.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/idor.txt</a></td>
-</tr>
-<tr>
-<td align=left>IDS Fundamentals
-</td>
-<td align=left><a href="https://tryhackme.com/room/idsfundamentals
-" target="_blank">https://tryhackme.com/room/idsfundamentals
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ids fundamentals.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ids fundamentals.txt</a></td>
-</tr>
-<tr>
-<td align=left>Ignite
-</td>
-<td align=left><a href="https://tryhackme.com/room/ignite
-" target="_blank">https://tryhackme.com/room/ignite
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ignite.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ignite.txt</a></td>
-</tr>
-<tr>
-<td align=left>Incident handling with Splunk
-</td>
-<td align=left><a href="https://tryhackme.com/room/splunk201
-" target="_blank">https://tryhackme.com/room/splunk201
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/incident handling with splunk.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/incident handling with splunk.txt</a></td>
-</tr>
-<tr>
-<td align=left>Incident Response Fundamentals
-</td>
-<td align=left><a href="https://tryhackme.com/room/incidentresponsefundamentals
-" target="_blank">https://tryhackme.com/room/incidentresponsefundamentals
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/incident response fundamentals.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/incident response fundamentals.txt</a></td>
-</tr>
-<tr>
-<td align=left>Incident Response Process
-</td>
-<td align=left><a href="https://tryhackme.com/room/incidentresponseprocess
-" target="_blank">https://tryhackme.com/room/incidentresponseprocess
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/incident response process.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/incident response process.txt</a></td>
-</tr>
-<tr>
-<td align=left>Include
-</td>
-<td align=left><a href="https://tryhackme.com/room/include
-" target="_blank">https://tryhackme.com/room/include
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/include.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/include.txt</a></td>
-</tr>
-<tr>
-<td align=left>Inferno
-</td>
-<td align=left><a href="https://tryhackme.com/room/inferno
-" target="_blank">https://tryhackme.com/room/inferno
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/inferno.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/inferno.txt</a></td>
-</tr>
-<tr>
-<td align=left>Injectics
-</td>
-<td align=left><a href="https://tryhackme.com/room/injectics
-" target="_blank">https://tryhackme.com/room/injectics
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/injectics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/injectics.txt</a></td>
-</tr>
-<tr>
-<td align=left>Insecure Deserialisation
-</td>
-<td align=left><a href="https://tryhackme.com/room/insecuredeserialisation
-" target="_blank">https://tryhackme.com/room/insecuredeserialisation
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/insecure deserialisation.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/insecure deserialisation.txt</a></td>
-</tr>
-<tr>
-<td align=left>Insecure Randomness
-</td>
-<td align=left><a href="https://tryhackme.com/room/insecurerandomness
-" target="_blank">https://tryhackme.com/room/insecurerandomness
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/insecure randomness.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/insecure randomness.txt</a></td>
-</tr>
-<tr>
-<td align=left>Insekube
-</td>
-<td align=left><a href="https://tryhackme.com/room/insekube
-" target="_blank">https://tryhackme.com/room/insekube
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/insekube.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/insekube.txt</a></td>
-</tr>
-<tr>
-<td align=left>Intermediate Nmap
-</td>
-<td align=left><a href="https://tryhackme.com/room/intermediatenmap
-" target="_blank">https://tryhackme.com/room/intermediatenmap
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intermediate nmap.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intermediate nmap.txt</a></td>
-</tr>
-<tr>
-<td align=left>Internal
-</td>
-<td align=left><a href="https://tryhackme.com/room/internal
-" target="_blank">https://tryhackme.com/room/internal
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/internal.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/internal.txt</a></td>
-</tr>
-<tr>
-<td align=left>Intranet
-</td>
-<td align=left><a href="https://tryhackme.com/room/securesolacodersintra
-" target="_blank">https://tryhackme.com/room/securesolacodersintra
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intranet.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intranet.txt</a></td>
-</tr>
-<tr>
-<td align=left>Intro PoC Scripting
-</td>
-<td align=left><a href="https://tryhackme.com/room/intropocscripting
-" target="_blank">https://tryhackme.com/room/intropocscripting
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro poc scripting.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro poc scripting.txt</a></td>
-</tr>
-<tr>
-<td align=left>Intro to C2
-</td>
-<td align=left><a href="https://tryhackme.com/room/introtoc2
-" target="_blank">https://tryhackme.com/room/introtoc2
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to c2.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to c2.txt</a></td>
-</tr>
-<tr>
-<td align=left>Intro to Cloud Security
-</td>
-<td align=left><a href="https://tryhackme.com/room/introductiontocloudsecurityc6
-" target="_blank">https://tryhackme.com/room/introductiontocloudsecurityc6
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to cloud security.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to cloud security.txt</a></td>
-</tr>
-<tr>
-<td align=left>Intro to Cold System Forensics
-</td>
-<td align=left><a href="https://tryhackme.com/room/introtocoldsystemforensics
-" target="_blank">https://tryhackme.com/room/introtocoldsystemforensics
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to cold system forensics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to cold system forensics.txt</a></td>
-</tr>
-<tr>
-<td align=left>Intro to Containerisation
-</td>
-<td align=left><a href="https://tryhackme.com/room/introtocontainerisation
-" target="_blank">https://tryhackme.com/room/introtocontainerisation
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to containerisation.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to containerisation.txt</a></td>
-</tr>
-<tr>
-<td align=left>Intro to Cross-site Scripting
-</td>
-<td align=left><a href="https://tryhackme.com/room/xss
-" target="_blank">https://tryhackme.com/room/xss
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to cross-site scripting.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to cross-site scripting.txt</a></td>
-</tr>
-<tr>
-<td align=left>Intro to Cyber Threat Intel
-</td>
-<td align=left><a href="https://tryhackme.com/room/cyberthreatintel
-" target="_blank">https://tryhackme.com/room/cyberthreatintel
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to cyber threat intel.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to cyber threat intel.txt</a></td>
-</tr>
-<tr>
-<td align=left>Intro to Detection Engineering
-</td>
-<td align=left><a href="https://tryhackme.com/room/introtodetectionengineering
-" target="_blank">https://tryhackme.com/room/introtodetectionengineering
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to detection engineering.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to detection engineering.txt</a></td>
-</tr>
-<tr>
-<td align=left>Intro to Digital Forensics
-</td>
-<td align=left><a href="https://tryhackme.com/room/introdigitalforensics
-" target="_blank">https://tryhackme.com/room/introdigitalforensics
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to digital forensics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to digital forensics.txt</a></td>
-</tr>
-<tr>
-<td align=left>Intro to Docker
-</td>
-<td align=left><a href="https://tryhackme.com/room/introtodockerk8pdqk
-" target="_blank">https://tryhackme.com/room/introtodockerk8pdqk
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to docker.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to docker.txt</a></td>
-</tr>
-<tr>
-<td align=left>Intro to Endpoint Security
-</td>
-<td align=left><a href="https://tryhackme.com/room/introtoendpointsecurity
-" target="_blank">https://tryhackme.com/room/introtoendpointsecurity
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to endpoint security.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to endpoint security.txt</a></td>
-</tr>
-<tr>
-<td align=left>Intro to GraphQL Hacking
-</td>
-<td align=left><a href="https://tryhackme.com/room/introtographqlhacking
-" target="_blank">https://tryhackme.com/room/introtographqlhacking
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to graphql hacking.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to graphql hacking.txt</a></td>
-</tr>
-<tr>
-<td align=left>Intro to IaC
-</td>
-<td align=left><a href="https://tryhackme.com/room/introtoiac
-" target="_blank">https://tryhackme.com/room/introtoiac
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to iac.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to iac.txt</a></td>
-</tr>
-<tr>
-<td align=left>Intro to IoT Pentesting
-</td>
-<td align=left><a href="https://tryhackme.com/room/iotintro
-" target="_blank">https://tryhackme.com/room/iotintro
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to iot pentesting.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to iot pentesting.txt</a></td>
-</tr>
-<tr>
-<td align=left>Intro to IR and IM
-</td>
-<td align=left><a href="https://tryhackme.com/room/introtoirandim
-" target="_blank">https://tryhackme.com/room/introtoirandim
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to ir and im.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to ir and im.txt</a></td>
-</tr>
-<tr>
-<td align=left>Intro to Kubernetes
-</td>
-<td align=left><a href="https://tryhackme.com/room/introtok8s
-" target="_blank">https://tryhackme.com/room/introtok8s
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to kubernetes.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to kubernetes.txt</a></td>
-</tr>
-<tr>
-<td align=left>Intro to LAN
-</td>
-<td align=left><a href="https://tryhackme.com/room/introtolan
-" target="_blank">https://tryhackme.com/room/introtolan
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to lan.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to lan.txt</a></td>
-</tr>
-<tr>
-<td align=left>Intro to Log Analysis
-</td>
-<td align=left><a href="https://tryhackme.com/room/introtologanalysis
-" target="_blank">https://tryhackme.com/room/introtologanalysis
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to log analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to log analysis.txt</a></td>
-</tr>
-<tr>
-<td align=left>Intro to Logs
-</td>
-<td align=left><a href="https://tryhackme.com/room/introtologs
-" target="_blank">https://tryhackme.com/room/introtologs
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to logs.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to logs.txt</a></td>
-</tr>
-<tr>
-<td align=left>Intro to Malware Analysis
-</td>
-<td align=left><a href="https://tryhackme.com/room/intromalwareanalysis
-" target="_blank">https://tryhackme.com/room/intromalwareanalysis
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to malware analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to malware analysis.txt</a></td>
-</tr>
-<tr>
-<td align=left>Intro to Pipeline Automation
-</td>
-<td align=left><a href="https://tryhackme.com/room/introtopipelineautomation
-" target="_blank">https://tryhackme.com/room/introtopipelineautomation
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to pipeline automation.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to pipeline automation.txt</a></td>
-</tr>
-<tr>
-<td align=left>Intro To Pwntools
-</td>
-<td align=left><a href="https://tryhackme.com/room/introtopwntools
-" target="_blank">https://tryhackme.com/room/introtopwntools
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to pwntools.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to pwntools.txt</a></td>
-</tr>
-<tr>
-<td align=left>Intro to SSRF
-</td>
-<td align=left><a href="https://tryhackme.com/room/ssrfqi
-" target="_blank">https://tryhackme.com/room/ssrfqi
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to ssrf.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to ssrf.txt</a></td>
-</tr>
-<tr>
-<td align=left>Intro to Threat Emulation
-</td>
-<td align=left><a href="https://tryhackme.com/room/threatemulationintro
-" target="_blank">https://tryhackme.com/room/threatemulationintro
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to threat emulation.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intro to threat emulation.txt</a></td>
-</tr>
-<tr>
-<td align=left>Introduction to Antivirus
-</td>
-<td align=left><a href="https://tryhackme.com/room/introtoav
-" target="_blank">https://tryhackme.com/room/introtoav
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/introduction to antivirus.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/introduction to antivirus.txt</a></td>
-</tr>
-<tr>
-<td align=left>Introduction to AWS IAM
-</td>
-<td align=left><a href="https://tryhackme.com/room/introductiontoawsiam
-" target="_blank">https://tryhackme.com/room/introductiontoawsiam
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/introduction to aws iam.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/introduction to aws iam.txt</a></td>
-</tr>
-<tr>
-<td align=left>Introduction to Cryptography
-</td>
-<td align=left><a href="https://tryhackme.com/room/cryptographyintro
-" target="_blank">https://tryhackme.com/room/cryptographyintro
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/introduction to cryptography.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/introduction to cryptography.txt</a></td>
-</tr>
-<tr>
-<td align=left>Introduction to CryptOps
-</td>
-<td align=left><a href="https://tryhackme.com/room/introductiontocryptops
-" target="_blank">https://tryhackme.com/room/introductiontocryptops
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/introduction to cryptops.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/introduction to cryptops.txt</a></td>
-</tr>
-<tr>
-<td align=left>Introduction to DevSecOps
-</td>
-<td align=left><a href="https://tryhackme.com/room/introductiontodevsecops
-" target="_blank">https://tryhackme.com/room/introductiontodevsecops
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/introduction to devsecops.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/introduction to devsecops.txt</a></td>
-</tr>
-<tr>
-<td align=left>Introduction to Django
-</td>
-<td align=left><a href="https://tryhackme.com/room/django
-" target="_blank">https://tryhackme.com/room/django
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/introduction to django.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/introduction to django.txt</a></td>
-</tr>
-<tr>
-<td align=left>Introduction to Flask
-</td>
-<td align=left><a href="https://tryhackme.com/room/flask
-" target="_blank">https://tryhackme.com/room/flask
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/introduction to flask.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/introduction to flask.txt</a></td>
-</tr>
-<tr>
-<td align=left>Introduction To Honeypots
-</td>
-<td align=left><a href="https://tryhackme.com/room/introductiontohoneypots
-" target="_blank">https://tryhackme.com/room/introductiontohoneypots
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/introduction to honeypots.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/introduction to honeypots.txt</a></td>
-</tr>
-<tr>
-<td align=left>Introduction to OWASP ZAP
-</td>
-<td align=left><a href="https://tryhackme.com/room/learnowaspzap
-" target="_blank">https://tryhackme.com/room/learnowaspzap
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/introduction to owasp zap.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/introduction to owasp zap.txt</a></td>
-</tr>
-<tr>
-<td align=left>Introduction to SIEM
-</td>
-<td align=left><a href="https://tryhackme.com/room/introtosiem
-" target="_blank">https://tryhackme.com/room/introtosiem
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/introduction to siem.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/introduction to siem.txt</a></td>
-</tr>
-<tr>
-<td align=left>Introduction to Windows API
-</td>
-<td align=left><a href="https://tryhackme.com/room/windowsapi
-" target="_blank">https://tryhackme.com/room/windowsapi
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/introduction to windows api.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/introduction to windows api.txt</a></td>
-</tr>
-<tr>
-<td align=left>Introductory Networking
-</td>
-<td align=left><a href="https://tryhackme.com/room/introtonetworking
-" target="_blank">https://tryhackme.com/room/introtonetworking
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/introductory networking.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/introductory networking.txt</a></td>
-</tr>
-<tr>
-<td align=left>Introductory Researching
-</td>
-<td align=left><a href="https://tryhackme.com/room/introtoresearch
-" target="_blank">https://tryhackme.com/room/introtoresearch
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/introductory researching.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/introductory researching.txt</a></td>
-</tr>
-<tr>
-<td align=left>Intrusion Detection
-</td>
-<td align=left><a href="https://tryhackme.com/room/idsevasion
-" target="_blank">https://tryhackme.com/room/idsevasion
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/intrusion detection.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/intrusion detection.txt</a></td>
-</tr>
-<tr>
-<td align=left>Investigating Windows 2.0
-</td>
-<td align=left><a href="https://tryhackme.com/room/investigatingwindows2
-" target="_blank">https://tryhackme.com/room/investigatingwindows2
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/investigating windows 2.0.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/investigating windows 2.0.txt</a></td>
-</tr>
-<tr>
-<td align=left>Investigating Windows 3.x
-</td>
-<td align=left><a href="https://tryhackme.com/room/investigatingwindows3
-" target="_blank">https://tryhackme.com/room/investigatingwindows3
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/investigating windows 3.x.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/investigating windows 3.x.txt</a></td>
-</tr>
-<tr>
-<td align=left>Investigating Windows
-</td>
-<td align=left><a href="https://tryhackme.com/room/investigatingwindows
-" target="_blank">https://tryhackme.com/room/investigatingwindows
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/investigating windows.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/investigating windows.txt</a></td>
-</tr>
-<tr>
-<td align=left>Investigating with ELK 101
-</td>
-<td align=left><a href="https://tryhackme.com/room/investigatingwithelk101
-" target="_blank">https://tryhackme.com/room/investigatingwithelk101
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/investigating with elk 101.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/investigating with elk 101.txt</a></td>
-</tr>
-<tr>
-<td align=left>Investigating with Splunk
-</td>
-<td align=left><a href="https://tryhackme.com/room/investigatingwithsplunk
-" target="_blank">https://tryhackme.com/room/investigatingwithsplunk
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/investigating with splunk.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/investigating with splunk.txt</a></td>
-</tr>
-<tr>
-<td align=left>iOS Analysis
-</td>
-<td align=left><a href="https://tryhackme.com/room/iosanalysis
-" target="_blank">https://tryhackme.com/room/iosanalysis
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ios analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ios analysis.txt</a></td>
-</tr>
-<tr>
-<td align=left>iOS Forensics
-</td>
-<td align=left><a href="https://tryhackme.com/room/iosforensics
-" target="_blank">https://tryhackme.com/room/iosforensics
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ios forensics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ios forensics.txt</a></td>
-</tr>
-<tr>
-<td align=left>IR Difficulties and Challenges
-</td>
-<td align=left><a href="https://tryhackme.com/room/irdifficultiesandchallenges
-" target="_blank">https://tryhackme.com/room/irdifficultiesandchallenges
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ir difficulties and challenges.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ir difficulties and challenges.txt</a></td>
-</tr>
-<tr>
-<td align=left>IR Philosophy and Ethics
-</td>
-<td align=left><a href="https://tryhackme.com/room/irphilosophyethics
-" target="_blank">https://tryhackme.com/room/irphilosophyethics
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ir philosophy and ethics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ir philosophy and ethics.txt</a></td>
-</tr>
-<tr>
-<td align=left>IR Playbooks
-</td>
-<td align=left><a href="https://tryhackme.com/room/irplaybooks
-" target="_blank">https://tryhackme.com/room/irplaybooks
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ir playbooks.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ir playbooks.txt</a></td>
-</tr>
-<tr>
-<td align=left>IR Timeline Analysis
-</td>
-<td align=left><a href="https://tryhackme.com/room/dfirtimelineanalysis
-" target="_blank">https://tryhackme.com/room/dfirtimelineanalysis
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ir timeline analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ir timeline analysis.txt</a></td>
-</tr>
-<tr>
-<td align=left>Iron Corp
-</td>
-<td align=left><a href="https://tryhackme.com/room/ironcorp
-" target="_blank">https://tryhackme.com/room/ironcorp
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/iron corp.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/iron corp.txt</a></td>
-</tr>
-<tr>
-<td align=left>IronShade
-</td>
-<td align=left><a href="https://tryhackme.com/room/ironshade
-" target="_blank">https://tryhackme.com/room/ironshade
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ironshade.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ironshade.txt</a></td>
-</tr>
-<tr>
-<td align=left>Island Orchestration
-</td>
-<td align=left><a href="https://tryhackme.com/room/islandorchestration
-" target="_blank">https://tryhackme.com/room/islandorchestration
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/island orchestration.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/island orchestration.txt</a></td>
-</tr>
-<tr>
-<td align=left>ISO27001
-</td>
-<td align=left><a href="https://tryhackme.com/room/iso27001
-" target="_blank">https://tryhackme.com/room/iso27001
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/iso27001.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/iso27001.txt</a></td>
-</tr>
-<tr>
-<td align=left>ItsyBitsy
-</td>
-<td align=left><a href="https://tryhackme.com/room/itsybitsy
-" target="_blank">https://tryhackme.com/room/itsybitsy
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/itsybitsy.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/itsybitsy.txt</a></td>
-</tr>
-<tr>
-<td align=left>Jack-of-All-Trades
-</td>
-<td align=left><a href="https://tryhackme.com/room/jackofalltrades
-" target="_blank">https://tryhackme.com/room/jackofalltrades
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/jack-of-all-trades.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/jack-of-all-trades.txt</a></td>
-</tr>
-<tr>
-<td align=left>Jack
-</td>
-<td align=left><a href="https://tryhackme.com/room/jack
-" target="_blank">https://tryhackme.com/room/jack
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/jack.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/jack.txt</a></td>
-</tr>
-<tr>
-<td align=left>Jacob the Boss
-</td>
-<td align=left><a href="https://tryhackme.com/room/jacobtheboss
-" target="_blank">https://tryhackme.com/room/jacobtheboss
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/jacob the boss.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/jacob the boss.txt</a></td>
-</tr>
-<tr>
-<td align=left>JavaScript Basics
-</td>
-<td align=left><a href="https://tryhackme.com/room/javascriptbasics
-" target="_blank">https://tryhackme.com/room/javascriptbasics
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/javascript basics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/javascript basics.txt</a></td>
-</tr>
-<tr>
-<td align=left>JavaScript Essentials
-</td>
-<td align=left><a href="https://tryhackme.com/room/javascriptessentials
-" target="_blank">https://tryhackme.com/room/javascriptessentials
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/javascript essentials.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/javascript essentials.txt</a></td>
-</tr>
-<tr>
-<td align=left>Jax sucks alot.............
-</td>
-<td align=left><a href="https://tryhackme.com/room/jason
-" target="_blank">https://tryhackme.com/room/jason
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/jax sucks alot..............txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/jax sucks alot..............txt</a></td>
-</tr>
-<tr>
-<td align=left>John the Ripper: The Basics
-</td>
-<td align=left><a href="https://tryhackme.com/room/johntheripperbasics
-" target="_blank">https://tryhackme.com/room/johntheripperbasics
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/john the ripper the basics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/john the ripper the basics.txt</a></td>
-</tr>
-<tr>
-<td align=left>Joomify CVE-2023-23752
-</td>
-<td align=left><a href="https://tryhackme.com/room/joomify
-" target="_blank">https://tryhackme.com/room/joomify
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/joomify cve-2023-23752.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/joomify cve-2023-23752.txt</a></td>
-</tr>
-<tr>
-<td align=left>JPGChat
-</td>
-<td align=left><a href="https://tryhackme.com/room/jpgchat
-" target="_blank">https://tryhackme.com/room/jpgchat
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/jpgchat.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/jpgchat.txt</a></td>
-</tr>
-<tr>
-<td align=left>Juicy Details
-</td>
-<td align=left><a href="https://tryhackme.com/room/juicydetails
-" target="_blank">https://tryhackme.com/room/juicydetails
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/juicy details.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/juicy details.txt</a></td>
-</tr>
-<tr>
-<td align=left>Junior Security Analyst Intro
-</td>
-<td align=left><a href="https://tryhackme.com/room/jrsecanalystintrouxo
-" target="_blank">https://tryhackme.com/room/jrsecanalystintrouxo
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/junior security analyst intro.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/junior security analyst intro.txt</a></td>
-</tr>
-<tr>
-<td align=left>Jupyter 101
-</td>
-<td align=left><a href="https://tryhackme.com/room/jupyter101
-" target="_blank">https://tryhackme.com/room/jupyter101
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/jupyter 101.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/jupyter 101.txt</a></td>
-</tr>
-<tr>
-<td align=left>Jurassic Park
-</td>
-<td align=left><a href="https://tryhackme.com/room/jurassicpark
-" target="_blank">https://tryhackme.com/room/jurassicpark
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/jurassic park.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/jurassic park.txt</a></td>
-</tr>
-<tr>
-<td align=left>JVM Reverse Engineering
-</td>
-<td align=left><a href="https://tryhackme.com/room/jvmreverseengineering
-" target="_blank">https://tryhackme.com/room/jvmreverseengineering
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/jvm reverse engineering.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/jvm reverse engineering.txt</a></td>
-</tr>
-<tr>
-<td align=left>JWT Security
-</td>
-<td align=left><a href="https://tryhackme.com/room/jwtsecurity
-" target="_blank">https://tryhackme.com/room/jwtsecurity
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/jwt security.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/jwt security.txt</a></td>
-</tr>
-<tr>
-<td align=left>K2
-</td>
-<td align=left><a href="https://tryhackme.com/room/k2room
-" target="_blank">https://tryhackme.com/room/k2room
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/k2.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/k2.txt</a></td>
-</tr>
-<tr>
-<td align=left>K8s Best Security Practices
-</td>
-<td align=left><a href="https://tryhackme.com/room/k8sbestsecuritypractices
-" target="_blank">https://tryhackme.com/room/k8sbestsecuritypractices
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/k8s best security practices.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/k8s best security practices.txt</a></td>
-</tr>
-<tr>
-<td align=left>K8s Runtime Security
-</td>
-<td align=left><a href="https://tryhackme.com/room/k8sruntimesecurity
-" target="_blank">https://tryhackme.com/room/k8sruntimesecurity
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/k8s runtime security.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/k8s runtime security.txt</a></td>
-</tr>
-<tr>
-<td align=left>KaffeeSec - SoMeSINT
-</td>
-<td align=left><a href="https://tryhackme.com/room/somesint
-" target="_blank">https://tryhackme.com/room/somesint
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/kaffeesec - somesint.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/kaffeesec - somesint.txt</a></td>
-</tr>
-<tr>
-<td align=left>Kali Machine
-</td>
-<td align=left><a href="https://tryhackme.com/room/kali
-" target="_blank">https://tryhackme.com/room/kali
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/kali machine.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/kali machine.txt</a></td>
-</tr>
-<tr>
-<td align=left>KAPE
-</td>
-<td align=left><a href="https://tryhackme.com/room/kape
-" target="_blank">https://tryhackme.com/room/kape
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/kape.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/kape.txt</a></td>
-</tr>
-<tr>
-<td align=left>Keldagrim
-</td>
-<td align=left><a href="https://tryhackme.com/room/keldagrim
-" target="_blank">https://tryhackme.com/room/keldagrim
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/keldagrim.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/keldagrim.txt</a></td>
-</tr>
-<tr>
-<td align=left>Kenobi
-</td>
-<td align=left><a href="https://tryhackme.com/room/kenobi
-" target="_blank">https://tryhackme.com/room/kenobi
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/kenobi.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/kenobi.txt</a></td>
-</tr>
-<tr>
-<td align=left>kiba
-</td>
-<td align=left><a href="https://tryhackme.com/room/kiba
-" target="_blank">https://tryhackme.com/room/kiba
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/kiba.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/kiba.txt</a></td>
-</tr>
-<tr>
-<td align=left>Kitty
-</td>
-<td align=left><a href="https://tryhackme.com/room/kitty
-" target="_blank">https://tryhackme.com/room/kitty
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/kitty.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/kitty.txt</a></td>
-</tr>
-<tr>
-<td align=left>KoTH Food CTF
-</td>
-<td align=left><a href="https://tryhackme.com/room/kothfoodctf
-" target="_blank">https://tryhackme.com/room/kothfoodctf
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/koth food ctf.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/koth food ctf.txt</a></td>
-</tr>
-<tr>
-<td align=left>KoTH Hackers
-</td>
-<td align=left><a href="https://tryhackme.com/room/kothhackers
-" target="_blank">https://tryhackme.com/room/kothhackers
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/koth hackers.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/koth hackers.txt</a></td>
-</tr>
-<tr>
-<td align=left>KQL (Kusto): Introduction
-</td>
-<td align=left><a href="https://tryhackme.com/room/kqlkustointroduction
-" target="_blank">https://tryhackme.com/room/kqlkustointroduction
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/kql kusto introduction.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/kql kusto introduction.txt</a></td>
-</tr>
-<tr>
-<td align=left>Kubernetes for Everyone
-</td>
-<td align=left><a href="https://tryhackme.com/room/kubernetesforyouly
-" target="_blank">https://tryhackme.com/room/kubernetesforyouly
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/kubernetes for everyone.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/kubernetes for everyone.txt</a></td>
-</tr>
-<tr>
-<td align=left>L2 MAC Flooding & ARP Spoofing
-</td>
-<td align=left><a href="https://tryhackme.com/room/layer2
-" target="_blank">https://tryhackme.com/room/layer2
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/l2 mac flooding & arp spoofing.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/l2 mac flooding & arp spoofing.txt</a></td>
-</tr>
-<tr>
-<td align=left>Lambda - Data Exfiltration
-</td>
-<td align=left><a href="https://tryhackme.com/room/lambdadataexfiltration
-" target="_blank">https://tryhackme.com/room/lambdadataexfiltration
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/lambda - data exfiltration.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/lambda - data exfiltration.txt</a></td>
-</tr>
-<tr>
-<td align=left>Lateral Movement and Pivoting
-</td>
-<td align=left><a href="https://tryhackme.com/room/lateralmovementandpivoting
-" target="_blank">https://tryhackme.com/room/lateralmovementandpivoting
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/lateral movement and pivoting.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/lateral movement and pivoting.txt</a></td>
-</tr>
-<tr>
-<td align=left>LazyAdmin
-</td>
-<td align=left><a href="https://tryhackme.com/room/lazyadmin
-" target="_blank">https://tryhackme.com/room/lazyadmin
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/lazyadmin.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/lazyadmin.txt</a></td>
-</tr>
-<tr>
-<td align=left>LDAP Injection
-</td>
-<td align=left><a href="https://tryhackme.com/room/ldapinjection
-" target="_blank">https://tryhackme.com/room/ldapinjection
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ldap injection.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ldap injection.txt</a></td>
-</tr>
-<tr>
-<td align=left>Learn and win prizes
-</td>
-<td align=left><a href="https://tryhackme.com/room/tickets1
-" target="_blank">https://tryhackme.com/room/tickets1
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/learn and win prizes.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/learn and win prizes.txt</a></td>
-</tr>
-<tr>
-<td align=left>Learn Rust
-</td>
-<td align=left><a href="https://tryhackme.com/room/rust
-" target="_blank">https://tryhackme.com/room/rust
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/learn rust.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/learn rust.txt</a></td>
-</tr>
-<tr>
-<td align=left>Learning Cyber Security
-</td>
-<td align=left><a href="https://tryhackme.com/room/beginnerpathintro
-" target="_blank">https://tryhackme.com/room/beginnerpathintro
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/learning cyber security.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/learning cyber security.txt</a></td>
-</tr>
-<tr>
-<td align=left>Ledger
-</td>
-<td align=left><a href="https://tryhackme.com/room/ledger
-" target="_blank">https://tryhackme.com/room/ledger
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ledger.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ledger.txt</a></td>
-</tr>
-<tr>
-<td align=left>Legal Considerations in DFIR
-</td>
-<td align=left><a href="https://tryhackme.com/room/dfirprocesslegalconsiderations
-" target="_blank">https://tryhackme.com/room/dfirprocesslegalconsiderations
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/legal considerations in dfir.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/legal considerations in dfir.txt</a></td>
-</tr>
-<tr>
-<td align=left>Length Extension Attacks
-</td>
-<td align=left><a href="https://tryhackme.com/room/lengthextensionattacks
-" target="_blank">https://tryhackme.com/room/lengthextensionattacks
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/length extension attacks.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/length extension attacks.txt</a></td>
-</tr>
-<tr>
-<td align=left>Lesson Learned?
-</td>
-<td align=left><a href="https://tryhackme.com/room/lessonlearned
-" target="_blank">https://tryhackme.com/room/lessonlearned
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/lesson learned.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/lesson learned.txt</a></td>
-</tr>
-<tr>
-<td align=left>Lessons Learned
-</td>
-<td align=left><a href="https://tryhackme.com/room/lessonslearned
-" target="_blank">https://tryhackme.com/room/lessonslearned
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/lessons learned.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/lessons learned.txt</a></td>
-</tr>
-<tr>
-<td align=left>Lian_Yu
-</td>
-<td align=left><a href="https://tryhackme.com/room/lianyu
-" target="_blank">https://tryhackme.com/room/lianyu
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/lian_yu.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/lian_yu.txt</a></td>
-</tr>
-<tr>
-<td align=left>Library
-</td>
-<td align=left><a href="https://tryhackme.com/room/bsidesgtlibrary
-" target="_blank">https://tryhackme.com/room/bsidesgtlibrary
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/library.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/library.txt</a></td>
-</tr>
-<tr>
-<td align=left>Light
-</td>
-<td align=left><a href="https://tryhackme.com/room/lightroom
-" target="_blank">https://tryhackme.com/room/lightroom
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/light.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/light.txt</a></td>
-</tr>
-<tr>
-<td align=left>Linux Agency
-</td>
-<td align=left><a href="https://tryhackme.com/room/linuxagency
-" target="_blank">https://tryhackme.com/room/linuxagency
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux agency.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux agency.txt</a></td>
-</tr>
-<tr>
-<td align=left>Linux Backdoors
-</td>
-<td align=left><a href="https://tryhackme.com/room/linuxbackdoors
-" target="_blank">https://tryhackme.com/room/linuxbackdoors
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux backdoors.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux backdoors.txt</a></td>
-</tr>
-<tr>
-<td align=left>Linux File System Analysis
-</td>
-<td align=left><a href="https://tryhackme.com/room/linuxfilesystemanalysis
-" target="_blank">https://tryhackme.com/room/linuxfilesystemanalysis
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux file system analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux file system analysis.txt</a></td>
-</tr>
-<tr>
-<td align=left>Linux Forensics
-</td>
-<td align=left><a href="https://tryhackme.com/room/linuxforensics
-" target="_blank">https://tryhackme.com/room/linuxforensics
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux forensics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux forensics.txt</a></td>
-</tr>
-<tr>
-<td align=left>Linux Function Hooking
-</td>
-<td align=left><a href="https://tryhackme.com/room/linuxfunctionhooking
-" target="_blank">https://tryhackme.com/room/linuxfunctionhooking
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux function hooking.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux function hooking.txt</a></td>
-</tr>
-<tr>
-<td align=left>Linux Fundamentals Part 1
-</td>
-<td align=left><a href="https://tryhackme.com/room/linuxfundamentalspart1
-" target="_blank">https://tryhackme.com/room/linuxfundamentalspart1
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux fundamentals part 1.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux fundamentals part 1.txt</a></td>
-</tr>
-<tr>
-<td align=left>Linux Fundamentals Part 2
-</td>
-<td align=left><a href="https://tryhackme.com/room/linuxfundamentalspart2
-" target="_blank">https://tryhackme.com/room/linuxfundamentalspart2
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux fundamentals part 2.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux fundamentals part 2.txt</a></td>
-</tr>
-<tr>
-<td align=left>Linux Fundamentals Part 3
-</td>
-<td align=left><a href="https://tryhackme.com/room/linuxfundamentalspart3
-" target="_blank">https://tryhackme.com/room/linuxfundamentalspart3
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux fundamentals part 3.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux fundamentals part 3.txt</a></td>
-</tr>
-<tr>
-<td align=left>Linux Incident Surface
-</td>
-<td align=left><a href="https://tryhackme.com/room/linuxincidentsurface
-" target="_blank">https://tryhackme.com/room/linuxincidentsurface
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux incident surface.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux incident surface.txt</a></td>
-</tr>
-<tr>
-<td align=left>Linux Live Analysis
-</td>
-<td align=left><a href="https://tryhackme.com/room/linuxliveanalysis
-" target="_blank">https://tryhackme.com/room/linuxliveanalysis
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux live analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux live analysis.txt</a></td>
-</tr>
-<tr>
-<td align=left>Linux: Local Enumeration
-</td>
-<td align=left><a href="https://tryhackme.com/room/lle
-" target="_blank">https://tryhackme.com/room/lle
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux local enumeration.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux local enumeration.txt</a></td>
-</tr>
-<tr>
-<td align=left>Linux Logs Investigations
-</td>
-<td align=left><a href="https://tryhackme.com/room/linuxlogsinvestigations
-" target="_blank">https://tryhackme.com/room/linuxlogsinvestigations
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux logs investigations.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux logs investigations.txt</a></td>
-</tr>
-<tr>
-<td align=left>Linux Modules
-</td>
-<td align=left><a href="https://tryhackme.com/room/linuxmodules
-" target="_blank">https://tryhackme.com/room/linuxmodules
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux modules.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux modules.txt</a></td>
-</tr>
-<tr>
-<td align=left>Linux PrivEsc Arena
-</td>
-<td align=left><a href="https://tryhackme.com/room/linuxprivescarena
-" target="_blank">https://tryhackme.com/room/linuxprivescarena
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux privesc arena.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux privesc arena.txt</a></td>
-</tr>
-<tr>
-<td align=left>Linux PrivEsc
-</td>
-<td align=left><a href="https://tryhackme.com/room/linuxprivesc
-" target="_blank">https://tryhackme.com/room/linuxprivesc
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux privesc.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux privesc.txt</a></td>
-</tr>
-<tr>
-<td align=left>Linux Privilege Escalation
-</td>
-<td align=left><a href="https://tryhackme.com/room/linprivesc
-" target="_blank">https://tryhackme.com/room/linprivesc
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux privilege escalation.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux privilege escalation.txt</a></td>
-</tr>
-<tr>
-<td align=left>Linux Process Analysis
-</td>
-<td align=left><a href="https://tryhackme.com/room/linuxprocessanalysis
-" target="_blank">https://tryhackme.com/room/linuxprocessanalysis
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux process analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux process analysis.txt</a></td>
-</tr>
-<tr>
-<td align=left>Linux Server Forensics
-</td>
-<td align=left><a href="https://tryhackme.com/room/linuxserverforensics
-" target="_blank">https://tryhackme.com/room/linuxserverforensics
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux server forensics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux server forensics.txt</a></td>
-</tr>
-<tr>
-<td align=left>Linux Shells
-</td>
-<td align=left><a href="https://tryhackme.com/room/linuxshells
-" target="_blank">https://tryhackme.com/room/linuxshells
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux shells.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux shells.txt</a></td>
-</tr>
-<tr>
-<td align=left>Linux Strength Training
-</td>
-<td align=left><a href="https://tryhackme.com/room/linuxstrengthtraining
-" target="_blank">https://tryhackme.com/room/linuxstrengthtraining
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux strength training.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux strength training.txt</a></td>
-</tr>
-<tr>
-<td align=left>Linux System Hardening
-</td>
-<td align=left><a href="https://tryhackme.com/room/linuxsystemhardening
-" target="_blank">https://tryhackme.com/room/linuxsystemhardening
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux system hardening.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/linux system hardening.txt</a></td>
-</tr>
-<tr>
-<td align=left>Living Off the Land
-</td>
-<td align=left><a href="https://tryhackme.com/room/livingofftheland
-" target="_blank">https://tryhackme.com/room/livingofftheland
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/living off the land.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/living off the land.txt</a></td>
-</tr>
-<tr>
-<td align=left>Lo-Fi
-</td>
-<td align=left><a href="https://tryhackme.com/room/lofi
-" target="_blank">https://tryhackme.com/room/lofi
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/lo-fi.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/lo-fi.txt</a></td>
-</tr>
-<tr>
-<td align=left>LocalPotato
-</td>
-<td align=left><a href="https://tryhackme.com/room/localpotato
-" target="_blank">https://tryhackme.com/room/localpotato
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/localpotato.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/localpotato.txt</a></td>
-</tr>
-<tr>
-<td align=left>Lockdown
-</td>
-<td align=left><a href="https://tryhackme.com/room/lockdown
-" target="_blank">https://tryhackme.com/room/lockdown
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/lockdown.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/lockdown.txt</a></td>
-</tr>
-<tr>
-<td align=left>Log Operations
-</td>
-<td align=left><a href="https://tryhackme.com/room/logoperations
-" target="_blank">https://tryhackme.com/room/logoperations
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/log operations.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/log operations.txt</a></td>
-</tr>
-<tr>
-<td align=left>Log Universe
-</td>
-<td align=left><a href="https://tryhackme.com/room/loguniverse
-" target="_blank">https://tryhackme.com/room/loguniverse
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/log universe.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/log universe.txt</a></td>
-</tr>
-<tr>
-<td align=left>Logging for Accountability
-</td>
-<td align=left><a href="https://tryhackme.com/room/loggingforaccountability
-" target="_blank">https://tryhackme.com/room/loggingforaccountability
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/logging for accountability.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/logging for accountability.txt</a></td>
-</tr>
-<tr>
-<td align=left>Logless Hunt
-</td>
-<td align=left><a href="https://tryhackme.com/room/loglesshunt
-" target="_blank">https://tryhackme.com/room/loglesshunt
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/logless hunt.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/logless hunt.txt</a></td>
-</tr>
-<tr>
-<td align=left>Logs Fundamentals
-</td>
-<td align=left><a href="https://tryhackme.com/room/logsfundamentals
-" target="_blank">https://tryhackme.com/room/logsfundamentals
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/logs fundamentals.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/logs fundamentals.txt</a></td>
-</tr>
-<tr>
-<td align=left>Logstash: Data Processing Unit
-</td>
-<td align=left><a href="https://tryhackme.com/room/logstash
-" target="_blank">https://tryhackme.com/room/logstash
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/logstash data processing unit.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/logstash data processing unit.txt</a></td>
-</tr>
-<tr>
-<td align=left>Lookback
-</td>
-<td align=left><a href="https://tryhackme.com/room/lookback
-" target="_blank">https://tryhackme.com/room/lookback
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/lookback.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/lookback.txt</a></td>
-</tr>
-<tr>
-<td align=left>Looking Glass
-</td>
-<td align=left><a href="https://tryhackme.com/room/lookingglass
-" target="_blank">https://tryhackme.com/room/lookingglass
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/looking glass.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/looking glass.txt</a></td>
-</tr>
-<tr>
-<td align=left>Lookup
-</td>
-<td align=left><a href="https://tryhackme.com/room/lookup
-" target="_blank">https://tryhackme.com/room/lookup
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/lookup.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/lookup.txt</a></td>
-</tr>
-<tr>
-<td align=left>Looney Tunables
-</td>
-<td align=left><a href="https://tryhackme.com/room/looneytunes
-" target="_blank">https://tryhackme.com/room/looneytunes
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/looney tunables.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/looney tunables.txt</a></td>
-</tr>
-<tr>
-<td align=left>Lumberjack Turtle
-</td>
-<td align=left><a href="https://tryhackme.com/room/lumberjackturtle
-" target="_blank">https://tryhackme.com/room/lumberjackturtle
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/lumberjack turtle.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/lumberjack turtle.txt</a></td>
-</tr>
-<tr>
-<td align=left>Lunizz CTF
-</td>
-<td align=left><a href="https://tryhackme.com/room/lunizzctfnd
-" target="_blank">https://tryhackme.com/room/lunizzctfnd
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/lunizz ctf.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/lunizz ctf.txt</a></td>
-</tr>
-<tr>
-<td align=left>M4tr1x: Exit Denied
-</td>
-<td align=left><a href="https://tryhackme.com/room/m4tr1xexitdenied
-" target="_blank">https://tryhackme.com/room/m4tr1xexitdenied
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/m4tr1x exit denied.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/m4tr1x exit denied.txt</a></td>
-</tr>
-<tr>
-<td align=left>macOS Forensics: Artefacts
-</td>
-<td align=left><a href="https://tryhackme.com/room/macosforensicsartefacts
-" target="_blank">https://tryhackme.com/room/macosforensicsartefacts
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/macos forensics artefacts.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/macos forensics artefacts.txt</a></td>
-</tr>
-<tr>
-<td align=left>macOS Forensics: The Basics
-</td>
-<td align=left><a href="https://tryhackme.com/room/macosforensicsbasics
-" target="_blank">https://tryhackme.com/room/macosforensicsbasics
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/macos forensics the basics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/macos forensics the basics.txt</a></td>
-</tr>
-<tr>
-<td align=left>Madeye's Castle
-</td>
-<td align=left><a href="https://tryhackme.com/room/madeyescastle
-" target="_blank">https://tryhackme.com/room/madeyescastle
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/madeyes castle.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/madeyes castle.txt</a></td>
-</tr>
-<tr>
-<td align=left>Madness
-</td>
-<td align=left><a href="https://tryhackme.com/room/madness
-" target="_blank">https://tryhackme.com/room/madness
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/madness.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/madness.txt</a></td>
-</tr>
-<tr>
-<td align=left>magician
-</td>
-<td align=left><a href="https://tryhackme.com/room/magician
-" target="_blank">https://tryhackme.com/room/magician
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/magician.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/magician.txt</a></td>
-</tr>
-<tr>
-<td align=left>MAL: Malware Introductory
-</td>
-<td align=left><a href="https://tryhackme.com/room/malmalintroductory
-" target="_blank">https://tryhackme.com/room/malmalintroductory
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/mal malware introductory.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/mal malware introductory.txt</a></td>
-</tr>
-<tr>
-<td align=left>MAL: REMnux - The Redux
-</td>
-<td align=left><a href="https://tryhackme.com/room/malremnuxv2
-" target="_blank">https://tryhackme.com/room/malremnuxv2
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/mal remnux - the redux.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/mal remnux - the redux.txt</a></td>
-</tr>
-<tr>
-<td align=left>MAL: Researching
-</td>
-<td align=left><a href="https://tryhackme.com/room/malresearching
-" target="_blank">https://tryhackme.com/room/malresearching
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/mal researching.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/mal researching.txt</a></td>
-</tr>
-<tr>
-<td align=left>MAL: Strings
-</td>
-<td align=left><a href="https://tryhackme.com/room/malstrings
-" target="_blank">https://tryhackme.com/room/malstrings
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/mal strings.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/mal strings.txt</a></td>
-</tr>
-<tr>
-<td align=left>MalBuster
-</td>
-<td align=left><a href="https://tryhackme.com/room/malbuster
-" target="_blank">https://tryhackme.com/room/malbuster
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/malbuster.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/malbuster.txt</a></td>
-</tr>
-<tr>
-<td align=left>MalDoc: Static Analysis
-</td>
-<td align=left><a href="https://tryhackme.com/room/maldoc
-" target="_blank">https://tryhackme.com/room/maldoc
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/maldoc static analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/maldoc static analysis.txt</a></td>
-</tr>
-<tr>
-<td align=left>Masterminds
-</td>
-<td align=left><a href="https://tryhackme.com/room/mastermindsxlq
-" target="_blank">https://tryhackme.com/room/mastermindsxlq
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/masterminds.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/masterminds.txt</a></td>
-</tr>
-<tr>
-<td align=left>Mayhem
-</td>
-<td align=left><a href="https://tryhackme.com/room/mayhemroom
-" target="_blank">https://tryhackme.com/room/mayhemroom
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/mayhem.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/mayhem.txt</a></td>
-</tr>
-<tr>
-<td align=left>MBR and GPT Analysis
-</td>
-<td align=left><a href="https://tryhackme.com/room/mbrandgptanalysis
-" target="_blank">https://tryhackme.com/room/mbrandgptanalysis
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/mbr and gpt analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/mbr and gpt analysis.txt</a></td>
-</tr>
-<tr>
-<td align=left>MD2PDF
-</td>
-<td align=left><a href="https://tryhackme.com/room/md2pdf
-" target="_blank">https://tryhackme.com/room/md2pdf
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/md2pdf.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/md2pdf.txt</a></td>
-</tr>
-<tr>
-<td align=left>Memory Acquisition
-</td>
-<td align=left><a href="https://tryhackme.com/room/memoryacquisition
-" target="_blank">https://tryhackme.com/room/memoryacquisition
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/memory acquisition.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/memory acquisition.txt</a></td>
-</tr>
-<tr>
-<td align=left>Memory Analysis Introduction
-</td>
-<td align=left><a href="https://tryhackme.com/room/memoryanalysisintroduction
-" target="_blank">https://tryhackme.com/room/memoryanalysisintroduction
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/memory analysis introduction.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/memory analysis introduction.txt</a></td>
-</tr>
-<tr>
-<td align=left>Memory Forensics
-</td>
-<td align=left><a href="https://tryhackme.com/room/memoryforensics
-" target="_blank">https://tryhackme.com/room/memoryforensics
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/memory forensics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/memory forensics.txt</a></td>
-</tr>
-<tr>
-<td align=left>Metamorphosis
-</td>
-<td align=left><a href="https://tryhackme.com/room/metamorphosis
-" target="_blank">https://tryhackme.com/room/metamorphosis
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/metamorphosis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/metamorphosis.txt</a></td>
-</tr>
-<tr>
-<td align=left>Metasploit: Exploitation
-</td>
-<td align=left><a href="https://tryhackme.com/room/metasploitexploitation
-" target="_blank">https://tryhackme.com/room/metasploitexploitation
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/metasploit exploitation.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/metasploit exploitation.txt</a></td>
-</tr>
-<tr>
-<td align=left>Metasploit Introduction
-</td>
-<td align=left><a href="https://tryhackme.com/room/metasploitintro
-" target="_blank">https://tryhackme.com/room/metasploitintro
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/metasploit introduction.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/metasploit introduction.txt</a></td>
-</tr>
-<tr>
-<td align=left>Metasploit: Meterpreter
-</td>
-<td align=left><a href="https://tryhackme.com/room/meterpreter
-" target="_blank">https://tryhackme.com/room/meterpreter
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/metasploit meterpreter.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/metasploit meterpreter.txt</a></td>
-</tr>
-<tr>
-<td align=left>Microservices Architectures
-</td>
-<td align=left><a href="https://tryhackme.com/room/microservicearchitectures
-" target="_blank">https://tryhackme.com/room/microservicearchitectures
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/microservices architectures.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/microservices architectures.txt</a></td>
-</tr>
-<tr>
-<td align=left>Microsoft Windows Hardening
-</td>
-<td align=left><a href="https://tryhackme.com/room/microsoftwindowshardening
-" target="_blank">https://tryhackme.com/room/microsoftwindowshardening
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/microsoft windows hardening.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/microsoft windows hardening.txt</a></td>
-</tr>
-<tr>
-<td align=left>Mindgames
-</td>
-<td align=left><a href="https://tryhackme.com/room/mindgames
-" target="_blank">https://tryhackme.com/room/mindgames
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/mindgames.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/mindgames.txt</a></td>
-</tr>
-<tr>
-<td align=left>Minotaur's Labyrinth
-</td>
-<td align=left><a href="https://tryhackme.com/room/labyrinth8llv
-" target="_blank">https://tryhackme.com/room/labyrinth8llv
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/minotaurs labyrinth.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/minotaurs labyrinth.txt</a></td>
-</tr>
-<tr>
-<td align=left>Misguided Ghosts
-</td>
-<td align=left><a href="https://tryhackme.com/room/misguidedghosts
-" target="_blank">https://tryhackme.com/room/misguidedghosts
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/misguided ghosts.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/misguided ghosts.txt</a></td>
-</tr>
-<tr>
-<td align=left>MISP
-</td>
-<td align=left><a href="https://tryhackme.com/room/misp
-" target="_blank">https://tryhackme.com/room/misp
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/misp.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/misp.txt</a></td>
-</tr>
-<tr>
-<td align=left>MITRE
-</td>
-<td align=left><a href="https://tryhackme.com/room/mitre
-" target="_blank">https://tryhackme.com/room/mitre
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/mitre.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/mitre.txt</a></td>
-</tr>
-<tr>
-<td align=left>mKingdom
-</td>
-<td align=left><a href="https://tryhackme.com/room/mkingdom
-" target="_blank">https://tryhackme.com/room/mkingdom
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/mkingdom.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/mkingdom.txt</a></td>
-</tr>
-<tr>
-<td align=left>Mnemonic
-</td>
-<td align=left><a href="https://tryhackme.com/room/mnemonic
-" target="_blank">https://tryhackme.com/room/mnemonic
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/mnemonic.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/mnemonic.txt</a></td>
-</tr>
-<tr>
-<td align=left>Mobile Acquisition
-</td>
-<td align=left><a href="https://tryhackme.com/room/mobileacquisition
-" target="_blank">https://tryhackme.com/room/mobileacquisition
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/mobile acquisition.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/mobile acquisition.txt</a></td>
-</tr>
-<tr>
-<td align=left>Mobile Malware Analysis
-</td>
-<td align=left><a href="https://tryhackme.com/room/mma
-" target="_blank">https://tryhackme.com/room/mma
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/mobile malware analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/mobile malware analysis.txt</a></td>
-</tr>
-<tr>
-<td align=left>Moebius
-</td>
-<td align=left><a href="https://tryhackme.com/room/moebius
-" target="_blank">https://tryhackme.com/room/moebius
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/moebius.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/moebius.txt</a></td>
-</tr>
-<tr>
-<td align=left>Monday Monitor
-</td>
-<td align=left><a href="https://tryhackme.com/room/mondaymonitor
-" target="_blank">https://tryhackme.com/room/mondaymonitor
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/monday monitor.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/monday monitor.txt</a></td>
-</tr>
-<tr>
-<td align=left>Moniker Link (CVE-2024-21413)
-</td>
-<td align=left><a href="https://tryhackme.com/room/monikerlink
-" target="_blank">https://tryhackme.com/room/monikerlink
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/moniker link (cve-2024-21413).txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/moniker link (cve-2024-21413).txt</a></td>
-</tr>
-<tr>
-<td align=left>Mother's Secret
-</td>
-<td align=left><a href="https://tryhackme.com/room/codeanalysis
-" target="_blank">https://tryhackme.com/room/codeanalysis
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/mothers secret.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/mothers secret.txt</a></td>
-</tr>
-<tr>
-<td align=left>Motunui
-</td>
-<td align=left><a href="https://tryhackme.com/room/motunui
-" target="_blank">https://tryhackme.com/room/motunui
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/motunui.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/motunui.txt</a></td>
-</tr>
-<tr>
-<td align=left>Mountaineer
-</td>
-<td align=left><a href="https://tryhackme.com/room/mountaineerlinux
-" target="_blank">https://tryhackme.com/room/mountaineerlinux
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/mountaineer.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/mountaineer.txt</a></td>
-</tr>
-<tr>
-<td align=left>Mouse Trap
-</td>
-<td align=left><a href="https://tryhackme.com/room/mousetrap
-" target="_blank">https://tryhackme.com/room/mousetrap
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/mouse trap.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/mouse trap.txt</a></td>
-</tr>
-<tr>
-<td align=left>Mr Robot CTF
-</td>
-<td align=left><a href="https://tryhackme.com/room/mrrobot
-" target="_blank">https://tryhackme.com/room/mrrobot
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/mr robot ctf.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/mr robot ctf.txt</a></td>
-</tr>
-<tr>
-<td align=left>Mr. Phisher
-</td>
-<td align=left><a href="https://tryhackme.com/room/mrphisher
-" target="_blank">https://tryhackme.com/room/mrphisher
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/mr. phisher.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/mr. phisher.txt</a></td>
-</tr>
-<tr>
-<td align=left>MS Sentinel: Introduction
-</td>
-<td align=left><a href="https://tryhackme.com/room/sentinelintroduction
-" target="_blank">https://tryhackme.com/room/sentinelintroduction
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ms sentinel introduction.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ms sentinel introduction.txt</a></td>
-</tr>
-<tr>
-<td align=left>MS Sentinel: Just Looking
-</td>
-<td align=left><a href="https://tryhackme.com/room/justlooking
-" target="_blank">https://tryhackme.com/room/justlooking
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ms sentinel just looking.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ms sentinel just looking.txt</a></td>
-</tr>
-<tr>
-<td align=left>Multi-Factor Authentication
-</td>
-<td align=left><a href="https://tryhackme.com/room/multifactorauthentications
-" target="_blank">https://tryhackme.com/room/multifactorauthentications
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/multi-factor authentication.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/multi-factor authentication.txt</a></td>
-</tr>
-<tr>
-<td align=left>Mustacchio
-</td>
-<td align=left><a href="https://tryhackme.com/room/mustacchio
-" target="_blank">https://tryhackme.com/room/mustacchio
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/mustacchio.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/mustacchio.txt</a></td>
-</tr>
-<tr>
-<td align=left>NahamStore
-</td>
-<td align=left><a href="https://tryhackme.com/room/nahamstore
-" target="_blank">https://tryhackme.com/room/nahamstore
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/nahamstore.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/nahamstore.txt</a></td>
-</tr>
-<tr>
-<td align=left>NanoCherryCTF
-</td>
-<td align=left><a href="https://tryhackme.com/room/nanocherryctf
-" target="_blank">https://tryhackme.com/room/nanocherryctf
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/nanocherryctf.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/nanocherryctf.txt</a></td>
-</tr>
-<tr>
-<td align=left>Napping
-</td>
-<td align=left><a href="https://tryhackme.com/room/nappingis1337
-" target="_blank">https://tryhackme.com/room/nappingis1337
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/napping.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/napping.txt</a></td>
-</tr>
-<tr>
-<td align=left>Nax
-</td>
-<td align=left><a href="https://tryhackme.com/room/nax
-" target="_blank">https://tryhackme.com/room/nax
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/nax.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/nax.txt</a></td>
-</tr>
-<tr>
-<td align=left>Neighbour
-</td>
-<td align=left><a href="https://tryhackme.com/room/neighbour
-" target="_blank">https://tryhackme.com/room/neighbour
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/neighbour.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/neighbour.txt</a></td>
-</tr>
-<tr>
-<td align=left>NerdHerd
-</td>
-<td align=left><a href="https://tryhackme.com/room/nerdherd
-" target="_blank">https://tryhackme.com/room/nerdherd
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/nerdherd.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/nerdherd.txt</a></td>
-</tr>
-<tr>
-<td align=left>Nessus
-</td>
-<td align=left><a href="https://tryhackme.com/room/rpnessusredux
-" target="_blank">https://tryhackme.com/room/rpnessusredux
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/nessus.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/nessus.txt</a></td>
-</tr>
-<tr>
-<td align=left>Net Sec Challenge
-</td>
-<td align=left><a href="https://tryhackme.com/room/netsecchallenge
-" target="_blank">https://tryhackme.com/room/netsecchallenge
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/net sec challenge.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/net sec challenge.txt</a></td>
-</tr>
-<tr>
-<td align=left>Network Device Hardening
-</td>
-<td align=left><a href="https://tryhackme.com/room/networkdevicehardening
-" target="_blank">https://tryhackme.com/room/networkdevicehardening
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/network device hardening.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/network device hardening.txt</a></td>
-</tr>
-<tr>
-<td align=left>Network Security Protocols
-</td>
-<td align=left><a href="https://tryhackme.com/room/networksecurityprotocols
-" target="_blank">https://tryhackme.com/room/networksecurityprotocols
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/network security protocols.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/network security protocols.txt</a></td>
-</tr>
-<tr>
-<td align=left>Network Security Solutions
-</td>
-<td align=left><a href="https://tryhackme.com/room/redteamnetsec
-" target="_blank">https://tryhackme.com/room/redteamnetsec
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/network security solutions.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/network security solutions.txt</a></td>
-</tr>
-<tr>
-<td align=left>Network Security
-</td>
-<td align=left><a href="https://tryhackme.com/room/intronetworksecurity
-" target="_blank">https://tryhackme.com/room/intronetworksecurity
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/network security.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/network security.txt</a></td>
-</tr>
-<tr>
-<td align=left>Network Services 2
-</td>
-<td align=left><a href="https://tryhackme.com/room/networkservices2
-" target="_blank">https://tryhackme.com/room/networkservices2
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/network services 2.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/network services 2.txt</a></td>
-</tr>
-<tr>
-<td align=left>Network Services
-</td>
-<td align=left><a href="https://tryhackme.com/room/networkservices
-" target="_blank">https://tryhackme.com/room/networkservices
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/network services.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/network services.txt</a></td>
-</tr>
-<tr>
-<td align=left>Networking Concepts
-</td>
-<td align=left><a href="https://tryhackme.com/room/networkingconcepts
-" target="_blank">https://tryhackme.com/room/networkingconcepts
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/networking concepts.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/networking concepts.txt</a></td>
-</tr>
-<tr>
-<td align=left>Networking Core Protocols
-</td>
-<td align=left><a href="https://tryhackme.com/room/networkingcoreprotocols
-" target="_blank">https://tryhackme.com/room/networkingcoreprotocols
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/networking core protocols.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/networking core protocols.txt</a></td>
-</tr>
-<tr>
-<td align=left>Networking Essentials
-</td>
-<td align=left><a href="https://tryhackme.com/room/networkingessentials
-" target="_blank">https://tryhackme.com/room/networkingessentials
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/networking essentials.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/networking essentials.txt</a></td>
-</tr>
-<tr>
-<td align=left>Networking Secure Protocols
-</td>
-<td align=left><a href="https://tryhackme.com/room/networkingsecureprotocols
-" target="_blank">https://tryhackme.com/room/networkingsecureprotocols
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/networking secure protocols.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/networking secure protocols.txt</a></td>
-</tr>
-<tr>
-<td align=left>NetworkMiner
-</td>
-<td align=left><a href="https://tryhackme.com/room/networkminer
-" target="_blank">https://tryhackme.com/room/networkminer
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/networkminer.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/networkminer.txt</a></td>
-</tr>
-<tr>
-<td align=left>New Hire Old Artifacts
-</td>
-<td align=left><a href="https://tryhackme.com/room/newhireoldartifacts
-" target="_blank">https://tryhackme.com/room/newhireoldartifacts
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/new hire old artifacts.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/new hire old artifacts.txt</a></td>
-</tr>
-<tr>
-<td align=left>Next.js: CVE-2025-29927
-</td>
-<td align=left><a href="https://tryhackme.com/room/nextjscve202529927
-" target="_blank">https://tryhackme.com/room/tnextjscve202529927
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/next.js cve-2025-29927.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/next.js cve-2025-29927.txt</a></td>
-</tr>
-<tr>
-<td align=left>New York Flankees
-</td>
-<td align=left><a href="https://tryhackme.com/room/thenewyorkflankees
-" target="_blank">https://tryhackme.com/room/thenewyorkflankees
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/new york flankees.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/new york flankees.txt</a></td>
-</tr>
-<tr>
-<td align=left>Ninja Skills
-</td>
-<td align=left><a href="https://tryhackme.com/room/ninjaskills
-" target="_blank">https://tryhackme.com/room/ninjaskills
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ninja skills.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ninja skills.txt</a></td>
-</tr>
-<tr>
-<td align=left>NIS - Linux Part I
-</td>
-<td align=left><a href="https://tryhackme.com/room/nislinuxone
-" target="_blank">https://tryhackme.com/room/nislinuxone
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/nis - linux part I.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/nis - linux part I.txt</a></td>
-</tr>
-<tr>
-<td align=left>Nmap Advanced Port Scans
-</td>
-<td align=left><a href="https://tryhackme.com/room/nmap03
-" target="_blank">https://tryhackme.com/room/nmap03
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/nmap advanced port scans.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/nmap advanced port scans.txt</a></td>
-</tr>
-<tr>
-<td align=left>Nmap Basic Port Scans
-</td>
-<td align=left><a href="https://tryhackme.com/room/nmap02
-" target="_blank">https://tryhackme.com/room/nmap02
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/nmap basic port scans.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/nmap basic port scans.txt</a></td>
-</tr>
-<tr>
-<td align=left>Nmap Live Host Discovery
-</td>
-<td align=left><a href="https://tryhackme.com/room/nmap01
-" target="_blank">https://tryhackme.com/room/nmap01
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/nmap live host discovery.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/nmap live host discovery.txt</a></td>
-</tr>
-<tr>
-<td align=left>Nmap Post Port Scans
-</td>
-<td align=left><a href="https://tryhackme.com/room/nmap04
-" target="_blank">https://tryhackme.com/room/nmap04
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/nmap post port scans.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/nmap post port scans.txt</a></td>
-</tr>
-<tr>
-<td align=left>Nmap: The Basics
-</td>
-<td align=left><a href="https://tryhackme.com/room/nmap
-" target="_blank">https://tryhackme.com/room/nmap
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/nmap the basics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/nmap the basics.txt</a></td>
-</tr>
-<tr>
-<td align=left>Nmap
-</td>
-<td align=left><a href="https://tryhackme.com/room/furthernmap
-" target="_blank">https://tryhackme.com/room/furthernmap
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/nmap.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/nmap.txt</a></td>
-</tr>
-<tr>
-<td align=left>NoNameCTF
-</td>
-<td align=left><a href="https://tryhackme.com/room/nonamectf
-" target="_blank">https://tryhackme.com/room/nonamectf
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/nonamectf.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/nonamectf.txt</a></td>
-</tr>
-<tr>
-<td align=left>NoSQL Injection
-</td>
-<td align=left><a href="https://tryhackme.com/room/nosqlinjectiontutorial
-" target="_blank">https://tryhackme.com/room/nosqlinjectiontutorial
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/nosql injection.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/nosql injection.txt</a></td>
-</tr>
-<tr>
-<td align=left>NTFS Analysis
-</td>
-<td align=left><a href="https://tryhackme.com/room/ntfsanalysis
-" target="_blank">https://tryhackme.com/room/ntfsanalysis
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ntfs analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ntfs analysis.txt</a></td>
-</tr>
-<tr>
-<td align=left>OAuth Vulnerabilities
-</td>
-<td align=left><a href="https://tryhackme.com/room/oauthvulnerabilities
-" target="_blank">https://tryhackme.com/room/oauthvulnerabilities
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/oauth vulnerabilities.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/oauth vulnerabilities.txt</a></td>
-</tr>
-<tr>
-<td align=left>Obfuscation Principles
-</td>
-<td align=left><a href="https://tryhackme.com/room/obfuscationprinciples
-" target="_blank">https://tryhackme.com/room/obfuscationprinciples
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/obfuscation principles.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/obfuscation principles.txt</a></td>
-</tr>
-<tr>
-<td align=left>Obscure
-</td>
-<td align=left><a href="https://tryhackme.com/room/obscured
-" target="_blank">https://tryhackme.com/room/obscured
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/obscure.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/obscure.txt</a></td>
-</tr>
-<tr>
-<td align=left>Offensive Security Intro
-</td>
-<td align=left><a href="https://tryhackme.com/room/offensivesecurityintro
-" target="_blank">https://tryhackme.com/room/offensivesecurityintro
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/offensive security intro.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/offensive security intro.txt</a></td>
-</tr>
-<tr>
-<td align=left>Oh My WebServer
-</td>
-<td align=left><a href="https://tryhackme.com/room/ohmyweb
-" target="_blank">https://tryhackme.com/room/ohmyweb
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/oh my webserver.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/oh my webserver.txt</a></td>
-</tr>
-<tr>
-<td align=left>OhSINT
-</td>
-<td align=left><a href="https://tryhackme.com/room/ohsint
-" target="_blank">https://tryhackme.com/room/ohsint
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ohsint.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ohsint.txt</a></td>
-</tr>
-<tr>
-<td align=left>Ollie
-</td>
-<td align=left><a href="https://tryhackme.com/room/ollie
-" target="_blank">https://tryhackme.com/room/ollie
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ollie.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ollie.txt</a></td>
-</tr>
-<tr>
-<td align=left>Olympus
-</td>
-<td align=left><a href="https://tryhackme.com/room/olympusroom
-" target="_blank">https://tryhackme.com/room/olympusroom
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/olympus.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/olympus.txt</a></td>
-</tr>
-<tr>
-<td align=left>On-Premises IaC
-</td>
-<td align=left><a href="https://tryhackme.com/room/onpremisesiac
-" target="_blank">https://tryhackme.com/room/onpremisesiac
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/on-premises iac.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/on-premises iac.txt</a></td>
-</tr>
-<tr>
-<td align=left>One Piece
-</td>
-<td align=left><a href="https://tryhackme.com/room/ctfonepiece65
-" target="_blank">https://tryhackme.com/room/ctfonepiece65
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/one piece.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/one piece.txt</a></td>
-</tr>
-<tr>
-<td align=left>Opacity
-</td>
-<td align=left><a href="https://tryhackme.com/room/opacity
-" target="_blank">https://tryhackme.com/room/opacity
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/opacity.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/opacity.txt</a></td>
-</tr>
-<tr>
-<td align=left>OpenCTI
-</td>
-<td align=left><a href="https://tryhackme.com/room/opencti
-" target="_blank">https://tryhackme.com/room/opencti
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/opencti.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/opencti.txt</a></td>
-</tr>
-<tr>
-<td align=left>OpenVAS
-</td>
-<td align=left><a href="https://tryhackme.com/room/openvas
-" target="_blank">https://tryhackme.com/room/openvas
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/openvas.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/openvas.txt</a></td>
-</tr>
-<tr>
-<td align=left>OpenVPN
-</td>
-<td align=left><a href="https://tryhackme.com/room/openvpn
-" target="_blank">https://tryhackme.com/room/openvpn
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/openvpn.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/openvpn.txt</a></td>
-</tr>
-<tr>
-<td align=left>Operating System Security
-</td>
-<td align=left><a href="https://tryhackme.com/room/operatingsystemsecurity
-" target="_blank">https://tryhackme.com/room/operatingsystemsecurity
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/operating system security.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/operating system security.txt</a></td>
-</tr>
-<tr>
-<td align=left>ORM Injection
-</td>
-<td align=left><a href="https://tryhackme.com/room/orminjection
-" target="_blank">https://tryhackme.com/room/orminjection
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/orm injection.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/orm injection.txt</a></td>
-</tr>
-<tr>
-<td align=left>OSI Model
-</td>
-<td align=left><a href="https://tryhackme.com/room/osimodelzi
-" target="_blank">https://tryhackme.com/room/osimodelzi
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/osi model.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/osi model.txt</a></td>
-</tr>
-<tr>
-<td align=left>Osiris
-</td>
-<td align=left><a href="https://tryhackme.com/room/osiris
-" target="_blank">https://tryhackme.com/room/osiris
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/osiris.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/osiris.txt</a></td>
-</tr>
-<tr>
-<td align=left>Osquery: The Basics
-</td>
-<td align=left><a href="https://tryhackme.com/room/osqueryf8
-" target="_blank">https://tryhackme.com/room/osqueryf8
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/osquery the basics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/osquery the basics.txt</a></td>
-</tr>
-<tr>
-<td align=left>Outlook NTLM Leak
-</td>
-<td align=left><a href="https://tryhackme.com/room/outlookntlmleak
-" target="_blank">https://tryhackme.com/room/outlookntlmleak
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/outlook ntlm leak.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/outlook ntlm leak.txt</a></td>
-</tr>
-<tr>
-<td align=left>OverlayFS - CVE-2021-3493
-</td>
-<td align=left><a href="https://tryhackme.com/room/overlayfs
-" target="_blank">https://tryhackme.com/room/overlayfs
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/overlayfs - cve-2021-3493.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/overlayfs - cve-2021-3493.txt</a></td>
-</tr>
-<tr>
-<td align=left>Overpass 2 - Hacked
-</td>
-<td align=left><a href="https://tryhackme.com/room/overpass2hacked
-" target="_blank">https://tryhackme.com/room/overpass2hacked
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/overpass 2 - hacked.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/overpass 2 - hacked.txt</a></td>
-</tr>
-<tr>
-<td align=left>Overpass 3 - Hosting
-</td>
-<td align=left><a href="https://tryhackme.com/room/overpass3hosting
-" target="_blank">https://tryhackme.com/room/overpass3hosting
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/overpass 3 - hosting.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/overpass 3 - hosting.txt</a></td>
-</tr>
-<tr>
-<td align=left>Overpass
-</td>
-<td align=left><a href="https://tryhackme.com/room/overpass
-" target="_blank">https://tryhackme.com/room/overpass
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/overpass.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/overpass.txt</a></td>
-</tr>
-<tr>
-<td align=left>OWASP API Security Top 10 - 1
-</td>
-<td align=left><a href="https://tryhackme.com/room/owaspapisecuritytop105w
-" target="_blank">https://tryhackme.com/room/owaspapisecuritytop105w
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/owasp api security top 10 - 1.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/owasp api security top 10 - 1.txt</a></td>
-</tr>
-<tr>
-<td align=left>OWASP API Security Top 10 - 2
-</td>
-<td align=left><a href="https://tryhackme.com/room/owaspapisecuritytop10d0
-" target="_blank">https://tryhackme.com/room/owaspapisecuritytop10d0
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/owasp api security top 10 - 2.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/owasp api security top 10 - 2.txt</a></td>
-</tr>
-<tr>
-<td align=left>OWASP Broken Access Control
-</td>
-<td align=left><a href="https://tryhackme.com/room/owaspbrokenaccesscontrol
-" target="_blank">https://tryhackme.com/room/owaspbrokenaccesscontrol
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/owasp broken access control.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/owasp broken access control.txt</a></td>
-</tr>
-<tr>
-<td align=left>OWASP Juice Shop
-</td>
-<td align=left><a href="https://tryhackme.com/room/owaspjuiceshop
-" target="_blank">https://tryhackme.com/room/owaspjuiceshop
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/owasp juice shop.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/owasp juice shop.txt</a></td>
-</tr>
-<tr>
-<td align=left>OWASP Top 10 - 2021
-</td>
-<td align=left><a href="https://tryhackme.com/room/owasptop102021
-" target="_blank">https://tryhackme.com/room/owasptop102021
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/owasp top 10 - 2021.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/owasp top 10 - 2021.txt</a></td>
-</tr>
-<tr>
-<td align=left>OWASP Top 10
-</td>
-<td align=left><a href="https://tryhackme.com/room/owasptop10
-" target="_blank">https://tryhackme.com/room/owasptop10
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/owasp top 10.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/owasp top 10.txt</a></td>
-</tr>
-<tr>
-<td align=left>Packets & Frames
-</td>
-<td align=left><a href="https://tryhackme.com/room/packetsframes
-" target="_blank">https://tryhackme.com/room/packetsframes
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/packets & frames.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/packets & frames.txt</a></td>
-</tr>
-<tr>
-<td align=left>Padding Oracles
-</td>
-<td align=left><a href="https://tryhackme.com/room/paddingoracles
-" target="_blank">https://tryhackme.com/room/paddingoracles
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/padding oracles.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/padding oracles.txt</a></td>
-</tr>
-<tr>
-<td align=left>PalsForLife
-</td>
-<td align=left><a href="https://tryhackme.com/room/palsforlife
-" target="_blank">https://tryhackme.com/room/palsforlife
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/palsforlife.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/palsforlife.txt</a></td>
-</tr>
-<tr>
-<td align=left>PaperCut: CVE-2023-27350
-</td>
-<td align=left><a href="https://tryhackme.com/room/papercut
-" target="_blank">https://tryhackme.com/room/papercut
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/papercut cve-2023-27350.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/papercut cve-2023-27350.txt</a></td>
-</tr>
-<tr>
-<td align=left>ParrotPost: Phishing Analysis
-</td>
-<td align=left><a href="https://tryhackme.com/room/parrotpost
-" target="_blank">https://tryhackme.com/room/parrotpost
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/parrotpost phishing analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/parrotpost phishing analysis.txt</a></td>
-</tr>
-<tr>
-<td align=left>PassCode
-</td>
-<td align=left><a href="https://tryhackme.com/room/hfb1passcode
-" target="_blank">https://tryhackme.com/room/hfb1passcode
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/passcode.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/passcode.txt</a></td>
-</tr>
-<tr>
-<td align=left>Passive Reconnaissance
-</td>
-<td align=left><a href="https://tryhackme.com/room/passiverecon
-" target="_blank">https://tryhackme.com/room/passiverecon
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/passive reconnaissance.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/passive reconnaissance.txt</a></td>
-</tr>
-<tr>
-<td align=left>Password Attacks
-</td>
-<td align=left><a href="https://tryhackme.com/room/passwordattacks
-" target="_blank">https://tryhackme.com/room/passwordattacks
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/password attacks.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/password attacks.txt</a></td>
-</tr>
-<tr>
-<td align=left>Peak Hill
-</td>
-<td align=left><a href="https://tryhackme.com/room/peakhill
-" target="_blank">https://tryhackme.com/room/peakhill
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/peak hill.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/peak hill.txt</a></td>
-</tr>
-<tr>
-<td align=left>Pentesting Fundamentals
-</td>
-<td align=left><a href="https://tryhackme.com/room/pentestingfundamentals
-" target="_blank">https://tryhackme.com/room/pentestingfundamentals
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/pentesting fundamentals.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/pentesting fundamentals.txt</a></td>
-</tr>
-<tr>
-<td align=left>Persisting Active Directory
-</td>
-<td align=left><a href="https://tryhackme.com/room/persistingad
-" target="_blank">https://tryhackme.com/room/persistingad
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/persisting active directory.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/persisting active directory.txt</a></td>
-</tr>
-<tr>
-<td align=left>Phishing Analysis Fundamentals
-</td>
-<td align=left><a href="https://tryhackme.com/room/phishingemails1tryoe
-" target="_blank">https://tryhackme.com/room/phishingemails1tryoe
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/phishing analysis fundamentals.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/phishing analysis fundamentals.txt</a></td>
-</tr>
-<tr>
-<td align=left>Phishing Analysis Tools
-</td>
-<td align=left><a href="https://tryhackme.com/room/phishingemails3tryoe
-" target="_blank">https://tryhackme.com/room/phishingemails3tryoe
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/phishing analysis tools.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/phishing analysis tools.txt</a></td>
-</tr>
-<tr>
-<td align=left>Phishing Emails in Action
-</td>
-<td align=left><a href="https://tryhackme.com/room/phishingemails2rytmuv
-" target="_blank">https://tryhackme.com/room/phishingemails2rytmuv
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/phishing emails in action.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/phishing emails in action.txt</a></td>
-</tr>
-<tr>
-<td align=left>Phishing: HiddenEye
-</td>
-<td align=left><a href="https://tryhackme.com/room/phishinghiddeneye
-" target="_blank">https://tryhackme.com/room/phishinghiddeneye
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/phishing hiddeneye.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/phishing hiddeneye.txt</a></td>
-</tr>
-<tr>
-<td align=left>Phishing Prevention
-</td>
-<td align=left><a href="https://tryhackme.com/room/phishingemails4gkxh
-" target="_blank">https://tryhackme.com/room/phishingemails4gkxh
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/phishing prevention.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/phishing prevention.txt</a></td>
-</tr>
-<tr>
-<td align=left>Phishing
-</td>
-<td align=left><a href="https://tryhackme.com/room/phishingyl
-" target="_blank">https://tryhackme.com/room/phishingyl
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/phishing.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/phishing.txt</a></td>
-</tr>
-<tr>
-<td align=left>Physical Security Intro
-</td>
-<td align=left><a href="https://tryhackme.com/room/physicalsecurityintro
-" target="_blank">https://tryhackme.com/room/physicalsecurityintro
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/physical security intro.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/physical security intro.txt</a></td>
-</tr>
-<tr>
-<td align=left>Pickle Rick
-</td>
-<td align=left><a href="https://tryhackme.com/room/picklerick
-" target="_blank">https://tryhackme.com/room/picklerick
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/pickle rick.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/pickle rick.txt</a></td>
-</tr>
-<tr>
-<td align=left>Plotted-EMR
-</td>
-<td align=left><a href="https://tryhackme.com/room/plottedemr
-" target="_blank">https://tryhackme.com/room/plottedemr
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/plotted-emr.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/plotted-emr.txt</a></td>
-</tr>
-<tr>
-<td align=left>Plotted-LMS
-</td>
-<td align=left><a href="https://tryhackme.com/room/plottedlms
-" target="_blank">https://tryhackme.com/room/plottedlms
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/plotted-lms.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/plotted-lms.txt</a></td>
-</tr>
-<tr>
-<td align=left>Plotted-TMS
-</td>
-<td align=left><a href="https://tryhackme.com/room/plottedtms
-" target="_blank">https://tryhackme.com/room/plottedtms
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/plotted-tms.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/plotted-tms.txt</a></td>
-</tr>
-<tr>
-<td align=left>Polkit: CVE-2021-3560
-</td>
-<td align=left><a href="https://tryhackme.com/room/polkit
-" target="_blank">https://tryhackme.com/room/polkit
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/polkit cve-2021-3560.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/polkit cve-2021-3560.txt</a></td>
-</tr>
-<tr>
-<td align=left>Post-Exploitation Basics
-</td>
-<td align=left><a href="https://tryhackme.com/room/postexploit
-" target="_blank">https://tryhackme.com/room/postexploit
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/post-exploitation basics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/post-exploitation basics.txt</a></td>
-</tr>
-<tr>
-<td align=left>Poster
-</td>
-<td align=left><a href="https://tryhackme.com/room/poster
-" target="_blank">https://tryhackme.com/room/poster
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/poster.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/poster.txt</a></td>
-</tr>
-<tr>
-<td align=left>PowerShell for Pentesters
-</td>
-<td align=left><a href="https://tryhackme.com/room/powershellforpentesters
-" target="_blank">https://tryhackme.com/room/powershellforpentesters
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/powershell for pentesters.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/powershell for pentesters.txt</a></td>
-</tr>
-<tr>
-<td align=left>Precision
-</td>
-<td align=left><a href="https://tryhackme.com/room/hfb1precision
-" target="_blank">https://tryhackme.com/room/hfb1precision
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/precision.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/precision.txt</a></td>
-</tr>
-<tr>
-<td align=left>Preparation
-</td>
-<td align=left><a href="https://tryhackme.com/room/preparation
-" target="_blank">https://tryhackme.com/room/preparation
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/preparation.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/preparation.txt</a></td>
-</tr>
-<tr>
-<td align=left>Principles of Security
-</td>
-<td align=left><a href="https://tryhackme.com/room/principlesofsecurity
-" target="_blank">https://tryhackme.com/room/principlesofsecurity
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/principles of security.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/principles of security.txt</a></td>
-</tr>
-<tr>
-<td align=left>Printer Hacking 101
-</td>
-<td align=left><a href="https://tryhackme.com/room/printerhacking101
-" target="_blank">https://tryhackme.com/room/printerhacking101
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/printer hacking 101.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/printer hacking 101.txt</a></td>
-</tr>
-<tr>
-<td align=left>PrintNightmare, again!
-</td>
-<td align=left><a href="https://tryhackme.com/room/printnightmarec2bn7l
-" target="_blank">https://tryhackme.com/room/printnightmarec2bn7l
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/printnightmare, again!.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/printnightmare, again!.txt</a></td>
-</tr>
-<tr>
-<td align=left>PrintNightmare, thrice!
-</td>
-<td align=left><a href="https://tryhackme.com/room/printnightmarec3kj
-" target="_blank">https://tryhackme.com/room/printnightmarec3kj
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/printnightmare, thrice!.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/printnightmare, thrice!.txt</a></td>
-</tr>
-<tr>
-<td align=left>PrintNightmare
-</td>
-<td align=left><a href="https://tryhackme.com/room/printnightmarehpzqlp8
-" target="_blank">https://tryhackme.com/room/printnightmarehpzqlp8
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/printnightmare.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/printnightmare.txt</a></td>
-</tr>
-<tr>
-<td align=left>Prioritise
-</td>
-<td align=left><a href="https://tryhackme.com/room/prioritise
-" target="_blank">https://tryhackme.com/room/prioritise
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/prioritise.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/prioritise.txt</a></td>
-</tr>
-<tr>
-<td align=left>Probe
-</td>
-<td align=left><a href="https://tryhackme.com/room/probe
-" target="_blank">https://tryhackme.com/room/probe
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/probe.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/probe.txt</a></td>
-</tr>
-<tr>
-<td align=left>Profiles
-</td>
-<td align=left><a href="https://tryhackme.com/room/profilesroom
-" target="_blank">https://tryhackme.com/room/profilesroom
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/profiles.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/profiles.txt</a></td>
-</tr>
-<tr>
-<td align=left>Protocols and Servers 2
-</td>
-<td align=left><a href="https://tryhackme.com/room/protocolsandservers2
-" target="_blank">https://tryhackme.com/room/protocolsandservers2
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/protocols and servers 2.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/protocols and servers 2.txt</a></td>
-</tr>
-<tr>
-<td align=left>Protocols and Servers
-</td>
-<td align=left><a href="https://tryhackme.com/room/protocolsandservers
-" target="_blank">https://tryhackme.com/room/protocolsandservers
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/protocols and servers.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/protocols and servers.txt</a></td>
-</tr>
-<tr>
-<td align=left>Prototype Pollution
-</td>
-<td align=left><a href="https://tryhackme.com/room/prototypepollution
-" target="_blank">https://tryhackme.com/room/prototypepollution
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/prototype pollution.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/prototype pollution.txt</a></td>
-</tr>
-<tr>
-<td align=left>PS Eclipse
-</td>
-<td align=left><a href="https://tryhackme.com/room/posheclipse
-" target="_blank">https://tryhackme.com/room/posheclipse
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ps eclipse.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ps eclipse.txt</a></td>
-</tr>
-<tr>
-<td align=left>Psycho Break
-</td>
-<td align=left><a href="https://tryhackme.com/room/psychobreak
-" target="_blank">https://tryhackme.com/room/psychobreak
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/psycho break.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/psycho break.txt</a></td>
-</tr>
-<tr>
-<td align=left>Public Key Cryptography Basics
-</td>
-<td align=left><a href="https://tryhackme.com/room/publickeycrypto
-" target="_blank">https://tryhackme.com/room/publickeycrypto
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/public key cryptography basics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/public key cryptography basics.txt</a></td>
-</tr>
-<tr>
-<td align=left>Public Key Infrastructure
-</td>
-<td align=left><a href="https://tryhackme.com/room/publickeyinfrastructure
-" target="_blank">https://tryhackme.com/room/publickeyinfrastructure
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/public key infrastructure.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/public key infrastructure.txt</a></td>
-</tr>
-<tr>
-<td align=left>Publisher
-</td>
-<td align=left><a href="https://tryhackme.com/room/publisher
-" target="_blank">https://tryhackme.com/room/publisher
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/publisher.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/publisher.txt</a></td>
-</tr>
-<tr>
-<td align=left>Putting it all together
-</td>
-<td align=left><a href="https://tryhackme.com/room/puttingitalltogether
-" target="_blank">https://tryhackme.com/room/puttingitalltogether
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/putting it all together.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/putting it all together.txt</a></td>
-</tr>
-<tr>
-<td align=left>PWN101
-</td>
-<td align=left><a href="https://tryhackme.com/room/pwn101
-" target="_blank">https://tryhackme.com/room/pwn101
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/pwn101.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/pwn101.txt</a></td>
-</tr>
-<tr>
-<td align=left>Pwnkit: CVE-2021-4034
-</td>
-<td align=left><a href="https://tryhackme.com/room/pwnkit
-" target="_blank">https://tryhackme.com/room/pwnkit
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/pwnkit cve-2021-4034.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/pwnkit cve-2021-4034.txt</a></td>
-</tr>
-<tr>
-<td align=left>pyLon
-</td>
-<td align=left><a href="https://tryhackme.com/room/pylonzf
-" target="_blank">https://tryhackme.com/room/pylonzf
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/pylon.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/pylon.txt</a></td>
-</tr>
-<tr>
-<td align=left>Pyramid Of Pain
-</td>
-<td align=left><a href="https://tryhackme.com/room/pyramidofpainax
-" target="_blank">https://tryhackme.com/room/pyramidofpainax
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/pyramid of pain.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/pyramid of pain.txt</a></td>
-</tr>
-<tr>
-<td align=left>Pyrat
-</td>
-<td align=left><a href="https://tryhackme.com/room/pyrat
-" target="_blank">https://tryhackme.com/room/pyrat
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/pyrat.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/pyrat.txt</a></td>
-</tr>
-<tr>
-<td align=left>Python Basics
-</td>
-<td align=left><a href="https://tryhackme.com/room/pythonbasics
-" target="_blank">https://tryhackme.com/room/pythonbasics
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/python basics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/python basics.txt</a></td>
-</tr>
-<tr>
-<td align=left>Python for Pentesters
-</td>
-<td align=left><a href="https://tryhackme.com/room/pythonforcybersecurity
-" target="_blank">https://tryhackme.com/room/pythonforcybersecurity
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/python for pentesters.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/python for pentesters.txt</a></td>
-</tr>
-<tr>
-<td align=left>Python Playground
-</td>
-<td align=left><a href="https://tryhackme.com/room/pythonplayground
-" target="_blank">https://tryhackme.com/room/pythonplayground
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/python playground.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/python playground.txt</a></td>
-</tr>
-<tr>
-<td align=left>Ra 2
-</td>
-<td align=left><a href="https://tryhackme.com/room/ra2
-" target="_blank">https://tryhackme.com/room/ra2
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ra 2.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ra 2.txt</a></td>
-</tr>
-<tr>
-<td align=left>Ra
-</td>
-<td align=left><a href="https://tryhackme.com/room/ra
-" target="_blank">https://tryhackme.com/room/ra
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ra.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ra.txt</a></td>
-</tr>
-<tr>
-<td align=left>Rabbit Hole
-</td>
-<td align=left><a href="https://tryhackme.com/room/rabbitholeqq
-" target="_blank">https://tryhackme.com/room/rabbitholeqq
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/rabbit hole.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/rabbit hole.txt</a></td>
-</tr>
-<tr>
-<td align=left>Rabbit Store
-</td>
-<td align=left><a href="https://tryhackme.com/room/rabbitstore
-" target="_blank">https://tryhackme.com/room/rabbitstore
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/rabbit store.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/rabbit store.txt</a></td>
-</tr>
-<tr>
-<td align=left>Race Conditions Challenge
-</td>
-<td align=left><a href="https://tryhackme.com/room/raceconditions
-" target="_blank">https://tryhackme.com/room/raceconditions
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/race conditions challenge.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/race conditions challenge.txt</a></td>
-</tr>
-<tr>
-<td align=left>Race Conditions
-</td>
-<td align=left><a href="https://tryhackme.com/room/raceconditionsattacks
-" target="_blank">https://tryhackme.com/room/raceconditionsattacks
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/race conditions.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/race conditions.txt</a></td>
-</tr>
-<tr>
-<td align=left>Racetrack Bank
-</td>
-<td align=left><a href="https://tryhackme.com/room/racetrackbank
-" target="_blank">https://tryhackme.com/room/racetrackbank
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/racetrack bank.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/racetrack bank.txt</a></td>
-</tr>
-<tr>
-<td align=left>RazorBlack
-</td>
-<td align=left><a href="https://tryhackme.com/room/raz0rblack
-" target="_blank">https://tryhackme.com/room/raz0rblack
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/razorblack.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/razorblack.txt</a></td>
-</tr>
-<tr>
-<td align=left>Recovering Active Directory
-</td>
-<td align=left><a href="https://tryhackme.com/room/recoveringactivedirectory
-" target="_blank">https://tryhackme.com/room/recoveringactivedirectory
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/recovering active directory.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/recovering active directory.txt</a></td>
-</tr>
-<tr>
-<td align=left>Recovery
-</td>
-<td align=left><a href="https://tryhackme.com/room/recovery
-" target="_blank">https://tryhackme.com/room/recovery
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/recovery.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/recovery.txt</a></td>
-</tr>
-<tr>
-<td align=left>Red Stone One Carat
-</td>
-<td align=left><a href="https://tryhackme.com/room/redstoneonecarat
-" target="_blank">https://tryhackme.com/room/redstoneonecarat
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/red stone one carat.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/red stone one carat.txt</a></td>
-</tr>
-<tr>
-<td align=left>Red Team Capstone Challenge
-</td>
-<td align=left><a href="https://tryhackme.com/room/redteamcapstonechallenge
-" target="_blank">https://tryhackme.com/room/redteamcapstonechallenge
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/red team capstone challenge.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/red team capstone challenge.txt</a></td>
-</tr>
-<tr>
-<td align=left>Red Team Engagements
-</td>
-<td align=left><a href="https://tryhackme.com/room/redteamengagements
-" target="_blank">https://tryhackme.com/room/redteamengagements
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/red team engagements.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/red team engagements.txt</a></td>
-</tr>
-<tr>
-<td align=left>Red Team Fundamentals
-</td>
-<td align=left><a href="https://tryhackme.com/room/redteamfundamentals
-" target="_blank">https://tryhackme.com/room/redteamfundamentals
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/red team fundamentals.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/red team fundamentals.txt</a></td>
-</tr>
-<tr>
-<td align=left>Red Team OPSEC
-</td>
-<td align=left><a href="https://tryhackme.com/room/opsec
-" target="_blank">https://tryhackme.com/room/opsec
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/red team opsec.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/red team opsec.txt</a></td>
-</tr>
-<tr>
-<td align=left>Red Team Recon
-</td>
-<td align=left><a href="https://tryhackme.com/room/redteamrecon
-" target="_blank">https://tryhackme.com/room/redteamrecon
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/red team recon.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/red team recon.txt</a></td>
-</tr>
-<tr>
-<td align=left>Red Team Threat Intel
-</td>
-<td align=left><a href="https://tryhackme.com/room/redteamthreatintel
-" target="_blank">https://tryhackme.com/room/redteamthreatintel
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/red team threat intel.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/red team threat intel.txt</a></td>
-</tr>
-<tr>
-<td align=left>Red
-</td>
-<td align=left><a href="https://tryhackme.com/room/redisl33t
-" target="_blank">https://tryhackme.com/room/redisl33t
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/red.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/red.txt</a></td>
-</tr>
-<tr>
-<td align=left>Redline
-</td>
-<td align=left><a href="https://tryhackme.com/room/btredlinejoxr3d
-" target="_blank">https://tryhackme.com/room/btredlinejoxr3d
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/redline.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/redline.txt</a></td>
-</tr>
-<tr>
-<td align=left>Registry Persistence Detection
-</td>
-<td align=left><a href="https://tryhackme.com/room/registrypersistencedetection
-" target="_blank">https://tryhackme.com/room/registrypersistencedetection
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/registry persistence detection.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/registry persistence detection.txt</a></td>
-</tr>
-<tr>
-<td align=left>Regular Expressions
-</td>
-<td align=left><a href="https://tryhackme.com/room/catregex
-" target="_blank">https://tryhackme.com/room/catregex
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/regular expressions.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/regular expressions.txt</a></td>
-</tr>
-<tr>
-<td align=left>Relevant
-</td>
-<td align=left><a href="https://tryhackme.com/room/relevant
-" target="_blank">https://tryhackme.com/room/relevant
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/relevant.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/relevant.txt</a></td>
-</tr>
-<tr>
-<td align=left>REloaded
-</td>
-<td align=left><a href="https://tryhackme.com/room/reloaded
-" target="_blank">https://tryhackme.com/room/reloaded
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/reloaded.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/reloaded.txt</a></td>
-</tr>
-<tr>
-<td align=left>REMnux: Getting Started
-</td>
-<td align=left><a href="https://tryhackme.com/room/remnuxgettingstarted
-" target="_blank">https://tryhackme.com/room/remnuxgettingstarted
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/remnux getting started.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/remnux getting started.txt</a></td>
-</tr>
-<tr>
-<td align=left>REmux The Tmux
-</td>
-<td align=left><a href="https://tryhackme.com/room/tmuxremux
-" target="_blank">https://tryhackme.com/room/tmuxremux
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/remux the tmux.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/remux the tmux.txt</a></td>
-</tr>
-<tr>
-<td align=left>Request Smuggling: WebSockets
-</td>
-<td align=left><a href="https://tryhackme.com/room/wsrequestsmuggling
-" target="_blank">https://tryhackme.com/room/wsrequestsmuggling
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/request smuggling websockets.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/request smuggling websockets.txt</a></td>
-</tr>
-<tr>
-<td align=left>Res
-</td>
-<td align=left><a href="https://tryhackme.com/room/res
-" target="_blank">https://tryhackme.com/room/res
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/res.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/res.txt</a></td>
-</tr>
-<tr>
-<td align=left>Reset
-</td>
-<td align=left><a href="https://tryhackme.com/room/resetui
-" target="_blank">https://tryhackme.com/room/resetui
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/reset.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/reset.txt</a></td>
-</tr>
-<tr>
-<td align=left>Resource Policies & SCPs
-</td>
-<td align=left><a href="https://tryhackme.com/room/resourcepoliciesscps
-" target="_blank">https://tryhackme.com/room/resourcepoliciesscps
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/resource policies & scps.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/resource policies & scps.txt</a></td>
-</tr>
-<tr>
-<td align=left>ret2libc
-</td>
-<td align=left><a href="https://tryhackme.com/room/ret2libc
-" target="_blank">https://tryhackme.com/room/ret2libc
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ret2libc.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ret2libc.txt</a></td>
-</tr>
-<tr>
-<td align=left>Retracted
-</td>
-<td align=left><a href="https://tryhackme.com/room/retracted
-" target="_blank">https://tryhackme.com/room/retracted
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/retracted.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/retracted.txt</a></td>
-</tr>
-<tr>
-<td align=left>Retro
-</td>
-<td align=left><a href="https://tryhackme.com/room/retro
-" target="_blank">https://tryhackme.com/room/retro
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/retro.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/retro.txt</a></td>
-</tr>
-<tr>
-<td align=left>Revenge
-</td>
-<td align=left><a href="https://tryhackme.com/room/revenge
-" target="_blank">https://tryhackme.com/room/revenge
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/revenge.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/revenge.txt</a></td>
-</tr>
-<tr>
-<td align=left>Reversing ELF
-</td>
-<td align=left><a href="https://tryhackme.com/room/reverselfiles
-" target="_blank">https://tryhackme.com/room/reverselfiles
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/reversing elf.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/reversing elf.txt</a></td>
-</tr>
-<tr>
-<td align=left>REvil Corp
-</td>
-<td align=left><a href="https://tryhackme.com/room/revilcorp
-" target="_blank">https://tryhackme.com/room/revilcorp
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/revil corp.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/revil corp.txt</a></td>
-</tr>
-<tr>
-<td align=left>Risk Management
-</td>
-<td align=left><a href="https://tryhackme.com/room/seriskmanagement
-" target="_blank">https://tryhackme.com/room/seriskmanagement
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/risk management.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/risk management.txt</a></td>
-</tr>
-<tr>
-<td align=left>Road
-</td>
-<td align=left><a href="https://tryhackme.com/room/road
-" target="_blank">https://tryhackme.com/room/road
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/road.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/road.txt</a></td>
-</tr>
-<tr>
-<td align=left>Robots
-</td>
-<td align=left><a href="https://tryhackme.com/room/robots
-" target="_blank">https://tryhackme.com/room/robots
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/robots.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/robots.txt</a></td>
-</tr>
-<tr>
-<td align=left>Rocket
-</td>
-<td align=left><a href="https://tryhackme.com/room/rocket
-" target="_blank">https://tryhackme.com/room/rocket
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/rocket.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/rocket.txt</a></td>
-</tr>
-<tr>
-<td align=left>RootMe
-</td>
-<td align=left><a href="https://tryhackme.com/room/rrootme
-" target="_blank">https://tryhackme.com/room/rrootme
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/rootme.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/rootme.txt</a></td>
-</tr>
-<tr>
-<td align=left>Runtime Detection Evasion
-</td>
-<td align=left><a href="https://tryhackme.com/room/runtimedetectionevasion
-" target="_blank">https://tryhackme.com/room/runtimedetectionevasion
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/runtime detection evasion.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/runtime detection evasion.txt</a></td>
-</tr>
-<tr>
-<td align=left>RustScan
-</td>
-<td align=left><a href="https://tryhackme.com/room/rustscan
-" target="_blank">https://tryhackme.com/room/rustscan
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/rustscan.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/rustscan.txt</a></td>
-</tr>
-<tr>
-<td align=left>SafeZone
-</td>
-<td align=left><a href="https://tryhackme.com/room/safezone
-" target="_blank">https://tryhackme.com/room/safezone
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/safezone.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/safezone.txt</a></td>
-</tr>
-<tr>
-<td align=left>Sakura Room
-</td>
-<td align=left><a href="https://tryhackme.com/room/sakura
-" target="_blank">https://tryhackme.com/room/sakura
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/sakura room.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/sakura room.txt</a></td>
-</tr>
-<tr>
-<td align=left>Sandbox Evasion
-</td>
-<td align=left><a href="https://tryhackme.com/room/sandboxevasion
-" target="_blank">https://tryhackme.com/room/sandboxevasion
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/sandbox evasion.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/sandbox evasion.txt</a></td>
-</tr>
-<tr>
-<td align=left>SAST
-</td>
-<td align=left><a href="https://tryhackme.com/room/sast
-" target="_blank">https://tryhackme.com/room/sast
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/sast.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/sast.txt</a></td>
-</tr>
-<tr>
-<td align=left>Scripting
-</td>
-<td align=left><a href="https://tryhackme.com/room/scripting
-" target="_blank">https://tryhackme.com/room/scripting
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/scripting.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/scripting.txt</a></td>
-</tr>
-<tr>
-<td align=left>SDLC
-</td>
-<td align=left><a href="https://tryhackme.com/room/sdlc
-" target="_blank">https://tryhackme.com/room/sdlc
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/sdlc.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/sdlc.txt</a></td>
-</tr>
-<tr>
-<td align=left>Sea Surfer
-</td>
-<td align=left><a href="https://tryhackme.com/room/seasurfer
-" target="_blank">https://tryhackme.com/room/seasurfer
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/sea surfer.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/sea surfer.txt</a></td>
-</tr>
-<tr>
-<td align=left>Search Skills
-</td>
-<td align=left><a href="https://tryhackme.com/room/searchskills
-" target="_blank">https://tryhackme.com/room/searchskills
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/search skills.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/search skills.txt</a></td>
-</tr>
-<tr>
-<td align=left>Searchlight - IMINT
-</td>
-<td align=left><a href="https://tryhackme.com/room/searchlightosint
-" target="_blank">https://tryhackme.com/room/searchlightosint
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/searchlight - imint.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/searchlight - imint.txt</a></td>
-</tr>
-<tr>
-<td align=left>Second
-</td>
-<td align=left><a href="https://tryhackme.com/room/fearsecond
-" target="_blank">https://tryhackme.com/room/fearsecond
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/second.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/second.txt</a></td>
-</tr>
-<tr>
-<td align=left>Secret Recipe
-</td>
-<td align=left><a href="https://tryhackme.com/room/registry4n6
-" target="_blank">https://tryhackme.com/room/registry4n6
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/secret recipe.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/secret recipe.txt</a></td>
-</tr>
-<tr>
-<td align=left>Secure GitOps
-</td>
-<td align=left><a href="https://tryhackme.com/room/securegitops
-" target="_blank">https://tryhackme.com/room/securegitops
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/secure gitops.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/secure gitops.txt</a></td>
-</tr>
-<tr>
-<td align=left>Secure Network Architecture
-</td>
-<td align=left><a href="https://tryhackme.com/room/introtosecurityarchitecture
-" target="_blank">https://tryhackme.com/room/introtosecurityarchitecture
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/secure network architecture.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/secure network architecture.txt</a></td>
-</tr>
-<tr>
-<td align=left>Security Awareness
-</td>
-<td align=left><a href="https://tryhackme.com/room/securityawarenessintro
-" target="_blank">https://tryhackme.com/room/securityawarenessintro
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/security awareness.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/security awareness.txt</a></td>
-</tr>
-<tr>
-<td align=left>Security Engineer Intro
-</td>
-<td align=left><a href="https://tryhackme.com/room/securityengineerintro
-" target="_blank">https://tryhackme.com/room/securityengineerintro
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/security engineer intro.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/security engineer intro.txt</a></td>
-</tr>
-<tr>
-<td align=left>Security Footage
-</td>
-<td align=left><a href="https://tryhackme.com/room/securityfootage
-" target="_blank">https://tryhackme.com/room/securityfootage
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/security footage.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/security footage.txt</a></td>
-</tr>
-<tr>
-<td align=left>Security Operations
-</td>
-<td align=left><a href="https://tryhackme.com/room/securityoperations
-" target="_blank">https://tryhackme.com/room/securityoperations
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/security operations.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/security operations.txt</a></td>
-</tr>
-<tr>
-<td align=left>Security Principles
-</td>
-<td align=left><a href="https://tryhackme.com/room/securityprinciples
-" target="_blank">https://tryhackme.com/room/securityprinciples
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/security principles.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/security principles.txt</a></td>
-</tr>
-<tr>
-<td align=left>SeeTwo
-</td>
-<td align=left><a href="https://tryhackme.com/room/seetworoom
-" target="_blank">https://tryhackme.com/room/seetworoom
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/seetwo.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/seetwo.txt</a></td>
-</tr>
-<tr>
-<td align=left>Server-side Template Injection
-</td>
-<td align=left><a href="https://tryhackme.com/room/serversidetemplateinjection
-" target="_blank">https://tryhackme.com/room/serversidetemplateinjection
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/server-side template injection.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/server-side template injection.txt</a></td>
-</tr>
-<tr>
-<td align=left>Services
-</td>
-<td align=left><a href="https://tryhackme.com/room/services
-" target="_blank">https://tryhackme.com/room/services
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/services.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/services.txt</a></td>
-</tr>
-<tr>
-<td align=left>Servidae: Log Analysis in ELK
-</td>
-<td align=left><a href="https://tryhackme.com/room/servidae
-" target="_blank">https://tryhackme.com/room/servidae
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/servidae log analysis in elk.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/servidae log analysis in elk.txt</a></td>
-</tr>
-<tr>
-<td align=left>Session Management
-</td>
-<td align=left><a href="https://tryhackme.com/room/sessionmanagement
-" target="_blank">https://tryhackme.com/room/sessionmanagement
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/session management.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/session management.txt</a></td>
-</tr>
-<tr>
-<td align=left>Set
-</td>
-<td align=left><a href="https://tryhackme.com/room/set
-" target="_blank">https://tryhackme.com/room/set
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/set.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/set.txt</a></td>
-</tr>
-<tr>
-<td align=left>Shaker
-</td>
-<td align=left><a href="https://tryhackme.com/room/shaker
-" target="_blank">https://tryhackme.com/room/shaker
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/shaker.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/shaker.txt</a></td>
-</tr>
-<tr>
-<td align=left>Shells Overview
-</td>
-<td align=left><a href="https://tryhackme.com/room/shellsoverview
-" target="_blank">https://tryhackme.com/room/shellsoverview
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/shells overview.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/shells overview.txt</a></td>
-</tr>
-<tr>
-<td align=left>Shodan.io
-</td>
-<td align=left><a href="https://tryhackme.com/room/shodan
-" target="_blank">https://tryhackme.com/room/shodan
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/shodan.io.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/shodan.io.txt</a></td>
-</tr>
-<tr>
-<td align=left>SigHunt
-</td>
-<td align=left><a href="https://tryhackme.com/room/sighunt
-" target="_blank">https://tryhackme.com/room/sighunt
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/sighunt.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/sighunt.txt</a></td>
-</tr>
-<tr>
-<td align=left>Sigma
-</td>
-<td align=left><a href="https://tryhackme.com/room/sigma
-" target="_blank">https://tryhackme.com/room/sigma
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/sigma.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/sigma.txt</a></td>
-</tr>
-<tr>
-<td align=left>Signature Evasion
-</td>
-<td align=left><a href="https://tryhackme.com/room/signatureevasion
-" target="_blank">https://tryhackme.com/room/signatureevasion
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/signature evasion.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/signature evasion.txt</a></td>
-</tr>
-<tr>
-<td align=left>Silver Platter
-</td>
-<td align=left><a href="https://tryhackme.com/room/silverplatter
-" target="_blank">https://tryhackme.com/room/silverplatter
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/silver platter.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/silver platter.txt</a></td>
-</tr>
-<tr>
-<td align=left>Simple CTF
-</td>
-<td align=left><a href="https://tryhackme.com/room/easyctf
-" target="_blank">https://tryhackme.com/room/easyctf
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/simple ctf.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/simple ctf.txt</a></td>
-</tr>
-<tr>
-<td align=left>SimpleHelp: CVE-2024-57727
-</td>
-<td align=left><a href="https://tryhackme.com/room/simplehelpcve202457727
-" target="_blank">https://tryhackme.com/room/simplehelpcve202457727
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/simplehelp cve-2024-57727.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/simplehelp cve-2024-57727.txt</a></td>
-</tr>
-<tr>
-<td align=left>Skynet
-</td>
-<td align=left><a href="https://tryhackme.com/room/skynet
-" target="_blank">https://tryhackme.com/room/skynet
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/skynet.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/skynet.txt</a></td>
-</tr>
-<tr>
-<td align=left>Slingshot
-</td>
-<td align=left><a href="https://tryhackme.com/room/slingshot
-" target="_blank">https://tryhackme.com/room/slingshot
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/slingshot.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/slingshot.txt</a></td>
-</tr>
-<tr>
-<td align=left>Smag Grotto
-</td>
-<td align=left><a href="https://tryhackme.com/room/smaggrotto
-" target="_blank">https://tryhackme.com/room/smaggrotto
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/smag grotto.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/smag grotto.txt</a></td>
-</tr>
-<tr>
-<td align=left>Smol
-</td>
-<td align=left><a href="https://tryhackme.com/room/smol
-" target="_blank">https://tryhackme.com/room/smol
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/smol.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/smol.txt</a></td>
-</tr>
-<tr>
-<td align=left>Snapped Phish-ing Line
-</td>
-<td align=left><a href="https://tryhackme.com/room/snappedphishingline
-" target="_blank">https://tryhackme.com/room/snappedphishingline
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/snapped phish-ing line.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/snapped phish-ing line.txt</a></td>
-</tr>
-<tr>
-<td align=left>Snort Challenge - Live Attacks
-</td>
-<td align=left><a href="https://tryhackme.com/room/snortchallenges2
-" target="_blank">https://tryhackme.com/room/snortchallenges2
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/snort challenge - live attacks.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/snort challenge - live attacks.txt</a></td>
-</tr>
-<tr>
-<td align=left>Snort Challenge - The Basics
-</td>
-<td align=left><a href="https://tryhackme.com/room/snortchallenges1
-" target="_blank">https://tryhackme.com/room/snortchallenges1
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/snort challenge - the basics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/snort challenge - the basics.txt</a></td>
-</tr>
-<tr>
-<td align=left>Snort
-</td>
-<td align=left><a href="https://tryhackme.com/room/snort
-" target="_blank">https://tryhackme.com/room/snort
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/snort.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/snort.txt</a></td>
-</tr>
-<tr>
-<td align=left>Snowy ARMageddon
-</td>
-<td align=left><a href="https://tryhackme.com/room/armageddon2r
-" target="_blank">https://tryhackme.com/room/armageddon2r
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/snowy armageddon.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/snowy armageddon.txt</a></td>
-</tr>
-<tr>
-<td align=left>Snyk Code
-</td>
-<td align=left><a href="https://tryhackme.com/room/snykcode
-" target="_blank">https://tryhackme.com/room/snykcode
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/snyk code.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/snyk code.txt</a></td>
-</tr>
-<tr>
-<td align=left>Snyk Open Source
-</td>
-<td align=left><a href="https://tryhackme.com/room/snykopensource
-" target="_blank">https://tryhackme.com/room/snykopensource
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/snyk open source.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/snyk open source.txt</a></td>
-</tr>
-<tr>
-<td align=left>SOAR
-</td>
-<td align=left><a href="https://tryhackme.com/room/soar
-" target="_blank">https://tryhackme.com/room/soar
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/soar.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/soar.txt</a></td>
-</tr>
-<tr>
-<td align=left>SOC Fundamentals
-</td>
-<td align=left><a href="https://tryhackme.com/room/socfundamentals
-" target="_blank">https://tryhackme.com/room/socfundamentals
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/soc fundamentals.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/soc fundamentals.txt</a></td>
-</tr>
-<tr>
-<td align=left>SOC L1 Alert Reporting
-</td>
-<td align=left><a href="https://tryhackme.com/room/socl1alertreporting
-" target="_blank">https://tryhackme.com/room/socl1alertreporting
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/soc l1 alert reporting.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/soc l1 alert reporting.txt</a></td>
-</tr>
-<tr>
-<td align=left>SOC L1 Alert Triage
-</td>
-<td align=left><a href="https://tryhackme.com/room/socl1alerttriage
-" target="_blank">https://tryhackme.com/room/socl1alerttriage
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/soc l1 alert triage.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/soc l1 alert triage.txt</a></td>
-</tr>
-<tr>
-<td align=left>SOC Metrics and Objectives
-</td>
-<td align=left><a href="https://tryhackme.com/room/socmetricsobjectives
-" target="_blank">https://tryhackme.com/room/socmetricsobjectives
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/soc metrics and objectives.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/soc metrics and objectives.txt</a></td>
-</tr>
-<tr>
-<td align=left>SOC Workbooks and Lookups
-</td>
-<td align=left><a href="https://tryhackme.com/room/socworkbookslookups
-" target="_blank">https://tryhackme.com/room/socworkbookslookups
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/soc workbooks and lookups.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/soc workbooks and lookups.txt</a></td>
-</tr>
-<tr>
-<td align=left>Solar, exploiting log4j
-</td>
-<td align=left><a href="https://tryhackme.com/room/solar
-" target="_blank">https://tryhackme.com/room/solar
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/solar, exploiting log4j.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/solar, exploiting log4j.txt</a></td>
-</tr>
-<tr>
-<td align=left>Source Code Security
-</td>
-<td align=left><a href="https://tryhackme.com/room/sourcecodesecurity
-" target="_blank">https://tryhackme.com/room/sourcecodesecurity
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/source code security.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/source code security.txt</a></td>
-</tr>
-<tr>
-<td align=left>Source
-</td>
-<td align=left><a href="https://tryhackme.com/room/source
-" target="_blank">https://tryhackme.com/room/source
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/source.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/source.txt</a></td>
-</tr>
-<tr>
-<td align=left>Splunk 2
-</td>
-<td align=left><a href="https://tryhackme.com/room/splunk2gcd5
-" target="_blank">https://tryhackme.com/room/splunk2gcd5
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/splunk 2.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/splunk 2.txt</a></td>
-</tr>
-<tr>
-<td align=left>Splunk 3
-</td>
-<td align=left><a href="https://tryhackme.com/room/splunk3zs
-" target="_blank">https://tryhackme.com/room/splunk3zs
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/splunk 3.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/splunk 3.txt</a></td>
-</tr>
-<tr>
-<td align=left>Splunk: Basics
-</td>
-<td align=left><a href="https://tryhackme.com/room/splunk101
-" target="_blank">https://tryhackme.com/room/splunk101
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/splunk basics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/splunk basics.txt</a></td>
-</tr>
-<tr>
-<td align=left>Splunk: Dashboards and Reports
-</td>
-<td align=left><a href="https://tryhackme.com/room/splunkdashboardsandreports
-" target="_blank">https://tryhackme.com/room/splunkdashboardsandreports
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/splunk dashboards and reports.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/splunk dashboards and reports.txt</a></td>
-</tr>
-<tr>
-<td align=left>Splunk: Data Manipulation
-</td>
-<td align=left><a href="https://tryhackme.com/room/splunkdatamanipulation
-" target="_blank">https://tryhackme.com/room/splunkdatamanipulation
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/splunk data manipulation.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/splunk data manipulation.txt</a></td>
-</tr>
-<tr>
-<td align=left>Splunk: Exploring SPL
-</td>
-<td align=left><a href="https://tryhackme.com/room/splunkexploringspl
-" target="_blank">https://tryhackme.com/room/splunkexploringspl
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/splunk exploring spl.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/splunk exploring spl.txt</a></td>
-</tr>
-<tr>
-<td align=left>Splunk: Setting up a SOC Lab
-</td>
-<td align=left><a href="https://tryhackme.com/room/splunklab
-" target="_blank">https://tryhackme.com/room/splunklab
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/splunk setting up a soc lab.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/splunk setting up a soc lab.txt</a></td>
-</tr>
-<tr>
-<td align=left>Spring
-</td>
-<td align=left><a href="https://tryhackme.com/room/spring
-" target="_blank">https://tryhackme.com/room/spring
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/spring.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/spring.txt</a></td>
-</tr>
-<tr>
-<td align=left>Spring4Shell: CVE-2022-22965
-</td>
-<td align=left><a href="https://tryhackme.com/room/spring4shell
-" target="_blank">https://tryhackme.com/room/spring4shell
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/spring4shell cve-2022-22965.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/spring4shell cve-2022-22965.txt</a></td>
-</tr>
-<tr>
-<td align=left>SQHell
-</td>
-<td align=left><a href="https://tryhackme.com/room/sqhell
-" target="_blank">https://tryhackme.com/room/sqhell
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/sqhell.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/sqhell.txt</a></td>
-</tr>
-<tr>
-<td align=left>SQL Fundamentals
-</td>
-<td align=left><a href="https://tryhackme.com/room/sqlfundamentals
-" target="_blank">https://tryhackme.com/room/sqlfundamentals
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/sql fundamentals.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/sql fundamentals.txt</a></td>
-</tr>
-<tr>
-<td align=left>SQL Injection Lab
-</td>
-<td align=left><a href="https://tryhackme.com/room/sqlilab
-" target="_blank">https://tryhackme.com/room/sqlilab
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/sql injection lab.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/sql injection lab.txt</a></td>
-</tr>
-<tr>
-<td align=left>SQL Injection
-</td>
-<td align=left><a href="https://tryhackme.com/room/sqlinjectionlm
-" target="_blank">https://tryhackme.com/room/sqlinjectionlm
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/sql injection.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/sql injection.txt</a></td>
-</tr>
-<tr>
-<td align=left>SQLMap The Basics
-</td>
-<td align=left><a href="https://tryhackme.com/room/sqlmapthebasics
-" target="_blank">https://tryhackme.com/room/sqlmapthebasics
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/sqlmap the basics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/sqlmap the basics.txt</a></td>
-</tr>
-<tr>
-<td align=left>SQLMAP
-</td>
-<td align=left><a href="https://tryhackme.com/room/sqlmap
-" target="_blank">https://tryhackme.com/room/sqlmap
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/sqlmap.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/sqlmap.txt</a></td>
-</tr>
-<tr>
-<td align=left>Squid Game
-</td>
-<td align=left><a href="https://tryhackme.com/room/squidgameroom
-" target="_blank">https://tryhackme.com/room/squidgameroom
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/squid game.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/squid game.txt</a></td>
-</tr>
-<tr>
-<td align=left>SSDLC
-</td>
-<td align=left><a href="https://tryhackme.com/room/securesdlc
-" target="_blank">https://tryhackme.com/room/securesdlc
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ssdlc.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ssdlc.txt</a></td>
-</tr>
-<tr>
-<td align=left>SSRF
-</td>
-<td align=left><a href="https://tryhackme.com/room/ssrfhr
-" target="_blank">https://tryhackme.com/room/ssrfhr
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ssrf.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ssrf.txt</a></td>
-</tr>
-<tr>
-<td align=left>SSTI
-</td>
-<td align=left><a href="https://tryhackme.com/room/learnssti
-" target="_blank">https://tryhackme.com/room/learnssti
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ssti.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ssti.txt</a></td>
-</tr>
-<tr>
-<td align=left>Starting Out In Cyber Sec
-</td>
-<td align=left><a href="https://tryhackme.com/room/startingoutincybersec
-" target="_blank">https://tryhackme.com/room/startingoutincybersec
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/starting out in cyber sec.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/starting out in cyber sec.txt</a></td>
-</tr>
-<tr>
-<td align=left>Startup
-</td>
-<td align=left><a href="https://tryhackme.com/room/startup
-" target="_blank">https://tryhackme.com/room/startup
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/startup.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/startup.txt</a></td>
-</tr>
-<tr>
-<td align=left>Stealth
-</td>
-<td align=left><a href="https://tryhackme.com/room/stealth
-" target="_blank">https://tryhackme.com/room/stealth
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/stealth.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/stealth.txt</a></td>
-</tr>
-<tr>
-<td align=left>Steel Mountain
-</td>
-<td align=left><a href="https://tryhackme.com/room/steelmountain
-" target="_blank">https://tryhackme.com/room/steelmountain
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/steel mountain.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/steel mountain.txt</a></td>
-</tr>
-<tr>
-<td align=left>STS Credentials Lab
-</td>
-<td align=left><a href="https://tryhackme.com/room/stscredentialslab
-" target="_blank">https://tryhackme.com/room/stscredentialslab
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/sts credentials lab.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/sts credentials lab.txt</a></td>
-</tr>
-<tr>
-<td align=left>StuxCTF
-</td>
-<td align=left><a href="https://tryhackme.com/room/stuxctf
-" target="_blank">https://tryhackme.com/room/stuxctf
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/stuxctf.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/stuxctf.txt</a></td>
-</tr>
-<tr>
-<td align=left>Subdomain Enumeration
-</td>
-<td align=left><a href="https://tryhackme.com/room/subdomainenumeration
-" target="_blank">https://tryhackme.com/room/subdomainenumeration
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/subdomain enumeration.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/subdomain enumeration.txt</a></td>
-</tr>
-<tr>
-<td align=left>Sudo Buffer Overflow
-</td>
-<td align=left><a href="https://tryhackme.com/room/sudovulnsbof
-" target="_blank">https://tryhackme.com/room/sudovulnsbof
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/sudo buffer overflow.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/sudo buffer overflow.txt</a></td>
-</tr>
-<tr>
-<td align=left>Sudo Security Bypass
-</td>
-<td align=left><a href="https://tryhackme.com/room/sudovulnsbypass
-" target="_blank">https://tryhackme.com/room/sudovulnsbypass
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/sudo security bypass.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/sudo security bypass.txt</a></td>
-</tr>
-<tr>
-<td align=left>Summit
-</td>
-<td align=left><a href="https://tryhackme.com/room/summit
-" target="_blank">https://tryhackme.com/room/summit
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/summit.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/summit.txt</a></td>
-</tr>
-<tr>
-<td align=left>Super Secret TIp
-</td>
-<td align=left><a href="https://tryhackme.com/room/supersecrettip
-" target="_blank">https://tryhackme.com/room/supersecrettip
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/super secret tip.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/super secret tip.txt</a></td>
-</tr>
-<tr>
-<td align=left>Super-Spam
-</td>
-<td align=left><a href="https://tryhackme.com/room/superspamr
-" target="_blank">https://tryhackme.com/room/superspamr
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/super-spam.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/super-spam.txt</a></td>
-</tr>
-<tr>
-<td align=left>Supply Chain Attack: Lottie
-</td>
-<td align=left><a href="https://tryhackme.com/room/supplychainattacks
-" target="_blank">https://tryhackme.com/room/supplychainattacks
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/supply chain attack lottie.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/supply chain attack lottie.txt</a></td>
-</tr>
-<tr>
-<td align=left>Surfer
-</td>
-<td align=left><a href="https://tryhackme.com/room/surfer
-" target="_blank">https://tryhackme.com/room/surfer
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/surfer.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/surfer.txt</a></td>
-</tr>
-<tr>
-<td align=left>Sustah
-</td>
-<td align=left><a href="https://tryhackme.com/room/sustah
-" target="_blank">https://tryhackme.com/room/sustah
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/sustah.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/sustah.txt</a></td>
-</tr>
-<tr>
-<td align=left>Sweettooth Inc.
-</td>
-<td align=left><a href="https://tryhackme.com/room/sweettoothinc
-" target="_blank">https://tryhackme.com/room/sweettoothinc
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/sweettooth inc..txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/sweettooth inc..txt</a></td>
-</tr>
-<tr>
-<td align=left>Sysinternals
-</td>
-<td align=left><a href="https://tryhackme.com/room/btsysinternalssg
-" target="_blank">https://tryhackme.com/room/btsysinternalssg
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/sysinternals.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/sysinternals.txt</a></td>
-</tr>
-<tr>
-<td align=left>Sysmon
-</td>
-<td align=left><a href="https://tryhackme.com/room/sysmon
-" target="_blank">https://tryhackme.com/room/sysmon
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/sysmon.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/sysmon.txt</a></td>
-</tr>
-<tr>
-<td align=left>Tactical Detection
-</td>
-<td align=left><a href="https://tryhackme.com/room/tacticaldetection
-" target="_blank">https://tryhackme.com/room/tacticaldetection
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/tactical detection.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/tactical detection.txt</a></td>
-</tr>
-<tr>
-<td align=left>Takedown
-</td>
-<td align=left><a href="https://tryhackme.com/room/takedown
-" target="_blank">https://tryhackme.com/room/takedown
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/takedown.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/takedown.txt</a></td>
-</tr>
-<tr>
-<td align=left>TakeOver
-</td>
-<td align=left><a href="https://tryhackme.com/room/takeover
-" target="_blank">https://tryhackme.com/room/takeover
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/takeover.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/takeover.txt</a></td>
-</tr>
-<tr>
-<td align=left>Tardigrade
-</td>
-<td align=left><a href="https://tryhackme.com/room/tardigrade
-" target="_blank">https://tryhackme.com/room/tardigrade
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/tardigrade.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/tardigrade.txt</a></td>
-</tr>
-<tr>
-<td align=left>Tcpdump: The Basics
-</td>
-<td align=left><a href="https://tryhackme.com/room/tcpdump
-" target="_blank">https://tryhackme.com/room/tcpdump
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/tcpdump the basics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/tcpdump the basics.txt</a></td>
-</tr>
-<tr>
-<td align=left>Team
-</td>
-<td align=left><a href="https://tryhackme.com/room/teamcw
-" target="_blank">https://tryhackme.com/room/teamcw
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/team.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/team.txt</a></td>
-</tr>
-<tr>
-<td align=left>Tech_Supp0rt: 1
-</td>
-<td align=left><a href="https://tryhackme.com/room/techsupp0rt1
-" target="_blank">https://tryhackme.com/room/techsupp0rt1
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/tech_supp0rt 1.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/tech_supp0rt 1.txt</a></td>
-</tr>
-<tr>
-<td align=left>Tempest
-</td>
-<td align=left><a href="https://tryhackme.com/room/tempestincident
-" target="_blank">https://tryhackme.com/room/tempestincident
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/tempest.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/tempest.txt</a></td>
-</tr>
-<tr>
-<td align=left>Templates
-</td>
-<td align=left><a href="https://tryhackme.com/room/templates
-" target="_blank">https://tryhackme.com/room/templates
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/templates.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/templates.txt</a></td>
-</tr>
-<tr>
-<td align=left>Temple
-</td>
-<td align=left><a href="https://tryhackme.com/room/temple
-" target="_blank">https://tryhackme.com/room/temple
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/temple.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/temple.txt</a></td>
-</tr>
-<tr>
-<td align=left>Tempus Fugit Durius
-</td>
-<td align=left><a href="https://tryhackme.com/room/tempusfugitdurius
-" target="_blank">https://tryhackme.com/room/tempusfugitdurius
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/tempus fugit durius.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/tempus fugit durius.txt</a></td>
-</tr>
-<tr>
-<td align=left>That's The Ticket
-</td>
-<td align=left><a href="https://tryhackme.com/room/thatstheticket
-" target="_blank">https://tryhackme.com/room/thatstheticket
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/thats the ticket.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/thats the ticket.txt</a></td>
-</tr>
-<tr>
-<td align=left>The Bandit Surfer
-</td>
-<td align=left><a href="https://tryhackme.com/room/surfingyetiiscomingtotown
-" target="_blank">https://tryhackme.com/room/surfingyetiiscomingtotown
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/the bandit surfer.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/the bandit surfer.txt</a></td>
-</tr>
-<tr>
-<td align=left>The Blob Blog
-</td>
-<td align=left><a href="https://tryhackme.com/room/theblobblog
-" target="_blank">https://tryhackme.com/room/theblobblog
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/the blob blog.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/the blob blog.txt</a></td>
-</tr>
-<tr>
-<td align=left>The Cod Caper
-</td>
-<td align=left><a href="https://tryhackme.com/room/thecodcaper
-" target="_blank">https://tryhackme.com/room/thecodcaper
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/the cod caper.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/the cod caper.txt</a></td>
-</tr>
-<tr>
-<td align=left>The Docker Rodeo
-</td>
-<td align=left><a href="https://tryhackme.com/room/dockerrodeo
-" target="_blank">https://tryhackme.com/room/dockerrodeo
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/the docker rodeo.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/the docker rodeo.txt</a></td>
-</tr>
-<tr>
-<td align=left>The Game
-</td>
-<td align=left><a href="https://tryhackme.com/room/hfb1thegamev2
-" target="_blank">https://tryhackme.com/room/hfb1thegamev2
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/the game v2.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/the game v2.txt</a></td>
-</tr>
-<tr>
-<td align=left>The Game v2
-</td>
-<td align=left><a href="https://tryhackme.com/room/hfb1thegame
-" target="_blank">https://tryhackme.com/room/hfb1thegame
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/the game.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/the game.txt</a></td>
-</tr>
-<tr>
-<td align=left>The Great Escape
-</td>
-<td align=left><a href="https://tryhackme.com/room/thegreatescape
-" target="_blank">https://tryhackme.com/room/thegreatescape
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/the great escape.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/the great escape.txt</a></td>
-</tr>
-<tr>
-<td align=left>The Greenholt Phish
-</td>
-<td align=left><a href="https://tryhackme.com/room/phishingemails5fgjlzxc
-" target="_blank">https://tryhackme.com/room/phishingemails5fgjlzxc
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/the greenholt phish.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/the greenholt phish.txt</a></td>
-</tr>
-<tr>
-<td align=left>The Hacker Methodology
-</td>
-<td align=left><a href="https://tryhackme.com/room/hackermethodology
-" target="_blank">https://tryhackme.com/room/hackermethodology
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/the hacker methodology.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/the hacker methodology.txt</a></td>
-</tr>
-<tr>
-<td align=left>The Impossible Challenge
-</td>
-<td align=left><a href="https://tryhackme.com/room/theimpossiblechallenge
-" target="_blank">https://tryhackme.com/room/theimpossiblechallenge
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/the impossible challenge.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/the impossible challenge.txt</a></td>
-</tr>
-<tr>
-<td align=left>The Lay of the Land
-</td>
-<td align=left><a href="https://tryhackme.com/room/thelayoftheland
-" target="_blank">https://tryhackme.com/room/thelayoftheland
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/the lay of the land.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/the lay of the land.txt</a></td>
-</tr>
-<tr>
-<td align=left>The London Bridge
-</td>
-<td align=left><a href="https://tryhackme.com/room/thelondonbridge
-" target="_blank">https://tryhackme.com/room/thelondonbridge
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/the london bridge.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/the london bridge.txt</a></td>
-</tr>
-<tr>
-<td align=left>The Marketplace
-</td>
-<td align=left><a href="https://tryhackme.com/room/marketplace
-" target="_blank">https://tryhackme.com/room/marketplace
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/the marketplace.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/the marketplace.txt</a></td>
-</tr>
-<tr>
-<td align=left>The Quest for Least Privilege
-</td>
-<td align=left><a href="https://tryhackme.com/room/thequestforleastprivilege
-" target="_blank">https://tryhackme.com/room/thequestforleastprivilege
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/the quest for least privilege.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/the quest for least privilege.txt</a></td>
-</tr>
-<tr>
-<td align=left>The Return of the Yeti
-</td>
-<td align=left><a href="https://tryhackme.com/room/adv3nt0fdbopsjcap
-" target="_blank">https://tryhackme.com/room/adv3nt0fdbopsjcap
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/the return of the yeti.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/the return of the yeti.txt</a></td>
-</tr>
-<tr>
-<td align=left>The Server From Hell
-</td>
-<td align=left><a href="https://tryhackme.com/room/theserverfromhell
-" target="_blank">https://tryhackme.com/room/theserverfromhell
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/the server from hell.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/the server from hell.txt</a></td>
-</tr>
-<tr>
-<td align=left>The Sticker Shop
-</td>
-<td align=left><a href="https://tryhackme.com/room/thestickershop
-" target="_blank">https://tryhackme.com/room/thestickershop
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/the sticker shop.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/the sticker shop.txt</a></td>
-</tr>
-<tr>
-<td align=left>The Witch's Cauldron
-</td>
-<td align=left><a href="https://tryhackme.com/room/cauldron
-" target="_blank">https://tryhackme.com/room/cauldron
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/the witchs cauldron.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/the witchs cauldron.txt</a></td>
-</tr>
-<tr>
-<td align=left>TheHive Project
-</td>
-<td align=left><a href="https://tryhackme.com/room/thehiveproject
-" target="_blank">https://tryhackme.com/room/thehiveproject
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/thehive project.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/thehive project.txt</a></td>
-</tr>
-<tr>
-<td align=left>Theseus
-</td>
-<td align=left><a href="https://tryhackme.com/room/theseus
-" target="_blank">https://tryhackme.com/room/theseus
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/theseus.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/theseus.txt</a></td>
-</tr>
-<tr>
-<td align=left>Thompson
-</td>
-<td align=left><a href="https://tryhackme.com/room/bsidesgtthompson
-" target="_blank">https://tryhackme.com/room/bsidesgtthompson
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/thompson.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/thompson.txt</a></td>
-</tr>
-<tr>
-<td align=left>Threat Hunting: Endgame
-</td>
-<td align=left><a href="https://tryhackme.com/room/threathuntingendgame
-" target="_blank">https://tryhackme.com/room/threathuntingendgame
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/threat hunting endgame.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/threat hunting endgame.txt</a></td>
-</tr>
-<tr>
-<td align=left>Threat Hunting: Foothold
-</td>
-<td align=left><a href="https://tryhackme.com/room/threathuntingfoothold
-" target="_blank">https://tryhackme.com/room/threathuntingfoothold
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/threat hunting foothold.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/threat hunting foothold.txt</a></td>
-</tr>
-<tr>
-<td align=left>Threat Hunting: Introduction
-</td>
-<td align=left><a href="https://tryhackme.com/room/introductiontothreathunting
-" target="_blank">https://tryhackme.com/room/introductiontothreathunting
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/threat hunting introduction.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/threat hunting introduction.txt</a></td>
-</tr>
-<tr>
-<td align=left>Threat Hunting: Pivoting
-</td>
-<td align=left><a href="https://tryhackme.com/room/threathuntingpivoting
-" target="_blank">https://tryhackme.com/room/threathuntingpivoting
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/threat hunting pivoting.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/threat hunting pivoting.txt</a></td>
-</tr>
-<tr>
-<td align=left>Threat Hunting With YARA
-</td>
-<td align=left><a href="https://tryhackme.com/room/threathuntingwithyara
-" target="_blank">https://tryhackme.com/room/threathuntingwithyara
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/threat hunting with yara.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/threat hunting with yara.txt</a></td>
-</tr>
-<tr>
-<td align=left>Threat Intel & Containment
-</td>
-<td align=left><a href="https://tryhackme.com/room/intelcreationandcontainment
-" target="_blank">https://tryhackme.com/room/intelcreationandcontainment
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/threat intel & containment.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/threat intel & containment.txt</a></td>
-</tr>
-<tr>
-<td align=left>Threat Intelligence for SOC
-</td>
-<td align=left><a href="https://tryhackme.com/room/threatintelligenceforsoc
-" target="_blank">https://tryhackme.com/room/threatintelligenceforsoc
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/threat intelligence for soc.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/threat intelligence for soc.txt</a></td>
-</tr>
-<tr>
-<td align=left>Threat Intelligence Tools
-</td>
-<td align=left><a href="https://tryhackme.com/room/threatinteltools
-" target="_blank">https://tryhackme.com/room/threatinteltools
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/threat intelligence tools.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/threat intelligence tools.txt</a></td>
-</tr>
-<tr>
-<td align=left>Threat Modelling
-</td>
-<td align=left><a href="https://tryhackme.com/room/threatmodelling
-" target="_blank">https://tryhackme.com/room/threatmodelling
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/threat modelling.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/threat modelling.txt</a></td>
-</tr>
-<tr>
-<td align=left>tmux
-</td>
-<td align=left><a href="https://tryhackme.com/room/rptmux
-" target="_blank">https://tryhackme.com/room/rptmux
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/tmux.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/tmux.txt</a></td>
-</tr>
-<tr>
-<td align=left>toc2
-</td>
-<td align=left><a href="https://tryhackme.com/room/toc2
-" target="_blank">https://tryhackme.com/room/toc2
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/toc2.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/toc2.txt</a></td>
-</tr>
-<tr>
-<td align=left>Tokyo Ghoul
-</td>
-<td align=left><a href="https://tryhackme.com/room/tokyoghoul666
-" target="_blank">https://tryhackme.com/room/tokyoghoul666
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/tokyo ghoul.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/tokyo ghoul.txt</a></td>
-</tr>
-<tr>
-<td align=left>Tomcat: CVE-2024-50379
-</td>
-<td align=left><a href="https://tryhackme.com/room/tomcatcve202450379
-" target="_blank">https://tryhackme.com/room/tomcatcve202450379
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/tomcat cve-2024-50379.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/tomcat cve-2024-50379.txt</a></td>
-</tr>
-<tr>
-<td align=left>tomghost
-</td>
-<td align=left><a href="https://tryhackme.com/room/tomghost
-" target="_blank">https://tryhackme.com/room/tomghost
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/tomghost.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/tomghost.txt</a></td>
-</tr>
-<tr>
-<td align=left>Tony the Tiger
-</td>
-<td align=left><a href="https://tryhackme.com/room/tonythetiger
-" target="_blank">https://tryhackme.com/room/tonythetiger
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/tony the tiger.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/tony the tiger.txt</a></td>
-</tr>
-<tr>
-<td align=left>Toolbox: Vim
-</td>
-<td align=left><a href="https://tryhackme.com/room/toolboxvim
-" target="_blank">https://tryhackme.com/room/toolboxvim
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/toolbox vim.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/toolbox vim.txt</a></td>
-</tr>
-<tr>
-<td align=left>ToolsRus
-</td>
-<td align=left><a href="https://tryhackme.com/room/toolsrus
-" target="_blank">https://tryhackme.com/room/toolsrus
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/toolsrus.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/toolsrus.txt</a></td>
-</tr>
-<tr>
-<td align=left>Tor
-</td>
-<td align=left><a href="https://tryhackme.com/room/torforbeginners
-" target="_blank">https://tryhackme.com/room/torforbeginners
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/tor.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/tor.txt</a></td>
-</tr>
-<tr>
-<td align=left>Traffic Analysis Essentials
-</td>
-<td align=left><a href="https://tryhackme.com/room/trafficanalysisessentials
-" target="_blank">https://tryhackme.com/room/trafficanalysisessentials
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/traffic analysis essentials.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/traffic analysis essentials.txt</a></td>
-</tr>
-<tr>
-<td align=left>Training Impact on Teams
-</td>
-<td align=left><a href="https://tryhackme.com/room/training
-" target="_blank">https://tryhackme.com/room/training
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/training impact on teams.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/training impact on teams.txt</a></td>
-</tr>
-<tr>
-<td align=left>Traverse
-</td>
-<td align=left><a href="https://tryhackme.com/room/traverse
-" target="_blank">https://tryhackme.com/room/traverse
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/traverse.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/traverse.txt</a></td>
-</tr>
-<tr>
-<td align=left>Trooper
-</td>
-<td align=left><a href="https://tryhackme.com/room/trooper
-" target="_blank">https://tryhackme.com/room/trooper
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/trooper.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/trooper.txt</a></td>
-</tr>
-<tr>
-<td align=left>TryHack3M: Bricks Heist
-</td>
-<td align=left><a href="https://tryhackme.com/room/tryhack3mbricksheist
-" target="_blank">https://tryhackme.com/room/tryhack3mbricksheist
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/tryhack3m bricks heist.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/tryhack3m bricks heist.txt</a></td>
-</tr>
-<tr>
-<td align=left>TryHack3M: Burg3r Bytes
-</td>
-<td align=left><a href="https://tryhackme.com/room/burg3rbytes
-" target="_blank">https://tryhackme.com/room/burg3rbytes
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/tryhack3m burg3r bytes.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/tryhack3m burg3r bytes.txt</a></td>
-</tr>
-<tr>
-<td align=left>TryHack3M: Sch3Ma D3Mon
-</td>
-<td align=left><a href="https://tryhackme.com/room/sch3mad3mon
-" target="_blank">https://tryhackme.com/room/sch3mad3mon
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/tryhack3m sch3ma d3mon.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/tryhack3m sch3ma d3mon.txt</a></td>
-</tr>
-<tr>
-<td align=left>TryHack3M: Subscribe
-</td>
-<td align=left><a href="https://tryhackme.com/room/subscribe
-" target="_blank">https://tryhackme.com/room/subscribe
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/tryhack3m subscribe.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/tryhack3m subscribe.txt</a></td>
-</tr>
-<tr>
-<td align=left>TryHack3M: TriCipher Summit
-</td>
-<td align=left><a href="https://tryhackme.com/room/tryhack3mencryptionchallenge
-" target="_blank">https://tryhackme.com/room/tryhack3mencryptionchallenge
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/tryhack3m tricipher summit.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/tryhack3m tricipher summit.txt</a></td>
-</tr>
-<tr>
-<td align=left>TryPwnMe One
-</td>
-<td align=left><a href="https://tryhackme.com/room/trypwnmeone
-" target="_blank">https://tryhackme.com/room/trypwnmeone
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/trypwnme one.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/trypwnme one.txt</a></td>
-</tr>
-<tr>
-<td align=left>TryPwnMe Two
-</td>
-<td align=left><a href="https://tryhackme.com/room/trypwnmetwo
-" target="_blank">https://tryhackme.com/room/trypwnmetwo
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/trypwnme two.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/trypwnme two.txt</a></td>
-</tr>
-<tr>
-<td align=left>TShark: Challenge I: Teamwork
-</td>
-<td align=left><a href="https://tryhackme.com/room/tsharkchallengesone
-" target="_blank">https://tryhackme.com/room/tsharkchallengesone
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/tshark challenge i teamwork.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/tshark challenge i teamwork.txt</a></td>
-</tr>
-<tr>
-<td align=left>TShark Challenge II: Directory
-</td>
-<td align=left><a href="https://tryhackme.com/room/tsharkchallengestwo
-" target="_blank">https://tryhackme.com/room/tsharkchallengestwo
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/tshark challenge ii directory.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/tshark challenge ii directory.txt</a></td>
-</tr>
-<tr>
-<td align=left>TShark: CLI Wireshark Features
-</td>
-<td align=left><a href="https://tryhackme.com/room/tsharkcliwiresharkfeatures
-" target="_blank">https://tryhackme.com/room/tsharkcliwiresharkfeatures
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/tshark cli wireshark features.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/tshark cli wireshark features.txt</a></td>
-</tr>
-<tr>
-<td align=left>TShark: The Basics
-</td>
-<td align=left><a href="https://tryhackme.com/room/tsharkthebasics
-" target="_blank">https://tryhackme.com/room/tsharkthebasics
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/tshark the basics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/tshark the basics.txt</a></td>
-</tr>
-<tr>
-<td align=left>TShark
-</td>
-<td align=left><a href="https://tryhackme.com/room/tshark
-" target="_blank">https://tryhackme.com/room/tshark
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/tshark.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/tshark.txt</a></td>
-</tr>
-<tr>
-<td align=left>Tutorial
-</td>
-<td align=left><a href="https://tryhackme.com/room/tutorial
-" target="_blank">https://tryhackme.com/room/tutorial
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/tutorial.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/tutorial.txt</a></td>
-</tr>
-<tr>
-<td align=left>U.A. High School
-</td>
-<td align=left><a href="https://tryhackme.com/room/yueiua
-" target="_blank">https://tryhackme.com/room/yueiua
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/u.a. high school.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/u.a. high school.txt</a></td>
-</tr>
-<tr>
-<td align=left>UltraTech
-</td>
-<td align=left><a href="https://tryhackme.com/room/ultratech1
-" target="_blank">https://tryhackme.com/room/ultratech1
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/ultratech.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/ultratech.txt</a></td>
-</tr>
-<tr>
-<td align=left>Umbrella
-</td>
-<td align=left><a href="https://tryhackme.com/room/umbrella
-" target="_blank">https://tryhackme.com/room/umbrella
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/umbrella.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/umbrella.txt</a></td>
-</tr>
-<tr>
-<td align=left>Unattended
-</td>
-<td align=left><a href="https://tryhackme.com/room/unattended
-" target="_blank">https://tryhackme.com/room/unattended
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/unattended.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/unattended.txt</a></td>
-</tr>
-<tr>
-<td align=left>Unbaked Pie
-</td>
-<td align=left><a href="https://tryhackme.com/room/unbakedpie
-" target="_blank">https://tryhackme.com/room/unbakedpie
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/unbaked pie.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/unbaked pie.txt</a></td>
-</tr>
-<tr>
-<td align=left>Undiscovered
-</td>
-<td align=left><a href="https://tryhackme.com/room/undiscoveredup
-" target="_blank">https://tryhackme.com/room/undiscoveredup
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/undiscovered.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/undiscovered.txt</a></td>
-</tr>
-<tr>
-<td align=left>Unified Kill Chain
-</td>
-<td align=left><a href="https://tryhackme.com/room/unifiedkillchain
-" target="_blank">https://tryhackme.com/room/unifiedkillchain
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/unified kill chain.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/unified kill chain.txt</a></td>
-</tr>
-<tr>
-<td align=left>Unstable Twin
-</td>
-<td align=left><a href="https://tryhackme.com/room/unstabletwin
-" target="_blank">https://tryhackme.com/room/unstabletwin
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/unstable twin.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/unstable twin.txt</a></td>
-</tr>
-<tr>
-<td align=left>Upload Vulnerabilities
-</td>
-<td align=left><a href="https://tryhackme.com/room/uploadvulns
-" target="_blank">https://tryhackme.com/room/uploadvulns
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/upload vulnerabilities.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/upload vulnerabilities.txt</a></td>
-</tr>
-<tr>
-<td align=left>Uranium CTF
-</td>
-<td align=left><a href="https://tryhackme.com/room/uranium
-" target="_blank">https://tryhackme.com/room/uranium
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/uranium ctf.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/uranium ctf.txt</a></td>
-</tr>
-<tr>
-<td align=left>Valley
-</td>
-<td align=left><a href="https://tryhackme.com/room/valleype
-" target="_blank">https://tryhackme.com/room/valleype
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/valley.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/valley.txt</a></td>
-</tr>
-<tr>
-<td align=left>Velociraptor
-</td>
-<td align=left><a href="https://tryhackme.com/room/velociraptorhp
-" target="_blank">https://tryhackme.com/room/velociraptorhp
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/velociraptor.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/velociraptor.txt</a></td>
-</tr>
-<tr>
-<td align=left>Virtualization and Containers
-</td>
-<td align=left><a href="https://tryhackme.com/room/virtualizationandcontainers
-" target="_blank">https://tryhackme.com/room/virtualizationandcontainers
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/virtualization and containers.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/virtualization and containers.txt</a></td>
-</tr>
-<tr>
-<td align=left>Void Execution
-</td>
-<td align=left><a href="https://tryhackme.com/room/hfb1voidexecution
-" target="_blank">https://tryhackme.com/room/hfb1voidexecution
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/void execution.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/void execution.txt</a></td>
-</tr>
-<tr>
-<td align=left>Volatility
-</td>
-<td align=left><a href="https://tryhackme.com/room/volatility
-" target="_blank">https://tryhackme.com/room/volatility
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/volatility.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/volatility.txt</a></td>
-</tr>
-<tr>
-<td align=left>Volt Typhoon
-</td>
-<td align=left><a href="https://tryhackme.com/room/volttyphoon
-" target="_blank">https://tryhackme.com/room/volttyphoon
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/volt typhoon.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/volt typhoon.txt</a></td>
-</tr>
-<tr>
-<td align=left>Vulnerabilities 101
-</td>
-<td align=left><a href="https://tryhackme.com/room/vulnerabilities101
-" target="_blank">https://tryhackme.com/room/vulnerabilities101
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/vulnerabilities 101.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/vulnerabilities 101.txt</a></td>
-</tr>
-<tr>
-<td align=left>Vulnerability Capstone
-</td>
-<td align=left><a href="https://tryhackme.com/room/vulnerabilitycapstone
-" target="_blank">https://tryhackme.com/room/vulnerabilitycapstone
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/vulnerability capstone.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/vulnerability capstone.txt</a></td>
-</tr>
-<tr>
-<td align=left>Vulnerability Management
-</td>
-<td align=left><a href="https://tryhackme.com/room/vulnerabilitymanagementkj
-" target="_blank">https://tryhackme.com/room/vulnerabilitymanagementkj
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/vulnerability management.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/vulnerability management.txt</a></td>
-</tr>
-<tr>
-<td align=left>Vulnerability Scanner Overview
-</td>
-<td align=left><a href="https://tryhackme.com/room/vulnerabilityscanneroverview
-" target="_blank">https://tryhackme.com/room/vulnerabilityscanneroverview
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/vulnerability scanner overview.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/vulnerability scanner overview.txt</a></td>
-</tr>
-<tr>
-<td align=left>VulnNet: Active
-</td>
-<td align=left><a href="https://tryhackme.com/room/vulnnetactive
-" target="_blank">https://tryhackme.com/room/vulnnetactive
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/vulnnet active.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/vulnnet active.txt</a></td>
-</tr>
-<tr>
-<td align=left>VulnNet: dotjar
-</td>
-<td align=left><a href="https://tryhackme.com/room/vulnnetdotjar
-" target="_blank">https://tryhackme.com/room/vulnnetdotjar
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/vulnnet dotjar.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/vulnnet dotjar.txt</a></td>
-</tr>
-<tr>
-<td align=left>VulnNet: dotpy
-</td>
-<td align=left><a href="https://tryhackme.com/room/vulnnetdotpy
-" target="_blank">https://tryhackme.com/room/vulnnetdotpy
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/vulnnet dotpy.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/vulnnet dotpy.txt</a></td>
-</tr>
-<tr>
-<td align=left>VulnNet: Endgame
-</td>
-<td align=left><a href="https://tryhackme.com/room/vulnnetendgame
-" target="_blank">https://tryhackme.com/room/vulnnetendgame
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/vulnnet endgame.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/vulnnet endgame.txt</a></td>
-</tr>
-<tr>
-<td align=left>VulnNet: Internal
-</td>
-<td align=left><a href="https://tryhackme.com/room/vulnnetinternal
-" target="_blank">https://tryhackme.com/room/vulnnetinternal
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/vulnnet internal.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/vulnnet internal.txt</a></td>
-</tr>
-<tr>
-<td align=left>VulnNet: Node
-</td>
-<td align=left><a href="https://tryhackme.com/room/vulnnetnode
-" target="_blank">https://tryhackme.com/room/vulnnetnode
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/vulnnet node.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/vulnnet node.txt</a></td>
-</tr>
-<tr>
-<td align=left>VulnNet: Roasted
-</td>
-<td align=left><a href="https://tryhackme.com/room/vulnnetroasted
-" target="_blank">https://tryhackme.com/room/vulnnetroasted
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/vulnnet roasted.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/vulnnet roasted.txt</a></td>
-</tr>
-<tr>
-<td align=left>VulnNet
-</td>
-<td align=left><a href="https://tryhackme.com/room/vulnnet1
-" target="_blank">https://tryhackme.com/room/vulnnet1
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/vulnnet.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/vulnnet.txt</a></td>
-</tr>
-<tr>
-<td align=left>Vulnversity
-</td>
-<td align=left><a href="https://tryhackme.com/room/vulnversity
-" target="_blank">https://tryhackme.com/room/vulnversity
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/vulnversity.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/vulnversity.txt</a></td>
-</tr>
-<tr>
-<td align=left>W1seGuy
-</td>
-<td align=left><a href="https://tryhackme.com/room/w1seguy
-" target="_blank">https://tryhackme.com/room/w1seguy
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/w1seguy.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/w1seguy.txt</a></td>
-</tr>
-<tr>
-<td align=left>Walking An Application
-</td>
-<td align=left><a href="https://tryhackme.com/room/walkinganapplication
-" target="_blank">https://tryhackme.com/room/walkinganapplication
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/walking an application.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/walking an application.txt</a></td>
-</tr>
-<tr>
-<td align=left>Warzone 1
-</td>
-<td align=left><a href="https://tryhackme.com/room/warzoneone
-" target="_blank">https://tryhackme.com/room/warzoneone
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/warzone 1.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/warzone 1.txt</a></td>
-</tr>
-<tr>
-<td align=left>Warzone 2
-</td>
-<td align=left><a href="https://tryhackme.com/room/warzonetwo
-" target="_blank">https://tryhackme.com/room/warzonetwo
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/warzone 2.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/warzone 2.txt</a></td>
-</tr>
-<tr>
-<td align=left>Watcher
-</td>
-<td align=left><a href="https://tryhackme.com/room/watcher
-" target="_blank">https://tryhackme.com/room/watcher
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/watcher.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/watcher.txt</a></td>
-</tr>
-<tr>
-<td align=left>Wazuh
-</td>
-<td align=left><a href="https://tryhackme.com/room/wazuhct
-" target="_blank">https://tryhackme.com/room/wazuhct
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/wazuh.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/wazuh.txt</a></td>
-</tr>
-<tr>
-<td align=left>Weaponization
-</td>
-<td align=left><a href="https://tryhackme.com/room/weaponization
-" target="_blank">https://tryhackme.com/room/weaponization
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/weaponization.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/weaponization.txt</a></td>
-</tr>
-<tr>
-<td align=left>Weaponizing Vulnerabilities
-</td>
-<td align=left><a href="https://tryhackme.com/room/weaponizingvulnerabilities
-" target="_blank">https://tryhackme.com/room/weaponizingvulnerabilities
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/weaponizing vulnerabilities.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/weaponizing vulnerabilities.txt</a></td>
-</tr>
-<tr>
-<td align=left>Weasel
-</td>
-<td align=left><a href="https://tryhackme.com/room/weasel
-" target="_blank">https://tryhackme.com/room/weasel
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/weasel.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/weasel.txt</a></td>
-</tr>
-<tr>
-<td align=left>Web Application Basics
-</td>
-<td align=left><a href="https://tryhackme.com/room/webapplicationbasics
-" target="_blank">https://tryhackme.com/room/webapplicationbasics
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/web application basics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/web application basics.txt</a></td>
-</tr>
-<tr>
-<td align=left>Web Application Security
-</td>
-<td align=left><a href="https://tryhackme.com/room/introwebapplicationsecurity
-" target="_blank">https://tryhackme.com/room/introwebapplicationsecurity
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/web application security.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/web application security.txt</a></td>
-</tr>
-<tr>
-<td align=left>Web Enumeration
-</td>
-<td align=left><a href="https://tryhackme.com/room/webenumerationv2
-" target="_blank">https://tryhackme.com/room/webenumerationv2
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/web enumeration.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/web enumeration.txt</a></td>
-</tr>
-<tr>
-<td align=left>WebGOAT
-</td>
-<td align=left><a href="https://tryhackme.com/room/webgoat
-" target="_blank">https://tryhackme.com/room/webgoat
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/webgoat.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/webgoat.txt</a></td>
-</tr>
-<tr>
-<td align=left>WebOSINT
-</td>
-<td align=left><a href="https://tryhackme.com/room/webosint
-" target="_blank">https://tryhackme.com/room/webosint
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/webosint.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/webosint.txt</a></td>
-</tr>
-<tr>
-<td align=left>Wekor
-</td>
-<td align=left><a href="https://tryhackme.com/room/wekorra
-" target="_blank">https://tryhackme.com/room/wekorra
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/wekor.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/wekor.txt</a></td>
-</tr>
-<tr>
-<td align=left>Welcome
-</td>
-<td align=left><a href="https://tryhackme.com/room/hello
-" target="_blank">https://tryhackme.com/room/hello
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/welcome.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/welcome.txt</a></td>
-</tr>
-<tr>
-<td align=left>Wgel CTF
-</td>
-<td align=left><a href="https://tryhackme.com/room/wgelctf
-" target="_blank">https://tryhackme.com/room/wgelctf
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/wgel ctf.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/wgel ctf.txt</a></td>
-</tr>
-<tr>
-<td align=left>What is Networking?
-</td>
-<td align=left><a href="https://tryhackme.com/room/whatisnetworking
-" target="_blank">https://tryhackme.com/room/whatisnetworking
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/what is networking.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/what is networking.txt</a></td>
-</tr>
-<tr>
-<td align=left>What the Shell?
-</td>
-<td align=left><a href="https://tryhackme.com/room/introtoshells
-" target="_blank">https://tryhackme.com/room/introtoshells
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/what the shell.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/what the shell.txt</a></td>
-</tr>
-<tr>
-<td align=left>Whats Your Name?
-</td>
-<td align=left><a href="https://tryhackme.com/room/whatsyourname
-" target="_blank">https://tryhackme.com/room/whatsyourname
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/whats your name.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/whats your name.txt</a></td>
-</tr>
-<tr>
-<td align=left>Whiterose
-</td>
-<td align=left><a href="https://tryhackme.com/room/whiterose
-" target="_blank">https://tryhackme.com/room/whiterose
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/whiterose.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/whiterose.txt</a></td>
-</tr>
-<tr>
-<td align=left>WhyHackMe
-</td>
-<td align=left><a href="https://tryhackme.com/room/whyhackme
-" target="_blank">https://tryhackme.com/room/whyhackme
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/whyhackme.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/whyhackme.txt</a></td>
-</tr>
-<tr>
-<td align=left>Wifi Hacking 101
-</td>
-<td align=left><a href="https://tryhackme.com/room/wifihacking101
-" target="_blank">https://tryhackme.com/room/wifihacking101
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/wifi hacking 101.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/wifi hacking 101.txt</a></td>
-</tr>
-<tr>
-<td align=left>Willow
-</td>
-<td align=left><a href="https://tryhackme.com/room/willow
-" target="_blank">https://tryhackme.com/room/willow
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/willow.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/willow.txt</a></td>
-</tr>
-<tr>
-<td align=left>Windows Applications Forensics
-</td>
-<td align=left><a href="https://tryhackme.com/room/windowsapplications
-" target="_blank">https://tryhackme.com/room/windowsapplications
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows applications forensics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows applications forensics.txt</a></td>
-</tr>
-<tr>
-<td align=left>Windows Base
-</td>
-<td align=left><a href="https://tryhackme.com/room/windowsbase
-" target="_blank">https://tryhackme.com/room/windowsbase
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows base.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows base.txt</a></td>
-</tr>
-<tr>
-<td align=left>Windows Command Line
-</td>
-<td align=left><a href="https://tryhackme.com/room/windowscommandline
-" target="_blank">https://tryhackme.com/room/windowscommandline
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows command line.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows command line.txt</a></td>
-</tr>
-<tr>
-<td align=left>Windows Event Logs
-</td>
-<td align=left><a href="https://tryhackme.com/room/windowseventlogs
-" target="_blank">https://tryhackme.com/room/windowseventlogs
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows event logs.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows event logs.txt</a></td>
-</tr>
-<tr>
-<td align=left>Windows Forensics 1
-</td>
-<td align=left><a href="https://tryhackme.com/room/windowsforensics1
-" target="_blank">https://tryhackme.com/room/windowsforensics1
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows forensics 1.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows forensics 1.txt</a></td>
-</tr>
-<tr>
-<td align=left>Windows Forensics 2
-</td>
-<td align=left><a href="https://tryhackme.com/room/windowsforensics2
-" target="_blank">https://tryhackme.com/room/windowsforensics2
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows forensics 2.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows forensics 2.txt</a></td>
-</tr>
-<tr>
-<td align=left>Windows Fundamentals 1
-</td>
-<td align=left><a href="https://tryhackme.com/room/windowsfundamentals1xbx
-" target="_blank">https://tryhackme.com/room/windowsfundamentals1xbx
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows fundamentals 1.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows fundamentals 1.txt</a></td>
-</tr>
-<tr>
-<td align=left>Windows Fundamentals 2
-</td>
-<td align=left><a href="https://tryhackme.com/room/windowsfundamentals2x0x
-" target="_blank">https://tryhackme.com/room/windowsfundamentals2x0x
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows fundamentals 2.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows fundamentals 2.txt</a></td>
-</tr>
-<tr>
-<td align=left>Windows Fundamentals 3
-</td>
-<td align=left><a href="https://tryhackme.com/room/windowsfundamentals3xzx
-" target="_blank">https://tryhackme.com/room/windowsfundamentals3xzx
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows fundamentals 3.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows fundamentals 3.txt</a></td>
-</tr>
-<tr>
-<td align=left>Windows Incident Surface
-</td>
-<td align=left><a href="https://tryhackme.com/room/winincidentsurface
-" target="_blank">https://tryhackme.com/room/winincidentsurface
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows incident surface.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows incident surface.txt</a></td>
-</tr>
-<tr>
-<td align=left>Windows Internals
-</td>
-<td align=left><a href="https://tryhackme.com/room/windowsinternals
-" target="_blank">https://tryhackme.com/room/windowsinternals
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows internals.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows internals.txt</a></td>
-</tr>
-<tr>
-<td align=left>Windows Local Persistence
-</td>
-<td align=left><a href="https://tryhackme.com/room/windowslocalpersistence
-" target="_blank">https://tryhackme.com/room/windowslocalpersistence
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows local persistence.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows local persistence.txt</a></td>
-</tr>
-<tr>
-<td align=left>Windows Network Analysis
-</td>
-<td align=left><a href="https://tryhackme.com/room/windowsnetworkanalysis
-" target="_blank">https://tryhackme.com/room/windowsnetworkanalysis
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows network analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows network analysis.txt</a></td>
-</tr>
-<tr>
-<td align=left>Windows Memory & Processes
-</td>
-<td align=left><a href="https://tryhackme.com/room/windowsmemoryandprocs
-" target="_blank">https://tryhackme.com/room/windowsmemoryandprocs
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows memory & processes.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows memory & processes.txt</a></td>
-</tr>
-<tr>
-<td align=left>Windows PowerShell
-</td>
-<td align=left><a href="https://tryhackme.com/room/windowspowershell
-" target="_blank">https://tryhackme.com/room/windowspowershell
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows powershell.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows powershell.txt</a></td>
-</tr>
-<tr>
-<td align=left>Windows PrivEsc Arena
-</td>
-<td align=left><a href="https://tryhackme.com/room/windowsprivescarena
-" target="_blank">https://tryhackme.com/room/windowsprivescarena
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows privesc arena.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows privesc arena.txt</a></td>
-</tr>
-<tr>
-<td align=left>Windows PrivEsc
-</td>
-<td align=left><a href="https://tryhackme.com/room/windows10privesc
-" target="_blank">https://tryhackme.com/room/windows10privesc
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows privesc.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows privesc.txt</a></td>
-</tr>
-<tr>
-<td align=left>Windows Privilege Escalation
-</td>
-<td align=left><a href="https://tryhackme.com/room/windowsprivesc20
-" target="_blank">https://tryhackme.com/room/windowsprivesc20
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows privilege escalation.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows privilege escalation.txt</a></td>
-</tr>
-<tr>
-<td align=left>Windows Reversing Intro
-</td>
-<td align=left><a href="https://tryhackme.com/room/windowsreversingintro
-" target="_blank">https://tryhackme.com/room/windowsreversingintro
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows reversing intro.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows reversing intro.txt</a></td>
-</tr>
-<tr>
-<td align=left>Windows User Account Forensics
-</td>
-<td align=left><a href="https://tryhackme.com/room/windowsuseraccountforensics
-" target="_blank">https://tryhackme.com/room/windowsuseraccountforensics
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows user account forensics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows user account forensics.txt</a></td>
-</tr>
-<tr>
-<td align=left>Windows User Activity Analysis
-</td>
-<td align=left><a href="https://tryhackme.com/room/windowsuseractivity
-" target="_blank">https://tryhackme.com/room/windowsuseractivity
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows user activity analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows user activity analysis.txt</a></td>
-</tr>
-<tr>
-<td align=left>Windows x64 Assembly
-</td>
-<td align=left><a href="https://tryhackme.com/room/win64assembly
-" target="_blank">https://tryhackme.com/room/win64assembly
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows x64 assembly.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/windows x64 assembly.txt</a></td>
-</tr>
-<tr>
-<td align=left>Wireshark 101
-</td>
-<td align=left><a href="https://tryhackme.com/room/wireshark
-" target="_blank">https://tryhackme.com/room/wireshark
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/wireshark 101.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/wireshark 101.txt</a></td>
-</tr>
-<tr>
-<td align=left>Wireshark: Packet Operations
-</td>
-<td align=left><a href="https://tryhackme.com/room/wiresharkpacketoperations
-" target="_blank">https://tryhackme.com/room/wiresharkpacketoperations
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/wireshark packet operations.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/wireshark packet operations.txt</a></td>
-</tr>
-<tr>
-<td align=left>Wireshark: The Basics
-</td>
-<td align=left><a href="https://tryhackme.com/room/wiresharkthebasics
-" target="_blank">https://tryhackme.com/room/wiresharkthebasics
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/wireshark the basics.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/wireshark the basics.txt</a></td>
-</tr>
-<tr>
-<td align=left>Wireshark: Traffic Analysis
-</td>
-<td align=left><a href="https://tryhackme.com/room/wiresharktrafficanalysis
-" target="_blank">https://tryhackme.com/room/wiresharktrafficanalysis
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/wireshark traffic analysis.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/wireshark traffic analysis.txt</a></td>
-</tr>
-<tr>
-<td align=left>Wonderland
-</td>
-<td align=left><a href="https://tryhackme.com/room/wonderland
-" target="_blank">https://tryhackme.com/room/wonderland
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/wonderland.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/wonderland.txt</a></td>
-</tr>
-<tr>
-<td align=left>Wordpress: CVE-2021-29447
-</td>
-<td align=left><a href="https://tryhackme.com/room/wordpresscve202129447
-" target="_blank">https://tryhackme.com/room/wordpresscve202129447
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/wordpress cve-2021-29447.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/wordpress cve-2021-29447.txt</a></td>
-</tr>
-<tr>
-<td align=left>Wreath
-</td>
-<td align=left><a href="https://tryhackme.com/room/wreath
-" target="_blank">https://tryhackme.com/room/wreath
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/wreath.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/wreath.txt</a></td>
-</tr>
-<tr>
-<td align=left>Writing Pentest Reports
-</td>
-<td align=left><a href="https://tryhackme.com/room/writingpentestreports
-" target="_blank">https://tryhackme.com/room/writingpentestreports
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/writing pentest reports.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/writing pentest reports.txt</a></td>
-</tr>
-<tr>
-<td align=left>WWBuddy
-</td>
-<td align=left><a href="https://tryhackme.com/room/wwbuddy
-" target="_blank">https://tryhackme.com/room/wwbuddy
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/wwbuddy.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/wwbuddy.txt</a></td>
-</tr>
-<tr>
-<td align=left>x86 Architecture Overview
-</td>
-<td align=left><a href="https://tryhackme.com/room/x8664arch
-" target="_blank">https://tryhackme.com/room/x8664arch
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/x86 architecture overview.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/x86 architecture overview.txt</a></td>
-</tr>
-<tr>
-<td align=left>x86 Assembly Crash Course
-</td>
-<td align=left><a href="https://tryhackme.com/room/x86assemblycrashcourse
-" target="_blank">https://tryhackme.com/room/x86assemblycrashcourse
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/x86 assembly crash course.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/x86 assembly crash course.txt</a></td>
-</tr>
-<tr>
-<td align=left>XDR Introduction
-</td>
-<td align=left><a href="https://tryhackme.com/room/xdrintroduction
-" target="_blank">https://tryhackme.com/room/xdrintroduction
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/xdr introduction.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/xdr introduction.txt</a></td>
-</tr>
-<tr>
-<td align=left>XSS
-</td>
-<td align=left><a href="https://tryhackme.com/room/axss
-" target="_blank">https://tryhackme.com/room/axss
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/xss.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/xss.txt</a></td>
-</tr>
-<tr>
-<td align=left>XXE Injection
-</td>
-<td align=left><a href="https://tryhackme.com/room/xxeinjection
-" target="_blank">https://tryhackme.com/room/xxeinjection
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/xxe injection.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/xxe injection.txt</a></td>
-</tr>
-<tr>
-<td align=left>Yara
-</td>
-<td align=left><a href="https://tryhackme.com/room/yara
-" target="_blank">https://tryhackme.com/room/yara
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/yara.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/yara.txt</a></td>
-</tr>
-<tr>
-<td align=left>Year of the Dog
-</td>
-<td align=left><a href="https://tryhackme.com/room/yearofthedog
-" target="_blank">https://tryhackme.com/room/yearofthedog
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/year of the dog.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/year of the dog.txt</a></td>
-</tr>
-<tr>
-<td align=left>Year of the Fox
-</td>
-<td align=left><a href="https://tryhackme.com/room/yotf
-" target="_blank">https://tryhackme.com/room/yotf
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/year of the fox.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/year of the fox.txt</a></td>
-</tr>
-<tr>
-<td align=left>Year of the Jellyfish
-</td>
-<td align=left><a href="https://tryhackme.com/room/yearofthejellyfish
-" target="_blank">https://tryhackme.com/room/yearofthejellyfish
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/year of the jellyfish.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/year of the jellyfish.txt</a></td>
-</tr>
-<tr>
-<td align=left>Year of the Owl
-</td>
-<td align=left><a href="https://tryhackme.com/room/yearoftheowl
-" target="_blank">https://tryhackme.com/room/yearoftheowl
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/year of the owl.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/year of the owl.txt</a></td>
-</tr>
-<tr>
-<td align=left>Year of the Pig
-</td>
-<td align=left><a href="https://tryhackme.com/room/yearofthepig
-" target="_blank">https://tryhackme.com/room/yearofthepig
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/year of the pig.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/year of the pig.txt</a></td>
-</tr>
-<tr>
-<td align=left>Year of the Rabbit
-</td>
-<td align=left><a href="https://tryhackme.com/room/yearoftherabbit
-" target="_blank">https://tryhackme.com/room/yearoftherabbit
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/year of the rabbit.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/year of the rabbit.txt</a></td>
-</tr>
-<tr>
-<td align=left>You Got Mail
-</td>
-<td align=left><a href="https://tryhackme.com/room/yougotmail
-" target="_blank">https://tryhackme.com/room/yougotmail
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/you got mail.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/you got mail.txt</a></td>
-</tr>
-<tr>
-<td align=left>You're in a cave
-</td>
-<td align=left><a href="https://tryhackme.com/room/inacave
-" target="_blank">https://tryhackme.com/room/inacave
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/youre in a cave.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/youre in a cave.txt</a></td>
-</tr>
-<tr>
-<td align=left>Zeek Exercises
-</td>
-<td align=left><a href="https://tryhackme.com/room/zeekbroexercises
-" target="_blank">https://tryhackme.com/room/zeekbroexercises
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/zeek exercises.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/zeek exercises.txt</a></td>
-</tr>
-<tr>
-<td align=left>Zeek
-</td>
-<td align=left><a href="https://tryhackme.com/room/zeekbro
-" target="_blank">https://tryhackme.com/room/zeekbro
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/zeek.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/zeek.txt</a></td>
-</tr>
-<tr>
-<td align=left>Zeno
-</td>
-<td align=left><a href="https://tryhackme.com/room/zeno
-" target="_blank">https://tryhackme.com/room/zeno
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/zeno.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/zeno.txt</a></td>
-</tr>
-<tr>
-<td align=left>Zero Logon
-</td>
-<td align=left><a href="https://tryhackme.com/room/zer0logon
-" target="_blank">https://tryhackme.com/room/zer0logon
-</a></td>
-<td align=left><a href="https://github.com/thmrevenant/tryhackme/blob/main/rooms/zero logon.txt" target="_blank">https://github.com/thmrevenant/tryhackme/blob/main/rooms/zero logon.txt</a></td>
-</tr>
-</table>
+| Room | TryHackMe | Repository file |
+| --- | --- | --- |
+| 0day | [Room](https://tryhackme.com/room/0day) | [Open file](rooms/0day.txt) |
+| 0x41haz | [Room](https://tryhackme.com/room/0x41haz) | [Open file](rooms/0x41haz.txt) |
+| 25 Days of Cyber Security | [Room](https://tryhackme.com/room/learncyberin25days) | [Open file](rooms/25%20days%20of%20cyber%20security.txt) |
+| A Bucket of Phish | [Room](https://tryhackme.com/room/hfb1abucketofphish) | [Open file](rooms/a%20bucket%20of%20phish.txt) |
+| Abusing Windows Internals | [Room](https://tryhackme.com/room/abusingwindowsinternals) | [Open file](rooms/abusing%20windows%20internals.txt) |
+| Active Directory Basics | [Room](https://tryhackme.com/room/winadbasics) | [Open file](rooms/active%20directory%20basics.txt) |
+| Active Directory Hardening | [Room](https://tryhackme.com/room/activedirectoryhardening) | [Open file](rooms/active%20directory%20hardening.txt) |
+| Active Reconnaissance | [Room](https://tryhackme.com/room/activerecon) | [Open file](rooms/active%20reconnaissance.txt) |
+| AD Certificate Templates | [Room](https://tryhackme.com/room/adcertificatetemplates) | [Open file](rooms/ad%20certificate%20templates.txt) |
+| AD Tier Model | [Room](https://tryhackme.com/room/adtiermodel) | [Open file](rooms/ad%20tier%20model.txt) |
+| AD: Authenticated Enumeration | [Room](https://tryhackme.com/room/adauthenticatedenumeration) | [Open file](rooms/ad%20authenticated%20enumeration.txt) |
+| AD: BadSuccessor | [Room](https://tryhackme.com/room/adbadsuccessor) | [Open file](rooms/ad%20badsuccessor.txt) |
+| AD: Basic Enumeration | [Room](https://tryhackme.com/room/adbasicenumeration) | [Open file](rooms/ad%20basic%20enumeration.txt) |
+| Advanced ELK Queries | [Room](https://tryhackme.com/room/advancedelkqueries) | [Open file](rooms/advanced%20elk%20queries.txt) |
+| Advanced Packet Analysis | [Room](https://tryhackme.com/room/advancedpacketanalysis) | [Open file](rooms/advanced%20packet%20analysis.txt) |
+| Advanced SQL Injection | [Room](https://tryhackme.com/room/advancedsqlinjection) | [Open file](rooms/advanced%20sql%20injection.txt) |
+| Advanced Static Analysis | [Room](https://tryhackme.com/room/advancedstaticanalysis) | [Open file](rooms/advanced%20static%20analysis.txt) |
+| Advent of Cyber '23 Side Quest | [Room](https://tryhackme.com/room/adventofcyber23sidequest) | [Open file](rooms/advent%20of%20cyber%2023%20side%20quest.txt) |
+| Advent of Cyber '24 Side Quest | [Room](https://tryhackme.com/room/adventofcyber24sidequest) | [Open file](rooms/advent%20of%20cyber%2024%20side%20quest.txt) |
+| Advent of Cyber 1 [2019] | [Room](https://tryhackme.com/room/25daysofchristmas) | [Open file](rooms/advent%20of%20cyber%201%20%5B2019%5D.txt) |
+| Advent of Cyber 2 [2020] | [Room](https://tryhackme.com/room/adventofcyber2) | [Open file](rooms/advent%20of%20cyber%202%20%5B2020%5D.txt) |
+| Advent of Cyber 2022 | [Room](https://tryhackme.com/room/adventofcyber4) | [Open file](rooms/advent%20of%20cyber%202022.txt) |
+| Advent of Cyber 2023 | [Room](https://tryhackme.com/room/adventofcyber2023) | [Open file](rooms/advent%20of%20cyber%202023.txt) |
+| Advent of Cyber 2024 | [Room](https://tryhackme.com/room/adventofcyber2024) | [Open file](rooms/advent%20of%20cyber%202024.txt) |
+| Advent of Cyber 3 (2021) | [Room](https://tryhackme.com/room/adventofcyber3) | [Open file](rooms/advent%20of%20cyber%203%20%282021%29.txt) |
+| Advent of Cyber Prep Track | [Room](https://tryhackme.com/room/adventofcyberpreptrack) | [Open file](rooms/advent%20of%20cyber%20prep%20track.txt) |
+| Adventure Time | [Room](https://tryhackme.com/room/adventuretime) | [Open file](rooms/adventure%20time.txt) |
+| Agent Sudo | [Room](https://tryhackme.com/room/agentsudoctf) | [Open file](rooms/agent%20sudo.txt) |
+| Agent T | [Room](https://tryhackme.com/room/agentt) | [Open file](rooms/agent%20t.txt) |
+| AI & Automation in Detection Engineering | [Room](https://tryhackme.com/room/aiautomationdetectioneng) | [Open file](rooms/ai%20%26%20automation%20in%20detection%20engineering.txt) |
+| AI Forensics | [Room](https://tryhackme.com/room/aiforensics) | [Open file](rooms/ai%20forensics.txt) |
+| AI Models & Data | [Room](https://tryhackme.com/room/aimodelsdata) | [Open file](rooms/ai%20models%20%26%20data.txt) |
+| AI System Reconnaissance | [Room](https://tryhackme.com/room/aisystemreconnaissance) | [Open file](rooms/ai%20system%20reconnaissance.txt) |
+| AI Threat Modelling | [Room](https://tryhackme.com/room/aithreatmodelling) | [Open file](rooms/ai%20threat%20modelling.txt) |
+| AI/ML Security Threats | [Room](https://tryhackme.com/room/aimlsecuritythreats) | [Open file](rooms/ai-ml%20security%20threats.txt) |
+| Airplane | [Room](https://tryhackme.com/room/airplane) | [Open file](rooms/airplane.txt) |
+| Alert Triage With Elastic | [Room](https://tryhackme.com/room/alerttriagewithelastic) | [Open file](rooms/alert%20triage%20with%20elastic.txt) |
+| Alert Triage With Splunk | [Room](https://tryhackme.com/room/alerttriagewithsplunk) | [Open file](rooms/alert%20triage%20with%20splunk.txt) |
+| Alfred | [Room](https://tryhackme.com/room/alfred) | [Open file](rooms/alfred.txt) |
+| All in One | [Room](https://tryhackme.com/room/allinonemj) | [Open file](rooms/all%20in%20one.txt) |
+| AllSignsPoint2Pwnage | [Room](https://tryhackme.com/room/allsignspoint2pwnage) | [Open file](rooms/allsignspoint2pwnage.txt) |
+| Amazon EC2 - Attack & Defense | [Room](https://tryhackme.com/room/amazonec2attackdefense) | [Open file](rooms/amazon%20ec2%20-%20attack%20%26%20defense.txt) |
+| Amazon EC2 - Data Exfiltration | [Room](https://tryhackme.com/room/amazonec2dataexfiltration) | [Open file](rooms/amazon%20ec2%20-%20data%20exfiltration.txt) |
+| Analysing Volatile Memory | [Room](https://tryhackme.com/room/analysingvolatilememory) | [Open file](rooms/analysing%20volatile%20memory.txt) |
+| Android Analysis | [Room](https://tryhackme.com/room/androidanalysis) | [Open file](rooms/android%20analysis.txt) |
+| Android Hacking 101 | [Room](https://tryhackme.com/room/androidhacking101) | [Open file](rooms/android%20hacking%20101.txt) |
+| Android Malware Analysis | [Room](https://tryhackme.com/room/androidmalwareanalysis) | [Open file](rooms/android%20malware%20analysis.txt) |
+| Annie | [Room](https://tryhackme.com/room/annie) | [Open file](rooms/annie.txt) |
+| Anonforce | [Room](https://tryhackme.com/room/bsidesgtanonforce) | [Open file](rooms/anonforce.txt) |
+| Anonymous | [Room](https://tryhackme.com/room/anonymous) | [Open file](rooms/anonymous.txt) |
+| Anonymous Playground | [Room](https://tryhackme.com/room/anonymousplayground) | [Open file](rooms/anonymous%20playground.txt) |
+| Anthem | [Room](https://tryhackme.com/room/anthem) | [Open file](rooms/anthem.txt) |
+| Anti-Reverse Engineering | [Room](https://tryhackme.com/room/antireverseengineering) | [Open file](rooms/anti-reverse%20engineering.txt) |
+| API Pentesting | [Room](https://tryhackme.com/room/apitesting) | [Open file](rooms/api%20pentesting.txt) |
+| APIWizards Breach | [Room](https://tryhackme.com/room/apiwizardsbreach) | [Open file](rooms/apiwizards%20breach.txt) |
+| AppSec IR | [Room](https://tryhackme.com/room/appsecir) | [Open file](rooms/appsec%20ir.txt) |
+| APT28 in the Snare | [Room](https://tryhackme.com/room/apt28inthesnare) | [Open file](rooms/apt28%20in%20the%20snare.txt) |
+| APT28 Inception Theory | [Room](https://tryhackme.com/room/apt28inceptiontheory) | [Open file](rooms/apt28%20inception%20theory.txt) |
+| Aratus | [Room](https://tryhackme.com/room/aratus) | [Open file](rooms/aratus.txt) |
+| Archangel | [Room](https://tryhackme.com/room/archangel) | [Open file](rooms/archangel.txt) |
+| Aster | [Room](https://tryhackme.com/room/aster) | [Open file](rooms/aster.txt) |
+| Athena | [Room](https://tryhackme.com/room/4th3n4) | [Open file](rooms/athena.txt) |
+| Atlas | [Room](https://tryhackme.com/room/atlas) | [Open file](rooms/atlas.txt) |
+| Atlassian CVE-2022-26134 | [Room](https://tryhackme.com/room/cve202226134) | [Open file](rooms/atlassian%20cve-2022-26134.txt) |
+| Atomic Bird Goes Purple #1 | [Room](https://tryhackme.com/room/atomicbirdone) | [Open file](rooms/atomic%20bird%20goes%20purple%20%231.txt) |
+| Atomic Bird Goes Purple #2 | [Room](https://tryhackme.com/room/atomicbirdtwo) | [Open file](rooms/atomic%20bird%20goes%20purple%20%232.txt) |
+| Atomic Red Team | [Room](https://tryhackme.com/room/atomicredteam) | [Open file](rooms/atomic%20red%20team.txt) |
+| AttackerKB | [Room](https://tryhackme.com/room/attackerkb) | [Open file](rooms/attackerkb.txt) |
+| Attacking ECB Oracles | [Room](https://tryhackme.com/room/attackingecboracles) | [Open file](rooms/attacking%20ecb%20oracles.txt) |
+| Attacking ICS Plant #1 | [Room](https://tryhackme.com/room/attackingics1) | [Open file](rooms/attacking%20ics%20plant%20%231.txt) |
+| Attacking ICS Plant #2 | [Room](https://tryhackme.com/room/attackingics2) | [Open file](rooms/attacking%20ics%20plant%20%232.txt) |
+| Attacking Kerberos | [Room](https://tryhackme.com/room/attackingkerberos) | [Open file](rooms/attacking%20kerberos.txt) |
+| Attacktive Directory | [Room](https://tryhackme.com/room/attacktivedirectory) | [Open file](rooms/attacktive%20directory.txt) |
+| Auditing and Monitoring | [Room](https://tryhackme.com/room/auditingandmonitoringse) | [Open file](rooms/auditing%20and%20monitoring.txt) |
+| Aurora EDR | [Room](https://tryhackme.com/room/auroraedr) | [Open file](rooms/aurora%20edr.txt) |
+| Authentication Bypass | [Room](https://tryhackme.com/room/authenticationbypass) | [Open file](rooms/authentication%20bypass.txt) |
+| Autopsy | [Room](https://tryhackme.com/room/btautopsye0) | [Open file](rooms/autopsy.txt) |
+| AV Evasion: Shellcode | [Room](https://tryhackme.com/room/avevasionshellcode) | [Open file](rooms/av%20evasion%20shellcode.txt) |
+| AVenger | [Room](https://tryhackme.com/room/avenger) | [Open file](rooms/avenger.txt) |
+| Avengers Blog | [Room](https://tryhackme.com/room/avengers) | [Open file](rooms/avengers%20blog.txt) |
+| AWS API Gateway | [Room](https://tryhackme.com/room/awsapigateway) | [Open file](rooms/aws%20api%20gateway.txt) |
+| AWS Basic Concepts | [Room](https://tryhackme.com/room/awsbasicconcepts) | [Open file](rooms/aws%20basic%20concepts.txt) |
+| AWS IAM Enumeration | [Room](https://tryhackme.com/room/awsiamenumeration) | [Open file](rooms/aws%20iam%20enumeration.txt) |
+| AWS IAM Initial Access | [Room](https://tryhackme.com/room/awsiaminitialaccess) | [Open file](rooms/aws%20iam%20initial%20access.txt) |
+| AWS Lambda | [Room](https://tryhackme.com/room/awslambda) | [Open file](rooms/aws%20lambda.txt) |
+| AWS S3 - Attack and Defense | [Room](https://tryhackme.com/room/awss3service) | [Open file](rooms/aws%20s3%20-%20attack%20and%20defense.txt) |
+| AWS Security Logging | [Room](https://tryhackme.com/room/awssecuritylogging) | [Open file](rooms/aws%20security%20logging.txt) |
+| AWS VPC - Attack and Defense | [Room](https://tryhackme.com/room/attackingdefendingvpcs) | [Open file](rooms/aws%20vpc%20-%20attack%20and%20defense.txt) |
+| AWS VPC - Data Exfiltration | [Room](https://tryhackme.com/room/awsvpcdataexfiltration) | [Open file](rooms/aws%20vpc%20-%20data%20exfiltration.txt) |
+| AWS: Cloud 101 | [Room](https://tryhackme.com/room/cloud101aws) | [Open file](rooms/aws%20cloud%20101.txt) |
+| Azure DevSecOps | [Room](https://tryhackme.com/room/azuredevsecops) | [Open file](rooms/azure%20devsecops.txt) |
+| b3dr0ck | [Room](https://tryhackme.com/room/b3dr0ck) | [Open file](rooms/b3dr0ck.txt) |
+| Backtrack | [Room](https://tryhackme.com/room/backtrack) | [Open file](rooms/backtrack.txt) |
+| Badbyte | [Room](https://tryhackme.com/room/badbyte) | [Open file](rooms/badbyte.txt) |
+| Bandit | [Room](https://tryhackme.com/room/bandit) | [Open file](rooms/bandit.txt) |
+| BankGPT | [Room](https://tryhackme.com/room/bankgpt) | [Open file](rooms/bankgpt.txt) |
+| Baron Samedit | [Room](https://tryhackme.com/room/sudovulnssamedit) | [Open file](rooms/baron%20samedit.txt) |
+| Baselines and Anomalies | [Room](https://tryhackme.com/room/baselineanomalies) | [Open file](rooms/baselines%20and%20anomalies.txt) |
+| Bash Scripting | [Room](https://tryhackme.com/room/bashscripting) | [Open file](rooms/bash%20scripting.txt) |
+| Basic Dynamic Analysis | [Room](https://tryhackme.com/room/basicdynamicanalysis) | [Open file](rooms/basic%20dynamic%20analysis.txt) |
+| Basic Malware RE | [Room](https://tryhackme.com/room/basicmalwarere) | [Open file](rooms/basic%20malware%20re.txt) |
+| Basic Pentesting | [Room](https://tryhackme.com/room/basicpentestingjt) | [Open file](rooms/basic%20pentesting.txt) |
+| Basic Static Analysis | [Room](https://tryhackme.com/room/staticanalysis1) | [Open file](rooms/basic%20static%20analysis.txt) |
+| Basic Vulnerability Identification Techniques | [Room](https://tryhackme.com/room/basicvulnerabilityidentificationtechniques) | [Open file](rooms/basic%20vulnerability%20identification%20techniques.txt) |
+| battery | [Room](https://tryhackme.com/room/battery) | [Open file](rooms/battery.txt) |
+| Bebop | [Room](https://tryhackme.com/room/bebop) | [Open file](rooms/bebop.txt) |
+| Become a Defender | [Room](https://tryhackme.com/room/becomeadefender) | [Open file](rooms/become%20a%20defender.txt) |
+| Become a Hacker | [Room](https://tryhackme.com/room/becomeahackeroa) | [Open file](rooms/become%20a%20hacker.txt) |
+| Becoming a First Responder | [Room](https://tryhackme.com/room/becomingafirstresponder) | [Open file](rooms/becoming%20a%20first%20responder.txt) |
+| Benign | [Room](https://tryhackme.com/room/benign) | [Open file](rooms/benign.txt) |
+| Biblioteca | [Room](https://tryhackme.com/room/biblioteca) | [Open file](rooms/biblioteca.txt) |
+| Billing | [Room](https://tryhackme.com/room/billing) | [Open file](rooms/billing.txt) |
+| Binary Heaven | [Room](https://tryhackme.com/room/binaryheaven) | [Open file](rooms/binary%20heaven.txt) |
+| Binex | [Room](https://tryhackme.com/room/binex) | [Open file](rooms/binex.txt) |
+| Biohazard | [Room](https://tryhackme.com/room/biohazard) | [Open file](rooms/biohazard.txt) |
+| biteme | [Room](https://tryhackme.com/room/biteme) | [Open file](rooms/biteme.txt) |
+| Blaster | [Room](https://tryhackme.com/room/blaster) | [Open file](rooms/blaster.txt) |
+| Blizzard | [Room](https://tryhackme.com/room/blizzard) | [Open file](rooms/blizzard.txt) |
+| Block | [Room](https://tryhackme.com/room/blockroom) | [Open file](rooms/block.txt) |
+| Blog | [Room](https://tryhackme.com/room/blog) | [Open file](rooms/blog.txt) |
+| Blue | [Room](https://tryhackme.com/room/blue) | [Open file](rooms/blue.txt) |
+| Blueprint | [Room](https://tryhackme.com/room/blueprint) | [Open file](rooms/blueprint.txt) |
+| Boiler CTF | [Room](https://tryhackme.com/room/boilerctf2) | [Open file](rooms/boiler%20ctf.txt) |
+| Bolt | [Room](https://tryhackme.com/room/bolt) | [Open file](rooms/bolt.txt) |
+| Boogeyman 1 | [Room](https://tryhackme.com/room/boogeyman1) | [Open file](rooms/boogeyman%201.txt) |
+| Boogeyman 2 | [Room](https://tryhackme.com/room/boogeyman2) | [Open file](rooms/boogeyman%202.txt) |
+| Boogeyman 3 | [Room](https://tryhackme.com/room/boogeyman3) | [Open file](rooms/boogeyman%203.txt) |
+| Bookstore | [Room](https://tryhackme.com/room/bookstoreoc) | [Open file](rooms/bookstore.txt) |
+| Borderlands | [Room](https://tryhackme.com/room/borderlands) | [Open file](rooms/borderlands.txt) |
+| Bounty Hacker | [Room](https://tryhackme.com/room/cowboyhacker) | [Open file](rooms/bounty%20hacker.txt) |
+| Brainpan 1 | [Room](https://tryhackme.com/room/brainpan) | [Open file](rooms/brainpan%201.txt) |
+| Brains | [Room](https://tryhackme.com/room/brains) | [Open file](rooms/brains.txt) |
+| Brainstorm | [Room](https://tryhackme.com/room/brainstorm) | [Open file](rooms/brainstorm.txt) |
+| BreachBlocker Unlocker | [Room](https://tryhackme.com/room/sq4-aoc2025-32loz4zepk) | [Open file](rooms/breachblocker%20unlocker.txt) |
+| Breaching Active Directory | [Room](https://tryhackme.com/room/breachingad) | [Open file](rooms/breaching%20active%20directory.txt) |
+| Break it | [Room](https://tryhackme.com/room/breakit) | [Open file](rooms/break%20it.txt) |
+| Break Out The Cage | [Room](https://tryhackme.com/room/breakoutthecage1) | [Open file](rooms/break%20out%20the%20cage.txt) |
+| Breaking Crypto the Simple Way | [Room](https://tryhackme.com/room/breakingcryptothesimpleway) | [Open file](rooms/breaking%20crypto%20the%20simple%20way.txt) |
+| Breaking RSA | [Room](https://tryhackme.com/room/breakrsa) | [Open file](rooms/breaking%20rsa.txt) |
+| Breakme | [Room](https://tryhackme.com/room/breakmenu) | [Open file](rooms/breakme.txt) |
+| Brim | [Room](https://tryhackme.com/room/brim) | [Open file](rooms/brim.txt) |
+| Broken Authentication | [Room](https://tryhackme.com/room/brokenauthentication) | [Open file](rooms/broken%20authentication.txt) |
+| broker | [Room](https://tryhackme.com/room/broker) | [Open file](rooms/broker.txt) |
+| Brooklyn Nine Nine | [Room](https://tryhackme.com/room/brooklynninenine) | [Open file](rooms/brooklyn%20nine%20nine.txt) |
+| Brute | [Room](https://tryhackme.com/room/ettubrute) | [Open file](rooms/brute.txt) |
+| Brute Force Heroes | [Room](https://tryhackme.com/room/bruteforceheroes) | [Open file](rooms/brute%20force%20heroes.txt) |
+| Brute It | [Room](https://tryhackme.com/room/bruteit) | [Open file](rooms/brute%20it.txt) |
+| Buffer Overflow Prep | [Room](https://tryhackme.com/room/bufferoverflowprep) | [Open file](rooms/buffer%20overflow%20prep.txt) |
+| Buffer Overflows | [Room](https://tryhackme.com/room/bof1) | [Open file](rooms/buffer%20overflows.txt) |
+| Bugged | [Room](https://tryhackme.com/room/bugged) | [Open file](rooms/bugged.txt) |
+| Bulletproof Penguin | [Room](https://tryhackme.com/room/bppenguin) | [Open file](rooms/bulletproof%20penguin.txt) |
+| Burp Suite: Extensions | [Room](https://tryhackme.com/room/burpsuiteextensions) | [Open file](rooms/burp%20suite%20extensions.txt) |
+| Burp Suite: Intruder | [Room](https://tryhackme.com/room/burpsuiteintruder) | [Open file](rooms/burp%20suite%20intruder.txt) |
+| Burp Suite: Other Modules | [Room](https://tryhackme.com/room/burpsuiteom) | [Open file](rooms/burp%20suite%20other%20modules.txt) |
+| Burp Suite: Repeater | [Room](https://tryhackme.com/room/burpsuiterepeater) | [Open file](rooms/burp%20suite%20repeater.txt) |
+| Burp Suite: The Basics | [Room](https://tryhackme.com/room/burpsuitebasics) | [Open file](rooms/burp%20suite%20the%20basics.txt) |
+| Bypass | [Room](https://tryhackme.com/room/bypass) | [Open file](rooms/bypass.txt) |
+| Bypass Disable Functions | [Room](https://tryhackme.com/room/bypassdisablefunctions) | [Open file](rooms/bypass%20disable%20functions.txt) |
+| Bypass Really Simple Security | [Room](https://tryhackme.com/room/bypassreallysimplesecurity) | [Open file](rooms/bypass%20really%20simple%20security.txt) |
+| Bypassing UAC | [Room](https://tryhackme.com/room/bypassinguac) | [Open file](rooms/bypassing%20uac.txt) |
+| c4ptur3-th3-fl4g | [Room](https://tryhackme.com/room/c4ptur3th3fl4g) | [Open file](rooms/c4ptur3-th3-fl4g.txt) |
+| Cache Me Outside | [Room](https://tryhackme.com/room/cachemeoutside) | [Open file](rooms/cache%20me%20outside.txt) |
+| Cactus | [Room](https://tryhackme.com/room/cactus) | [Open file](rooms/cactus.txt) |
+| CALDERA | [Room](https://tryhackme.com/room/caldera) | [Open file](rooms/caldera.txt) |
+| CAPA: The Basics | [Room](https://tryhackme.com/room/capabasics) | [Open file](rooms/capa%20the%20basics.txt) |
+| Capture Returns | [Room](https://tryhackme.com/room/capturereturns) | [Open file](rooms/capture%20returns.txt) |
+| Capture! | [Room](https://tryhackme.com/room/capture) | [Open file](rooms/capture%21.txt) |
+| Careers in Cyber | [Room](https://tryhackme.com/room/careersincyber) | [Open file](rooms/careers%20in%20cyber.txt) |
+| Carnage | [Room](https://tryhackme.com/room/c2carnage) | [Open file](rooms/carnage.txt) |
+| Carpe Diem 1 | [Room](https://tryhackme.com/room/carpediem1) | [Open file](rooms/carpe%20diem%201.txt) |
+| Carrotbane of My Existence | [Room](https://tryhackme.com/room/sq3-aoc2025-bk3vvbcgit) | [Open file](rooms/carrotbane%20of%20my%20existence.txt) |
+| Cat Pictures | [Room](https://tryhackme.com/room/catpictures) | [Open file](rooms/cat%20pictures.txt) |
+| Cat Pictures 2 | [Room](https://tryhackme.com/room/catpictures2) | [Open file](rooms/cat%20pictures%202.txt) |
+| CC: Ghidra | [Room](https://tryhackme.com/room/ccghidra) | [Open file](rooms/cc%20ghidra.txt) |
+| CC: Radare2 | [Room](https://tryhackme.com/room/ccradare2) | [Open file](rooms/cc%20radare2.txt) |
+| CC: Steganography | [Room](https://tryhackme.com/room/ccstego) | [Open file](rooms/cc%20steganography.txt) |
+| CCT2019 | [Room](https://tryhackme.com/room/cct2019) | [Open file](rooms/cct2019.txt) |
+| CERTain Doom | [Room](https://tryhackme.com/room/certaindoom) | [Open file](rooms/certain%20doom.txt) |
+| Chaining Vulnerabilities | [Room](https://tryhackme.com/room/chainingvulnerabilitieszp) | [Open file](rooms/chaining%20vulnerabilities.txt) |
+| Checkmate | [Room](https://tryhackme.com/room/checkmate) | [Open file](rooms/checkmate.txt) |
+| Checkpoint | [Room](https://tryhackme.com/room/checkpoint) | [Open file](rooms/checkpoint.txt) |
+| Cheese CTF | [Room](https://tryhackme.com/room/cheesectfv10) | [Open file](rooms/cheese%20ctf.txt) |
+| CherryBlossom | [Room](https://tryhackme.com/room/cherryblossom) | [Open file](rooms/cherryblossom.txt) |
+| Chill Hack | [Room](https://tryhackme.com/room/chillhack) | [Open file](rooms/chill%20hack.txt) |
+| Chocolate Factory | [Room](https://tryhackme.com/room/chocolatefactory) | [Open file](rooms/chocolate%20factory.txt) |
+| Chrome | [Room](https://tryhackme.com/room/chrome) | [Open file](rooms/chrome.txt) |
+| Chronicle | [Room](https://tryhackme.com/room/chronicle) | [Open file](rooms/chronicle.txt) |
+| CI/CD and Build Security | [Room](https://tryhackme.com/room/cicdandbuildsecurity) | [Open file](rooms/cicd%20and%20build%20security.txt) |
+| Cicada-3301 Vol:1 | [Room](https://tryhackme.com/room/cicada3301vol1) | [Open file](rooms/cicada-3301%20vol1.txt) |
+| Cipher's Secret Message | [Room](https://tryhackme.com/room/hfb1cipherssecretmessage) | [Open file](rooms/ciphers%20secret%20message.txt) |
+| Classic Passwd | [Room](https://tryhackme.com/room/classicpasswd) | [Open file](rooms/classic%20passwd.txt) |
+| Clocky | [Room](https://tryhackme.com/room/clocky) | [Open file](rooms/clocky.txt) |
+| Cloud Security Fundamentals | [Room](https://tryhackme.com/room/cloudsecurityfundamentals) | [Open file](rooms/cloud%20security%20fundamentals.txt) |
+| Cloud Security Pitfalls | [Room](https://tryhackme.com/room/cloudsecuritypitfalls) | [Open file](rooms/cloud%20security%20pitfalls.txt) |
+| Cloud-based IaC | [Room](https://tryhackme.com/room/cloudbasediac) | [Open file](rooms/cloud-based%20iac.txt) |
+| Cluster Hardening | [Room](https://tryhackme.com/room/clusterhardening) | [Open file](rooms/cluster%20hardening.txt) |
+| CMesS | [Room](https://tryhackme.com/room/cmess) | [Open file](rooms/cmess.txt) |
+| CMSpit | [Room](https://tryhackme.com/room/cmspit) | [Open file](rooms/cmspit.txt) |
+| Cold VVars | [Room](https://tryhackme.com/room/coldvvars) | [Open file](rooms/cold%20vvars.txt) |
+| ColddBox: Easy | [Room](https://tryhackme.com/room/colddboxeasy) | [Open file](rooms/colddbox%20easy.txt) |
+| Command Injection | [Room](https://tryhackme.com/room/oscommandinjection) | [Open file](rooms/command%20injection.txt) |
+| Committed | [Room](https://tryhackme.com/room/committed) | [Open file](rooms/committed.txt) |
+| Common Attacks | [Room](https://tryhackme.com/room/commonattacks) | [Open file](rooms/common%20attacks.txt) |
+| Common Linux Privesc | [Room](https://tryhackme.com/room/commonlinuxprivesc) | [Open file](rooms/common%20linux%20privesc.txt) |
+| Compiled | [Room](https://tryhackme.com/room/compiled) | [Open file](rooms/compiled.txt) |
+| Compromised Windows Analysis | [Room](https://tryhackme.com/room/compromisedwindowsanalysis) | [Open file](rooms/compromised%20windows%20analysis.txt) |
+| Computer Types | [Room](https://tryhackme.com/room/computertypes) | [Open file](rooms/computer%20types.txt) |
+| Confidential | [Room](https://tryhackme.com/room/confidential) | [Open file](rooms/confidential.txt) |
+| Confluence CVE-2023-22515 | [Room](https://tryhackme.com/room/confluence202322515) | [Open file](rooms/confluence%20cve-2023-22515.txt) |
+| Container Hardening | [Room](https://tryhackme.com/room/containerhardening) | [Open file](rooms/container%20hardening.txt) |
+| Container Vulnerabilities | [Room](https://tryhackme.com/room/containervulnerabilitiesDG) | [Open file](rooms/container%20vulnerabilities.txt) |
+| ContainMe | [Room](https://tryhackme.com/room/containme1) | [Open file](rooms/containme.txt) |
+| ContAInment | [Room](https://tryhackme.com/room/containment) | [Open file](rooms/containment.txt) |
+| Content Discovery | [Room](https://tryhackme.com/room/contentdiscovery) | [Open file](rooms/content%20discovery.txt) |
+| Content Security Policy | [Room](https://tryhackme.com/room/csp) | [Open file](rooms/content%20security%20policy.txt) |
+| Conti | [Room](https://tryhackme.com/room/contiransomwarehgh) | [Open file](rooms/conti.txt) |
+| Contrabando | [Room](https://tryhackme.com/room/contrabando) | [Open file](rooms/contrabando.txt) |
+| ConvertMyVideo | [Room](https://tryhackme.com/room/convertmyvideo) | [Open file](rooms/convertmyvideo.txt) |
+| Cooctus Stories | [Room](https://tryhackme.com/room/cooctusadventures) | [Open file](rooms/cooctus%20stories.txt) |
+| Core Windows Processes | [Room](https://tryhackme.com/room/btwindowsinternals) | [Open file](rooms/core%20windows%20processes.txt) |
+| Corp | [Room](https://tryhackme.com/room/corp) | [Open file](rooms/corp.txt) |
+| Corridor | [Room](https://tryhackme.com/room/corridor) | [Open file](rooms/corridor.txt) |
+| CORS & SOP | [Room](https://tryhackme.com/room/corsandsop) | [Open file](rooms/cors%20%26%20sop.txt) |
+| Couch | [Room](https://tryhackme.com/room/couch) | [Open file](rooms/couch.txt) |
+| Crack the hash | [Room](https://tryhackme.com/room/crackthehash) | [Open file](rooms/crack%20the%20hash.txt) |
+| Crack The Hash Level 2 | [Room](https://tryhackme.com/room/crackthehashlevel2) | [Open file](rooms/crack%20the%20hash%20level%202.txt) |
+| Creative | [Room](https://tryhackme.com/room/creative) | [Open file](rooms/creative.txt) |
+| Credentials Harvesting | [Room](https://tryhackme.com/room/credharvesting) | [Open file](rooms/credentials%20harvesting.txt) |
+| Critical | [Room](https://tryhackme.com/room/critical) | [Open file](rooms/critical.txt) |
+| CRM Snatch | [Room](https://tryhackme.com/room/crmsnatch) | [Open file](rooms/crm%20snatch.txt) |
+| Crocc Crew | [Room](https://tryhackme.com/room/crocccrew) | [Open file](rooms/crocc%20crew.txt) |
+| Crylo | [Room](https://tryhackme.com/room/crylo4a) | [Open file](rooms/crylo.txt) |
+| Crypto Failures | [Room](https://tryhackme.com/room/cryptofailures) | [Open file](rooms/crypto%20failures.txt) |
+| Cryptography Basics | [Room](https://tryhackme.com/room/cryptographybasics) | [Open file](rooms/cryptography%20basics.txt) |
+| Cryptography Concepts | [Room](https://tryhackme.com/room/cryptographyconcepts) | [Open file](rooms/cryptography%20concepts.txt) |
+| Cryptography for Dummies | [Room](https://tryhackme.com/room/cryptographyfordummies) | [Open file](rooms/cryptography%20for%20dummies.txt) |
+| Cryptosystem | [Room](https://tryhackme.com/room/hfb1cryptosystem) | [Open file](rooms/cryptosystem.txt) |
+| CSRF | [Room](https://tryhackme.com/room/csrfV2) | [Open file](rooms/csrf.txt) |
+| CSRF Introduction | [Room](https://tryhackme.com/room/csrfintroduction) | [Open file](rooms/csrf%20introduction.txt) |
+| CTF collection Vol.1 | [Room](https://tryhackme.com/room/ctfcollectionvol1) | [Open file](rooms/ctf%20collection%20vol.1.txt) |
+| CTF collection Vol.2 | [Room](https://tryhackme.com/room/ctfcollectionvol2) | [Open file](rooms/ctf%20collection%20vol.2.txt) |
+| CTI for Alert Triage | [Room](https://tryhackme.com/room/ctiforalerttriage) | [Open file](rooms/cti%20for%20alert%20triage.txt) |
+| Custom Alert Rules in Wazuh | [Room](https://tryhackme.com/room/customalertrulesinwazuh) | [Open file](rooms/custom%20alert%20rules%20in%20wazuh.txt) |
+| Custom Tooling using Burp | [Room](https://tryhackme.com/room/customtoolingviaburp) | [Open file](rooms/custom%20tooling%20using%20burp.txt) |
+| Custom Tooling Using Python | [Room](https://tryhackme.com/room/customtoolingpython) | [Open file](rooms/custom%20tooling%20using%20python.txt) |
+| CVE-2021-41773/42013 | [Room](https://tryhackme.com/room/cve202141773) | [Open file](rooms/cve-2021-4177342013.txt) |
+| CVE-2022-26923 | [Room](https://tryhackme.com/room/cve202226923) | [Open file](rooms/cve-2022-26923.txt) |
+| CVE-2023-38408 | [Room](https://tryhackme.com/room/cve202338408) | [Open file](rooms/cve-2023-38408.txt) |
+| CVE-2026-43284: Dirty Frag | [Room](https://tryhackme.com/room/cve202643284) | [Open file](rooms/cve-2026-43284%20dirty%20frag.txt) |
+| Cyber Crisis Management | [Room](https://tryhackme.com/room/cybercrisismanagement) | [Open file](rooms/cyber%20crisis%20management.txt) |
+| Cyber Kill Chain (cyberkillchainzmt) | [Room](https://tryhackme.com/room/cyberkillchainzmt) | [Open file](rooms/cyber%20kill%20chain.txt) |
+| Cyber Kill Chain (cyberkillchain) | [Room](https://tryhackme.com/room/cyberkillchain) | [Open file](rooms/cyber%20kill%20chain%20%282%29.txt) |
+| Cyber Scotland 2021 | [Room](https://tryhackme.com/room/cyberweek2021) | [Open file](rooms/cyber%20scotland%202021.txt) |
+| CyberChef: The Basics | [Room](https://tryhackme.com/room/cyberchefbasics) | [Open file](rooms/cyberchef%20the%20basics.txt) |
+| CyberCrafted | [Room](https://tryhackme.com/room/cybercrafted) | [Open file](rooms/cybercrafted.txt) |
+| CyberHeroes | [Room](https://tryhackme.com/room/cyberheroes) | [Open file](rooms/cyberheroes.txt) |
+| CyberLens | [Room](https://tryhackme.com/room/cyberlensp6) | [Open file](rooms/cyberlens.txt) |
+| Cyborg | [Room](https://tryhackme.com/room/cyborgt8) | [Open file](rooms/cyborg.txt) |
+| Daily Bugle | [Room](https://tryhackme.com/room/dailybugle) | [Open file](rooms/daily%20bugle.txt) |
+| DarkMatter | [Room](https://tryhackme.com/room/hfb1darkmatter) | [Open file](rooms/darkmatter.txt) |
+| DAST | [Room](https://tryhackme.com/room/dastzap) | [Open file](rooms/dast.txt) |
+| Data Encoding | [Room](https://tryhackme.com/room/dataencoding) | [Open file](rooms/data%20encoding.txt) |
+| Data Exfiltration | [Room](https://tryhackme.com/room/dataxexfilt) | [Open file](rooms/data%20exfiltration.txt) |
+| Data Exfiltration Detection | [Room](https://tryhackme.com/room/dataexfildetection) | [Open file](rooms/data%20exfiltration%20detection.txt) |
+| Data Integrity & Model Poisoning | [Room](https://tryhackme.com/room/modelpoisoning) | [Open file](rooms/data%20integrity%20%26%20model%20poisoning.txt) |
+| Data Poisoning in RAG Systems | [Room](https://tryhackme.com/room/datapoisoninginragsystems) | [Open file](rooms/data%20poisoning%20in%20rag%20systems.txt) |
+| Data Representation | [Room](https://tryhackme.com/room/datarepresentation) | [Open file](rooms/data%20representation.txt) |
+| Database SQL Basics | [Room](https://tryhackme.com/room/databasesqlbasics) | [Open file](rooms/database%20sql%20basics.txt) |
+| Dav | [Room](https://tryhackme.com/room/bsidesgtdav) | [Open file](rooms/dav.txt) |
+| Dave's Blog | [Room](https://tryhackme.com/room/davesblog) | [Open file](rooms/daves%20blog.txt) |
+| Dead End? | [Room](https://tryhackme.com/room/deadend) | [Open file](rooms/dead%20end.txt) |
+| Dear QA | [Room](https://tryhackme.com/room/dearqa) | [Open file](rooms/dear%20qa.txt) |
+| Debug | [Room](https://tryhackme.com/room/debug) | [Open file](rooms/debug.txt) |
+| Decryptify | [Room](https://tryhackme.com/room/decryptify) | [Open file](rooms/decryptify.txt) |
+| Defensive Security Intro (defensivesecurityintro) | [Room](https://tryhackme.com/room/defensivesecurityintro) | [Open file](rooms/defensive%20security%20intro.txt) |
+| Defensive Security Intro (defensivesecurityintroqw) | [Room](https://tryhackme.com/room/defensivesecurityintroqw) | [Open file](rooms/defensive%20security%20intro%20%282%29.txt) |
+| Defensive Security Trends | [Room](https://tryhackme.com/room/defensivesecuritytrends) | [Open file](rooms/defensive%20security%20trends.txt) |
+| Deja Vu | [Room](https://tryhackme.com/room/dejavu) | [Open file](rooms/deja%20vu.txt) |
+| Dependency Management | [Room](https://tryhackme.com/room/dependencymanagement) | [Open file](rooms/dependency%20management.txt) |
+| Detecting AD Credential Attacks | [Room](https://tryhackme.com/room/detectingadcredentialattacks) | [Open file](rooms/detecting%20ad%20credential%20attacks.txt) |
+| Detecting AD Initial Access | [Room](https://tryhackme.com/room/detectingadinitialaccess) | [Open file](rooms/detecting%20ad%20initial%20access.txt) |
+| Detecting AD Lateral Movement | [Room](https://tryhackme.com/room/detectingadlateralmovement) | [Open file](rooms/detecting%20ad%20lateral%20movement.txt) |
+| Detecting AD Post-Exploitation | [Room](https://tryhackme.com/room/detectingadpostexploitation) | [Open file](rooms/detecting%20ad%20post-exploitation.txt) |
+| Detecting Web Attacks | [Room](https://tryhackme.com/room/detectingwebattacks) | [Open file](rooms/detecting%20web%20attacks.txt) |
+| Detecting Web DDoS | [Room](https://tryhackme.com/room/detectingwebddos) | [Open file](rooms/detecting%20web%20ddos.txt) |
+| Detecting Web Shells | [Room](https://tryhackme.com/room/detectingwebshell) | [Open file](rooms/detecting%20web%20shells.txt) |
+| Detection and Analysis | [Room](https://tryhackme.com/room/detectionandanalysis) | [Open file](rooms/detection%20and%20analysis.txt) |
+| Detection Engineering With Snort | [Room](https://tryhackme.com/room/detectionengineeringwithsnort) | [Open file](rooms/detection%20engineering%20with%20snort.txt) |
+| Detection Rules Development | [Room](https://tryhackme.com/room/detectionrulesdevelopment) | [Open file](rooms/detection%20rules%20development.txt) |
+| DetectMare | [Room](https://tryhackme.com/room/detectmare) | [Open file](rooms/detectmare.txt) |
+| Dev Diaries | [Room](https://tryhackme.com/room/devdiaries) | [Open file](rooms/dev%20diaries.txt) |
+| Develpy | [Room](https://tryhackme.com/room/bsidesgtdevelpy) | [Open file](rooms/develpy.txt) |
+| Devie | [Room](https://tryhackme.com/room/devie) | [Open file](rooms/devie.txt) |
+| DevSecOps Basics | [Room](https://tryhackme.com/room/devsecopsbasics) | [Open file](rooms/devsecops%20basics.txt) |
+| DFIR: An Introduction | [Room](https://tryhackme.com/room/introductoryroomdfirmodule) | [Open file](rooms/dfir%20an%20introduction.txt) |
+| Diamond Model | [Room](https://tryhackme.com/room/diamondmodelrmuwwg42) | [Open file](rooms/diamond%20model.txt) |
+| Different CTF | [Room](https://tryhackme.com/room/adana) | [Open file](rooms/different%20ctf.txt) |
+| Dig Dug | [Room](https://tryhackme.com/room/digdug) | [Open file](rooms/dig%20dug.txt) |
+| Digital Forensics Case B4DM755 | [Room](https://tryhackme.com/room/caseb4dm755) | [Open file](rooms/digital%20forensics%20case%20b4dm755.txt) |
+| Digital Forensics Fundamentals | [Room](https://tryhackme.com/room/digitalforensicsfundamentals) | [Open file](rooms/digital%20forensics%20fundamentals.txt) |
+| Directory | [Room](https://tryhackme.com/room/directorydfirroom) | [Open file](rooms/directory.txt) |
+| Dirty Pipe: CVE-2022-0847 | [Room](https://tryhackme.com/room/dirtypipe) | [Open file](rooms/dirty%20pipe%20cve-2022-0847.txt) |
+| Disgruntled | [Room](https://tryhackme.com/room/disgruntled) | [Open file](rooms/disgruntled.txt) |
+| Disk Analysis & Autopsy | [Room](https://tryhackme.com/room/autopsy2ze0) | [Open file](rooms/disk%20analysis%20%26%20autopsy.txt) |
+| DiskFiltration | [Room](https://tryhackme.com/room/diskfiltration) | [Open file](rooms/diskfiltration.txt) |
+| Diskrupt | [Room](https://tryhackme.com/room/diskrupt) | [Open file](rooms/diskrupt.txt) |
+| Dissecting PE Headers | [Room](https://tryhackme.com/room/dissectingpeheaders) | [Open file](rooms/dissecting%20pe%20headers.txt) |
+| Dive Into Pentesting | [Room](https://tryhackme.com/room/diveintopentesting) | [Open file](rooms/dive%20into%20pentesting.txt) |
+| Django: CVE-2025-64459 | [Room](https://tryhackme.com/room/djangocve202564459) | [Open file](rooms/django%20cve-2025-64459.txt) |
+| DLL HIJACKING | [Room](https://tryhackme.com/room/dllhijacking) | [Open file](rooms/dll%20hijacking.txt) |
+| DNS in detail | [Room](https://tryhackme.com/room/dnsindetail) | [Open file](rooms/dns%20in%20detail.txt) |
+| DNS Manipulation | [Room](https://tryhackme.com/room/dnsmanipulation) | [Open file](rooms/dns%20manipulation.txt) |
+| DockMagic | [Room](https://tryhackme.com/room/dockmagic) | [Open file](rooms/dockmagic.txt) |
+| Dodge | [Room](https://tryhackme.com/room/dodge) | [Open file](rooms/dodge.txt) |
+| dogcat | [Room](https://tryhackme.com/room/dogcat) | [Open file](rooms/dogcat.txt) |
+| DOM-Based Attacks | [Room](https://tryhackme.com/room/dombasedattacks) | [Open file](rooms/dom-based%20attacks.txt) |
+| Dreaming | [Room](https://tryhackme.com/room/dreaming) | [Open file](rooms/dreaming.txt) |
+| Dumping Router Firmware | [Room](https://tryhackme.com/room/rfirmware) | [Open file](rooms/dumping%20router%20firmware.txt) |
+| Dunkle Materie | [Room](https://tryhackme.com/room/dunklematerieptxc9) | [Open file](rooms/dunkle%20materie.txt) |
+| DVWA | [Room](https://tryhackme.com/room/dvwa) | [Open file](rooms/dvwa.txt) |
+| DX1: Liberty Island | [Room](https://tryhackme.com/room/dx1libertyislandplde) | [Open file](rooms/dx1%20liberty%20island.txt) |
+| DX2: Hell's Kitchen | [Room](https://tryhackme.com/room/dx2hellskitchen) | [Open file](rooms/dx2%20hells%20kitchen.txt) |
+| Dynamic Analysis: Debugging | [Room](https://tryhackme.com/room/advanceddynamicanalysis) | [Open file](rooms/dynamic%20analysis%20debugging.txt) |
+| Easy Peasy | [Room](https://tryhackme.com/room/easypeasyctf) | [Open file](rooms/easy%20peasy.txt) |
+| Eavesdropper | [Room](https://tryhackme.com/room/eavesdropper) | [Open file](rooms/eavesdropper.txt) |
+| El Bandito | [Room](https://tryhackme.com/room/elbandito) | [Open file](rooms/el%20bandito.txt) |
+| Elastic: Setting up a SOC Lab | [Room](https://tryhackme.com/room/elasticlab) | [Open file](rooms/elastic%20setting%20up%20a%20soc%20lab.txt) |
+| Elastic: Using Elastic Defend | [Room](https://tryhackme.com/room/elasticdefend) | [Open file](rooms/elastic%20using%20elastic%20defend.txt) |
+| Elevating Movement | [Room](https://tryhackme.com/room/elevatingmovement) | [Open file](rooms/elevating%20movement.txt) |
+| Empire | [Room](https://tryhackme.com/room/rppsempire) | [Open file](rooms/empire.txt) |
+| Empline | [Room](https://tryhackme.com/room/empline) | [Open file](rooms/empline.txt) |
+| En-pass | [Room](https://tryhackme.com/room/enpass) | [Open file](rooms/en-pass.txt) |
+| Encryption - Crypto 101 | [Room](https://tryhackme.com/room/encryptioncrypto101) | [Open file](rooms/encryption%20-%20crypto%20101.txt) |
+| Enterprise | [Room](https://tryhackme.com/room/enterprise) | [Open file](rooms/enterprise.txt) |
+| EnterPrize | [Room](https://tryhackme.com/room/enterprize) | [Open file](rooms/enterprize.txt) |
+| Entra ID Monitoring | [Room](https://tryhackme.com/room/entraidmonitoring) | [Open file](rooms/entra%20id%20monitoring.txt) |
+| Enumerating Active Directory | [Room](https://tryhackme.com/room/adenumeration) | [Open file](rooms/enumerating%20active%20directory.txt) |
+| Enumeration | [Room](https://tryhackme.com/room/enumerationpe) | [Open file](rooms/enumeration.txt) |
+| Enumeration & Brute Force | [Room](https://tryhackme.com/room/enumerationbruteforce) | [Open file](rooms/enumeration%20%26%20brute%20force.txt) |
+| envizon | [Room](https://tryhackme.com/room/envizon) | [Open file](rooms/envizon.txt) |
+| Epoch | [Room](https://tryhackme.com/room/epoch) | [Open file](rooms/epoch.txt) |
+| Eradication & Remediation | [Room](https://tryhackme.com/room/eradicationandremediation) | [Open file](rooms/eradication%20%26%20remediation.txt) |
+| Erit Securus I | [Room](https://tryhackme.com/room/eritsecurusi) | [Open file](rooms/erit%20securus%20I.txt) |
+| Erlang/OTP SSH: CVE-2025-32433 | [Room](https://tryhackme.com/room/erlangotpsshcve202532433) | [Open file](rooms/erlang%20otp%20ssh%20cve-2025-32433.txt) |
+| Evading Logging and Monitoring | [Room](https://tryhackme.com/room/monitoringevasion) | [Open file](rooms/evading%20logging%20and%20monitoring.txt) |
+| Event Horizon | [Room](https://tryhackme.com/room/eventhorizonroom) | [Open file](rooms/event%20horizon.txt) |
+| Eviction | [Room](https://tryhackme.com/room/eviction) | [Open file](rooms/eviction.txt) |
+| Evil-GPT | [Room](https://tryhackme.com/room/hfb1evilgpt) | [Open file](rooms/evil-gpt.txt) |
+| Evil-GPT v2 | [Room](https://tryhackme.com/room/hfb1evilgptv2) | [Open file](rooms/evil-gpt%20v2.txt) |
+| Examinerx9 | [Room](https://tryhackme.com/room/Examinerctfx9) | [Open file](rooms/examinerx9.txt) |
+| Exchange Online Monitoring | [Room](https://tryhackme.com/room/exchangeonlinemonitoring) | [Open file](rooms/exchange%20online%20monitoring.txt) |
+| Exfilibur | [Room](https://tryhackme.com/room/exfilibur) | [Open file](rooms/exfilibur.txt) |
+| ExfilNode | [Room](https://tryhackme.com/room/exfilnode) | [Open file](rooms/exfilnode.txt) |
+| Expediting Registry Analysis | [Room](https://tryhackme.com/room/expregistryforensics) | [Open file](rooms/expediting%20registry%20analysis.txt) |
+| Exploit Vulnerabilities | [Room](https://tryhackme.com/room/exploitingavulnerabilityv2) | [Open file](rooms/exploit%20vulnerabilities.txt) |
+| Exploitation and Weaponisation | [Room](https://tryhackme.com/room/exploitationandweaponisation) | [Open file](rooms/exploitation%20and%20weaponisation.txt) |
+| Exploiting Active Directory | [Room](https://tryhackme.com/room/exploitingad) | [Open file](rooms/exploiting%20active%20directory.txt) |
+| Expose | [Room](https://tryhackme.com/room/expose) | [Open file](rooms/expose.txt) |
+| EXT Analysis | [Room](https://tryhackme.com/room/extanalysis) | [Open file](rooms/ext%20analysis.txt) |
+| Extending Your Network | [Room](https://tryhackme.com/room/extendingyournetwork) | [Open file](rooms/extending%20your%20network.txt) |
+| Extracted | [Room](https://tryhackme.com/room/extractedroom) | [Open file](rooms/extracted.txt) |
+| FAT32 Analysis | [Room](https://tryhackme.com/room/fat32analysis) | [Open file](rooms/fat32%20analysis.txt) |
+| ffuf | [Room](https://tryhackme.com/room/ffuf) | [Open file](rooms/ffuf.txt) |
+| File and Hash Threat Intel | [Room](https://tryhackme.com/room/fileandhashthreatintel) | [Open file](rooms/file%20and%20hash%20threat%20intel.txt) |
+| File Carving | [Room](https://tryhackme.com/room/filecarving) | [Open file](rooms/file%20carving.txt) |
+| File Inclusion | [Room](https://tryhackme.com/room/fileinc) | [Open file](rooms/file%20inclusion.txt) |
+| File Inclusion, Path Traversal | [Room](https://tryhackme.com/room/filepathtraversal) | [Open file](rooms/file%20inclusion%2C%20path%20traversal.txt) |
+| FilePeek | [Room](https://tryhackme.com/room/filepeek) | [Open file](rooms/filepeek.txt) |
+| Firewall Fundamentals | [Room](https://tryhackme.com/room/firewallfundamentals) | [Open file](rooms/firewall%20fundamentals.txt) |
+| Firewalls | [Room](https://tryhackme.com/room/redteamfirewalls) | [Open file](rooms/firewalls.txt) |
+| Fixit | [Room](https://tryhackme.com/room/fixit) | [Open file](rooms/fixit.txt) |
+| Flag Vault | [Room](https://tryhackme.com/room/hfb1flagvault) | [Open file](rooms/flag%20vault.txt) |
+| Flag Vault 2 | [Room](https://tryhackme.com/room/hfb1flagvault2) | [Open file](rooms/flag%20vault%202.txt) |
+| FlareVM: Arsenal of Tools | [Room](https://tryhackme.com/room/flarevmarsenaloftools) | [Open file](rooms/flarevm%20arsenal%20of%20tools.txt) |
+| Flatline | [Room](https://tryhackme.com/room/flatline) | [Open file](rooms/flatline.txt) |
+| Flip | [Room](https://tryhackme.com/room/flip) | [Open file](rooms/flip.txt) |
+| Follina MSDT | [Room](https://tryhackme.com/room/follinamsdt) | [Open file](rooms/follina%20msdt.txt) |
+| For Business Reasons | [Room](https://tryhackme.com/room/forbusinessreasons) | [Open file](rooms/for%20business%20reasons.txt) |
+| Forensic Imaging | [Room](https://tryhackme.com/room/forensicimaging) | [Open file](rooms/forensic%20imaging.txt) |
+| Forensics | [Room](https://tryhackme.com/room/forensics) | [Open file](rooms/forensics.txt) |
+| Forgotten Implant | [Room](https://tryhackme.com/room/forgottenimplant) | [Open file](rooms/forgotten%20implant.txt) |
+| Fortress | [Room](https://tryhackme.com/room/fortress) | [Open file](rooms/fortress.txt) |
+| Fowsniff CTF | [Room](https://tryhackme.com/room/ctf) | [Open file](rooms/fowsniff%20ctf.txt) |
+| Frank & Herby make an app | [Room](https://tryhackme.com/room/frankandherby) | [Open file](rooms/frank%20%26%20herby%20make%20an%20app.txt) |
+| Frank and Herby try again..... | [Room](https://tryhackme.com/room/frankandherbytryagain) | [Open file](rooms/frank%20and%20herby%20try%20again......txt) |
+| Friday Overtime | [Room](https://tryhackme.com/room/fridayovertime) | [Open file](rooms/friday%20overtime.txt) |
+| Frosteau Busy with Vim | [Room](https://tryhackme.com/room/busyvimfrosteau) | [Open file](rooms/frosteau%20busy%20with%20vim.txt) |
+| Fusion Corp | [Room](https://tryhackme.com/room/fusioncorp) | [Open file](rooms/fusion%20corp.txt) |
+| Gallery | [Room](https://tryhackme.com/room/gallery666) | [Open file](rooms/gallery.txt) |
+| Game Zone | [Room](https://tryhackme.com/room/gamezone) | [Open file](rooms/game%20zone.txt) |
+| GameBuzz | [Room](https://tryhackme.com/room/gamebuzz) | [Open file](rooms/gamebuzz.txt) |
+| GamingServer | [Room](https://tryhackme.com/room/gamingserver) | [Open file](rooms/gamingserver.txt) |
+| Gatekeeper | [Room](https://tryhackme.com/room/gatekeeper) | [Open file](rooms/gatekeeper.txt) |
+| Geolocating Images | [Room](https://tryhackme.com/room/geolocatingimages) | [Open file](rooms/geolocating%20images.txt) |
+| GeoServer: CVE-2025-58360 | [Room](https://tryhackme.com/room/geoservercve202558360) | [Open file](rooms/geoserver%20cve-2025-58360.txt) |
+| Getting Started | [Room](https://tryhackme.com/room/gettingstarted) | [Open file](rooms/getting%20started.txt) |
+| Ghizer | [Room](https://tryhackme.com/room/ghizerctf) | [Open file](rooms/ghizer.txt) |
+| Git and Crumpets | [Room](https://tryhackme.com/room/gitandcrumpets) | [Open file](rooms/git%20and%20crumpets.txt) |
+| Git Happens | [Room](https://tryhackme.com/room/githappens) | [Open file](rooms/git%20happens.txt) |
+| GitLab CVE-2023-7028 | [Room](https://tryhackme.com/room/gitlabcve20237028) | [Open file](rooms/gitlab%20cve-2023-7028.txt) |
+| GLITCH | [Room](https://tryhackme.com/room/glitch) | [Open file](rooms/glitch.txt) |
+| Gobuster: The Basics | [Room](https://tryhackme.com/room/gobusterthebasics) | [Open file](rooms/gobuster%20the%20basics.txt) |
+| GoldenEye | [Room](https://tryhackme.com/room/goldeneye) | [Open file](rooms/goldeneye.txt) |
+| Google Dorking | [Room](https://tryhackme.com/room/googledorking) | [Open file](rooms/google%20dorking.txt) |
+| Gotta Catch'em All! | [Room](https://tryhackme.com/room/pokemon) | [Open file](rooms/gotta%20catchem%20all%21.txt) |
+| Governance & Regulation | [Room](https://tryhackme.com/room/cybergovernanceregulation) | [Open file](rooms/governance%20%26%20regulation.txt) |
+| Grep | [Room](https://tryhackme.com/room/greprtp) | [Open file](rooms/grep.txt) |
+| Guided Pentest: Infrastructure | [Room](https://tryhackme.com/room/guidedpentestinfrastructure) | [Open file](rooms/guided%20pentest%20infrastructure.txt) |
+| Guided Pentest: Web | [Room](https://tryhackme.com/room/guidedpentestweb) | [Open file](rooms/guided%20pentest%20web.txt) |
+| h4cked | [Room](https://tryhackme.com/room/h4cked) | [Open file](rooms/h4cked.txt) |
+| HA Joker CTF | [Room](https://tryhackme.com/room/jokerctf) | [Open file](rooms/ha%20joker%20ctf.txt) |
+| Hack Back | [Room](https://tryhackme.com/room/hackback) | [Open file](rooms/hack%20back.txt) |
+| Hack Smarter Security | [Room](https://tryhackme.com/room/hacksmartersecurity) | [Open file](rooms/hack%20smarter%20security.txt) |
+| Hacker vs. Hacker | [Room](https://tryhackme.com/room/hackervshacker) | [Open file](rooms/hacker%20vs.%20hacker.txt) |
+| hackerNote | [Room](https://tryhackme.com/room/hackernote) | [Open file](rooms/hackernote.txt) |
+| Hackfinity Battle | [Room](https://tryhackme.com/room/HackfinityBattle) | [Open file](rooms/hackfinity%20battle.txt) |
+| Hackfinity Battle Encore | [Room](https://tryhackme.com/room/HackfinityBattleEncore) | [Open file](rooms/hackfinity%20battle%20encore.txt) |
+| Hacking Hadoop | [Room](https://tryhackme.com/room/hackinghadoop) | [Open file](rooms/hacking%20hadoop.txt) |
+| Hacking with PowerShell | [Room](https://tryhackme.com/room/powershell) | [Open file](rooms/hacking%20with%20powershell.txt) |
+| HackPark | [Room](https://tryhackme.com/room/hackpark) | [Open file](rooms/hackpark.txt) |
+| Hamlet | [Room](https://tryhackme.com/room/hamlet) | [Open file](rooms/hamlet.txt) |
+| Hammer | [Room](https://tryhackme.com/room/hammer) | [Open file](rooms/hammer.txt) |
+| Hardening Basics Part 1 | [Room](https://tryhackme.com/room/hardeningbasicspart1) | [Open file](rooms/hardening%20basics%20part%201.txt) |
+| Hardening Basics Part 2 | [Room](https://tryhackme.com/room/hardeningbasicspart2) | [Open file](rooms/hardening%20basics%20part%202.txt) |
+| harder | [Room](https://tryhackme.com/room/harder) | [Open file](rooms/harder.txt) |
+| Hashing - Crypto 101 | [Room](https://tryhackme.com/room/hashingcrypto101) | [Open file](rooms/hashing%20-%20crypto%20101.txt) |
+| Hashing 101 | [Room](https://tryhackme.com/room/hashingcrypto101aa) | [Open file](rooms/hashing%20101.txt) |
+| Hashing Basics | [Room](https://tryhackme.com/room/hashingbasics) | [Open file](rooms/hashing%20basics.txt) |
+| HaskHell | [Room](https://tryhackme.com/room/haskhell) | [Open file](rooms/haskhell.txt) |
+| Have a Break | [Room](https://tryhackme.com/room/haveabreak) | [Open file](rooms/have%20a%20break.txt) |
+| hc0n Christmas CTF | [Room](https://tryhackme.com/room/hc0nchristmasctf) | [Open file](rooms/hc0n%20christmas%20ctf.txt) |
+| HealthGPT | [Room](https://tryhackme.com/room/healthgpt) | [Open file](rooms/healthgpt.txt) |
+| HeartBleed | [Room](https://tryhackme.com/room/heartbleed) | [Open file](rooms/heartbleed.txt) |
+| Heist | [Room](https://tryhackme.com/room/hfb1heist) | [Open file](rooms/heist.txt) |
+| Hide and Seek | [Room](https://tryhackme.com/room/hfb1hideandseek) | [Open file](rooms/hide%20and%20seek.txt) |
+| Hijack | [Room](https://tryhackme.com/room/hijack) | [Open file](rooms/hijack.txt) |
+| Hip Flask | [Room](https://tryhackme.com/room/hipflask) | [Open file](rooms/hip%20flask.txt) |
+| History of Malware | [Room](https://tryhackme.com/room/historyofmalware) | [Open file](rooms/history%20of%20malware.txt) |
+| Holo | [Room](https://tryhackme.com/room/hololive) | [Open file](rooms/holo.txt) |
+| Host-Server Configuration Reviews | [Room](https://tryhackme.com/room/hostserverconfigurationreviews) | [Open file](rooms/host-server%20configuration%20reviews.txt) |
+| Hosted Hypervisors | [Room](https://tryhackme.com/room/hostedhypervisors) | [Open file](rooms/hosted%20hypervisors.txt) |
+| How to use TryHackMe | [Room](https://tryhackme.com/room/howtousetryhackme) | [Open file](rooms/how%20to%20use%20tryhackme.txt) |
+| How Websites Work | [Room](https://tryhackme.com/room/howwebsiteswork) | [Open file](rooms/how%20websites%20work.txt) |
+| HTTP Browser Desync | [Room](https://tryhackme.com/room/requestsmugglingbrowserdesync) | [Open file](rooms/http%20browser%20desync.txt) |
+| HTTP in Detail | [Room](https://tryhackme.com/room/httpindetail) | [Open file](rooms/http%20in%20detail.txt) |
+| HTTP Request Smuggling | [Room](https://tryhackme.com/room/httprequestsmuggling) | [Open file](rooms/http%20request%20smuggling.txt) |
+| HTTP/2 Request Smuggling | [Room](https://tryhackme.com/room/http2requestsmuggling) | [Open file](rooms/http2%20request%20smuggling.txt) |
+| Humans as Attack Vectors | [Room](https://tryhackme.com/room/humansattackvectors) | [Open file](rooms/humans%20as%20attack%20vectors.txt) |
+| Hunt Me I: Payment Collectors | [Room](https://tryhackme.com/room/paymentcollectors) | [Open file](rooms/hunt%20me%20i%20payment%20collectors.txt) |
+| Hunt Me II: Typo Squatters | [Room](https://tryhackme.com/room/typosquatters) | [Open file](rooms/hunt%20me%20ii%20typo%20squatters.txt) |
+| Hydra | [Room](https://tryhackme.com/room/hydra) | [Open file](rooms/hydra.txt) |
+| Hypervisor Internals | [Room](https://tryhackme.com/room/hypervisorinternals) | [Open file](rooms/hypervisor%20internals.txt) |
+| IAM Credentials | [Room](https://tryhackme.com/room/iamcredentials) | [Open file](rooms/iam%20credentials.txt) |
+| IAM Permissions | [Room](https://tryhackme.com/room/iampermissions) | [Open file](rooms/iam%20permissions.txt) |
+| IAM Principals | [Room](https://tryhackme.com/room/iamprincipals) | [Open file](rooms/iam%20principals.txt) |
+| Ice | [Room](https://tryhackme.com/room/ice) | [Open file](rooms/ice.txt) |
+| IDE | [Room](https://tryhackme.com/room/ide) | [Open file](rooms/ide.txt) |
+| Identification & Scoping | [Room](https://tryhackme.com/room/identificationandscoping) | [Open file](rooms/identification%20%26%20scoping.txt) |
+| Identity and Access Management | [Room](https://tryhackme.com/room/iaaaidm) | [Open file](rooms/identity%20and%20access%20management.txt) |
+| IDOR | [Room](https://tryhackme.com/room/idor) | [Open file](rooms/idor.txt) |
+| IDS Fundamentals | [Room](https://tryhackme.com/room/idsfundamentals) | [Open file](rooms/ids%20fundamentals.txt) |
+| Ignite | [Room](https://tryhackme.com/room/ignite) | [Open file](rooms/ignite.txt) |
+| Incident handling with Splunk | [Room](https://tryhackme.com/room/splunk201) | [Open file](rooms/incident%20handling%20with%20splunk.txt) |
+| Incident Response Fundamentals | [Room](https://tryhackme.com/room/incidentresponsefundamentals) | [Open file](rooms/incident%20response%20fundamentals.txt) |
+| Incident Response Process | [Room](https://tryhackme.com/room/incidentresponseprocess) | [Open file](rooms/incident%20response%20process.txt) |
+| Include | [Room](https://tryhackme.com/room/include) | [Open file](rooms/include.txt) |
+| Inferno | [Room](https://tryhackme.com/room/inferno) | [Open file](rooms/inferno.txt) |
+| Infinity Shell | [Room](https://tryhackme.com/room/hfb1infinityshell) | [Open file](rooms/infinity%20shell.txt) |
+| Initial Access Pot | [Room](https://tryhackme.com/room/initialaccesspot) | [Open file](rooms/initial%20access%20pot.txt) |
+| Injectics | [Room](https://tryhackme.com/room/injectics) | [Open file](rooms/injectics.txt) |
+| Input Manipulation & Prompt Injection | [Room](https://tryhackme.com/room/inputmanipulationpromptinjection) | [Open file](rooms/input%20manipulation%20%26%20prompt%20injection.txt) |
+| Insecure Deserialisation | [Room](https://tryhackme.com/room/insecuredeserialisation) | [Open file](rooms/insecure%20deserialisation.txt) |
+| Insecure Randomness | [Room](https://tryhackme.com/room/insecurerandomness) | [Open file](rooms/insecure%20randomness.txt) |
+| Insekube | [Room](https://tryhackme.com/room/insekube) | [Open file](rooms/insekube.txt) |
+| Inside a Computer System | [Room](https://tryhackme.com/room/insideacomputer) | [Open file](rooms/inside%20a%20computer%20system.txt) |
+| Intermediate Nmap | [Room](https://tryhackme.com/room/intermediatenmap) | [Open file](rooms/intermediate%20nmap.txt) |
+| Internal | [Room](https://tryhackme.com/room/internal) | [Open file](rooms/internal.txt) |
+| Intranet | [Room](https://tryhackme.com/room/securesolacodersintra) | [Open file](rooms/intranet.txt) |
+| Intro PoC Scripting | [Room](https://tryhackme.com/room/intropocscripting) | [Open file](rooms/intro%20poc%20scripting.txt) |
+| Intro to AD Authentication | [Room](https://tryhackme.com/room/introtoactivedirectoryauthentication) | [Open file](rooms/intro%20to%20ad%20authentication.txt) |
+| Intro to AD Breaching | [Room](https://tryhackme.com/room/introductiontoactivedirectorybreaching) | [Open file](rooms/intro%20to%20ad%20breaching.txt) |
+| Intro to AD Lateral Movement | [Room](https://tryhackme.com/room/introductiontoadlateralmovement) | [Open file](rooms/intro%20to%20ad%20lateral%20movement.txt) |
+| Intro to C2 | [Room](https://tryhackme.com/room/introtoc2) | [Open file](rooms/intro%20to%20c2.txt) |
+| Intro to Cloud Security | [Room](https://tryhackme.com/room/introductiontocloudsecurityc6) | [Open file](rooms/intro%20to%20cloud%20security.txt) |
+| Intro to Cold System Forensics | [Room](https://tryhackme.com/room/introtocoldsystemforensics) | [Open file](rooms/intro%20to%20cold%20system%20forensics.txt) |
+| Intro to Containerisation | [Room](https://tryhackme.com/room/introtocontainerisation) | [Open file](rooms/intro%20to%20containerisation.txt) |
+| Intro to Credential Harvesting | [Room](https://tryhackme.com/room/introtocredentialharvesting) | [Open file](rooms/intro%20to%20credential%20harvesting.txt) |
+| Intro to Cross-site Scripting | [Room](https://tryhackme.com/room/xss) | [Open file](rooms/intro%20to%20cross-site%20scripting.txt) |
+| Intro to Cyber Threat Intel | [Room](https://tryhackme.com/room/cyberthreatintel) | [Open file](rooms/intro%20to%20cyber%20threat%20intel.txt) |
+| Intro to Detection Engineering | [Room](https://tryhackme.com/room/introtodetectionengineering) | [Open file](rooms/intro%20to%20detection%20engineering.txt) |
+| Intro to Digital Forensics | [Room](https://tryhackme.com/room/introdigitalforensics) | [Open file](rooms/intro%20to%20digital%20forensics.txt) |
+| Intro to Docker | [Room](https://tryhackme.com/room/introtodockerk8pdqk) | [Open file](rooms/intro%20to%20docker.txt) |
+| Intro to Endpoint Security | [Room](https://tryhackme.com/room/introtoendpointsecurity) | [Open file](rooms/intro%20to%20endpoint%20security.txt) |
+| Intro to GraphQL Hacking | [Room](https://tryhackme.com/room/introtographqlhacking) | [Open file](rooms/intro%20to%20graphql%20hacking.txt) |
+| Intro to IaC | [Room](https://tryhackme.com/room/introtoiac) | [Open file](rooms/intro%20to%20iac.txt) |
+| Intro to IoT Pentesting | [Room](https://tryhackme.com/room/iotintro) | [Open file](rooms/intro%20to%20iot%20pentesting.txt) |
+| Intro to IR and IM | [Room](https://tryhackme.com/room/introtoirandim) | [Open file](rooms/intro%20to%20ir%20and%20im.txt) |
+| Intro to Kubernetes | [Room](https://tryhackme.com/room/introtok8s) | [Open file](rooms/intro%20to%20kubernetes.txt) |
+| Intro to LAN | [Room](https://tryhackme.com/room/introtolan) | [Open file](rooms/intro%20to%20lan.txt) |
+| Intro to Log Analysis | [Room](https://tryhackme.com/room/introtologanalysis) | [Open file](rooms/intro%20to%20log%20analysis.txt) |
+| Intro to Logs | [Room](https://tryhackme.com/room/introtologs) | [Open file](rooms/intro%20to%20logs.txt) |
+| Intro to Malware Analysis | [Room](https://tryhackme.com/room/intromalwareanalysis) | [Open file](rooms/intro%20to%20malware%20analysis.txt) |
+| Intro to Pipeline Automation | [Room](https://tryhackme.com/room/introtopipelineautomation) | [Open file](rooms/intro%20to%20pipeline%20automation.txt) |
+| Intro To Pwntools | [Room](https://tryhackme.com/room/introtopwntools) | [Open file](rooms/intro%20to%20pwntools.txt) |
+| Intro to SSRF | [Room](https://tryhackme.com/room/ssrfqi) | [Open file](rooms/intro%20to%20ssrf.txt) |
+| Intro to Threat Emulation | [Room](https://tryhackme.com/room/threatemulationintro) | [Open file](rooms/intro%20to%20threat%20emulation.txt) |
+| Introduction to Antivirus | [Room](https://tryhackme.com/room/introtoav) | [Open file](rooms/introduction%20to%20antivirus.txt) |
+| Introduction to AWS IAM | [Room](https://tryhackme.com/room/introductiontoawsiam) | [Open file](rooms/introduction%20to%20aws%20iam.txt) |
+| Introduction to Cryptography | [Room](https://tryhackme.com/room/cryptographyintro) | [Open file](rooms/introduction%20to%20cryptography.txt) |
+| Introduction to CryptOps | [Room](https://tryhackme.com/room/introductiontocryptops) | [Open file](rooms/introduction%20to%20cryptops.txt) |
+| Introduction to DevSecOps | [Room](https://tryhackme.com/room/introductiontodevsecops) | [Open file](rooms/introduction%20to%20devsecops.txt) |
+| Introduction to Django | [Room](https://tryhackme.com/room/django) | [Open file](rooms/introduction%20to%20django.txt) |
+| Introduction to EDR | [Room](https://tryhackme.com/room/introductiontoedrs) | [Open file](rooms/introduction%20to%20edr.txt) |
+| Introduction to Flask | [Room](https://tryhackme.com/room/flask) | [Open file](rooms/introduction%20to%20flask.txt) |
+| Introduction To Honeypots | [Room](https://tryhackme.com/room/introductiontohoneypots) | [Open file](rooms/introduction%20to%20honeypots.txt) |
+| Introduction to OWASP ZAP | [Room](https://tryhackme.com/room/learnowaspzap) | [Open file](rooms/introduction%20to%20owasp%20zap.txt) |
+| Introduction to SIEM | [Room](https://tryhackme.com/room/introtosiem) | [Open file](rooms/introduction%20to%20siem.txt) |
+| Introduction to Windows API | [Room](https://tryhackme.com/room/windowsapi) | [Open file](rooms/introduction%20to%20windows%20api.txt) |
+| Introduction to Wordlists | [Room](https://tryhackme.com/room/introductiontowordlists) | [Open file](rooms/introduction%20to%20wordlists.txt) |
+| Introductory Networking | [Room](https://tryhackme.com/room/introtonetworking) | [Open file](rooms/introductory%20networking.txt) |
+| Introductory Researching | [Room](https://tryhackme.com/room/introtoresearch) | [Open file](rooms/introductory%20researching.txt) |
+| Intrusion Detection | [Room](https://tryhackme.com/room/idsevasion) | [Open file](rooms/intrusion%20detection.txt) |
+| Investigating Windows | [Room](https://tryhackme.com/room/investigatingwindows) | [Open file](rooms/investigating%20windows.txt) |
+| Investigating Windows 2.0 | [Room](https://tryhackme.com/room/investigatingwindows2) | [Open file](rooms/investigating%20windows%202.0.txt) |
+| Investigating Windows 3.x | [Room](https://tryhackme.com/room/investigatingwindows3) | [Open file](rooms/investigating%20windows%203.x.txt) |
+| Investigating with ELK 101 | [Room](https://tryhackme.com/room/investigatingwithelk101) | [Open file](rooms/investigating%20with%20elk%20101.txt) |
+| Investigating with Splunk | [Room](https://tryhackme.com/room/investigatingwithsplunk) | [Open file](rooms/investigating%20with%20splunk.txt) |
+| Invite Only | [Room](https://tryhackme.com/room/invite-only) | [Open file](rooms/invite%20only.txt) |
+| iOS Analysis | [Room](https://tryhackme.com/room/iosanalysis) | [Open file](rooms/ios%20analysis.txt) |
+| iOS Forensics | [Room](https://tryhackme.com/room/iosforensics) | [Open file](rooms/ios%20forensics.txt) |
+| IP and Domain Threat Intel | [Room](https://tryhackme.com/room/ipanddomainthreatintel) | [Open file](rooms/ip%20and%20domain%20threat%20intel.txt) |
+| IR Difficulties and Challenges | [Room](https://tryhackme.com/room/irdifficultiesandchallenges) | [Open file](rooms/ir%20difficulties%20and%20challenges.txt) |
+| IR Philosophy and Ethics | [Room](https://tryhackme.com/room/irphilosophyethics) | [Open file](rooms/ir%20philosophy%20and%20ethics.txt) |
+| IR Playbooks | [Room](https://tryhackme.com/room/irplaybooks) | [Open file](rooms/ir%20playbooks.txt) |
+| IR Timeline Analysis | [Room](https://tryhackme.com/room/dfirtimelineanalysis) | [Open file](rooms/ir%20timeline%20analysis.txt) |
+| Iron Corp | [Room](https://tryhackme.com/room/ironcorp) | [Open file](rooms/iron%20corp.txt) |
+| IronShade | [Room](https://tryhackme.com/room/ironshade) | [Open file](rooms/ironshade.txt) |
+| Island Orchestration | [Room](https://tryhackme.com/room/islandorchestration) | [Open file](rooms/island%20orchestration.txt) |
+| ISO27001 | [Room](https://tryhackme.com/room/iso27001) | [Open file](rooms/iso27001.txt) |
+| ItsyBitsy | [Room](https://tryhackme.com/room/itsybitsy) | [Open file](rooms/itsybitsy.txt) |
+| Jack | [Room](https://tryhackme.com/room/jack) | [Open file](rooms/jack.txt) |
+| Jack-of-All-Trades | [Room](https://tryhackme.com/room/jackofalltrades) | [Open file](rooms/jack-of-all-trades.txt) |
+| Jacob the Boss | [Room](https://tryhackme.com/room/jacobtheboss) | [Open file](rooms/jacob%20the%20boss.txt) |
+| Jailbreaking | [Room](https://tryhackme.com/room/jailbreaking) | [Open file](rooms/jailbreaking.txt) |
+| JavaScript Basics | [Room](https://tryhackme.com/room/javascriptbasics) | [Open file](rooms/javascript%20basics.txt) |
+| JavaScript Essentials | [Room](https://tryhackme.com/room/javascriptessentials) | [Open file](rooms/javascript%20essentials.txt) |
+| JavaScript: Simple Demo | [Room](https://tryhackme.com/room/javascriptsimpledemo) | [Open file](rooms/javascript%20simple%20demo.txt) |
+| Jax sucks alot............. | [Room](https://tryhackme.com/room/jason) | [Open file](rooms/jax%20sucks%20alot..............txt) |
+| John the Ripper: The Basics | [Room](https://tryhackme.com/room/johntheripperbasics) | [Open file](rooms/john%20the%20ripper%20the%20basics.txt) |
+| Joomify CVE-2023-23752 | [Room](https://tryhackme.com/room/joomify) | [Open file](rooms/joomify%20cve-2023-23752.txt) |
+| JPGChat | [Room](https://tryhackme.com/room/jpgchat) | [Open file](rooms/jpgchat.txt) |
+| Juicy | [Room](https://tryhackme.com/room/juicy) | [Open file](rooms/juicy.txt) |
+| Juicy Details | [Room](https://tryhackme.com/room/juicydetails) | [Open file](rooms/juicy%20details.txt) |
+| Junior Security Analyst Intro | [Room](https://tryhackme.com/room/jrsecanalystintrouxo) | [Open file](rooms/junior%20security%20analyst%20intro.txt) |
+| Jupyter 101 | [Room](https://tryhackme.com/room/jupyter101) | [Open file](rooms/jupyter%20101.txt) |
+| Jurassic Park | [Room](https://tryhackme.com/room/jurassicpark) | [Open file](rooms/jurassic%20park.txt) |
+| JVM Reverse Engineering | [Room](https://tryhackme.com/room/jvmreverseengineering) | [Open file](rooms/jvm%20reverse%20engineering.txt) |
+| JWT Security | [Room](https://tryhackme.com/room/jwtsecurity) | [Open file](rooms/jwt%20security.txt) |
+| K2 | [Room](https://tryhackme.com/room/k2room) | [Open file](rooms/k2.txt) |
+| K8s Best Security Practices | [Room](https://tryhackme.com/room/k8sbestsecuritypractices) | [Open file](rooms/k8s%20best%20security%20practices.txt) |
+| K8s Runtime Security | [Room](https://tryhackme.com/room/k8sruntimesecurity) | [Open file](rooms/k8s%20runtime%20security.txt) |
+| KaffeeSec - SoMeSINT | [Room](https://tryhackme.com/room/somesint) | [Open file](rooms/kaffeesec%20-%20somesint.txt) |
+| Kali Machine | [Room](https://tryhackme.com/room/kali) | [Open file](rooms/kali%20machine.txt) |
+| KAPE | [Room](https://tryhackme.com/room/kape) | [Open file](rooms/kape.txt) |
+| Keldagrim | [Room](https://tryhackme.com/room/keldagrim) | [Open file](rooms/keldagrim.txt) |
+| Kenobi | [Room](https://tryhackme.com/room/kenobi) | [Open file](rooms/kenobi.txt) |
+| kiba | [Room](https://tryhackme.com/room/kiba) | [Open file](rooms/kiba.txt) |
+| Kitty | [Room](https://tryhackme.com/room/kitty) | [Open file](rooms/kitty.txt) |
+| KoTH Food CTF | [Room](https://tryhackme.com/room/kothfoodctf) | [Open file](rooms/koth%20food%20ctf.txt) |
+| KoTH Hackers | [Room](https://tryhackme.com/room/kothhackers) | [Open file](rooms/koth%20hackers.txt) |
+| KQL (Kusto): Advanced Queries | [Room](https://tryhackme.com/room/kqlkustoadvancedqueries) | [Open file](rooms/kql%20%28kusto%29%20advanced%20queries.txt) |
+| KQL (Kusto): Basic Queries | [Room](https://tryhackme.com/room/kqlkustobasicqueries) | [Open file](rooms/kql%20%28kusto%29%20basic%20queries.txt) |
+| KQL (Kusto): Introduction | [Room](https://tryhackme.com/room/kqlkustointroduction) | [Open file](rooms/kql%20kusto%20introduction.txt) |
+| Kubernetes for Everyone | [Room](https://tryhackme.com/room/kubernetesforyouly) | [Open file](rooms/kubernetes%20for%20everyone.txt) |
+| L2 MAC Flooding & ARP Spoofing | [Room](https://tryhackme.com/room/layer2) | [Open file](rooms/l2%20mac%20flooding%20%26%20arp%20spoofing.txt) |
+| Lambda - Data Exfiltration | [Room](https://tryhackme.com/room/lambdadataexfiltration) | [Open file](rooms/lambda%20-%20data%20exfiltration.txt) |
+| Lateral Movement and Pivoting | [Room](https://tryhackme.com/room/lateralmovementandpivoting) | [Open file](rooms/lateral%20movement%20and%20pivoting.txt) |
+| LazyAdmin | [Room](https://tryhackme.com/room/lazyadmin) | [Open file](rooms/lazyadmin.txt) |
+| LDAP Injection | [Room](https://tryhackme.com/room/ldapinjection) | [Open file](rooms/ldap%20injection.txt) |
+| Learn and win prizes | [Room](https://tryhackme.com/room/tickets1) | [Open file](rooms/learn%20and%20win%20prizes.txt) |
+| Learn Rust | [Room](https://tryhackme.com/room/rust) | [Open file](rooms/learn%20rust.txt) |
+| Learning Cyber Security | [Room](https://tryhackme.com/room/beginnerpathintro) | [Open file](rooms/learning%20cyber%20security.txt) |
+| Ledger | [Room](https://tryhackme.com/room/ledger) | [Open file](rooms/ledger.txt) |
+| Legal Considerations in DFIR | [Room](https://tryhackme.com/room/dfirprocesslegalconsiderations) | [Open file](rooms/legal%20considerations%20in%20dfir.txt) |
+| Length Extension Attacks | [Room](https://tryhackme.com/room/lengthextensionattacks) | [Open file](rooms/length%20extension%20attacks.txt) |
+| Lesson Learned? | [Room](https://tryhackme.com/room/lessonlearned) | [Open file](rooms/lesson%20learned.txt) |
+| Lessons Learned | [Room](https://tryhackme.com/room/lessonslearned) | [Open file](rooms/lessons%20learned.txt) |
+| Lian_Yu | [Room](https://tryhackme.com/room/lianyu) | [Open file](rooms/lian_yu.txt) |
+| Library | [Room](https://tryhackme.com/room/bsidesgtlibrary) | [Open file](rooms/library.txt) |
+| Light | [Room](https://tryhackme.com/room/lightroom) | [Open file](rooms/light.txt) |
+| Linux Agency | [Room](https://tryhackme.com/room/linuxagency) | [Open file](rooms/linux%20agency.txt) |
+| Linux Backdoors | [Room](https://tryhackme.com/room/linuxbackdoors) | [Open file](rooms/linux%20backdoors.txt) |
+| Linux CLI Basics | [Room](https://tryhackme.com/room/linuxclibasics) | [Open file](rooms/linux%20cli%20basics.txt) |
+| Linux File System Analysis | [Room](https://tryhackme.com/room/linuxfilesystemanalysis) | [Open file](rooms/linux%20file%20system%20analysis.txt) |
+| Linux Forensics | [Room](https://tryhackme.com/room/linuxforensics) | [Open file](rooms/linux%20forensics.txt) |
+| Linux Function Hooking | [Room](https://tryhackme.com/room/linuxfunctionhooking) | [Open file](rooms/linux%20function%20hooking.txt) |
+| Linux Fundamentals Part 1 | [Room](https://tryhackme.com/room/linuxfundamentalspart1) | [Open file](rooms/linux%20fundamentals%20part%201.txt) |
+| Linux Fundamentals Part 2 | [Room](https://tryhackme.com/room/linuxfundamentalspart2) | [Open file](rooms/linux%20fundamentals%20part%202.txt) |
+| Linux Fundamentals Part 3 | [Room](https://tryhackme.com/room/linuxfundamentalspart3) | [Open file](rooms/linux%20fundamentals%20part%203.txt) |
+| Linux Incident Surface | [Room](https://tryhackme.com/room/linuxincidentsurface) | [Open file](rooms/linux%20incident%20surface.txt) |
+| Linux Live Analysis | [Room](https://tryhackme.com/room/linuxliveanalysis) | [Open file](rooms/linux%20live%20analysis.txt) |
+| Linux Logging for SOC | [Room](https://tryhackme.com/room/linuxloggingforsoc) | [Open file](rooms/linux%20logging%20for%20soc.txt) |
+| Linux Logs Investigations | [Room](https://tryhackme.com/room/linuxlogsinvestigations) | [Open file](rooms/linux%20logs%20investigations.txt) |
+| Linux Modules | [Room](https://tryhackme.com/room/linuxmodules) | [Open file](rooms/linux%20modules.txt) |
+| Linux PrivEsc | [Room](https://tryhackme.com/room/linuxprivesc) | [Open file](rooms/linux%20privesc.txt) |
+| Linux PrivEsc Arena | [Room](https://tryhackme.com/room/linuxprivescarena) | [Open file](rooms/linux%20privesc%20arena.txt) |
+| Linux Privilege Escalation | [Room](https://tryhackme.com/room/linprivesc) | [Open file](rooms/linux%20privilege%20escalation.txt) |
+| Linux Privilege Escalation: Automation | [Room](https://tryhackme.com/room/linprivautomation) | [Open file](rooms/linux%20privilege%20escalation%20automation.txt) |
+| Linux Privilege Escalation: Basics | [Room](https://tryhackme.com/room/linprivbasics) | [Open file](rooms/linux%20privilege%20escalation%20basics.txt) |
+| Linux Privilege Escalation: Enumeration | [Room](https://tryhackme.com/room/linprivenum) | [Open file](rooms/linux%20privilege%20escalation%20enumeration.txt) |
+| Linux Process Analysis | [Room](https://tryhackme.com/room/linuxprocessanalysis) | [Open file](rooms/linux%20process%20analysis.txt) |
+| Linux Server Forensics | [Room](https://tryhackme.com/room/linuxserverforensics) | [Open file](rooms/linux%20server%20forensics.txt) |
+| Linux Shells | [Room](https://tryhackme.com/room/linuxshells) | [Open file](rooms/linux%20shells.txt) |
+| Linux Strength Training | [Room](https://tryhackme.com/room/linuxstrengthtraining) | [Open file](rooms/linux%20strength%20training.txt) |
+| Linux System Hardening | [Room](https://tryhackme.com/room/linuxsystemhardening) | [Open file](rooms/linux%20system%20hardening.txt) |
+| Linux Threat Detection 1 | [Room](https://tryhackme.com/room/linuxthreatdetection1) | [Open file](rooms/linux%20threat%20detection%201.txt) |
+| Linux Threat Detection 2 | [Room](https://tryhackme.com/room/linuxthreatdetection2) | [Open file](rooms/linux%20threat%20detection%202.txt) |
+| Linux Threat Detection 3 | [Room](https://tryhackme.com/room/linuxthreatdetection3) | [Open file](rooms/linux%20threat%20detection%203.txt) |
+| Linux: Local Enumeration | [Room](https://tryhackme.com/room/lle) | [Open file](rooms/linux%20local%20enumeration.txt) |
+| Living Off the Land | [Room](https://tryhackme.com/room/livingofftheland) | [Open file](rooms/living%20off%20the%20land.txt) |
+| Living Off the Land Attacks | [Room](https://tryhackme.com/room/livingoffthelandattacks) | [Open file](rooms/living%20off%20the%20land%20attacks.txt) |
+| LLM Output Handling and Privacy Risks | [Room](https://tryhackme.com/room/outputhandlingandprivacyrisks) | [Open file](rooms/llm%20output%20handling%20and%20privacy%20risks.txt) |
+| LLM Pentesting | [Room](https://tryhackme.com/room/llmpentesting) | [Open file](rooms/llm%20pentesting.txt) |
+| LLM Security | [Room](https://tryhackme.com/room/llmsecurity) | [Open file](rooms/llm%20security.txt) |
+| Lo-Fi | [Room](https://tryhackme.com/room/lofi) | [Open file](rooms/lo-fi.txt) |
+| LocalPotato | [Room](https://tryhackme.com/room/localpotato) | [Open file](rooms/localpotato.txt) |
+| Lockdown | [Room](https://tryhackme.com/room/lockdown) | [Open file](rooms/lockdown.txt) |
+| Log Analysis with SIEM | [Room](https://tryhackme.com/room/loganalysiswithsiem) | [Open file](rooms/log%20analysis%20with%20siem.txt) |
+| Log Operations | [Room](https://tryhackme.com/room/logoperations) | [Open file](rooms/log%20operations.txt) |
+| Log Universe | [Room](https://tryhackme.com/room/loguniverse) | [Open file](rooms/log%20universe.txt) |
+| Logging for Accountability | [Room](https://tryhackme.com/room/loggingforaccountability) | [Open file](rooms/logging%20for%20accountability.txt) |
+| Logless Hunt | [Room](https://tryhackme.com/room/loglesshunt) | [Open file](rooms/logless%20hunt.txt) |
+| Logs Fundamentals | [Room](https://tryhackme.com/room/logsfundamentals) | [Open file](rooms/logs%20fundamentals.txt) |
+| Logstash: Data Processing Unit | [Room](https://tryhackme.com/room/logstash) | [Open file](rooms/logstash%20data%20processing%20unit.txt) |
+| Lookback | [Room](https://tryhackme.com/room/lookback) | [Open file](rooms/lookback.txt) |
+| Looking Glass | [Room](https://tryhackme.com/room/lookingglass) | [Open file](rooms/looking%20glass.txt) |
+| Lookup | [Room](https://tryhackme.com/room/lookup) | [Open file](rooms/lookup.txt) |
+| Looney Tunables | [Room](https://tryhackme.com/room/looneytunes) | [Open file](rooms/looney%20tunables.txt) |
+| Lost in RAMslation | [Room](https://tryhackme.com/room/lostinramslation) | [Open file](rooms/lost%20in%20ramslation.txt) |
+| Lumberjack Turtle | [Room](https://tryhackme.com/room/lumberjackturtle) | [Open file](rooms/lumberjack%20turtle.txt) |
+| Lunizz CTF | [Room](https://tryhackme.com/room/lunizzctfnd) | [Open file](rooms/lunizz%20ctf.txt) |
+| M365 Monitoring Basics | [Room](https://tryhackme.com/room/m365monitoringbasics) | [Open file](rooms/m365%20monitoring%20basics.txt) |
+| M4tr1x: Exit Denied | [Room](https://tryhackme.com/room/m4tr1xexitdenied) | [Open file](rooms/m4tr1x%20exit%20denied.txt) |
+| Mac Hunt | [Room](https://tryhackme.com/room/machunt) | [Open file](rooms/mac%20hunt.txt) |
+| macOS Forensics: Applications | [Room](https://tryhackme.com/room/macosforensicsapplications) | [Open file](rooms/macos%20forensics%20applications.txt) |
+| macOS Forensics: Artefacts | [Room](https://tryhackme.com/room/macosforensicsartefacts) | [Open file](rooms/macos%20forensics%20artefacts.txt) |
+| macOS Forensics: The Basics | [Room](https://tryhackme.com/room/macosforensicsbasics) | [Open file](rooms/macos%20forensics%20the%20basics.txt) |
+| Madeye's Castle | [Room](https://tryhackme.com/room/madeyescastle) | [Open file](rooms/madeyes%20castle.txt) |
+| Madness | [Room](https://tryhackme.com/room/madness) | [Open file](rooms/madness.txt) |
+| magician | [Room](https://tryhackme.com/room/magician) | [Open file](rooms/magician.txt) |
+| MAL: Malware Introductory | [Room](https://tryhackme.com/room/malmalintroductory) | [Open file](rooms/mal%20malware%20introductory.txt) |
+| MAL: REMnux - The Redux | [Room](https://tryhackme.com/room/malremnuxv2) | [Open file](rooms/mal%20remnux%20-%20the%20redux.txt) |
+| MAL: Researching | [Room](https://tryhackme.com/room/malresearching) | [Open file](rooms/mal%20researching.txt) |
+| MAL: Strings | [Room](https://tryhackme.com/room/malstrings) | [Open file](rooms/mal%20strings.txt) |
+| MalBuster | [Room](https://tryhackme.com/room/malbuster) | [Open file](rooms/malbuster.txt) |
+| MalDoc: Static Analysis | [Room](https://tryhackme.com/room/maldoc) | [Open file](rooms/maldoc%20static%20analysis.txt) |
+| Malware Classification | [Room](https://tryhackme.com/room/malwareclassification) | [Open file](rooms/malware%20classification.txt) |
+| Man-in-the-Middle Detection | [Room](https://tryhackme.com/room/mitmdetection) | [Open file](rooms/man-in-the-middle%20detection.txt) |
+| Masquerade | [Room](https://tryhackme.com/room/masquerade) | [Open file](rooms/masquerade.txt) |
+| Masterminds | [Room](https://tryhackme.com/room/mastermindsxlq) | [Open file](rooms/masterminds.txt) |
+| Mayhem | [Room](https://tryhackme.com/room/mayhemroom) | [Open file](rooms/mayhem.txt) |
+| MBR and GPT Analysis | [Room](https://tryhackme.com/room/mbrandgptanalysis) | [Open file](rooms/mbr%20and%20gpt%20analysis.txt) |
+| MD2PDF | [Room](https://tryhackme.com/room/md2pdf) | [Open file](rooms/md2pdf.txt) |
+| Memory Acquisition | [Room](https://tryhackme.com/room/memoryacquisition) | [Open file](rooms/memory%20acquisition.txt) |
+| Memory Analysis Introduction | [Room](https://tryhackme.com/room/memoryanalysisintroduction) | [Open file](rooms/memory%20analysis%20introduction.txt) |
+| Memory Forensics | [Room](https://tryhackme.com/room/memoryforensics) | [Open file](rooms/memory%20forensics.txt) |
+| Metamorphosis | [Room](https://tryhackme.com/room/metamorphosis) | [Open file](rooms/metamorphosis.txt) |
+| Metasploit Introduction | [Room](https://tryhackme.com/room/metasploitintro) | [Open file](rooms/metasploit%20introduction.txt) |
+| Metasploit: Exploitation | [Room](https://tryhackme.com/room/metasploitexploitation) | [Open file](rooms/metasploit%20exploitation.txt) |
+| Metasploit: Meterpreter | [Room](https://tryhackme.com/room/meterpreter) | [Open file](rooms/metasploit%20meterpreter.txt) |
+| Metasploit: Payload Generation | [Room](https://tryhackme.com/room/metasploitpayloadgeneration) | [Open file](rooms/metasploit%20payload%20generation.txt) |
+| Metasploit: Post-Exploitation | [Room](https://tryhackme.com/room/metasploitpostexploitation) | [Open file](rooms/metasploit%20post-exploitation.txt) |
+| Metasploit: Scanning and Exploitation | [Room](https://tryhackme.com/room/metasploitscanningandexploitation) | [Open file](rooms/metasploit%20scanning%20and%20exploitation.txt) |
+| Metasploit: The Basics | [Room](https://tryhackme.com/room/metasploitthebasics) | [Open file](rooms/metasploit%20the%20basics.txt) |
+| Microservices Architectures | [Room](https://tryhackme.com/room/microservicearchitectures) | [Open file](rooms/microservices%20architectures.txt) |
+| Microsoft Intune Monitoring | [Room](https://tryhackme.com/room/msintunemonitoring) | [Open file](rooms/microsoft%20intune%20monitoring.txt) |
+| Microsoft Windows Hardening | [Room](https://tryhackme.com/room/microsoftwindowshardening) | [Open file](rooms/microsoft%20windows%20hardening.txt) |
+| Mindgames | [Room](https://tryhackme.com/room/mindgames) | [Open file](rooms/mindgames.txt) |
+| Minotaur's Labyrinth | [Room](https://tryhackme.com/room/labyrinth8llv) | [Open file](rooms/minotaurs%20labyrinth.txt) |
+| Misguided Ghosts | [Room](https://tryhackme.com/room/misguidedghosts) | [Open file](rooms/misguided%20ghosts.txt) |
+| MISP | [Room](https://tryhackme.com/room/misp) | [Open file](rooms/misp.txt) |
+| Missing Person | [Room](https://tryhackme.com/room/missingperson) | [Open file](rooms/missing%20person.txt) |
+| MITRE | [Room](https://tryhackme.com/room/mitre) | [Open file](rooms/mitre.txt) |
+| mKingdom | [Room](https://tryhackme.com/room/mkingdom) | [Open file](rooms/mkingdom.txt) |
+| Mnemonic | [Room](https://tryhackme.com/room/mnemonic) | [Open file](rooms/mnemonic.txt) |
+| Mobile Acquisition | [Room](https://tryhackme.com/room/mobileacquisition) | [Open file](rooms/mobile%20acquisition.txt) |
+| Mobile Application Security | [Room](https://tryhackme.com/room/mobilesecurity) | [Open file](rooms/mobile%20application%20security.txt) |
+| Mobile Malware Analysis | [Room](https://tryhackme.com/room/mma) | [Open file](rooms/mobile%20malware%20analysis.txt) |
+| Modern Web Stacks | [Room](https://tryhackme.com/room/modernwebstacks) | [Open file](rooms/modern%20web%20stacks.txt) |
+| Moebius | [Room](https://tryhackme.com/room/moebius) | [Open file](rooms/moebius.txt) |
+| Monday Monitor | [Room](https://tryhackme.com/room/mondaymonitor) | [Open file](rooms/monday%20monitor.txt) |
+| Moniker Link (CVE-2024-21413) | [Room](https://tryhackme.com/room/monikerlink) | [Open file](rooms/moniker%20link%20%28cve-2024-21413%29.txt) |
+| Monitoring Active Directory | [Room](https://tryhackme.com/room/monitoringactivedirectory) | [Open file](rooms/monitoring%20active%20directory.txt) |
+| Monitoring AWS Logins | [Room](https://tryhackme.com/room/monitoringawslogins) | [Open file](rooms/monitoring%20aws%20logins.txt) |
+| Monitoring AWS Services | [Room](https://tryhackme.com/room/monitoringawsservices) | [Open file](rooms/monitoring%20aws%20services.txt) |
+| Monitoring AWS Workloads | [Room](https://tryhackme.com/room/monitoringawsworkloads) | [Open file](rooms/monitoring%20aws%20workloads.txt) |
+| Mother's Secret | [Room](https://tryhackme.com/room/codeanalysis) | [Open file](rooms/mothers%20secret.txt) |
+| Motunui | [Room](https://tryhackme.com/room/motunui) | [Open file](rooms/motunui.txt) |
+| Mountaineer | [Room](https://tryhackme.com/room/mountaineerlinux) | [Open file](rooms/mountaineer.txt) |
+| Mouse Trap | [Room](https://tryhackme.com/room/mousetrap) | [Open file](rooms/mouse%20trap.txt) |
+| Mr Robot CTF | [Room](https://tryhackme.com/room/mrrobot) | [Open file](rooms/mr%20robot%20ctf.txt) |
+| Mr. Phisher | [Room](https://tryhackme.com/room/mrphisher) | [Open file](rooms/mr.%20phisher.txt) |
+| MS Entra ID: Authentication | [Room](https://tryhackme.com/room/entraidauthentication) | [Open file](rooms/ms%20entra%20id%20authentication.txt) |
+| MS Entra ID: External ID | [Room](https://tryhackme.com/room/entraidexternalid) | [Open file](rooms/ms%20entra%20id%20external%20id.txt) |
+| MS Entra ID: Governance | [Room](https://tryhackme.com/room/entraidgovernance) | [Open file](rooms/ms%20entra%20id%20governance.txt) |
+| MS Entra ID: Introduction | [Room](https://tryhackme.com/room/entraidintroduction) | [Open file](rooms/ms%20entra%20id%20introduction.txt) |
+| MS Entra ID: Protection | [Room](https://tryhackme.com/room/entraidprotection) | [Open file](rooms/ms%20entra%20id%20protection.txt) |
+| MS Entra ID: Zero Trust | [Room](https://tryhackme.com/room/entraidzerotrust) | [Open file](rooms/ms%20entra%20id%20zero%20trust.txt) |
+| MS Sentinel: Deploy | [Room](https://tryhackme.com/room/sentineldeploy) | [Open file](rooms/ms%20sentinel%20deploy.txt) |
+| MS Sentinel: Ingest Data | [Room](https://tryhackme.com/room/sentinelingestdata) | [Open file](rooms/ms%20sentinel%20ingest%20data.txt) |
+| MS Sentinel: Introduction | [Room](https://tryhackme.com/room/sentinelintroduction) | [Open file](rooms/ms%20sentinel%20introduction.txt) |
+| MS Sentinel: Investigate | [Room](https://tryhackme.com/room/sentinelinvestigate) | [Open file](rooms/ms%20sentinel%20investigate.txt) |
+| MS Sentinel: Just Looking | [Room](https://tryhackme.com/room/justlooking) | [Open file](rooms/ms%20sentinel%20just%20looking.txt) |
+| Multi-Factor Authentication | [Room](https://tryhackme.com/room/multifactorauthentications) | [Open file](rooms/multi-factor%20authentication.txt) |
+| Mustacchio | [Room](https://tryhackme.com/room/mustacchio) | [Open file](rooms/mustacchio.txt) |
+| NahamStore | [Room](https://tryhackme.com/room/nahamstore) | [Open file](rooms/nahamstore.txt) |
+| NanoCherryCTF | [Room](https://tryhackme.com/room/nanocherryctf) | [Open file](rooms/nanocherryctf.txt) |
+| Napping | [Room](https://tryhackme.com/room/nappingis1337) | [Open file](rooms/napping.txt) |
+| Nax | [Room](https://tryhackme.com/room/nax) | [Open file](rooms/nax.txt) |
+| Neighbour | [Room](https://tryhackme.com/room/neighbour) | [Open file](rooms/neighbour.txt) |
+| NerdHerd | [Room](https://tryhackme.com/room/nerdherd) | [Open file](rooms/nerdherd.txt) |
+| Nessus | [Room](https://tryhackme.com/room/rpnessusredux) | [Open file](rooms/nessus.txt) |
+| Net Sec Challenge | [Room](https://tryhackme.com/room/netsecchallenge) | [Open file](rooms/net%20sec%20challenge.txt) |
+| Network Device Hardening | [Room](https://tryhackme.com/room/networkdevicehardening) | [Open file](rooms/network%20device%20hardening.txt) |
+| Network Discovery Detection | [Room](https://tryhackme.com/room/networkdiscoverydetection) | [Open file](rooms/network%20discovery%20detection.txt) |
+| Network Monitoring with Zeek | [Room](https://tryhackme.com/room/networkmonitoringwithzeek) | [Open file](rooms/network%20monitoring%20with%20zeek.txt) |
+| Network Security | [Room](https://tryhackme.com/room/intronetworksecurity) | [Open file](rooms/network%20security.txt) |
+| Network Security Essentials | [Room](https://tryhackme.com/room/networksecurityessentials) | [Open file](rooms/network%20security%20essentials.txt) |
+| Network Security Protocols | [Room](https://tryhackme.com/room/networksecurityprotocols) | [Open file](rooms/network%20security%20protocols.txt) |
+| Network Security Solutions | [Room](https://tryhackme.com/room/redteamnetsec) | [Open file](rooms/network%20security%20solutions.txt) |
+| Network Services | [Room](https://tryhackme.com/room/networkservices) | [Open file](rooms/network%20services.txt) |
+| Network Services 2 | [Room](https://tryhackme.com/room/networkservices2) | [Open file](rooms/network%20services%202.txt) |
+| Network Traffic Basics | [Room](https://tryhackme.com/room/networktrafficbasics) | [Open file](rooms/network%20traffic%20basics.txt) |
+| Networking Concepts | [Room](https://tryhackme.com/room/networkingconcepts) | [Open file](rooms/networking%20concepts.txt) |
+| Networking Core Protocols | [Room](https://tryhackme.com/room/networkingcoreprotocols) | [Open file](rooms/networking%20core%20protocols.txt) |
+| Networking Essentials | [Room](https://tryhackme.com/room/networkingessentials) | [Open file](rooms/networking%20essentials.txt) |
+| Networking Secure Protocols | [Room](https://tryhackme.com/room/networkingsecureprotocols) | [Open file](rooms/networking%20secure%20protocols.txt) |
+| NetworkMiner | [Room](https://tryhackme.com/room/networkminer) | [Open file](rooms/networkminer.txt) |
+| New Hire Old Artifacts | [Room](https://tryhackme.com/room/newhireoldartifacts) | [Open file](rooms/new%20hire%20old%20artifacts.txt) |
+| New York Flankees | [Room](https://tryhackme.com/room/thenewyorkflankees) | [Open file](rooms/new%20york%20flankees.txt) |
+| Next.js: CVE-2025-29927 | [Room](https://tryhackme.com/room/nextjscve202529927) | [Open file](rooms/next.js%20cve-2025-29927.txt) |
+| Ninja Skills | [Room](https://tryhackme.com/room/ninjaskills) | [Open file](rooms/ninja%20skills.txt) |
+| NIS - Linux Part I | [Room](https://tryhackme.com/room/nislinuxone) | [Open file](rooms/nis%20-%20linux%20part%20I.txt) |
+| Nmap | [Room](https://tryhackme.com/room/furthernmap) | [Open file](rooms/nmap.txt) |
+| Nmap Advanced Port Scans | [Room](https://tryhackme.com/room/nmap03) | [Open file](rooms/nmap%20advanced%20port%20scans.txt) |
+| Nmap Basic Port Scans | [Room](https://tryhackme.com/room/nmap02) | [Open file](rooms/nmap%20basic%20port%20scans.txt) |
+| Nmap Live Host Discovery | [Room](https://tryhackme.com/room/nmap01) | [Open file](rooms/nmap%20live%20host%20discovery.txt) |
+| Nmap Post Port Scans | [Room](https://tryhackme.com/room/nmap04) | [Open file](rooms/nmap%20post%20port%20scans.txt) |
+| Nmap: The Basics | [Room](https://tryhackme.com/room/nmap) | [Open file](rooms/nmap%20the%20basics.txt) |
+| NoNameCTF | [Room](https://tryhackme.com/room/nonamectf) | [Open file](rooms/nonamectf.txt) |
+| NoSQL Injection | [Room](https://tryhackme.com/room/nosqlinjectiontutorial) | [Open file](rooms/nosql%20injection.txt) |
+| NTFS Analysis | [Room](https://tryhackme.com/room/ntfsanalysis) | [Open file](rooms/ntfs%20analysis) |
+| OAuth Vulnerabilities | [Room](https://tryhackme.com/room/oauthvulnerabilities) | [Open file](rooms/oauth%20vulnerabilities.txt) |
+| Obfuscation Principles | [Room](https://tryhackme.com/room/obfuscationprinciples) | [Open file](rooms/obfuscation%20principles.txt) |
+| Obscure | [Room](https://tryhackme.com/room/obscured) | [Open file](rooms/obscure.txt) |
+| Offensive Security Intro (offensivesecurityintro) | [Room](https://tryhackme.com/room/offensivesecurityintro) | [Open file](rooms/offensive%20security%20intro.txt) |
+| Offensive Security Intro (offensivesecurityintrokk) | [Room](https://tryhackme.com/room/offensivesecurityintrokk) | [Open file](rooms/offensive%20security%20intro%20%282%29.txt) |
+| Oh My WebServer | [Room](https://tryhackme.com/room/ohmyweb) | [Open file](rooms/oh%20my%20webserver.txt) |
+| OhSINT | [Room](https://tryhackme.com/room/ohsint) | [Open file](rooms/ohsint.txt) |
+| Ollie | [Room](https://tryhackme.com/room/ollie) | [Open file](rooms/ollie.txt) |
+| Olympus | [Room](https://tryhackme.com/room/olympusroom) | [Open file](rooms/olympus.txt) |
+| On-Premises IaC | [Room](https://tryhackme.com/room/onpremisesiac) | [Open file](rooms/on-premises%20iac.txt) |
+| One Piece | [Room](https://tryhackme.com/room/ctfonepiece65) | [Open file](rooms/one%20piece.txt) |
+| Opacity | [Room](https://tryhackme.com/room/opacity) | [Open file](rooms/opacity.txt) |
+| OpenCTI | [Room](https://tryhackme.com/room/opencti) | [Open file](rooms/opencti.txt) |
+| OpenVAS | [Room](https://tryhackme.com/room/openvas) | [Open file](rooms/openvas.txt) |
+| OpenVPN | [Room](https://tryhackme.com/room/openvpn) | [Open file](rooms/openvpn.txt) |
+| Operating System Security | [Room](https://tryhackme.com/room/operatingsystemsecurity) | [Open file](rooms/operating%20system%20security.txt) |
+| Operation Slither | [Room](https://tryhackme.com/room/operationslitheriu) | [Open file](rooms/operation%20slither.txt) |
+| Order | [Room](https://tryhackme.com/room/hfb1order) | [Open file](rooms/order.txt) |
+| ORM Injection | [Room](https://tryhackme.com/room/orminjection) | [Open file](rooms/orm%20injection.txt) |
+| OSI Model | [Room](https://tryhackme.com/room/osimodelzi) | [Open file](rooms/osi%20model.txt) |
+| Osiris | [Room](https://tryhackme.com/room/osiris) | [Open file](rooms/osiris.txt) |
+| Osquery: The Basics | [Room](https://tryhackme.com/room/osqueryf8) | [Open file](rooms/osquery%20the%20basics.txt) |
+| Outlook NTLM Leak | [Room](https://tryhackme.com/room/outlookntlmleak) | [Open file](rooms/outlook%20ntlm%20leak.txt) |
+| OverlayFS - CVE-2021-3493 | [Room](https://tryhackme.com/room/overlayfs) | [Open file](rooms/overlayfs%20-%20cve-2021-3493.txt) |
+| Overpass | [Room](https://tryhackme.com/room/overpass) | [Open file](rooms/overpass.txt) |
+| Overpass 2 - Hacked | [Room](https://tryhackme.com/room/overpass2hacked) | [Open file](rooms/overpass%202%20-%20hacked.txt) |
+| Overpass 3 - Hosting | [Room](https://tryhackme.com/room/overpass3hosting) | [Open file](rooms/overpass%203%20-%20hosting.txt) |
+| OWASP API Security Top 10 - 1 | [Room](https://tryhackme.com/room/owaspapisecuritytop105w) | [Open file](rooms/owasp%20api%20security%20top%2010%20-%201.txt) |
+| OWASP API Security Top 10 - 2 | [Room](https://tryhackme.com/room/owaspapisecuritytop10d0) | [Open file](rooms/owasp%20api%20security%20top%2010%20-%202.txt) |
+| OWASP Broken Access Control | [Room](https://tryhackme.com/room/owaspbrokenaccesscontrol) | [Open file](rooms/owasp%20broken%20access%20control.txt) |
+| OWASP Juice Shop | [Room](https://tryhackme.com/room/owaspjuiceshop) | [Open file](rooms/owasp%20juice%20shop.txt) |
+| owasp mutillidae II | [Room](https://tryhackme.com/room/owaspmutillidae) | [No answers yet](rooms/owasp%20mutillidae%20II.txt) |
+| OWASP Top 10 | [Room](https://tryhackme.com/room/owasptop10) | [Open file](rooms/owasp%20top%2010.txt) |
+| OWASP Top 10 - 2021 | [Room](https://tryhackme.com/room/owasptop102021) | [Open file](rooms/owasp%20top%2010%20-%202021.txt) |
+| OWASP Top 10 2025: Application Design Flaws | [Room](https://tryhackme.com/room/owasptopten2025two) | [Open file](rooms/owasp%20top%2010%202025%20application%20design%20flaws.txt) |
+| OWASP Top 10 2025: IAAA Failures | [Room](https://tryhackme.com/room/owasptopten2025one) | [Open file](rooms/owasp%20top%2010%202025%20iaaa%20failures.txt) |
+| OWASP Top 10 2025: Insecure Data Handling | [Room](https://tryhackme.com/room/owasptopten2025three) | [Open file](rooms/owasp%20top%2010%202025%20insecure%20data%20handling.txt) |
+| Packets & Frames | [Room](https://tryhackme.com/room/packetsframes) | [Open file](rooms/packets%20%26%20frames.txt) |
+| Padding Oracles | [Room](https://tryhackme.com/room/paddingoracles) | [Open file](rooms/padding%20oracles.txt) |
+| PalsForLife | [Room](https://tryhackme.com/room/palsforlife) | [Open file](rooms/palsforlife.txt) |
+| PaperCut: CVE-2023-27350 | [Room](https://tryhackme.com/room/papercut) | [Open file](rooms/papercut%20cve-2023-27350.txt) |
+| ParrotPost: Phishing Analysis | [Room](https://tryhackme.com/room/parrotpost) | [Open file](rooms/parrotpost%20phishing%20analysis.txt) |
+| PassCode | [Room](https://tryhackme.com/room/hfb1passcode) | [Open file](rooms/passcode.txt) |
+| Passive Reconnaissance | [Room](https://tryhackme.com/room/passiverecon) | [Open file](rooms/passive%20reconnaissance.txt) |
+| Password Attacks | [Room](https://tryhackme.com/room/passwordattacks) | [Open file](rooms/password%20attacks.txt) |
+| Password Cracking | [Room](https://tryhackme.com/room/passwordcracking) | [Open file](rooms/password%20cracking.txt) |
+| Payload | [Room](https://tryhackme.com/room/payload) | [Open file](rooms/payload.txt) |
+| Peak Hill | [Room](https://tryhackme.com/room/peakhill) | [Open file](rooms/peak%20hill.txt) |
+| Penetration Testing Frameworks | [Room](https://tryhackme.com/room/penetrationtestingframeworks) | [Open file](rooms/penetration%20testing%20frameworks.txt) |
+| Pentesting Fundamentals | [Room](https://tryhackme.com/room/pentestingfundamentals) | [Open file](rooms/pentesting%20fundamentals.txt) |
+| Persisting Active Directory | [Room](https://tryhackme.com/room/persistingad) | [Open file](rooms/persisting%20active%20directory.txt) |
+| Phishing | [Room](https://tryhackme.com/room/phishingyl) | [Open file](rooms/phishing.txt) |
+| Phishing Analysis Fundamentals | [Room](https://tryhackme.com/room/phishingemails1tryoe) | [Open file](rooms/phishing%20analysis%20fundamentals.txt) |
+| Phishing Analysis Tools | [Room](https://tryhackme.com/room/phishingemails3tryoe) | [Open file](rooms/phishing%20analysis%20tools.txt) |
+| Phishing Basics | [Room](https://tryhackme.com/room/phishingbasics) | [Open file](rooms/phishing%20basics.txt) |
+| Phishing Books | [Room](https://tryhackme.com/room/phishingbooks) | [Open file](rooms/phishing%20books.txt) |
+| Phishing Emails in Action | [Room](https://tryhackme.com/room/phishingemails2rytmuv) | [Open file](rooms/phishing%20emails%20in%20action.txt) |
+| Phishing Prevention | [Room](https://tryhackme.com/room/phishingemails4gkxh) | [Open file](rooms/phishing%20prevention.txt) |
+| Phishing: HiddenEye | [Room](https://tryhackme.com/room/phishinghiddeneye) | [Open file](rooms/phishing%20hiddeneye.txt) |
+| Physical Security Intro | [Room](https://tryhackme.com/room/physicalsecurityintro) | [Open file](rooms/physical%20security%20intro.txt) |
+| Pickle Rick | [Room](https://tryhackme.com/room/picklerick) | [Open file](rooms/pickle%20rick.txt) |
+| Planning and Scoping | [Room](https://tryhackme.com/room/planningandscoping) | [Open file](rooms/planning%20and%20scoping.txt) |
+| Plant Photographer | [Room](https://tryhackme.com/room/plantphotographer) | [Open file](rooms/plant%20photographer.txt) |
+| Plotted-EMR | [Room](https://tryhackme.com/room/plottedemr) | [Open file](rooms/plotted-emr.txt) |
+| Plotted-LMS | [Room](https://tryhackme.com/room/plottedlms) | [Open file](rooms/plotted-lms.txt) |
+| Plotted-TMS | [Room](https://tryhackme.com/room/plottedtms) | [Open file](rooms/plotted-tms.txt) |
+| Polkit: CVE-2021-3560 | [Room](https://tryhackme.com/room/polkit) | [Open file](rooms/polkit%20cve-2021-3560.txt) |
+| Post-Exploitation Basics | [Room](https://tryhackme.com/room/postexploit) | [Open file](rooms/post-exploitation%20basics.txt) |
+| Post-Incident Activity | [Room](https://tryhackme.com/room/postincidentactivity) | [Open file](rooms/post-incident%20activity.txt) |
+| Poster | [Room](https://tryhackme.com/room/poster) | [Open file](rooms/poster.txt) |
+| PowerShell for Pentesters | [Room](https://tryhackme.com/room/powershellforpentesters) | [Open file](rooms/powershell%20for%20pentesters.txt) |
+| Precision | [Room](https://tryhackme.com/room/hfb1precision) | [Open file](rooms/precision.txt) |
+| Preparation | [Room](https://tryhackme.com/room/preparation) | [Open file](rooms/preparation.txt) |
+| Pressed | [Room](https://tryhackme.com/room/pressedroom) | [Open file](rooms/pressed.txt) |
+| Principles of Security | [Room](https://tryhackme.com/room/principlesofsecurity) | [Open file](rooms/principles%20of%20security.txt) |
+| Printer Hacking 101 | [Room](https://tryhackme.com/room/printerhacking101) | [Open file](rooms/printer%20hacking%20101.txt) |
+| PrintNightmare | [Room](https://tryhackme.com/room/printnightmarehpzqlp8) | [Open file](rooms/printnightmare.txt) |
+| PrintNightmare, again! | [Room](https://tryhackme.com/room/printnightmarec2bn7l) | [Open file](rooms/printnightmare%2C%20again%21.txt) |
+| PrintNightmare, thrice! | [Room](https://tryhackme.com/room/printnightmarec3kj) | [Open file](rooms/printnightmare%2C%20thrice%21.txt) |
+| Prioritise | [Room](https://tryhackme.com/room/prioritise) | [Open file](rooms/prioritise.txt) |
+| Probe | [Room](https://tryhackme.com/room/probe) | [Open file](rooms/probe.txt) |
+| Profiles | [Room](https://tryhackme.com/room/profilesroom) | [Open file](rooms/profiles.txt) |
+| Prompt Defence | [Room](https://tryhackme.com/room/promptdefence) | [Open file](rooms/prompt%20defence.txt) |
+| Prompt Engineering | [Room](https://tryhackme.com/room/promptengineeringaisec) | [Open file](rooms/prompt%20engineering.txt) |
+| Prompt Injection | [Room](https://tryhackme.com/room/promptinjectionls) | [Open file](rooms/prompt%20injection.txt) |
+| Protocols and Servers | [Room](https://tryhackme.com/room/protocolsandservers) | [Open file](rooms/protocols%20and%20servers.txt) |
+| Protocols and Servers 2 | [Room](https://tryhackme.com/room/protocolsandservers2) | [Open file](rooms/protocols%20and%20servers%202.txt) |
+| Prototype Pollution | [Room](https://tryhackme.com/room/prototypepollution) | [Open file](rooms/prototype%20pollution.txt) |
+| PS Eclipse | [Room](https://tryhackme.com/room/posheclipse) | [Open file](rooms/ps%20eclipse.txt) |
+| Psycho Break | [Room](https://tryhackme.com/room/psychobreak) | [Open file](rooms/psycho%20break.txt) |
+| Public Key Cryptography Basics | [Room](https://tryhackme.com/room/publickeycrypto) | [Open file](rooms/public%20key%20cryptography%20basics.txt) |
+| Public Key Infrastructure | [Room](https://tryhackme.com/room/publickeyinfrastructure) | [Open file](rooms/public%20key%20infrastructure.txt) |
+| Publisher | [Room](https://tryhackme.com/room/publisher) | [Open file](rooms/publisher.txt) |
+| Putting it all together | [Room](https://tryhackme.com/room/puttingitalltogether) | [Open file](rooms/putting%20it%20all%20together.txt) |
+| PWN101 | [Room](https://tryhackme.com/room/pwn101) | [Open file](rooms/pwn101.txt) |
+| Pwnkit: CVE-2021-4034 | [Room](https://tryhackme.com/room/pwnkit) | [Open file](rooms/pwnkit%20cve-2021-4034.txt) |
+| pyLon | [Room](https://tryhackme.com/room/pylonzf) | [Open file](rooms/pylon.txt) |
+| Pyramid Of Pain | [Room](https://tryhackme.com/room/pyramidofpainax) | [Open file](rooms/pyramid%20of%20pain.txt) |
+| Pyrat | [Room](https://tryhackme.com/room/pyrat) | [Open file](rooms/pyrat.txt) |
+| Python Basics | [Room](https://tryhackme.com/room/pythonbasics) | [Open file](rooms/python%20basics.txt) |
+| Python for Pentesters | [Room](https://tryhackme.com/room/pythonforcybersecurity) | [Open file](rooms/python%20for%20pentesters.txt) |
+| Python Playground | [Room](https://tryhackme.com/room/pythonplayground) | [Open file](rooms/python%20playground.txt) |
+| Python: Building Scripts | [Room](https://tryhackme.com/room/pythonbuildingscripts) | [Open file](rooms/python%20building%20scripts.txt) |
+| Python: Core Concepts | [Room](https://tryhackme.com/room/pythoncoreconcepts) | [Open file](rooms/python%20core%20concepts.txt) |
+| Python: Pentesting Scripts | [Room](https://tryhackme.com/room/pythonpentestingscripts) | [Open file](rooms/python%20pentesting%20scripts.txt) |
+| Python: Simple Demo | [Room](https://tryhackme.com/room/pythonsimpledemo) | [Open file](rooms/python%20simple%20demo.txt) |
+| Ra | [Room](https://tryhackme.com/room/ra) | [Open file](rooms/ra.txt) |
+| Ra 2 | [Room](https://tryhackme.com/room/ra2) | [Open file](rooms/ra%202.txt) |
+| Rabbit Hole | [Room](https://tryhackme.com/room/rabbitholeqq) | [Open file](rooms/rabbit%20hole.txt) |
+| Rabbit Store | [Room](https://tryhackme.com/room/rabbitstore) | [Open file](rooms/rabbit%20store.txt) |
+| Race Conditions | [Room](https://tryhackme.com/room/raceconditionsattacks) | [Open file](rooms/race%20conditions.txt) |
+| Race Conditions Challenge | [Room](https://tryhackme.com/room/raceconditions) | [Open file](rooms/race%20conditions%20challenge.txt) |
+| Racetrack Bank | [Room](https://tryhackme.com/room/racetrackbank) | [Open file](rooms/racetrack%20bank.txt) |
+| RAG Security Fundamentals | [Room](https://tryhackme.com/room/ragsecurityfundamentals) | [Open file](rooms/rag%20security%20fundamentals.txt) |
+| RazorBlack | [Room](https://tryhackme.com/room/raz0rblack) | [Open file](rooms/razorblack.txt) |
+| Re-Testing | [Room](https://tryhackme.com/room/retesting) | [Open file](rooms/re-testing.txt) |
+| React2Shell: CVE-2025-55182 | [Room](https://tryhackme.com/room/react2shellcve202555182) | [Open file](rooms/react2shell%20cve-2025-55182.txt) |
+| Recovering Active Directory | [Room](https://tryhackme.com/room/recoveringactivedirectory) | [Open file](rooms/recovering%20active%20directory.txt) |
+| Recovery | [Room](https://tryhackme.com/room/recovery) | [Open file](rooms/recovery.txt) |
+| Red | [Room](https://tryhackme.com/room/redisl33t) | [Open file](rooms/red.txt) |
+| Red Stone One Carat | [Room](https://tryhackme.com/room/redstoneonecarat) | [Open file](rooms/red%20stone%20one%20carat.txt) |
+| Red Team Capstone Challenge | [Room](https://tryhackme.com/room/redteamcapstonechallenge) | [Open file](rooms/red%20team%20capstone%20challenge.txt) |
+| Red Team Engagements | [Room](https://tryhackme.com/room/redteamengagements) | [Open file](rooms/red%20team%20engagements.txt) |
+| Red Team Fundamentals | [Room](https://tryhackme.com/room/redteamfundamentals) | [Open file](rooms/red%20team%20fundamentals.txt) |
+| Red Team OPSEC | [Room](https://tryhackme.com/room/opsec) | [Open file](rooms/red%20team%20opsec.txt) |
+| Red Team Recon | [Room](https://tryhackme.com/room/redteamrecon) | [Open file](rooms/red%20team%20recon.txt) |
+| Red Team Threat Intel | [Room](https://tryhackme.com/room/redteamthreatintel) | [Open file](rooms/red%20team%20threat%20intel.txt) |
+| Redline | [Room](https://tryhackme.com/room/btredlinejoxr3d) | [Open file](rooms/redline.txt) |
+| Registry Persistence Detection | [Room](https://tryhackme.com/room/registrypersistencedetection) | [Open file](rooms/registry%20persistence%20detection.txt) |
+| Regular Expressions | [Room](https://tryhackme.com/room/catregex) | [Open file](rooms/regular%20expressions.txt) |
+| Relevant | [Room](https://tryhackme.com/room/relevant) | [Open file](rooms/relevant.txt) |
+| REloaded | [Room](https://tryhackme.com/room/reloaded) | [Open file](rooms/reloaded.txt) |
+| REMnux: Getting Started | [Room](https://tryhackme.com/room/remnuxgettingstarted) | [Open file](rooms/remnux%20getting%20started.txt) |
+| REmux The Tmux | [Room](https://tryhackme.com/room/tmuxremux) | [Open file](rooms/remux%20the%20tmux.txt) |
+| Report Writing for SOC L2 | [Room](https://tryhackme.com/room/reportwritingsocl2) | [Open file](rooms/report%20writing%20for%20soc%20l2.txt) |
+| Request Smuggling: WebSockets | [Room](https://tryhackme.com/room/wsrequestsmuggling) | [Open file](rooms/request%20smuggling%20websockets.txt) |
+| Res | [Room](https://tryhackme.com/room/res) | [Open file](rooms/res.txt) |
+| Reset | [Room](https://tryhackme.com/room/resetui) | [Open file](rooms/reset.txt) |
+| Resource Policies & SCPs | [Room](https://tryhackme.com/room/resourcepoliciesscps) | [Open file](rooms/resource%20policies%20%26%20scps.txt) |
+| Response and Recovery | [Room](https://tryhackme.com/room/responseandrecovery) | [Open file](rooms/response%20and%20recovery.txt) |
+| ret2libc | [Room](https://tryhackme.com/room/ret2libc) | [Open file](rooms/ret2libc.txt) |
+| Retracted | [Room](https://tryhackme.com/room/retracted) | [Open file](rooms/retracted.txt) |
+| Retro | [Room](https://tryhackme.com/room/retro) | [Open file](rooms/retro.txt) |
+| Revenge | [Room](https://tryhackme.com/room/revenge) | [Open file](rooms/revenge.txt) |
+| Reversing ELF | [Room](https://tryhackme.com/room/reverselfiles) | [Open file](rooms/reversing%20elf.txt) |
+| REvil Corp | [Room](https://tryhackme.com/room/revilcorp) | [Open file](rooms/revil%20corp.txt) |
+| Risk Management | [Room](https://tryhackme.com/room/seriskmanagement) | [Open file](rooms/risk%20management.txt) |
+| Road | [Room](https://tryhackme.com/room/road) | [Open file](rooms/road.txt) |
+| Robots | [Room](https://tryhackme.com/room/robots) | [Open file](rooms/robots.txt) |
+| Rocket | [Room](https://tryhackme.com/room/rocket) | [Open file](rooms/rocket.txt) |
+| RootMe | [Room](https://tryhackme.com/room/rrootme) | [Open file](rooms/rootme.txt) |
+| Roundcube: CVE-2025-49113 | [Room](https://tryhackme.com/room/roundcubecve202549113) | [Open file](rooms/roundcube%20cve-2025-49113.txt) |
+| Royal Router | [Room](https://tryhackme.com/room/hfb1royalrouter) | [Open file](rooms/royal%20router.txt) |
+| Runtime Detection Evasion | [Room](https://tryhackme.com/room/runtimedetectionevasion) | [Open file](rooms/runtime%20detection%20evasion.txt) |
+| RustScan | [Room](https://tryhackme.com/room/rustscan) | [Open file](rooms/rustscan.txt) |
+| SafeZone | [Room](https://tryhackme.com/room/safezone) | [Open file](rooms/safezone.txt) |
+| Sakura Room | [Room](https://tryhackme.com/room/sakura) | [Open file](rooms/sakura%20room.txt) |
+| Sandbox Evasion | [Room](https://tryhackme.com/room/sandboxevasion) | [Open file](rooms/sandbox%20evasion.txt) |
+| SAST | [Room](https://tryhackme.com/room/sast) | [Open file](rooms/sast.txt) |
+| Scheme Catcher | [Room](https://tryhackme.com/room/sq2-aoc2025-jxiokusd9r) | [Open file](rooms/scheme%20catcher.txt) |
+| Scripting | [Room](https://tryhackme.com/room/scripting) | [Open file](rooms/scripting.txt) |
+| SDLC | [Room](https://tryhackme.com/room/sdlc) | [Open file](rooms/sdlc.txt) |
+| Sea Surfer | [Room](https://tryhackme.com/room/seasurfer) | [Open file](rooms/sea%20surfer.txt) |
+| Search Skills | [Room](https://tryhackme.com/room/searchskills) | [Open file](rooms/search%20skills.txt) |
+| Searchlight - IMINT | [Room](https://tryhackme.com/room/searchlightosint) | [Open file](rooms/searchlight%20-%20imint.txt) |
+| Second | [Room](https://tryhackme.com/room/fearsecond) | [Open file](rooms/second.txt) |
+| Secret Recipe | [Room](https://tryhackme.com/room/registry4n6) | [Open file](rooms/secret%20recipe.txt) |
+| Secure GitOps | [Room](https://tryhackme.com/room/securegitops) | [Open file](rooms/secure%20gitops.txt) |
+| Secure Network Architecture | [Room](https://tryhackme.com/room/introtosecurityarchitecture) | [Open file](rooms/secure%20network%20architecture.txt) |
+| Securing AI Systems | [Room](https://tryhackme.com/room/securingaisystems) | [Open file](rooms/securing%20ai%20systems.txt) |
+| Securing the AI Supply Chain | [Room](https://tryhackme.com/room/securing-the-ai-supplychain) | [Open file](rooms/securing%20the%20ai%20supply%20chain.txt) |
+| Security Awareness | [Room](https://tryhackme.com/room/securityawarenessintro) | [Open file](rooms/security%20awareness.txt) |
+| Security Engineer Intro | [Room](https://tryhackme.com/room/securityengineerintro) | [Open file](rooms/security%20engineer%20intro.txt) |
+| Security Footage | [Room](https://tryhackme.com/room/securityfootage) | [Open file](rooms/security%20footage.txt) |
+| Security Operations | [Room](https://tryhackme.com/room/securityoperations) | [Open file](rooms/security%20operations.txt) |
+| Security Principles | [Room](https://tryhackme.com/room/securityprinciples) | [Open file](rooms/security%20principles.txt) |
+| SeeTwo | [Room](https://tryhackme.com/room/seetworoom) | [Open file](rooms/seetwo.txt) |
+| Senior Security Analyst Intro | [Room](https://tryhackme.com/room/seniorsecanalystintro) | [Open file](rooms/senior%20security%20analyst%20intro.txt) |
+| Sensitive Information Disclosure | [Room](https://tryhackme.com/room/sensitiveinformationdisclosure) | [Open file](rooms/sensitive%20information%20disclosure.txt) |
+| Sequel Dump | [Room](https://tryhackme.com/room/hfb1sequeldump) | [Open file](rooms/sequel%20dump.txt) |
+| Server-side Template Injection | [Room](https://tryhackme.com/room/serversidetemplateinjection) | [Open file](rooms/server-side%20template%20injection.txt) |
+| Services | [Room](https://tryhackme.com/room/services) | [Open file](rooms/services.txt) |
+| Servidae: Log Analysis in ELK | [Room](https://tryhackme.com/room/servidae) | [Open file](rooms/servidae%20log%20analysis%20in%20elk.txt) |
+| Session Forensics | [Room](https://tryhackme.com/room/sessionforensics) | [Open file](rooms/session%20forensics.txt) |
+| Session Management | [Room](https://tryhackme.com/room/sessionmanagement) | [Open file](rooms/session%20management.txt) |
+| Set | [Room](https://tryhackme.com/room/set) | [Open file](rooms/set.txt) |
+| Shadow Trace | [Room](https://tryhackme.com/room/shadowtrace) | [Open file](rooms/shadow%20trace.txt) |
+| Shaker | [Room](https://tryhackme.com/room/shaker) | [Open file](rooms/shaker.txt) |
+| SharePoint Online Monitoring | [Room](https://tryhackme.com/room/sharepointonlinemonitoring) | [Open file](rooms/sharepoint%20online%20monitoring.txt) |
+| Shell Payload Generation & Delivery | [Room](https://tryhackme.com/room/shellgenerationdelivery) | [Open file](rooms/shell%20payload%20generation%20%26%20delivery.txt) |
+| Shells & Listeners Fundamentals | [Room](https://tryhackme.com/room/shellsfundamentals) | [Open file](rooms/shells%20%20listeners%20fundamentals.txt) |
+| Shells Overview | [Room](https://tryhackme.com/room/shellsoverview) | [Open file](rooms/shells%20overview.txt) |
+| Shock and Silence | [Room](https://tryhackme.com/room/shockandsilence) | [Open file](rooms/shock%20and%20silence.txt) |
+| Shodan.io | [Room](https://tryhackme.com/room/shodan) | [Open file](rooms/shodan.io.txt) |
+| SigHunt | [Room](https://tryhackme.com/room/sighunt) | [Open file](rooms/sighunt.txt) |
+| Sigma | [Room](https://tryhackme.com/room/sigma) | [Open file](rooms/sigma.txt) |
+| Sigma Language | [Room](https://tryhackme.com/room/sigmalanguage) | [Open file](rooms/sigma%20language.txt) |
+| Signature Evasion | [Room](https://tryhackme.com/room/signatureevasion) | [Open file](rooms/signature%20evasion.txt) |
+| Signed Messages | [Room](https://tryhackme.com/room/lafb2026e8) | [Open file](rooms/signed%20messages.txt) |
+| Silver Platter | [Room](https://tryhackme.com/room/silverplatter) | [Open file](rooms/silver%20platter.txt) |
+| Simple CTF | [Room](https://tryhackme.com/room/easyctf) | [Open file](rooms/simple%20ctf.txt) |
+| SimpleHelp: CVE-2024-57727 | [Room](https://tryhackme.com/room/simplehelpcve202457727) | [Open file](rooms/simplehelp%20cve-2024-57727.txt) |
+| Skynet | [Room](https://tryhackme.com/room/skynet) | [Open file](rooms/skynet.txt) |
+| Slingshot | [Room](https://tryhackme.com/room/slingshot) | [Open file](rooms/slingshot.txt) |
+| Smag Grotto | [Room](https://tryhackme.com/room/smaggrotto) | [Open file](rooms/smag%20grotto.txt) |
+| Smol | [Room](https://tryhackme.com/room/smol) | [Open file](rooms/smol.txt) |
+| Snapped Phish-ing Line | [Room](https://tryhackme.com/room/snappedphishingline) | [Open file](rooms/snapped%20phish-ing%20line.txt) |
+| Sneaky Patch | [Room](https://tryhackme.com/room/hfb1sneakypatch) | [Open file](rooms/sneaky%20patch.txt) |
+| Snort | [Room](https://tryhackme.com/room/snort) | [Open file](rooms/snort.txt) |
+| Snort Challenge - Live Attacks | [Room](https://tryhackme.com/room/snortchallenges2) | [Open file](rooms/snort%20challenge%20-%20live%20attacks.txt) |
+| Snort Challenge - The Basics | [Room](https://tryhackme.com/room/snortchallenges1) | [Open file](rooms/snort%20challenge%20-%20the%20basics.txt) |
+| Snowy ARMageddon | [Room](https://tryhackme.com/room/armageddon2r) | [Open file](rooms/snowy%20armageddon.txt) |
+| Snyk Code | [Room](https://tryhackme.com/room/snykcode) | [Open file](rooms/snyk%20code.txt) |
+| Snyk Open Source | [Room](https://tryhackme.com/room/snykopensource) | [Open file](rooms/snyk%20open%20source.txt) |
+| SOAR | [Room](https://tryhackme.com/room/soar) | [Open file](rooms/soar.txt) |
+| SOC Fundamentals | [Room](https://tryhackme.com/room/socfundamentals) | [Open file](rooms/soc%20fundamentals.txt) |
+| SOC L1 Alert Reporting | [Room](https://tryhackme.com/room/socl1alertreporting) | [Open file](rooms/soc%20l1%20alert%20reporting.txt) |
+| SOC L1 Alert Triage | [Room](https://tryhackme.com/room/socl1alerttriage) | [Open file](rooms/soc%20l1%20alert%20triage.txt) |
+| SOC L2 Alert Triage | [Room](https://tryhackme.com/room/socl2alerttriage) | [Open file](rooms/soc%20l2%20alert%20triage.txt) |
+| SOC Metrics and Objectives | [Room](https://tryhackme.com/room/socmetricsobjectives) | [Open file](rooms/soc%20metrics%20and%20objectives.txt) |
+| SOC Role in Blue Team | [Room](https://tryhackme.com/room/socroleinblueteam) | [Open file](rooms/soc%20role%20in%20blue%20team.txt) |
+| SOC Workbooks and Lookups | [Room](https://tryhackme.com/room/socworkbookslookups) | [Open file](rooms/soc%20workbooks%20and%20lookups.txt) |
+| Solar, exploiting log4j | [Room](https://tryhackme.com/room/solar) | [Open file](rooms/solar%2C%20exploiting%20log4j.txt) |
+| Soupedecode 01 | [Room](https://tryhackme.com/room/soupedecode01) | [Open file](rooms/soupedecode%2001.txt) |
+| Source | [Room](https://tryhackme.com/room/source) | [Open file](rooms/source.txt) |
+| Source Code Security | [Room](https://tryhackme.com/room/sourcecodesecurity) | [Open file](rooms/source%20code%20security.txt) |
+| Speed Chatting | [Room](https://tryhackme.com/room/lafb2026e4) | [Open file](rooms/speed%20chatting.txt) |
+| Splunk 2 | [Room](https://tryhackme.com/room/splunk2gcd5) | [Open file](rooms/splunk%202.txt) |
+| Splunk 3 | [Room](https://tryhackme.com/room/splunk3zs) | [Open file](rooms/splunk%203.txt) |
+| Splunk: Basics | [Room](https://tryhackme.com/room/splunk101) | [Open file](rooms/splunk%20basics.txt) |
+| Splunk: Dashboards and Reports | [Room](https://tryhackme.com/room/splunkdashboardsandreports) | [Open file](rooms/splunk%20dashboards%20and%20reports.txt) |
+| Splunk: Data Manipulation | [Room](https://tryhackme.com/room/splunkdatamanipulation) | [Open file](rooms/splunk%20data%20manipulation.txt) |
+| Splunk: Exploring SPL | [Room](https://tryhackme.com/room/splunkexploringspl) | [Open file](rooms/splunk%20exploring%20spl.txt) |
+| Splunk: Setting up a SOC Lab | [Room](https://tryhackme.com/room/splunklab) | [Open file](rooms/splunk%20setting%20up%20a%20soc%20lab.txt) |
+| Spring | [Room](https://tryhackme.com/room/spring) | [Open file](rooms/spring.txt) |
+| Spring4Shell: CVE-2022-22965 | [Room](https://tryhackme.com/room/spring4shell) | [Open file](rooms/spring4shell%20cve-2022-22965.txt) |
+| SQHell | [Room](https://tryhackme.com/room/sqhell) | [Open file](rooms/sqhell.txt) |
+| SQL Fundamentals | [Room](https://tryhackme.com/room/sqlfundamentals) | [Open file](rooms/sql%20fundamentals.txt) |
+| SQL Injection | [Room](https://tryhackme.com/room/sqlinjectionlm) | [Open file](rooms/sql%20injection.txt) |
+| SQL Injection Introduction | [Room](https://tryhackme.com/room/sqlinjectionintroduction) | [Open file](rooms/sql%20injection%20introduction.txt) |
+| SQL Injection Lab | [Room](https://tryhackme.com/room/sqlilab) | [Open file](rooms/sql%20injection%20lab.txt) |
+| SQLMAP | [Room](https://tryhackme.com/room/sqlmap) | [Open file](rooms/sqlmap.txt) |
+| SQLMap The Basics | [Room](https://tryhackme.com/room/sqlmapthebasics) | [Open file](rooms/sqlmap%20the%20basics.txt) |
+| Squid Game | [Room](https://tryhackme.com/room/squidgameroom) | [Open file](rooms/squid%20game.txt) |
+| SSDLC | [Room](https://tryhackme.com/room/securesdlc) | [Open file](rooms/ssdlc.txt) |
+| SSRF | [Room](https://tryhackme.com/room/ssrfhr) | [Open file](rooms/ssrf.txt) |
+| SSTI | [Room](https://tryhackme.com/room/learnssti) | [Open file](rooms/ssti.txt) |
+| Starting Out In Cyber Sec | [Room](https://tryhackme.com/room/startingoutincybersec) | [Open file](rooms/starting%20out%20in%20cyber%20sec.txt) |
+| Startup | [Room](https://tryhackme.com/room/startup) | [Open file](rooms/startup.txt) |
+| Stealth | [Room](https://tryhackme.com/room/stealth) | [Open file](rooms/stealth.txt) |
+| Steel Mountain | [Room](https://tryhackme.com/room/steelmountain) | [Open file](rooms/steel%20mountain.txt) |
+| Stolen Mount | [Room](https://tryhackme.com/room/hfb1stolenmount) | [Open file](rooms/stolen%20mount.txt) |
+| STS Credentials Lab | [Room](https://tryhackme.com/room/stscredentialslab) | [Open file](rooms/sts%20credentials%20lab.txt) |
+| StuxCTF | [Room](https://tryhackme.com/room/stuxctf) | [Open file](rooms/stuxctf.txt) |
+| Subdomain Enumeration | [Room](https://tryhackme.com/room/subdomainenumeration) | [Open file](rooms/subdomain%20enumeration.txt) |
+| Sudo Buffer Overflow | [Room](https://tryhackme.com/room/sudovulnsbof) | [Open file](rooms/sudo%20buffer%20overflow.txt) |
+| Sudo Security Bypass | [Room](https://tryhackme.com/room/sudovulnsbypass) | [Open file](rooms/sudo%20security%20bypass.txt) |
+| Summit | [Room](https://tryhackme.com/room/summit) | [Open file](rooms/summit.txt) |
+| Super Secret TIp | [Room](https://tryhackme.com/room/supersecrettip) | [Open file](rooms/super%20secret%20tip.txt) |
+| Super-Spam | [Room](https://tryhackme.com/room/superspamr) | [Open file](rooms/super-spam.txt) |
+| Supplemental Memory | [Room](https://tryhackme.com/room/supplementalmemory) | [Open file](rooms/supplemental%20memory.txt) |
+| Supply Chain Attack Vectors | [Room](https://tryhackme.com/room/supplychain-attack-vectors) | [Open file](rooms/supply%20chain%20attack%20vectors.txt) |
+| Supply Chain Attack: Lottie | [Room](https://tryhackme.com/room/supplychainattacks) | [Open file](rooms/supply%20chain%20attack%20lottie.txt) |
+| Surfer | [Room](https://tryhackme.com/room/surfer) | [Open file](rooms/surfer.txt) |
+| Sustah | [Room](https://tryhackme.com/room/sustah) | [Open file](rooms/sustah.txt) |
+| Sweettooth Inc. | [Room](https://tryhackme.com/room/sweettoothinc) | [Open file](rooms/sweettooth%20inc..txt) |
+| Sysinternals | [Room](https://tryhackme.com/room/btsysinternalssg) | [Open file](rooms/sysinternals.txt) |
+| Sysmon | [Room](https://tryhackme.com/room/sysmon) | [Open file](rooms/sysmon.txt) |
+| Systems as Attack Vectors | [Room](https://tryhackme.com/room/systemsattackvectors) | [Open file](rooms/systems%20as%20attack%20vectors.txt) |
+| Tactical Detection | [Room](https://tryhackme.com/room/tacticaldetection) | [Open file](rooms/tactical%20detection.txt) |
+| Takedown | [Room](https://tryhackme.com/room/takedown) | [Open file](rooms/takedown.txt) |
+| TakeOver | [Room](https://tryhackme.com/room/takeover) | [Open file](rooms/takeover.txt) |
+| Tardigrade | [Room](https://tryhackme.com/room/tardigrade) | [Open file](rooms/tardigrade.txt) |
+| Tcpdump: The Basics | [Room](https://tryhackme.com/room/tcpdump) | [Open file](rooms/tcpdump%20the%20basics.txt) |
+| Team | [Room](https://tryhackme.com/room/teamcw) | [Open file](rooms/team.txt) |
+| Tech_Supp0rt: 1 | [Room](https://tryhackme.com/room/techsupp0rt1) | [Open file](rooms/tech_supp0rt%201.txt) |
+| Tempest | [Room](https://tryhackme.com/room/tempestincident) | [Open file](rooms/tempest.txt) |
+| Templates | [Room](https://tryhackme.com/room/templates) | [Open file](rooms/templates.txt) |
+| Temple | [Room](https://tryhackme.com/room/temple) | [Open file](rooms/temple.txt) |
+| Tempus Fugit Durius | [Room](https://tryhackme.com/room/tempusfugitdurius) | [Open file](rooms/tempus%20fugit%20durius.txt) |
+| That's The Ticket | [Room](https://tryhackme.com/room/thatstheticket) | [Open file](rooms/thats%20the%20ticket.txt) |
+| The Bandit Surfer | [Room](https://tryhackme.com/room/surfingyetiiscomingtotown) | [Open file](rooms/the%20bandit%20surfer.txt) |
+| The Blob Blog | [Room](https://tryhackme.com/room/theblobblog) | [Open file](rooms/the%20blob%20blog.txt) |
+| The Blue Team Perspective | [Room](https://tryhackme.com/room/theblueteamperspective) | [Open file](rooms/the%20blue%20team%20perspective.txt) |
+| The Case: Seven Minutes on the Seine | [Room](https://tryhackme.com/room/thecasesevenminutesontheseine) | [Open file](rooms/the%20case%20seven%20minutes%20on%20the%20seine.txt) |
+| The CIA Triad | [Room](https://tryhackme.com/room/theciatriad) | [Open file](rooms/the%20cia%20triad.txt) |
+| The Cod Caper | [Room](https://tryhackme.com/room/thecodcaper) | [Open file](rooms/the%20cod%20caper.txt) |
+| The Docker Rodeo | [Room](https://tryhackme.com/room/dockerrodeo) | [Open file](rooms/the%20docker%20rodeo.txt) |
+| The find command | [Room](https://tryhackme.com/room/thefindcommand) | [Open file](rooms/the%20find%20command.txt) |
+| The Game | [Room](https://tryhackme.com/room/hfb1thegame) | [Open file](rooms/the%20game.txt) |
+| The Game v2 | [Room](https://tryhackme.com/room/hfb1thegamev2) | [Open file](rooms/the%20game%20v2.txt) |
+| The Great Disappearing Act | [Room](https://tryhackme.com/room/sq1-aoc2025-fzpnrt2sau) | [Open file](rooms/the%20great%20disappearing%20act.txt) |
+| The Great Escape | [Room](https://tryhackme.com/room/thegreatescape) | [Open file](rooms/the%20great%20escape.txt) |
+| The Greenholt Phish | [Room](https://tryhackme.com/room/phishingemails5fgjlzxc) | [Open file](rooms/the%20greenholt%20phish.txt) |
+| The Hacker Methodology | [Room](https://tryhackme.com/room/hackermethodology) | [Open file](rooms/the%20hacker%20methodology.txt) |
+| The Hidden Gateway | [Room](https://tryhackme.com/room/thehiddengateway3) | [Open file](rooms/the%20hidden%20gateway.txt) |
+| The Impossible Challenge | [Room](https://tryhackme.com/room/theimpossiblechallenge) | [Open file](rooms/the%20impossible%20challenge.txt) |
+| The Last Trial | [Room](https://tryhackme.com/room/thelasttrial) | [Open file](rooms/the%20last%20trial.txt) |
+| The Lay of the Land | [Room](https://tryhackme.com/room/thelayoftheland) | [Open file](rooms/the%20lay%20of%20the%20land.txt) |
+| The London Bridge | [Room](https://tryhackme.com/room/thelondonbridge) | [Open file](rooms/the%20london%20bridge.txt) |
+| The Marketplace | [Room](https://tryhackme.com/room/marketplace) | [Open file](rooms/the%20marketplace.txt) |
+| The Phishing Pond | [Room](https://tryhackme.com/room/phishingpond) | [Open file](rooms/the%20phishing%20pond.txt) |
+| The Quest for Least Privilege | [Room](https://tryhackme.com/room/thequestforleastprivilege) | [Open file](rooms/the%20quest%20for%20least%20privilige.txt) |
+| The Return of the Yeti | [Room](https://tryhackme.com/room/adv3nt0fdbopsjcap) | [Open file](rooms/the%20return%20of%20the%20yeti.txt) |
+| The Server From Hell | [Room](https://tryhackme.com/room/theserverfromhell) | [Open file](rooms/the%20server%20from%20hell.txt) |
+| The Silent Transfer | [Room](https://tryhackme.com/room/operationsilenttransfer) | [Open file](rooms/the%20silent%20transfer.txt) |
+| The Sticker Shop | [Room](https://tryhackme.com/room/thestickershop) | [Open file](rooms/the%20sticker%20shop.txt) |
+| The Witch's Cauldron | [Room](https://tryhackme.com/room/cauldron) | [Open file](rooms/the%20witchs%20cauldron.txt) |
+| TheHive Project | [Room](https://tryhackme.com/room/thehiveproject) | [Open file](rooms/thehive%20project.txt) |
+| Theseus | [Room](https://tryhackme.com/room/theseus) | [Open file](rooms/theseus.txt) |
+| Thompson | [Room](https://tryhackme.com/room/bsidesgtthompson) | [Open file](rooms/thompson.txt) |
+| Threat Hunting With YARA | [Room](https://tryhackme.com/room/threathuntingwithyara) | [Open file](rooms/threat%20hunting%20with%20yara.txt) |
+| Threat Hunting with Zui | [Room](https://tryhackme.com/room/threathuntingwithzui) | [Open file](rooms/threat%20hunting%20with%20zui.txt) |
+| Threat Hunting: Endgame | [Room](https://tryhackme.com/room/threathuntingendgame) | [Open file](rooms/threat%20hunting%20endgame.txt) |
+| Threat Hunting: Foothold | [Room](https://tryhackme.com/room/threathuntingfoothold) | [Open file](rooms/threat%20hunting%20foothold.txt) |
+| Threat Hunting: Introduction | [Room](https://tryhackme.com/room/introductiontothreathunting) | [Open file](rooms/threat%20hunting%20introduction.txt) |
+| Threat Hunting: Pivoting | [Room](https://tryhackme.com/room/threathuntingpivoting) | [Open file](rooms/threat%20hunting%20pivoting.txt) |
+| Threat Intel & Containment | [Room](https://tryhackme.com/room/intelcreationandcontainment) | [Open file](rooms/threat%20intel%20%26%20containment.txt) |
+| Threat Intelligence for SOC | [Room](https://tryhackme.com/room/threatintelligenceforsoc) | [Open file](rooms/threat%20intelligence%20for%20soc.txt) |
+| Threat Intelligence Tools | [Room](https://tryhackme.com/room/threatinteltools) | [Open file](rooms/threat%20intelligence%20tools.txt) |
+| Threat Modeling for Pentesters | [Room](https://tryhackme.com/room/threatmodelingforpentesters) | [Open file](rooms/threat%20modeling%20for%20pentesters.txt) |
+| Threat Modelling | [Room](https://tryhackme.com/room/threatmodelling) | [Open file](rooms/threat%20modelling.txt) |
+| tmux | [Room](https://tryhackme.com/room/rptmux) | [Open file](rooms/tmux.txt) |
+| toc2 | [Room](https://tryhackme.com/room/toc2) | [Open file](rooms/toc2.txt) |
+| Tokyo Ghoul | [Room](https://tryhackme.com/room/tokyoghoul666) | [Open file](rooms/tokyo%20ghoul.txt) |
+| Tomcat: CVE-2024-50379 | [Room](https://tryhackme.com/room/tomcatcve202450379) | [Open file](rooms/tomcat%20cve-2024-50379.txt) |
+| tomghost | [Room](https://tryhackme.com/room/tomghost) | [Open file](rooms/tomghost.txt) |
+| Tony the Tiger | [Room](https://tryhackme.com/room/tonythetiger) | [Open file](rooms/tony%20the%20tiger.txt) |
+| Toolbox: Vim | [Room](https://tryhackme.com/room/toolboxvim) | [Open file](rooms/toolbox%20vim.txt) |
+| Tooling via Browser Automation | [Room](https://tryhackme.com/room/customtoolingviabrowserautomation) | [Open file](rooms/tooling%20via%20browser%20automation.txt) |
+| ToolsRus | [Room](https://tryhackme.com/room/toolsrus) | [Open file](rooms/toolsrus.txt) |
+| Tor | [Room](https://tryhackme.com/room/torforbeginners) | [Open file](rooms/tor.txt) |
+| Traffic Analysis Essentials | [Room](https://tryhackme.com/room/trafficanalysisessentials) | [Open file](rooms/traffic%20analysis%20essentials.txt) |
+| Traffic Analysis Pitfalls | [Room](https://tryhackme.com/room/trafficanalysispitfalls) | [Open file](rooms/traffic%20analysis%20pitfalls.txt) |
+| Training Impact on Teams | [Room](https://tryhackme.com/room/training) | [Open file](rooms/training%20impact%20on%20teams.txt) |
+| Traverse | [Room](https://tryhackme.com/room/traverse) | [Open file](rooms/traverse.txt) |
+| Trooper | [Room](https://tryhackme.com/room/trooper) | [Open file](rooms/trooper.txt) |
+| TryHack3M: Bricks Heist | [Room](https://tryhackme.com/room/tryhack3mbricksheist) | [Open file](rooms/tryhack3m%20bricks%20heist.txt) |
+| TryHack3M: Burg3r Bytes | [Room](https://tryhackme.com/room/burg3rbytes) | [Open file](rooms/tryhack3m%20burg3r%20bytes.txt) |
+| TryHack3M: Sch3Ma D3Mon | [Room](https://tryhackme.com/room/sch3mad3mon) | [Open file](rooms/tryhack3m%20sch3ma%20d3mon.txt) |
+| TryHack3M: Subscribe | [Room](https://tryhackme.com/room/subscribe) | [Open file](rooms/tryhack3m%20subscribe.txt) |
+| TryHack3M: TriCipher Summit | [Room](https://tryhackme.com/room/tryhack3mencryptionchallenge) | [Open file](rooms/tryhack3m%20tricipher%20summit.txt) |
+| TryPwnMe One | [Room](https://tryhackme.com/room/trypwnmeone) | [Open file](rooms/trypwnme%20one.txt) |
+| TryPwnMe Two | [Room](https://tryhackme.com/room/trypwnmetwo) | [Open file](rooms/trypwnme%20two.txt) |
+| TShark | [Room](https://tryhackme.com/room/tshark) | [Open file](rooms/tshark.txt) |
+| TShark Challenge II: Directory | [Room](https://tryhackme.com/room/tsharkchallengestwo) | [Open file](rooms/tshark%20challenge%20ii%20directory.txt) |
+| TShark: Challenge I: Teamwork | [Room](https://tryhackme.com/room/tsharkchallengesone) | [Open file](rooms/tshark%20challenge%20i%20teamwork.txt) |
+| TShark: CLI Wireshark Features | [Room](https://tryhackme.com/room/tsharkcliwiresharkfeatures) | [Open file](rooms/tshark%20cli%20wireshark%20features.txt) |
+| TShark: The Basics | [Room](https://tryhackme.com/room/tsharkthebasics) | [Open file](rooms/tshark%20the%20basics.txt) |
+| Tutorial | [Room](https://tryhackme.com/room/tutorial) | [Open file](rooms/tutorial.txt) |
+| U.A. High School | [Room](https://tryhackme.com/room/yueiua) | [Open file](rooms/u.a.%20high%20school.txt) |
+| UltraTech | [Room](https://tryhackme.com/room/ultratech1) | [Open file](rooms/ultratech.txt) |
+| Umbrella | [Room](https://tryhackme.com/room/umbrella) | [Open file](rooms/umbrella.txt) |
+| Unattended | [Room](https://tryhackme.com/room/unattended) | [Open file](rooms/unattended.txt) |
+| Unbaked Pie | [Room](https://tryhackme.com/room/unbakedpie) | [Open file](rooms/unbaked%20pie.txt) |
+| Understanding AI Supply Chains | [Room](https://tryhackme.com/room/understanding-ai-supplychains) | [Open file](rooms/understanding%20ai%20supply%20chains.txt) |
+| Understanding Vulnerability Databases | [Room](https://tryhackme.com/room/understandingvulnerabilitydatabases) | [Open file](rooms/understanding%20vulnerability%20databases.txt) |
+| Undiscovered | [Room](https://tryhackme.com/room/undiscoveredup) | [Open file](rooms/undiscovered.txt) |
+| Unified Kill Chain | [Room](https://tryhackme.com/room/unifiedkillchain) | [Open file](rooms/unified%20kill%20chain.txt) |
+| Unstable Twin | [Room](https://tryhackme.com/room/unstabletwin) | [Open file](rooms/unstable%20twin.txt) |
+| Upload Vulnerabilities | [Room](https://tryhackme.com/room/uploadvulns) | [Open file](rooms/upload%20vulnerabilities.txt) |
+| Uranium CTF | [Room](https://tryhackme.com/room/uranium) | [Open file](rooms/uranium%20ctf.txt) |
+| Valley | [Room](https://tryhackme.com/room/valleype) | [Open file](rooms/valley.txt) |
+| Vectara | [Room](https://tryhackme.com/room/vectara) | [Open file](rooms/vectara.txt) |
+| Velociraptor | [Room](https://tryhackme.com/room/velociraptorhp) | [Open file](rooms/velociraptor.txt) |
+| Virtualisation Basics | [Room](https://tryhackme.com/room/virtualisationbasics) | [Open file](rooms/virtualisation%20basics.txt) |
+| Virtualization and Containers | [Room](https://tryhackme.com/room/virtualizationandcontainers) | [Open file](rooms/virtualization%20and%20containers.txt) |
+| Void Execution | [Room](https://tryhackme.com/room/hfb1voidexecution) | [Open file](rooms/void%20execution.txt) |
+| Volatility | [Room](https://tryhackme.com/room/volatility) | [Open file](rooms/volatility.txt) |
+| Volatility Essentials | [Room](https://tryhackme.com/room/volatilityessentials) | [Open file](rooms/volatility%20essentials.txt) |
+| Volt Typhoon | [Room](https://tryhackme.com/room/volttyphoon) | [Open file](rooms/volt%20typhoon.txt) |
+| Vulnerabilities 101 | [Room](https://tryhackme.com/room/vulnerabilities101) | [Open file](rooms/vulnerabilities%20101.txt) |
+| Vulnerability Capstone | [Room](https://tryhackme.com/room/vulnerabilitycapstone) | [Open file](rooms/vulnerability%20capstone.txt) |
+| Vulnerability Management | [Room](https://tryhackme.com/room/vulnerabilitymanagementkj) | [Open file](rooms/vulnerability%20management.txt) |
+| Vulnerability Scanner Overview | [Room](https://tryhackme.com/room/vulnerabilityscanneroverview) | [Open file](rooms/vulnerability%20scanner%20overview.txt) |
+| Vulnerability Scanning Tools | [Room](https://tryhackme.com/room/vulnerabilityscanningtools) | [Open file](rooms/vulnerability%20scanning%20tools.txt) |
+| VulnNet | [Room](https://tryhackme.com/room/vulnnet1) | [Open file](rooms/vulnnet.txt) |
+| VulnNet: Active | [Room](https://tryhackme.com/room/vulnnetactive) | [Open file](rooms/vulnnet%20active.txt) |
+| VulnNet: dotjar | [Room](https://tryhackme.com/room/vulnnetdotjar) | [Open file](rooms/vulnnet%20dotjar.txt) |
+| VulnNet: dotpy | [Room](https://tryhackme.com/room/vulnnetdotpy) | [Open file](rooms/vulnnet%20dotpy.txt) |
+| VulnNet: Endgame | [Room](https://tryhackme.com/room/vulnnetendgame) | [Open file](rooms/vulnnet%20endgame.txt) |
+| VulnNet: Internal | [Room](https://tryhackme.com/room/vulnnetinternal) | [Open file](rooms/vulnnet%20internal.txt) |
+| VulnNet: Node | [Room](https://tryhackme.com/room/vulnnetnode) | [Open file](rooms/vulnnet%20node.txt) |
+| VulnNet: Roasted | [Room](https://tryhackme.com/room/vulnnetroasted) | [Open file](rooms/vulnnet%20roasted.txt) |
+| Vulnversity | [Room](https://tryhackme.com/room/vulnversity) | [Open file](rooms/vulnversity.txt) |
+| W1seGuy | [Room](https://tryhackme.com/room/w1seguy) | [Open file](rooms/w1seguy.txt) |
+| WAF: Exploitation Techniques | [Room](https://tryhackme.com/room/wafexploitationtechniques) | [Open file](rooms/waf%20exploitation%20techniques.txt) |
+| WAF: Introduction | [Room](https://tryhackme.com/room/wafintroduction) | [Open file](rooms/waf%20introduction.txt) |
+| Walking An Application | [Room](https://tryhackme.com/room/walkinganapplication) | [Open file](rooms/walking%20an%20application.txt) |
+| Warzone 1 | [Room](https://tryhackme.com/room/warzoneone) | [Open file](rooms/warzone%201.txt) |
+| Warzone 2 | [Room](https://tryhackme.com/room/warzonetwo) | [Open file](rooms/warzone%202.txt) |
+| Watcher | [Room](https://tryhackme.com/room/watcher) | [Open file](rooms/watcher.txt) |
+| Wazuh | [Room](https://tryhackme.com/room/wazuhct) | [Open file](rooms/wazuh.txt) |
+| Wazuh: CVE-2026-25769 | [Room](https://tryhackme.com/room/wazuhcve202625769) | [Open file](rooms/wazuh%20cve-2026-25769.txt) |
+| Weaponization | [Room](https://tryhackme.com/room/weaponization) | [Open file](rooms/weaponization.txt) |
+| Weaponizing Vulnerabilities | [Room](https://tryhackme.com/room/weaponizingvulnerabilities) | [Open file](rooms/weaponizing%20vulnerabilities.txt) |
+| Weasel | [Room](https://tryhackme.com/room/weasel) | [Open file](rooms/weasel.txt) |
+| Web Application Basics | [Room](https://tryhackme.com/room/webapplicationbasics) | [Open file](rooms/web%20application%20basics.txt) |
+| Web Application Security | [Room](https://tryhackme.com/room/introwebapplicationsecurity) | [Open file](rooms/web%20application%20security.txt) |
+| Web Enumeration | [Room](https://tryhackme.com/room/webenumerationv2) | [Open file](rooms/web%20enumeration.txt) |
+| Web Frameworks: .NET | [Room](https://tryhackme.com/room/webframeworksnet) | [Open file](rooms/web%20frameworks%20.net.txt) |
+| Web Frameworks: Code Review | [Room](https://tryhackme.com/room/webframeworkscodereview) | [Open file](rooms/web%20frameworks%20code%20review.txt) |
+| Web Frameworks: Java | [Room](https://tryhackme.com/room/webframeworksjava) | [Open file](rooms/web%20frameworks%20java.txt) |
+| Web Frameworks: Python | [Room](https://tryhackme.com/room/webframeworkspython) | [Open file](rooms/web%20frameworks%20python.txt) |
+| Web Security Essentials | [Room](https://tryhackme.com/room/websecurityessentials) | [Open file](rooms/web%20security%20essentials.txt) |
+| Web Server Attacks - I | [Room](https://tryhackme.com/room/webserverattacks) | [Open file](rooms/web%20server%20attacks%20-%20i.txt) |
+| Web Server Attacks - II | [Room](https://tryhackme.com/room/webserverattacks2) | [Open file](rooms/web%20server%20attacks%20-%20ii.txt) |
+| WebGOAT | [Room](https://tryhackme.com/room/webgoat) | [Open file](rooms/webgoat.txt) |
+| WebOSINT | [Room](https://tryhackme.com/room/webosint) | [Open file](rooms/webosint.txt) |
+| Wekor | [Room](https://tryhackme.com/room/wekorra) | [Open file](rooms/wekor.txt) |
+| Welcome | [Room](https://tryhackme.com/room/hello) | [Open file](rooms/welcome.txt) |
+| Wgel CTF | [Room](https://tryhackme.com/room/wgelctf) | [Open file](rooms/wgel%20ctf.txt) |
+| What is Networking? | [Room](https://tryhackme.com/room/whatisnetworking) | [Open file](rooms/what%20is%20networking.txt) |
+| What the Shell? | [Room](https://tryhackme.com/room/introtoshells) | [Open file](rooms/what%20the%20shell.txt) |
+| Whats Your Name? | [Room](https://tryhackme.com/room/whatsyourname) | [Open file](rooms/whats%20your%20name.txt) |
+| White Rabbit | [Room](https://tryhackme.com/room/whiterabbit) | [Open file](rooms/white%20rabbit.txt) |
+| Whiterose | [Room](https://tryhackme.com/room/whiterose) | [Open file](rooms/whiterose.txt) |
+| WhyHackMe | [Room](https://tryhackme.com/room/whyhackme) | [Open file](rooms/whyhackme.txt) |
+| Wifi Hacking 101 | [Room](https://tryhackme.com/room/wifihacking101) | [Open file](rooms/wifi%20hacking%20101.txt) |
+| Willow | [Room](https://tryhackme.com/room/willow) | [Open file](rooms/willow.txt) |
+| Windows Applications Forensics | [Room](https://tryhackme.com/room/windowsapplications) | [Open file](rooms/windows%20applications%20forensics.txt) |
+| Windows Base | [Room](https://tryhackme.com/room/windowsbase) | [Open file](rooms/windows%20base.txt) |
+| Windows Basics | [Room](https://tryhackme.com/room/windowsbasics) | [Open file](rooms/windows%20basics.txt) |
+| Windows CLI Basics | [Room](https://tryhackme.com/room/windowsclibasics) | [Open file](rooms/windows%20cli%20basics.txt) |
+| Windows Command Line | [Room](https://tryhackme.com/room/windowscommandline) | [Open file](rooms/windows%20command%20line.txt) |
+| Windows Event Logs | [Room](https://tryhackme.com/room/windowseventlogs) | [Open file](rooms/windows%20event%20logs.txt) |
+| Windows Forensics 1 | [Room](https://tryhackme.com/room/windowsforensics1) | [Open file](rooms/windows%20forensics%201.txt) |
+| Windows Forensics 2 | [Room](https://tryhackme.com/room/windowsforensics2) | [Open file](rooms/windows%20forensics%202.txt) |
+| Windows Fundamentals 1 | [Room](https://tryhackme.com/room/windowsfundamentals1xbx) | [Open file](rooms/windows%20fundamentals%201.txt) |
+| Windows Fundamentals 2 | [Room](https://tryhackme.com/room/windowsfundamentals2x0x) | [Open file](rooms/windows%20fundamentals%202.txt) |
+| Windows Fundamentals 3 | [Room](https://tryhackme.com/room/windowsfundamentals3xzx) | [Open file](rooms/windows%20fundamentals%203.txt) |
+| Windows Incident Surface | [Room](https://tryhackme.com/room/winincidentsurface) | [Open file](rooms/windows%20incident%20surface.txt) |
+| Windows Internals | [Room](https://tryhackme.com/room/windowsinternals) | [Open file](rooms/windows%20internals.txt) |
+| Windows Local Persistence | [Room](https://tryhackme.com/room/windowslocalpersistence) | [Open file](rooms/windows%20local%20persistence.txt) |
+| Windows Logging for SOC | [Room](https://tryhackme.com/room/windowsloggingforsoc) | [Open file](rooms/windows%20logging%20for%20soc.txt) |
+| Windows Memory & Processes | [Room](https://tryhackme.com/room/windowsmemoryandprocs) | [Open file](rooms/windows%20memory%20%26%20processes.txt) |
+| Windows Memory & User Activity | [Room](https://tryhackme.com/room/windowsmemoryanduseractivity) | [Open file](rooms/windows%20memory%20and%20user%20activity.txt) |
+| Windows Network Analysis | [Room](https://tryhackme.com/room/windowsnetworkanalysis) | [Open file](rooms/windows%20network%20analysis.txt) |
+| Windows PowerShell | [Room](https://tryhackme.com/room/windowspowershell) | [Open file](rooms/windows%20powershell.txt) |
+| Windows PrivEsc | [Room](https://tryhackme.com/room/windows10privesc) | [Open file](rooms/windows%20privesc.txt) |
+| Windows PrivEsc Arena | [Room](https://tryhackme.com/room/windowsprivescarena) | [Open file](rooms/windows%20privesc%20arena.txt) |
+| Windows Privilege Escalation | [Room](https://tryhackme.com/room/windowsprivesc20) | [Open file](rooms/windows%20privilege%20escalation.txt) |
+| Windows Reversing Intro | [Room](https://tryhackme.com/room/windowsreversingintro) | [Open file](rooms/windows%20reversing%20intro.txt) |
+| Windows Threat Detection 1 | [Room](https://tryhackme.com/room/windowsthreatdetection1) | [Open file](rooms/windows%20threat%20detection%201.txt) |
+| Windows Threat Detection 2 | [Room](https://tryhackme.com/room/windowsthreatdetection2) | [Open file](rooms/windows%20threat%20detection%202.txt) |
+| Windows Threat Detection 3 | [Room](https://tryhackme.com/room/windowsthreatdetection3) | [Open file](rooms/windows%20threat%20detection%203.txt) |
+| Windows User Account Forensics | [Room](https://tryhackme.com/room/windowsuseraccountforensics) | [Open file](rooms/windows%20user%20account%20forensics.txt) |
+| Windows User Activity Analysis | [Room](https://tryhackme.com/room/windowsuseractivity) | [Open file](rooms/windows%20user%20activity%20analysis.txt) |
+| Windows x64 Assembly | [Room](https://tryhackme.com/room/win64assembly) | [Open file](rooms/windows%20x64%20assembly.txt) |
+| Wireless Security | [Room](https://tryhackme.com/room/wirelesssecurity) | [Open file](rooms/wireless%20security.txt) |
+| Wireshark 101 | [Room](https://tryhackme.com/room/wireshark) | [Open file](rooms/wireshark%20101.txt) |
+| Wireshark: Packet Operations | [Room](https://tryhackme.com/room/wiresharkpacketoperations) | [Open file](rooms/wireshark%20packet%20operations.txt) |
+| Wireshark: The Basics | [Room](https://tryhackme.com/room/wiresharkthebasics) | [Open file](rooms/wireshark%20the%20basics.txt) |
+| Wireshark: Traffic Analysis | [Room](https://tryhackme.com/room/wiresharktrafficanalysis) | [Open file](rooms/wireshark%20traffic%20analysis.txt) |
+| Wonderland | [Room](https://tryhackme.com/room/wonderland) | [Open file](rooms/wonderland.txt) |
+| Wordpress: CVE-2021-29447 | [Room](https://tryhackme.com/room/wordpresscve202129447) | [Open file](rooms/wordpress%20cve-2021-29447.txt) |
+| Wreath | [Room](https://tryhackme.com/room/wreath) | [Open file](rooms/wreath.txt) |
+| Writing Pentest Reports | [Room](https://tryhackme.com/room/writingpentestreports) | [Open file](rooms/writing%20pentest%20reports.txt) |
+| WWBuddy | [Room](https://tryhackme.com/room/wwbuddy) | [Open file](rooms/wwbuddy.txt) |
+| x86 Architecture Overview | [Room](https://tryhackme.com/room/x8664arch) | [Open file](rooms/x86%20architecture%20overview.txt) |
+| x86 Assembly Crash Course | [Room](https://tryhackme.com/room/x86assemblycrashcourse) | [Open file](rooms/x86%20assembly%20crash%20course.txt) |
+| XDR: Introduction | [Room](https://tryhackme.com/room/xdrintroduction) | [Open file](rooms/xdr%20introduction.txt) |
+| XDR: Operation Global Dagger | [Room](https://tryhackme.com/room/xdroperationglobaldagger) | [Open file](rooms/xdr%20operation%20global%20dagger.txt) |
+| XSS | [Room](https://tryhackme.com/room/axss) | [Open file](rooms/xss.txt) |
+| XSS Introduction | [Room](https://tryhackme.com/room/xssintroduction) | [Open file](rooms/xss%20introduction.txt) |
+| XXE Injection | [Room](https://tryhackme.com/room/xxeinjection) | [Open file](rooms/xxe%20injection.txt) |
+| Yara | [Room](https://tryhackme.com/room/yara) | [Open file](rooms/yara.txt) |
+| Year of the Dog | [Room](https://tryhackme.com/room/yearofthedog) | [Open file](rooms/year%20of%20the%20dog.txt) |
+| Year of the Fox | [Room](https://tryhackme.com/room/yotf) | [Open file](rooms/year%20of%20the%20fox.txt) |
+| Year of the Jellyfish | [Room](https://tryhackme.com/room/yearofthejellyfish) | [Open file](rooms/year%20of%20the%20jellyfish.txt) |
+| Year of the Owl | [Room](https://tryhackme.com/room/yearoftheowl) | [Open file](rooms/year%20of%20the%20owl.txt) |
+| Year of the Pig | [Room](https://tryhackme.com/room/yearofthepig) | [Open file](rooms/year%20of%20the%20pig.txt) |
+| Year of the Rabbit | [Room](https://tryhackme.com/room/yearoftherabbit) | [Open file](rooms/year%20of%20the%20rabbit.txt) |
+| You Got Mail | [Room](https://tryhackme.com/room/yougotmail) | [Open file](rooms/you%20got%20mail.txt) |
+| You're in a cave | [Room](https://tryhackme.com/room/inacave) | [Open file](rooms/youre%20in%20a%20cave.txt) |
+| Zeek | [Room](https://tryhackme.com/room/zeekbro) | [Open file](rooms/zeek.txt) |
+| Zeek Exercises | [Room](https://tryhackme.com/room/zeekbroexercises) | [Open file](rooms/zeek%20exercises.txt) |
+| Zeno | [Room](https://tryhackme.com/room/zeno) | [Open file](rooms/zeno.txt) |
+| Zero Logon | [Room](https://tryhackme.com/room/zer0logon) | [Open file](rooms/zero%20logon.txt) |

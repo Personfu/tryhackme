@@ -1,0 +1,8 @@
+BankGPT
+https://tryhackme.com/room/bankgpt
+
+Task 1.1 — Hidden bank assistant key
+THM{support_api_key_123}
+
+Source: https://medium.com/@abhisheksibi606/breaking-bankgpt-a-practical-prompt-injection-walkthrough-tryhackme-e39cfa33cf28
+Source: https://classroom.anir0y.in/post/thm-room-bankgpt/

@@ -1,0 +1,35 @@
+Invite Only
+https://tryhackme.com/room/invite-only
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Invite%20Only
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+syshelpers.exe
+
+Q2
+Win32 EXE
+
+Q3
+361GJX7J,installer.exe
+
+Q4
+Aclient.exe
+
+Q5
+searchhost.exe,syshelpers.exe,nat.vbs,runsys.vbs
+
+Q6
+asyncrat
+
+Q7
+From Trust to Threat: Hijacked Discord Invites Used for Multi-Stage Malware Delivery
+
+Q8
+ChromeKatz
+
+Q9
+ClickFix
+
+Q10
+Discord

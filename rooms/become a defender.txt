@@ -1,0 +1,20 @@
+Become a Defender
+https://tryhackme.com/room/becomeadefender
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Become%20a%20Defender
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+Prevention
+
+Q2
+Analysis
+
+Q3
+THM{mapping_infrastructure!}
+
+Q4
+Risk Prioritization
+
+Q5
+THM{defensive_techniques!}

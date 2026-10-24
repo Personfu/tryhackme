@@ -1,0 +1,53 @@
+Windows Threat Detection 2
+https://tryhackme.com/room/windowsthreatdetection2
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Windows%20Threat%20Detection%202
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+Administrators
+
+Q2
+C:\Windows\System32\net.exe
+
+Q3
+whoami
+
+Q4
+cmd /c "tasklist /v | findstr MsSense.exe || echo No MS Defender EDR"
+
+Q5
+exfil.beecz.cafe
+
+Q6
+nsAghv51BBav90!
+
+Q7
+thm-access-database.key
+
+Q8
+thm-network-diagram-2025.pdf
+
+Q9
+staging_58f1
+
+Q10
+docx, pdf, xlsx
+
+Q11
+Get-ClipBoard
+
+Q12
+collecteddata-storage-2025.s3.amazonaws.com
+
+Q13
+THM{just_use_web_browser}
+
+Q14
+THM{curl_is_cool}
+
+Q15
+THM{abusing_certutil}
+
+Q16
+THM{power_of_powershell}

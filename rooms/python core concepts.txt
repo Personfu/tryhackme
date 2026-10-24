@@ -1,0 +1,50 @@
+Python: Core Concepts
+https://tryhackme.com/room/pythoncoreconcepts
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Python%3A%20Core%20Concepts
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+type()
+
+Q2
+str
+
+Q3
+Scan complete: 192.168.1.1 has 3 open ports
+
+Q4
+len()
+
+Q5
+Hack
+
+Q6
+.lower()
+
+Q7
+.append()
+
+Q8
+HTTP
+
+Q9
+.get()
+
+Q10
+%
+
+Q11
+3
+
+Q12
+1024
+
+Q13
+for
+
+Q14
+0, 1, 2
+
+Q15
+break

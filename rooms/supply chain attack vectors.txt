@@ -1,0 +1,50 @@
+Supply Chain Attack Vectors
+https://tryhackme.com/room/supplychain-attack-vectors
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Supply%20Chain%20Attack%20Vectors
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+__reduce__
+
+Q2
+os
+
+Q3
+architecture-level attacks
+
+Q4
+Lambda
+
+Q5
+pickletools
+
+Q6
+attacker.com
+
+Q7
+REDUCE
+
+Q8
+dependency confusion
+
+Q9
+typosquatting
+
+Q10
+repository manipulation
+
+Q11
+dependency confusion
+
+Q12
+silent model update
+
+Q13
+prompt template
+
+Q14
+development team
+
+Q15
+CommunityReview

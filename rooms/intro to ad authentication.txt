@@ -1,0 +1,51 @@
+Intro to AD Authentication
+https://tryhackme.com/room/introtoactivedirectoryauthentication
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Intro%20to%20AD%20Authentication
+Room link evidence: https://github.com/Cajac/TryHackMe-Writeups/blob/main/Networks/Medium/Intro_to_AD_Authentication.md
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+Authentication
+
+Q2
+Authorisation
+
+Q3
+Service
+
+Q4
+Challenge
+
+Q5
+THM{5cbcc61a-3178-4220-88b4-367c1bbb48e7}
+
+Q6
+Ticket Granting Ticket
+
+Q7
+krbtgt
+
+Q8
+KRB5CCNAME
+
+Q9
+THM{0d3f818a-427a-425c-a451-55e43b83e876}
+
+Q10
+THM{0eef8df3-c8ea-41ad-acd7-ae0479b2badf}
+
+Q11
+THM{284c6735-b7c1-4221-b072-abf30a54eeda}
+
+Q12
+THM{5b57e69d-7089-4282-ba04-c72de9bfdb38}
+
+Q13
+THM{eac75729-86ea-4bab-98de-1c5ce3552f67}
+
+Q14
+4768
+
+Q15
+NTLM

@@ -1,0 +1,20 @@
+Shock and Silence
+https://tryhackme.com/room/shockandsilence
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Shock%20and%20Silence
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+https://store5.gofile.io/download/web/e23cb33f-0e4d-4a5f-8c55-ea2d78057d40/HiddenFile.zip
+
+Q2
+pb.exe
+
+Q3
+HpAgent.exe
+
+Q4
+EeUfy
+
+Q5
+BlackLock

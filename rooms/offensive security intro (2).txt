@@ -1,0 +1,18 @@
+Offensive Security Intro
+https://tryhackme.com/room/offensivesecurityintrokK
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Offensive%20Security%20Intro%20%282%29
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+Offensive Security
+
+Q2
+8881
+
+Q3
+http://fakebank.thm/bank-transfer
+
+Q4
+BANK-HACKED
+

@@ -1,0 +1,38 @@
+Detecting Web Attacks
+https://tryhackme.com/room/detectingwebattacks
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Detecting%20Web%20Attacks
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+Client-Side
+
+Q2
+XSS
+
+Q3
+Server-Side
+
+Q4
+SQLi
+
+Q5
+FFUF v2.1.0
+
+Q6
+/login.php
+
+Q7
+%' OR '1'='1
+
+Q8
+astrongpassword123
+
+Q9
+THM{dumped_the_db}
+
+Q10
+Web Requests
+
+Q11
+IF User-Agent CONTAINS "BotTHM" THEN block

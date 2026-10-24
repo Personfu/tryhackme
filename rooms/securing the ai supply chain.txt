@@ -1,0 +1,50 @@
+Securing the AI Supply Chain
+https://tryhackme.com/room/securing-the-ai-supplychain
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Securing%20the%20AI%20Supply%20Chain
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+SafeTensors
+
+Q2
+weights_only=True
+
+Q3
+Quarantine
+
+Q4
+model_review_v2.pkl
+
+Q5
+int
+
+Q6
+Fickling
+
+Q7
+CRITICAL
+
+Q8
+5
+
+Q9
+manipulate_output
+
+Q10
+Version Pinning
+
+Q11
+pip-audit
+
+Q12
+CycloneDX
+
+Q13
+Behavioural Baseline
+
+Q14
+System Prompts
+
+Q15
+TryTrainML

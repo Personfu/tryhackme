@@ -1,0 +1,48 @@
+Linux Privilege Escalation: Basics
+https://tryhackme.com/room/linprivbasics
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Linux%20Privilege%20Escalation%3A%20Basics
+Room link evidence: https://www.linkedin.com/posts/tryhackme_tryhackme-weekly-walkthrough-drop-activity-7465383088500613120-rwgV
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+/usr/bin/nano
+
+Q2
+THM{SUDO-pwned-priv-esc}
+
+Q3
+/usr/bin/vim.basic
+
+Q4
+THM{root-by-SUID-vulns}
+
+Q5
+/opt/path/mywhoami
+
+Q6
+whoami
+
+Q7
+THM{PATH-and-SUID-leadtoroot}
+
+Q8
+6
+
+Q9
+/usr/bin/python3.12
+
+Q10
+THM{caps_getting_r00T}
+
+Q11
+/etc/cron.d/cleanup
+
+Q12
+THM{g0t-r00t-from-cr0n}
+
+Q13
+/opt/nfs
+
+Q14
+THM{exports-r00T-nfs}

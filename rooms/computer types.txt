@@ -1,0 +1,20 @@
+Computer Types
+https://tryhackme.com/room/computertypes
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Computer%20Types
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+server
+
+Q2
+workstation
+
+Q3
+smartphone
+
+Q4
+embedded computer
+
+Q5
+THM{8_computer_types}

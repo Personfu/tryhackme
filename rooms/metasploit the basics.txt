@@ -1,0 +1,51 @@
+Metasploit: The Basics
+https://tryhackme.com/room/metasploitthebasics
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Metasploit%3A%20The%20Basics
+Room link evidence: https://medium.com/@lawvye/metasploit-the-basics-thm-tryhackme-walkthrough-eadb60ae1061
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+Exploit
+
+Q2
+Payload
+
+Q3
+Singles
+
+Q4
+/
+
+Q5
+search type:exploit apache
+
+Q6
+info 3
+
+Q7
+back
+
+Q8
+set LPORT 6666
+
+Q9
+setg RHOSTS 10.10.19.23
+
+Q10
+unset PAYLOAD
+
+Q11
+exploit
+
+Q12
+-z
+
+Q13
+background
+
+Q14
+-i
+
+Q15
+sessions -k 2

@@ -1,0 +1,23 @@
+Initial Access Pot
+https://tryhackme.com/room/initialaccesspot
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Initial%20Access%20Pot
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+/wp-login.php
+
+Q2
+/var/www/html/wordpress/wp-content/themes/blocksy/404.php
+
+Q3
+/etc/ssh/id_ed25519.bak
+
+Q4
+172.16.8.216
+
+Q5
+d6f2d80e78f264aff8c7aea21acb6ca6
+
+Q6
+THM{acc3ss_gr4nt3d!}

@@ -1,0 +1,33 @@
+LLM Security
+https://tryhackme.com/room/llmsecurity
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/LLM%20Security
+Room link evidence: https://medium.com/@lawvye/llm-security-thm-tryhackme-walkthrough-and-answer-c18034f335db
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+MI_SAMPLE_ALPHA
+
+Q2
+Membership inference
+
+Q3
+Training data extraction
+
+Q4
+7814
+
+Q5
+Model inversion
+
+Q6
+THM{MEMORY_POISONED}
+
+Q7
+The Context Window
+
+Q8
+robbco-llm-audit
+
+Q9
+Phishing

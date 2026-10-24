@@ -1,0 +1,12 @@
+Contrabando
+https://tryhackme.com/room/contrabando
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Contrabando
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+THM{Th3_BeST_SmuGGl3R_In_Da_GalaXy}
+
+Q2
+THM{All_AbouT_PassW0rds}
+

@@ -1,0 +1,20 @@
+Checkmate
+https://tryhackme.com/room/checkmate
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Checkmate
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+12345
+
+Q2
+excellence
+
+Q3
+Bianchi2495
+
+Q4
+family
+
+Q5
+Security2024!

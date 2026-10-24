@@ -1,0 +1,41 @@
+Prompt Defence
+https://tryhackme.com/room/promptdefence
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Prompt%20Defence
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+Defence-in-depth
+
+Q2
+System
+
+Q3
+Sensitive data
+
+Q4
+Tight Scoping
+
+Q5
+Persona Restriction
+
+Q6
+Blocklist
+
+Q7
+Input guardrail
+
+Q8
+Llama Prompt Guard 2
+
+Q9
+Principle of least privilege
+
+Q10
+LLM05:2025
+
+Q11
+XSS
+
+Q12
+THM{fbu349b3u4b934byr93b}

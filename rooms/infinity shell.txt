@@ -1,0 +1,7 @@
+Infinity Shell
+https://tryhackme.com/room/hfb1infinityshell
+
+Q: Web-shell challenge flag?
+A: THM{sup3r_34sy_w3bsh3ll}
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Infinity%20Shell

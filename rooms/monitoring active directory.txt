@@ -1,0 +1,44 @@
+Monitoring Active Directory
+https://tryhackme.com/room/monitoringactivedirectory
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Monitoring%20Active%20Directory
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+NTDS.dit
+
+Q2
+Nay
+
+Q3
+4768
+
+Q4
+14
+
+Q5
+Group_Name
+
+Q6
+3
+
+Q7
+$
+
+Q8
+THM-DC$
+
+Q9
+auditpol /get /category:*
+
+Q10
+nathan.brooks
+
+Q11
+adm-luke.sullivan
+
+Q12
+Marketing
+
+Q13
+10.5.50.12

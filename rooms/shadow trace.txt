@@ -1,0 +1,32 @@
+Shadow Trace
+https://tryhackme.com/room/shadowtrace
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Shadow%20Trace
+Answers in the source's question order; room revisions may change numbering.
+
+Q1
+64-bit
+
+Q2
+b2a88de3e3bcfae4a4b38fa36e884c586b5cb2c2c283e71fba59efdb9ea64bfc
+
+Q3
+http://tryhatme.com/update/security-update.exe
+
+Q4
+responses.tryhatme.com
+
+Q5
+THM{you_g0t_some_IOCs_friend}
+
+Q6
+WS2_32.dll
+
+Q7
+https://tryhatme.com/dev/main.exe
+
+Q8
+https://reallysecureupdate.tryhatme.com/update.exe
+
+Q9
+test.txt

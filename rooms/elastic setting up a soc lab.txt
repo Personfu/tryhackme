@@ -1,0 +1,48 @@
+Elastic: Setting up a SOC Lab
+https://tryhackme.com/room/elasticlab
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Elastic%3A%20Setting%20up%20a%20SOC%20Lab
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+Kibana
+
+Q2
+Fleet Server
+
+Q3
+5601
+
+Q4
+Analytics
+
+Q5
+System
+
+Q6
+system.auth
+
+Q7
+user testuser added by root to group sudo
+
+Q8
+apache.access
+
+Q9
+THM{access_log_secrets!}
+
+Q10
+s.summer
+
+Q11
+72.14.24.1
+
+Q12
+62.5%
+
+Q13
+us-west-1
+
+Q14
+10.10.10.116
+

@@ -1,0 +1,45 @@
+Securing AI Systems
+https://tryhackme.com/room/securingaisystems
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Securing%20AI%20Systems
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+Prompt Construction
+
+Q2
+LLM-to-tools
+
+Q3
+LLM05
+
+Q4
+ATLAS
+
+Q5
+LLM09
+
+Q6
+Excessive Functionality, Excessive Permissions, Excessive Autonomy
+
+Q7
+LLM07
+
+Q8
+LLM10
+
+Q9
+Least Privilege
+
+Q10
+MLSecOps
+
+Q11
+Merge Pull Requests
+
+Q12
+db_admin
+
+Q13
+PII Filtering
+

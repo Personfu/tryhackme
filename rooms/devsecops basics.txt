@@ -1,0 +1,63 @@
+DevSecOps Basics
+https://tryhackme.com/room/devsecopsbasics
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/DevSecOps%20Basics
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+agile
+
+Q2
+DevOps
+
+Q3
+waterfall
+
+Q4
+building trust
+
+Q5
+CI/CD
+
+Q6
+Monitoring
+
+Q7
+IaC
+
+Q8
+shift left
+
+Q9
+DevSecOps
+
+Q10
+Security Silos
+
+Q11
+Lack of visibility
+
+Q12
+Stringent Processes
+
+Q13
+promote autonomy of teams
+
+Q14
+Visibility and Transparency
+
+Q15
+Understanding and Empathy
+
+Q16
+Waterfall
+
+Q17
+Agile
+
+Q18
+DevOps
+
+Q19
+THM{ONE_TWO_THREE}
+
