@@ -1,0 +1,50 @@
+The Blue Team Perspective
+https://tryhackme.com/room/theblueteamperspective
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/The%20Blue%20Team%20Perspective
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+Alert fatigue
+
+Q2
+MTTD
+
+Q3
+sourcetype
+
+Q4
+22
+
+Q5
+August 2016
+
+Q6
+40.80.148.42
+
+Q7
+40.80.148.42
+
+Q8
+Preparation
+
+Q9
+Detection and Analysis
+
+Q10
+Sub-techniques
+
+Q11
+TTPs
+
+Q12
+T1059
+
+Q13
+40.80.148.42
+
+Q14
+/joomla/index.php/component/search/
+
+Q15
+THM{Blue-T34M-Perspective}

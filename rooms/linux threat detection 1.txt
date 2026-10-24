@@ -1,0 +1,40 @@
+Linux Threat Detection 1
+https://tryhackme.com/room/linuxthreatdetection1
+
+Q: First SSH login by ubuntu?
+A: 2024-10-22
+
+Q: SSH keys used on that login?
+A: Yea
+
+Q: SSH password attack start date?
+A: 2025-08-21
+
+Q: Four usernames targeted by the botnet?
+A: root, roy, sol, user
+
+Q: IP that breached root?
+A: 91.224.92.79
+
+Q: Python file the attacker tried to access?
+A: /opt/trypingme/main.py
+
+Q: Flag in that Python file?
+A: THM{i_am_vulnerable!}
+
+Q: Parent process ID of the suspicious whoami command?
+A: 1018
+
+Q: TryPingMe application process ID?
+A: 577
+
+Q: Reverse-shell program?
+A: python
+
+Q: Initial access technique suggested by a compromised trusted app?
+A: Supply Chain Compromise
+
+Q: Detection approach for multiple initial access techniques?
+A: Process Tree Analysis
+
+Source: https://simontaplin.net/2025/09/29/answers-for-the-tryhackme-linux-threat-detection-1-room/

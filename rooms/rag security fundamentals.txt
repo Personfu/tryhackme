@@ -1,0 +1,32 @@
+RAG Security Fundamentals
+https://tryhackme.com/room/ragsecurityfundamentals
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/RAG%20Security%20Fundamentals
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+Embeddings
+
+Q2
+Retriever
+
+Q3
+Retrieval
+
+Q4
+Context
+
+Q5
+Active Manipulation
+
+Q6
+Semantic Relevance
+
+Q7
+Retrieval Pipeline
+
+Q8
+Behavioural
+
+Q9
+Gradual Influence

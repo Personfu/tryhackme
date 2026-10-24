@@ -10,7 +10,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/FLLC-TryHackMe-00FFFF?style=for-the-badge&labelColor=0D0D2B"/>
-<img src="https://img.shields.io/badge/Rooms-1120-FF00FF?style=for-the-badge&labelColor=0D0D2B"/>
+<img src="https://img.shields.io/badge/Rooms-1231-FF00FF?style=for-the-badge&labelColor=0D0D2B"/>
 <img src="https://img.shields.io/badge/Cheatsheets-10-7B2FBE?style=for-the-badge&labelColor=0D0D2B"/>
 <img src="https://img.shields.io/badge/AI_Red_Team-2026-00FFFF?style=for-the-badge&labelColor=0D0D2B"/>
 </p>
@@ -45,7 +45,7 @@
 
 <img src="./picture.jpg" alt="TryHackMe" width="200" height="200">
 
-**1120 room files** are listed below. [Research links for 68 additional rooms](ROOM_RESEARCH.md) are tracked separately.
+**1231 room files** are listed below. [Research links for 37 additional rooms](ROOM_RESEARCH.md) are tracked separately.
 
 New answer keys cite their public writeups. Room revisions may change answer order or validity.
 One older room file is empty. Its entry is marked accordingly.
@@ -66,6 +66,7 @@ One older room file is empty. Its entry is marked accordingly.
 | AD: BadSuccessor | [Room](https://tryhackme.com/room/adbadsuccessor) | [Open file](rooms/ad%20badsuccessor.txt) |
 | AD: Basic Enumeration | [Room](https://tryhackme.com/room/adbasicenumeration) | [Open file](rooms/ad%20basic%20enumeration.txt) |
 | Advanced ELK Queries | [Room](https://tryhackme.com/room/advancedelkqueries) | [Open file](rooms/advanced%20elk%20queries.txt) |
+| Advanced Packet Analysis | [Room](https://tryhackme.com/room/advancedpacketanalysis) | [Open file](rooms/advanced%20packet%20analysis.txt) |
 | Advanced SQL Injection | [Room](https://tryhackme.com/room/advancedsqlinjection) | [Open file](rooms/advanced%20sql%20injection.txt) |
 | Advanced Static Analysis | [Room](https://tryhackme.com/room/advancedstaticanalysis) | [Open file](rooms/advanced%20static%20analysis.txt) |
 | Advent of Cyber '23 Side Quest | [Room](https://tryhackme.com/room/adventofcyber23sidequest) | [Open file](rooms/advent%20of%20cyber%2023%20side%20quest.txt) |
@@ -80,7 +81,9 @@ One older room file is empty. Its entry is marked accordingly.
 | Adventure Time | [Room](https://tryhackme.com/room/adventuretime) | [Open file](rooms/adventure%20time.txt) |
 | Agent Sudo | [Room](https://tryhackme.com/room/agentsudoctf) | [Open file](rooms/agent%20sudo.txt) |
 | Agent T | [Room](https://tryhackme.com/room/agentt) | [Open file](rooms/agent%20t.txt) |
+| AI & Automation in Detection Engineering | [Room](https://tryhackme.com/room/aiautomationdetectioneng) | [Open file](rooms/ai%20%26%20automation%20in%20detection%20engineering.txt) |
 | AI Forensics | [Room](https://tryhackme.com/room/aiforensics) | [Open file](rooms/ai%20forensics.txt) |
+| AI Models & Data | [Room](https://tryhackme.com/room/aimodelsdata) | [Open file](rooms/ai%20models%20%26%20data.txt) |
 | AI System Reconnaissance | [Room](https://tryhackme.com/room/aisystemreconnaissance) | [Open file](rooms/ai%20system%20reconnaissance.txt) |
 | AI Threat Modelling | [Room](https://tryhackme.com/room/aithreatmodelling) | [Open file](rooms/ai%20threat%20modelling.txt) |
 | AI/ML Security Threats | [Room](https://tryhackme.com/room/aimlsecuritythreats) | [Open file](rooms/ai-ml%20security%20threats.txt) |
@@ -152,6 +155,7 @@ One older room file is empty. Its entry is marked accordingly.
 | Basic Malware RE | [Room](https://tryhackme.com/room/basicmalwarere) | [Open file](rooms/basic%20malware%20re.txt) |
 | Basic Pentesting | [Room](https://tryhackme.com/room/basicpentestingjt) | [Open file](rooms/basic%20pentesting.txt) |
 | Basic Static Analysis | [Room](https://tryhackme.com/room/staticanalysis1) | [Open file](rooms/basic%20static%20analysis.txt) |
+| Basic Vulnerability Identification Techniques | [Room](https://tryhackme.com/room/basicvulnerabilityidentificationtechniques) | [Open file](rooms/basic%20vulnerability%20identification%20techniques.txt) |
 | battery | [Room](https://tryhackme.com/room/battery) | [Open file](rooms/battery.txt) |
 | Bebop | [Room](https://tryhackme.com/room/bebop) | [Open file](rooms/bebop.txt) |
 | Become a Defender | [Room](https://tryhackme.com/room/becomeadefender) | [Open file](rooms/become%20a%20defender.txt) |
@@ -181,6 +185,7 @@ One older room file is empty. Its entry is marked accordingly.
 | Brainpan 1 | [Room](https://tryhackme.com/room/brainpan) | [Open file](rooms/brainpan%201.txt) |
 | Brains | [Room](https://tryhackme.com/room/brains) | [Open file](rooms/brains.txt) |
 | Brainstorm | [Room](https://tryhackme.com/room/brainstorm) | [Open file](rooms/brainstorm.txt) |
+| BreachBlocker Unlocker | [Room](https://tryhackme.com/room/sq4-aoc2025-32loz4zepk) | [Open file](rooms/breachblocker%20unlocker.txt) |
 | Breaching Active Directory | [Room](https://tryhackme.com/room/breachingad) | [Open file](rooms/breaching%20active%20directory.txt) |
 | Break it | [Room](https://tryhackme.com/room/breakit) | [Open file](rooms/break%20it.txt) |
 | Break Out The Cage | [Room](https://tryhackme.com/room/breakoutthecage1) | [Open file](rooms/break%20out%20the%20cage.txt) |
@@ -188,6 +193,7 @@ One older room file is empty. Its entry is marked accordingly.
 | Breaking RSA | [Room](https://tryhackme.com/room/breakrsa) | [Open file](rooms/breaking%20rsa.txt) |
 | Breakme | [Room](https://tryhackme.com/room/breakmenu) | [Open file](rooms/breakme.txt) |
 | Brim | [Room](https://tryhackme.com/room/brim) | [Open file](rooms/brim.txt) |
+| Broken Authentication | [Room](https://tryhackme.com/room/brokenauthentication) | [Open file](rooms/broken%20authentication.txt) |
 | broker | [Room](https://tryhackme.com/room/broker) | [Open file](rooms/broker.txt) |
 | Brooklyn Nine Nine | [Room](https://tryhackme.com/room/brooklynninenine) | [Open file](rooms/brooklyn%20nine%20nine.txt) |
 | Brute | [Room](https://tryhackme.com/room/ettubrute) | [Open file](rooms/brute.txt) |
@@ -207,6 +213,7 @@ One older room file is empty. Its entry is marked accordingly.
 | Bypass Really Simple Security | [Room](https://tryhackme.com/room/bypassreallysimplesecurity) | [Open file](rooms/bypass%20really%20simple%20security.txt) |
 | Bypassing UAC | [Room](https://tryhackme.com/room/bypassinguac) | [Open file](rooms/bypassing%20uac.txt) |
 | c4ptur3-th3-fl4g | [Room](https://tryhackme.com/room/c4ptur3th3fl4g) | [Open file](rooms/c4ptur3-th3-fl4g.txt) |
+| Cache Me Outside | [Room](https://tryhackme.com/room/cachemeoutside) | [Open file](rooms/cache%20me%20outside.txt) |
 | Cactus | [Room](https://tryhackme.com/room/cactus) | [Open file](rooms/cactus.txt) |
 | CALDERA | [Room](https://tryhackme.com/room/caldera) | [Open file](rooms/caldera.txt) |
 | CAPA: The Basics | [Room](https://tryhackme.com/room/capabasics) | [Open file](rooms/capa%20the%20basics.txt) |
@@ -215,12 +222,17 @@ One older room file is empty. Its entry is marked accordingly.
 | Careers in Cyber | [Room](https://tryhackme.com/room/careersincyber) | [Open file](rooms/careers%20in%20cyber.txt) |
 | Carnage | [Room](https://tryhackme.com/room/c2carnage) | [Open file](rooms/carnage.txt) |
 | Carpe Diem 1 | [Room](https://tryhackme.com/room/carpediem1) | [Open file](rooms/carpe%20diem%201.txt) |
+| Carrotbane of My Existence | [Room](https://tryhackme.com/room/sq3-aoc2025-bk3vvbcgit) | [Open file](rooms/carrotbane%20of%20my%20existence.txt) |
 | Cat Pictures | [Room](https://tryhackme.com/room/catpictures) | [Open file](rooms/cat%20pictures.txt) |
 | Cat Pictures 2 | [Room](https://tryhackme.com/room/catpictures2) | [Open file](rooms/cat%20pictures%202.txt) |
+| CC: Ghidra | [Room](https://tryhackme.com/room/ccghidra) | [Open file](rooms/cc%20ghidra.txt) |
+| CC: Radare2 | [Room](https://tryhackme.com/room/ccradare2) | [Open file](rooms/cc%20radare2.txt) |
+| CC: Steganography | [Room](https://tryhackme.com/room/ccstego) | [Open file](rooms/cc%20steganography.txt) |
 | CCT2019 | [Room](https://tryhackme.com/room/cct2019) | [Open file](rooms/cct2019.txt) |
 | CERTain Doom | [Room](https://tryhackme.com/room/certaindoom) | [Open file](rooms/certain%20doom.txt) |
 | Chaining Vulnerabilities | [Room](https://tryhackme.com/room/chainingvulnerabilitieszp) | [Open file](rooms/chaining%20vulnerabilities.txt) |
 | Checkmate | [Room](https://tryhackme.com/room/checkmate) | [Open file](rooms/checkmate.txt) |
+| Checkpoint | [Room](https://tryhackme.com/room/checkpoint) | [Open file](rooms/checkpoint.txt) |
 | Cheese CTF | [Room](https://tryhackme.com/room/cheesectfv10) | [Open file](rooms/cheese%20ctf.txt) |
 | CherryBlossom | [Room](https://tryhackme.com/room/cherryblossom) | [Open file](rooms/cherryblossom.txt) |
 | Chill Hack | [Room](https://tryhackme.com/room/chillhack) | [Open file](rooms/chill%20hack.txt) |
@@ -229,8 +241,10 @@ One older room file is empty. Its entry is marked accordingly.
 | Chronicle | [Room](https://tryhackme.com/room/chronicle) | [Open file](rooms/chronicle.txt) |
 | CI/CD and Build Security | [Room](https://tryhackme.com/room/cicdandbuildsecurity) | [Open file](rooms/cicd%20and%20build%20security.txt) |
 | Cicada-3301 Vol:1 | [Room](https://tryhackme.com/room/cicada3301vol1) | [Open file](rooms/cicada-3301%20vol1.txt) |
+| Cipher's Secret Message | [Room](https://tryhackme.com/room/hfb1cipherssecretmessage) | [Open file](rooms/ciphers%20secret%20message.txt) |
 | Classic Passwd | [Room](https://tryhackme.com/room/classicpasswd) | [Open file](rooms/classic%20passwd.txt) |
 | Clocky | [Room](https://tryhackme.com/room/clocky) | [Open file](rooms/clocky.txt) |
+| Cloud Security Fundamentals | [Room](https://tryhackme.com/room/cloudsecurityfundamentals) | [Open file](rooms/cloud%20security%20fundamentals.txt) |
 | Cloud Security Pitfalls | [Room](https://tryhackme.com/room/cloudsecuritypitfalls) | [Open file](rooms/cloud%20security%20pitfalls.txt) |
 | Cloud-based IaC | [Room](https://tryhackme.com/room/cloudbasediac) | [Open file](rooms/cloud-based%20iac.txt) |
 | Cluster Hardening | [Room](https://tryhackme.com/room/clusterhardening) | [Open file](rooms/cluster%20hardening.txt) |
@@ -250,6 +264,7 @@ One older room file is empty. Its entry is marked accordingly.
 | Container Hardening | [Room](https://tryhackme.com/room/containerhardening) | [Open file](rooms/container%20hardening.txt) |
 | Container Vulnerabilities | [Room](https://tryhackme.com/room/containervulnerabilitiesDG) | [Open file](rooms/container%20vulnerabilities.txt) |
 | ContainMe | [Room](https://tryhackme.com/room/containme1) | [Open file](rooms/containme.txt) |
+| ContAInment | [Room](https://tryhackme.com/room/containment) | [Open file](rooms/containment.txt) |
 | Content Discovery | [Room](https://tryhackme.com/room/contentdiscovery) | [Open file](rooms/content%20discovery.txt) |
 | Content Security Policy | [Room](https://tryhackme.com/room/csp) | [Open file](rooms/content%20security%20policy.txt) |
 | Conti | [Room](https://tryhackme.com/room/contiransomwarehgh) | [Open file](rooms/conti.txt) |
@@ -273,15 +288,19 @@ One older room file is empty. Its entry is marked accordingly.
 | Cryptography Basics | [Room](https://tryhackme.com/room/cryptographybasics) | [Open file](rooms/cryptography%20basics.txt) |
 | Cryptography Concepts | [Room](https://tryhackme.com/room/cryptographyconcepts) | [Open file](rooms/cryptography%20concepts.txt) |
 | Cryptography for Dummies | [Room](https://tryhackme.com/room/cryptographyfordummies) | [Open file](rooms/cryptography%20for%20dummies.txt) |
+| Cryptosystem | [Room](https://tryhackme.com/room/hfb1cryptosystem) | [Open file](rooms/cryptosystem.txt) |
 | CSRF | [Room](https://tryhackme.com/room/csrfV2) | [Open file](rooms/csrf.txt) |
+| CSRF Introduction | [Room](https://tryhackme.com/room/csrfintroduction) | [Open file](rooms/csrf%20introduction.txt) |
 | CTF collection Vol.1 | [Room](https://tryhackme.com/room/ctfcollectionvol1) | [Open file](rooms/ctf%20collection%20vol.1.txt) |
 | CTF collection Vol.2 | [Room](https://tryhackme.com/room/ctfcollectionvol2) | [Open file](rooms/ctf%20collection%20vol.2.txt) |
+| CTI for Alert Triage | [Room](https://tryhackme.com/room/ctiforalerttriage) | [Open file](rooms/cti%20for%20alert%20triage.txt) |
 | Custom Alert Rules in Wazuh | [Room](https://tryhackme.com/room/customalertrulesinwazuh) | [Open file](rooms/custom%20alert%20rules%20in%20wazuh.txt) |
 | Custom Tooling using Burp | [Room](https://tryhackme.com/room/customtoolingviaburp) | [Open file](rooms/custom%20tooling%20using%20burp.txt) |
 | Custom Tooling Using Python | [Room](https://tryhackme.com/room/customtoolingpython) | [Open file](rooms/custom%20tooling%20using%20python.txt) |
 | CVE-2021-41773/42013 | [Room](https://tryhackme.com/room/cve202141773) | [Open file](rooms/cve-2021-4177342013.txt) |
 | CVE-2022-26923 | [Room](https://tryhackme.com/room/cve202226923) | [Open file](rooms/cve-2022-26923.txt) |
 | CVE-2023-38408 | [Room](https://tryhackme.com/room/cve202338408) | [Open file](rooms/cve-2023-38408.txt) |
+| CVE-2026-43284: Dirty Frag | [Room](https://tryhackme.com/room/cve202643284) | [Open file](rooms/cve-2026-43284%20dirty%20frag.txt) |
 | Cyber Crisis Management | [Room](https://tryhackme.com/room/cybercrisismanagement) | [Open file](rooms/cyber%20crisis%20management.txt) |
 | Cyber Kill Chain (cyberkillchainzmt) | [Room](https://tryhackme.com/room/cyberkillchainzmt) | [Open file](rooms/cyber%20kill%20chain.txt) |
 | Cyber Kill Chain (cyberkillchain) | [Room](https://tryhackme.com/room/cyberkillchain) | [Open file](rooms/cyber%20kill%20chain%20%282%29.txt) |
@@ -292,10 +311,15 @@ One older room file is empty. Its entry is marked accordingly.
 | CyberLens | [Room](https://tryhackme.com/room/cyberlensp6) | [Open file](rooms/cyberlens.txt) |
 | Cyborg | [Room](https://tryhackme.com/room/cyborgt8) | [Open file](rooms/cyborg.txt) |
 | Daily Bugle | [Room](https://tryhackme.com/room/dailybugle) | [Open file](rooms/daily%20bugle.txt) |
+| DarkMatter | [Room](https://tryhackme.com/room/hfb1darkmatter) | [Open file](rooms/darkmatter.txt) |
 | DAST | [Room](https://tryhackme.com/room/dastzap) | [Open file](rooms/dast.txt) |
+| Data Encoding | [Room](https://tryhackme.com/room/dataencoding) | [Open file](rooms/data%20encoding.txt) |
 | Data Exfiltration | [Room](https://tryhackme.com/room/dataxexfilt) | [Open file](rooms/data%20exfiltration.txt) |
 | Data Exfiltration Detection | [Room](https://tryhackme.com/room/dataexfildetection) | [Open file](rooms/data%20exfiltration%20detection.txt) |
 | Data Integrity & Model Poisoning | [Room](https://tryhackme.com/room/modelpoisoning) | [Open file](rooms/data%20integrity%20%26%20model%20poisoning.txt) |
+| Data Poisoning in RAG Systems | [Room](https://tryhackme.com/room/datapoisoninginragsystems) | [Open file](rooms/data%20poisoning%20in%20rag%20systems.txt) |
+| Data Representation | [Room](https://tryhackme.com/room/datarepresentation) | [Open file](rooms/data%20representation.txt) |
+| Database SQL Basics | [Room](https://tryhackme.com/room/databasesqlbasics) | [Open file](rooms/database%20sql%20basics.txt) |
 | Dav | [Room](https://tryhackme.com/room/bsidesgtdav) | [Open file](rooms/dav.txt) |
 | Dave's Blog | [Room](https://tryhackme.com/room/davesblog) | [Open file](rooms/daves%20blog.txt) |
 | Dead End? | [Room](https://tryhackme.com/room/deadend) | [Open file](rooms/dead%20end.txt) |
@@ -304,6 +328,7 @@ One older room file is empty. Its entry is marked accordingly.
 | Decryptify | [Room](https://tryhackme.com/room/decryptify) | [Open file](rooms/decryptify.txt) |
 | Defensive Security Intro (defensivesecurityintro) | [Room](https://tryhackme.com/room/defensivesecurityintro) | [Open file](rooms/defensive%20security%20intro.txt) |
 | Defensive Security Intro (defensivesecurityintroqw) | [Room](https://tryhackme.com/room/defensivesecurityintroqw) | [Open file](rooms/defensive%20security%20intro%20%282%29.txt) |
+| Defensive Security Trends | [Room](https://tryhackme.com/room/defensivesecuritytrends) | [Open file](rooms/defensive%20security%20trends.txt) |
 | Deja Vu | [Room](https://tryhackme.com/room/dejavu) | [Open file](rooms/deja%20vu.txt) |
 | Dependency Management | [Room](https://tryhackme.com/room/dependencymanagement) | [Open file](rooms/dependency%20management.txt) |
 | Detecting AD Credential Attacks | [Room](https://tryhackme.com/room/detectingadcredentialattacks) | [Open file](rooms/detecting%20ad%20credential%20attacks.txt) |
@@ -314,6 +339,9 @@ One older room file is empty. Its entry is marked accordingly.
 | Detecting Web DDoS | [Room](https://tryhackme.com/room/detectingwebddos) | [Open file](rooms/detecting%20web%20ddos.txt) |
 | Detecting Web Shells | [Room](https://tryhackme.com/room/detectingwebshell) | [Open file](rooms/detecting%20web%20shells.txt) |
 | Detection and Analysis | [Room](https://tryhackme.com/room/detectionandanalysis) | [Open file](rooms/detection%20and%20analysis.txt) |
+| Detection Engineering With Snort | [Room](https://tryhackme.com/room/detectionengineeringwithsnort) | [Open file](rooms/detection%20engineering%20with%20snort.txt) |
+| Detection Rules Development | [Room](https://tryhackme.com/room/detectionrulesdevelopment) | [Open file](rooms/detection%20rules%20development.txt) |
+| DetectMare | [Room](https://tryhackme.com/room/detectmare) | [Open file](rooms/detectmare.txt) |
 | Dev Diaries | [Room](https://tryhackme.com/room/devdiaries) | [Open file](rooms/dev%20diaries.txt) |
 | Develpy | [Room](https://tryhackme.com/room/bsidesgtdevelpy) | [Open file](rooms/develpy.txt) |
 | Devie | [Room](https://tryhackme.com/room/devie) | [Open file](rooms/devie.txt) |
@@ -371,11 +399,15 @@ One older room file is empty. Its entry is marked accordingly.
 | Evading Logging and Monitoring | [Room](https://tryhackme.com/room/monitoringevasion) | [Open file](rooms/evading%20logging%20and%20monitoring.txt) |
 | Event Horizon | [Room](https://tryhackme.com/room/eventhorizonroom) | [Open file](rooms/event%20horizon.txt) |
 | Eviction | [Room](https://tryhackme.com/room/eviction) | [Open file](rooms/eviction.txt) |
+| Evil-GPT | [Room](https://tryhackme.com/room/hfb1evilgpt) | [Open file](rooms/evil-gpt.txt) |
+| Evil-GPT v2 | [Room](https://tryhackme.com/room/hfb1evilgptv2) | [Open file](rooms/evil-gpt%20v2.txt) |
 | Examinerx9 | [Room](https://tryhackme.com/room/Examinerctfx9) | [Open file](rooms/examinerx9.txt) |
+| Exchange Online Monitoring | [Room](https://tryhackme.com/room/exchangeonlinemonitoring) | [Open file](rooms/exchange%20online%20monitoring.txt) |
 | Exfilibur | [Room](https://tryhackme.com/room/exfilibur) | [Open file](rooms/exfilibur.txt) |
 | ExfilNode | [Room](https://tryhackme.com/room/exfilnode) | [Open file](rooms/exfilnode.txt) |
 | Expediting Registry Analysis | [Room](https://tryhackme.com/room/expregistryforensics) | [Open file](rooms/expediting%20registry%20analysis.txt) |
 | Exploit Vulnerabilities | [Room](https://tryhackme.com/room/exploitingavulnerabilityv2) | [Open file](rooms/exploit%20vulnerabilities.txt) |
+| Exploitation and Weaponisation | [Room](https://tryhackme.com/room/exploitationandweaponisation) | [Open file](rooms/exploitation%20and%20weaponisation.txt) |
 | Exploiting Active Directory | [Room](https://tryhackme.com/room/exploitingad) | [Open file](rooms/exploiting%20active%20directory.txt) |
 | Expose | [Room](https://tryhackme.com/room/expose) | [Open file](rooms/expose.txt) |
 | EXT Analysis | [Room](https://tryhackme.com/room/extanalysis) | [Open file](rooms/ext%20analysis.txt) |
@@ -449,14 +481,17 @@ One older room file is empty. Its entry is marked accordingly.
 | Hashing 101 | [Room](https://tryhackme.com/room/hashingcrypto101aa) | [Open file](rooms/hashing%20101.txt) |
 | Hashing Basics | [Room](https://tryhackme.com/room/hashingbasics) | [Open file](rooms/hashing%20basics.txt) |
 | HaskHell | [Room](https://tryhackme.com/room/haskhell) | [Open file](rooms/haskhell.txt) |
+| Have a Break | [Room](https://tryhackme.com/room/haveabreak) | [Open file](rooms/have%20a%20break.txt) |
 | hc0n Christmas CTF | [Room](https://tryhackme.com/room/hc0nchristmasctf) | [Open file](rooms/hc0n%20christmas%20ctf.txt) |
 | HealthGPT | [Room](https://tryhackme.com/room/healthgpt) | [Open file](rooms/healthgpt.txt) |
 | HeartBleed | [Room](https://tryhackme.com/room/heartbleed) | [Open file](rooms/heartbleed.txt) |
 | Heist | [Room](https://tryhackme.com/room/hfb1heist) | [Open file](rooms/heist.txt) |
+| Hide and Seek | [Room](https://tryhackme.com/room/hfb1hideandseek) | [Open file](rooms/hide%20and%20seek.txt) |
 | Hijack | [Room](https://tryhackme.com/room/hijack) | [Open file](rooms/hijack.txt) |
 | Hip Flask | [Room](https://tryhackme.com/room/hipflask) | [Open file](rooms/hip%20flask.txt) |
 | History of Malware | [Room](https://tryhackme.com/room/historyofmalware) | [Open file](rooms/history%20of%20malware.txt) |
 | Holo | [Room](https://tryhackme.com/room/hololive) | [Open file](rooms/holo.txt) |
+| Host-Server Configuration Reviews | [Room](https://tryhackme.com/room/hostserverconfigurationreviews) | [Open file](rooms/host-server%20configuration%20reviews.txt) |
 | Hosted Hypervisors | [Room](https://tryhackme.com/room/hostedhypervisors) | [Open file](rooms/hosted%20hypervisors.txt) |
 | How to use TryHackMe | [Room](https://tryhackme.com/room/howtousetryhackme) | [Open file](rooms/how%20to%20use%20tryhackme.txt) |
 | How Websites Work | [Room](https://tryhackme.com/room/howwebsiteswork) | [Open file](rooms/how%20websites%20work.txt) |
@@ -484,16 +519,21 @@ One older room file is empty. Its entry is marked accordingly.
 | Incident Response Process | [Room](https://tryhackme.com/room/incidentresponseprocess) | [Open file](rooms/incident%20response%20process.txt) |
 | Include | [Room](https://tryhackme.com/room/include) | [Open file](rooms/include.txt) |
 | Inferno | [Room](https://tryhackme.com/room/inferno) | [Open file](rooms/inferno.txt) |
+| Infinity Shell | [Room](https://tryhackme.com/room/hfb1infinityshell) | [Open file](rooms/infinity%20shell.txt) |
 | Initial Access Pot | [Room](https://tryhackme.com/room/initialaccesspot) | [Open file](rooms/initial%20access%20pot.txt) |
 | Injectics | [Room](https://tryhackme.com/room/injectics) | [Open file](rooms/injectics.txt) |
 | Input Manipulation & Prompt Injection | [Room](https://tryhackme.com/room/inputmanipulationpromptinjection) | [Open file](rooms/input%20manipulation%20%26%20prompt%20injection.txt) |
 | Insecure Deserialisation | [Room](https://tryhackme.com/room/insecuredeserialisation) | [Open file](rooms/insecure%20deserialisation.txt) |
 | Insecure Randomness | [Room](https://tryhackme.com/room/insecurerandomness) | [Open file](rooms/insecure%20randomness.txt) |
 | Insekube | [Room](https://tryhackme.com/room/insekube) | [Open file](rooms/insekube.txt) |
+| Inside a Computer System | [Room](https://tryhackme.com/room/insideacomputer) | [Open file](rooms/inside%20a%20computer%20system.txt) |
 | Intermediate Nmap | [Room](https://tryhackme.com/room/intermediatenmap) | [Open file](rooms/intermediate%20nmap.txt) |
 | Internal | [Room](https://tryhackme.com/room/internal) | [Open file](rooms/internal.txt) |
 | Intranet | [Room](https://tryhackme.com/room/securesolacodersintra) | [Open file](rooms/intranet.txt) |
 | Intro PoC Scripting | [Room](https://tryhackme.com/room/intropocscripting) | [Open file](rooms/intro%20poc%20scripting.txt) |
+| Intro to AD Authentication | [Room](https://tryhackme.com/room/introtoactivedirectoryauthentication) | [Open file](rooms/intro%20to%20ad%20authentication.txt) |
+| Intro to AD Breaching | [Room](https://tryhackme.com/room/introductiontoactivedirectorybreaching) | [Open file](rooms/intro%20to%20ad%20breaching.txt) |
+| Intro to AD Lateral Movement | [Room](https://tryhackme.com/room/introductiontoadlateralmovement) | [Open file](rooms/intro%20to%20ad%20lateral%20movement.txt) |
 | Intro to C2 | [Room](https://tryhackme.com/room/introtoc2) | [Open file](rooms/intro%20to%20c2.txt) |
 | Intro to Cloud Security | [Room](https://tryhackme.com/room/introductiontocloudsecurityc6) | [Open file](rooms/intro%20to%20cloud%20security.txt) |
 | Intro to Cold System Forensics | [Room](https://tryhackme.com/room/introtocoldsystemforensics) | [Open file](rooms/intro%20to%20cold%20system%20forensics.txt) |
@@ -530,6 +570,7 @@ One older room file is empty. Its entry is marked accordingly.
 | Introduction to OWASP ZAP | [Room](https://tryhackme.com/room/learnowaspzap) | [Open file](rooms/introduction%20to%20owasp%20zap.txt) |
 | Introduction to SIEM | [Room](https://tryhackme.com/room/introtosiem) | [Open file](rooms/introduction%20to%20siem.txt) |
 | Introduction to Windows API | [Room](https://tryhackme.com/room/windowsapi) | [Open file](rooms/introduction%20to%20windows%20api.txt) |
+| Introduction to Wordlists | [Room](https://tryhackme.com/room/introductiontowordlists) | [Open file](rooms/introduction%20to%20wordlists.txt) |
 | Introductory Networking | [Room](https://tryhackme.com/room/introtonetworking) | [Open file](rooms/introductory%20networking.txt) |
 | Introductory Researching | [Room](https://tryhackme.com/room/introtoresearch) | [Open file](rooms/introductory%20researching.txt) |
 | Intrusion Detection | [Room](https://tryhackme.com/room/idsevasion) | [Open file](rooms/intrusion%20detection.txt) |
@@ -554,6 +595,7 @@ One older room file is empty. Its entry is marked accordingly.
 | Jack | [Room](https://tryhackme.com/room/jack) | [Open file](rooms/jack.txt) |
 | Jack-of-All-Trades | [Room](https://tryhackme.com/room/jackofalltrades) | [Open file](rooms/jack-of-all-trades.txt) |
 | Jacob the Boss | [Room](https://tryhackme.com/room/jacobtheboss) | [Open file](rooms/jacob%20the%20boss.txt) |
+| Jailbreaking | [Room](https://tryhackme.com/room/jailbreaking) | [Open file](rooms/jailbreaking.txt) |
 | JavaScript Basics | [Room](https://tryhackme.com/room/javascriptbasics) | [Open file](rooms/javascript%20basics.txt) |
 | JavaScript Essentials | [Room](https://tryhackme.com/room/javascriptessentials) | [Open file](rooms/javascript%20essentials.txt) |
 | JavaScript: Simple Demo | [Room](https://tryhackme.com/room/javascriptsimpledemo) | [Open file](rooms/javascript%20simple%20demo.txt) |
@@ -617,11 +659,15 @@ One older room file is empty. Its entry is marked accordingly.
 | Linux PrivEsc | [Room](https://tryhackme.com/room/linuxprivesc) | [Open file](rooms/linux%20privesc.txt) |
 | Linux PrivEsc Arena | [Room](https://tryhackme.com/room/linuxprivescarena) | [Open file](rooms/linux%20privesc%20arena.txt) |
 | Linux Privilege Escalation | [Room](https://tryhackme.com/room/linprivesc) | [Open file](rooms/linux%20privilege%20escalation.txt) |
+| Linux Privilege Escalation: Automation | [Room](https://tryhackme.com/room/linprivautomation) | [Open file](rooms/linux%20privilege%20escalation%20automation.txt) |
+| Linux Privilege Escalation: Basics | [Room](https://tryhackme.com/room/linprivbasics) | [Open file](rooms/linux%20privilege%20escalation%20basics.txt) |
+| Linux Privilege Escalation: Enumeration | [Room](https://tryhackme.com/room/linprivenum) | [Open file](rooms/linux%20privilege%20escalation%20enumeration.txt) |
 | Linux Process Analysis | [Room](https://tryhackme.com/room/linuxprocessanalysis) | [Open file](rooms/linux%20process%20analysis.txt) |
 | Linux Server Forensics | [Room](https://tryhackme.com/room/linuxserverforensics) | [Open file](rooms/linux%20server%20forensics.txt) |
 | Linux Shells | [Room](https://tryhackme.com/room/linuxshells) | [Open file](rooms/linux%20shells.txt) |
 | Linux Strength Training | [Room](https://tryhackme.com/room/linuxstrengthtraining) | [Open file](rooms/linux%20strength%20training.txt) |
 | Linux System Hardening | [Room](https://tryhackme.com/room/linuxsystemhardening) | [Open file](rooms/linux%20system%20hardening.txt) |
+| Linux Threat Detection 1 | [Room](https://tryhackme.com/room/linuxthreatdetection1) | [Open file](rooms/linux%20threat%20detection%201.txt) |
 | Linux Threat Detection 2 | [Room](https://tryhackme.com/room/linuxthreatdetection2) | [Open file](rooms/linux%20threat%20detection%202.txt) |
 | Linux Threat Detection 3 | [Room](https://tryhackme.com/room/linuxthreatdetection3) | [Open file](rooms/linux%20threat%20detection%203.txt) |
 | Linux: Local Enumeration | [Room](https://tryhackme.com/room/lle) | [Open file](rooms/linux%20local%20enumeration.txt) |
@@ -629,6 +675,7 @@ One older room file is empty. Its entry is marked accordingly.
 | Living Off the Land Attacks | [Room](https://tryhackme.com/room/livingoffthelandattacks) | [Open file](rooms/living%20off%20the%20land%20attacks.txt) |
 | LLM Output Handling and Privacy Risks | [Room](https://tryhackme.com/room/outputhandlingandprivacyrisks) | [Open file](rooms/llm%20output%20handling%20and%20privacy%20risks.txt) |
 | LLM Pentesting | [Room](https://tryhackme.com/room/llmpentesting) | [Open file](rooms/llm%20pentesting.txt) |
+| LLM Security | [Room](https://tryhackme.com/room/llmsecurity) | [Open file](rooms/llm%20security.txt) |
 | Lo-Fi | [Room](https://tryhackme.com/room/lofi) | [Open file](rooms/lo-fi.txt) |
 | LocalPotato | [Room](https://tryhackme.com/room/localpotato) | [Open file](rooms/localpotato.txt) |
 | Lockdown | [Room](https://tryhackme.com/room/lockdown) | [Open file](rooms/lockdown.txt) |
@@ -663,6 +710,7 @@ One older room file is empty. Its entry is marked accordingly.
 | MalDoc: Static Analysis | [Room](https://tryhackme.com/room/maldoc) | [Open file](rooms/maldoc%20static%20analysis.txt) |
 | Malware Classification | [Room](https://tryhackme.com/room/malwareclassification) | [Open file](rooms/malware%20classification.txt) |
 | Man-in-the-Middle Detection | [Room](https://tryhackme.com/room/mitmdetection) | [Open file](rooms/man-in-the-middle%20detection.txt) |
+| Masquerade | [Room](https://tryhackme.com/room/masquerade) | [Open file](rooms/masquerade.txt) |
 | Masterminds | [Room](https://tryhackme.com/room/mastermindsxlq) | [Open file](rooms/masterminds.txt) |
 | Mayhem | [Room](https://tryhackme.com/room/mayhemroom) | [Open file](rooms/mayhem.txt) |
 | MBR and GPT Analysis | [Room](https://tryhackme.com/room/mbrandgptanalysis) | [Open file](rooms/mbr%20and%20gpt%20analysis.txt) |
@@ -674,7 +722,12 @@ One older room file is empty. Its entry is marked accordingly.
 | Metasploit Introduction | [Room](https://tryhackme.com/room/metasploitintro) | [Open file](rooms/metasploit%20introduction.txt) |
 | Metasploit: Exploitation | [Room](https://tryhackme.com/room/metasploitexploitation) | [Open file](rooms/metasploit%20exploitation.txt) |
 | Metasploit: Meterpreter | [Room](https://tryhackme.com/room/meterpreter) | [Open file](rooms/metasploit%20meterpreter.txt) |
+| Metasploit: Payload Generation | [Room](https://tryhackme.com/room/metasploitpayloadgeneration) | [Open file](rooms/metasploit%20payload%20generation.txt) |
+| Metasploit: Post-Exploitation | [Room](https://tryhackme.com/room/metasploitpostexploitation) | [Open file](rooms/metasploit%20post-exploitation.txt) |
+| Metasploit: Scanning and Exploitation | [Room](https://tryhackme.com/room/metasploitscanningandexploitation) | [Open file](rooms/metasploit%20scanning%20and%20exploitation.txt) |
+| Metasploit: The Basics | [Room](https://tryhackme.com/room/metasploitthebasics) | [Open file](rooms/metasploit%20the%20basics.txt) |
 | Microservices Architectures | [Room](https://tryhackme.com/room/microservicearchitectures) | [Open file](rooms/microservices%20architectures.txt) |
+| Microsoft Intune Monitoring | [Room](https://tryhackme.com/room/msintunemonitoring) | [Open file](rooms/microsoft%20intune%20monitoring.txt) |
 | Microsoft Windows Hardening | [Room](https://tryhackme.com/room/microsoftwindowshardening) | [Open file](rooms/microsoft%20windows%20hardening.txt) |
 | Mindgames | [Room](https://tryhackme.com/room/mindgames) | [Open file](rooms/mindgames.txt) |
 | Minotaur's Labyrinth | [Room](https://tryhackme.com/room/labyrinth8llv) | [Open file](rooms/minotaurs%20labyrinth.txt) |
@@ -685,11 +738,15 @@ One older room file is empty. Its entry is marked accordingly.
 | mKingdom | [Room](https://tryhackme.com/room/mkingdom) | [Open file](rooms/mkingdom.txt) |
 | Mnemonic | [Room](https://tryhackme.com/room/mnemonic) | [Open file](rooms/mnemonic.txt) |
 | Mobile Acquisition | [Room](https://tryhackme.com/room/mobileacquisition) | [Open file](rooms/mobile%20acquisition.txt) |
+| Mobile Application Security | [Room](https://tryhackme.com/room/mobilesecurity) | [Open file](rooms/mobile%20application%20security.txt) |
 | Mobile Malware Analysis | [Room](https://tryhackme.com/room/mma) | [Open file](rooms/mobile%20malware%20analysis.txt) |
+| Modern Web Stacks | [Room](https://tryhackme.com/room/modernwebstacks) | [Open file](rooms/modern%20web%20stacks.txt) |
 | Moebius | [Room](https://tryhackme.com/room/moebius) | [Open file](rooms/moebius.txt) |
 | Monday Monitor | [Room](https://tryhackme.com/room/mondaymonitor) | [Open file](rooms/monday%20monitor.txt) |
 | Moniker Link (CVE-2024-21413) | [Room](https://tryhackme.com/room/monikerlink) | [Open file](rooms/moniker%20link%20%28cve-2024-21413%29.txt) |
 | Monitoring Active Directory | [Room](https://tryhackme.com/room/monitoringactivedirectory) | [Open file](rooms/monitoring%20active%20directory.txt) |
+| Monitoring AWS Logins | [Room](https://tryhackme.com/room/monitoringawslogins) | [Open file](rooms/monitoring%20aws%20logins.txt) |
+| Monitoring AWS Services | [Room](https://tryhackme.com/room/monitoringawsservices) | [Open file](rooms/monitoring%20aws%20services.txt) |
 | Monitoring AWS Workloads | [Room](https://tryhackme.com/room/monitoringawsworkloads) | [Open file](rooms/monitoring%20aws%20workloads.txt) |
 | Mother's Secret | [Room](https://tryhackme.com/room/codeanalysis) | [Open file](rooms/mothers%20secret.txt) |
 | Motunui | [Room](https://tryhackme.com/room/motunui) | [Open file](rooms/motunui.txt) |
@@ -720,6 +777,7 @@ One older room file is empty. Its entry is marked accordingly.
 | Net Sec Challenge | [Room](https://tryhackme.com/room/netsecchallenge) | [Open file](rooms/net%20sec%20challenge.txt) |
 | Network Device Hardening | [Room](https://tryhackme.com/room/networkdevicehardening) | [Open file](rooms/network%20device%20hardening.txt) |
 | Network Discovery Detection | [Room](https://tryhackme.com/room/networkdiscoverydetection) | [Open file](rooms/network%20discovery%20detection.txt) |
+| Network Monitoring with Zeek | [Room](https://tryhackme.com/room/networkmonitoringwithzeek) | [Open file](rooms/network%20monitoring%20with%20zeek.txt) |
 | Network Security | [Room](https://tryhackme.com/room/intronetworksecurity) | [Open file](rooms/network%20security.txt) |
 | Network Security Essentials | [Room](https://tryhackme.com/room/networksecurityessentials) | [Open file](rooms/network%20security%20essentials.txt) |
 | Network Security Protocols | [Room](https://tryhackme.com/room/networksecurityprotocols) | [Open file](rooms/network%20security%20protocols.txt) |
@@ -763,6 +821,7 @@ One older room file is empty. Its entry is marked accordingly.
 | OpenVPN | [Room](https://tryhackme.com/room/openvpn) | [Open file](rooms/openvpn.txt) |
 | Operating System Security | [Room](https://tryhackme.com/room/operatingsystemsecurity) | [Open file](rooms/operating%20system%20security.txt) |
 | Operation Slither | [Room](https://tryhackme.com/room/operationslitheriu) | [Open file](rooms/operation%20slither.txt) |
+| Order | [Room](https://tryhackme.com/room/hfb1order) | [Open file](rooms/order.txt) |
 | ORM Injection | [Room](https://tryhackme.com/room/orminjection) | [Open file](rooms/orm%20injection.txt) |
 | OSI Model | [Room](https://tryhackme.com/room/osimodelzi) | [Open file](rooms/osi%20model.txt) |
 | Osiris | [Room](https://tryhackme.com/room/osiris) | [Open file](rooms/osiris.txt) |
@@ -781,6 +840,7 @@ One older room file is empty. Its entry is marked accordingly.
 | OWASP Top 10 - 2021 | [Room](https://tryhackme.com/room/owasptop102021) | [Open file](rooms/owasp%20top%2010%20-%202021.txt) |
 | OWASP Top 10 2025: Application Design Flaws | [Room](https://tryhackme.com/room/owasptopten2025two) | [Open file](rooms/owasp%20top%2010%202025%20application%20design%20flaws.txt) |
 | OWASP Top 10 2025: IAAA Failures | [Room](https://tryhackme.com/room/owasptopten2025one) | [Open file](rooms/owasp%20top%2010%202025%20iaaa%20failures.txt) |
+| OWASP Top 10 2025: Insecure Data Handling | [Room](https://tryhackme.com/room/owasptopten2025three) | [Open file](rooms/owasp%20top%2010%202025%20insecure%20data%20handling.txt) |
 | Packets & Frames | [Room](https://tryhackme.com/room/packetsframes) | [Open file](rooms/packets%20%26%20frames.txt) |
 | Padding Oracles | [Room](https://tryhackme.com/room/paddingoracles) | [Open file](rooms/padding%20oracles.txt) |
 | PalsForLife | [Room](https://tryhackme.com/room/palsforlife) | [Open file](rooms/palsforlife.txt) |
@@ -789,6 +849,8 @@ One older room file is empty. Its entry is marked accordingly.
 | PassCode | [Room](https://tryhackme.com/room/hfb1passcode) | [Open file](rooms/passcode.txt) |
 | Passive Reconnaissance | [Room](https://tryhackme.com/room/passiverecon) | [Open file](rooms/passive%20reconnaissance.txt) |
 | Password Attacks | [Room](https://tryhackme.com/room/passwordattacks) | [Open file](rooms/password%20attacks.txt) |
+| Password Cracking | [Room](https://tryhackme.com/room/passwordcracking) | [Open file](rooms/password%20cracking.txt) |
+| Payload | [Room](https://tryhackme.com/room/payload) | [Open file](rooms/payload.txt) |
 | Peak Hill | [Room](https://tryhackme.com/room/peakhill) | [Open file](rooms/peak%20hill.txt) |
 | Penetration Testing Frameworks | [Room](https://tryhackme.com/room/penetrationtestingframeworks) | [Open file](rooms/penetration%20testing%20frameworks.txt) |
 | Pentesting Fundamentals | [Room](https://tryhackme.com/room/pentestingfundamentals) | [Open file](rooms/pentesting%20fundamentals.txt) |
@@ -796,17 +858,21 @@ One older room file is empty. Its entry is marked accordingly.
 | Phishing | [Room](https://tryhackme.com/room/phishingyl) | [Open file](rooms/phishing.txt) |
 | Phishing Analysis Fundamentals | [Room](https://tryhackme.com/room/phishingemails1tryoe) | [Open file](rooms/phishing%20analysis%20fundamentals.txt) |
 | Phishing Analysis Tools | [Room](https://tryhackme.com/room/phishingemails3tryoe) | [Open file](rooms/phishing%20analysis%20tools.txt) |
+| Phishing Basics | [Room](https://tryhackme.com/room/phishingbasics) | [Open file](rooms/phishing%20basics.txt) |
+| Phishing Books | [Room](https://tryhackme.com/room/phishingbooks) | [Open file](rooms/phishing%20books.txt) |
 | Phishing Emails in Action | [Room](https://tryhackme.com/room/phishingemails2rytmuv) | [Open file](rooms/phishing%20emails%20in%20action.txt) |
 | Phishing Prevention | [Room](https://tryhackme.com/room/phishingemails4gkxh) | [Open file](rooms/phishing%20prevention.txt) |
 | Phishing: HiddenEye | [Room](https://tryhackme.com/room/phishinghiddeneye) | [Open file](rooms/phishing%20hiddeneye.txt) |
 | Physical Security Intro | [Room](https://tryhackme.com/room/physicalsecurityintro) | [Open file](rooms/physical%20security%20intro.txt) |
 | Pickle Rick | [Room](https://tryhackme.com/room/picklerick) | [Open file](rooms/pickle%20rick.txt) |
 | Planning and Scoping | [Room](https://tryhackme.com/room/planningandscoping) | [Open file](rooms/planning%20and%20scoping.txt) |
+| Plant Photographer | [Room](https://tryhackme.com/room/plantphotographer) | [Open file](rooms/plant%20photographer.txt) |
 | Plotted-EMR | [Room](https://tryhackme.com/room/plottedemr) | [Open file](rooms/plotted-emr.txt) |
 | Plotted-LMS | [Room](https://tryhackme.com/room/plottedlms) | [Open file](rooms/plotted-lms.txt) |
 | Plotted-TMS | [Room](https://tryhackme.com/room/plottedtms) | [Open file](rooms/plotted-tms.txt) |
 | Polkit: CVE-2021-3560 | [Room](https://tryhackme.com/room/polkit) | [Open file](rooms/polkit%20cve-2021-3560.txt) |
 | Post-Exploitation Basics | [Room](https://tryhackme.com/room/postexploit) | [Open file](rooms/post-exploitation%20basics.txt) |
+| Post-Incident Activity | [Room](https://tryhackme.com/room/postincidentactivity) | [Open file](rooms/post-incident%20activity.txt) |
 | Poster | [Room](https://tryhackme.com/room/poster) | [Open file](rooms/poster.txt) |
 | PowerShell for Pentesters | [Room](https://tryhackme.com/room/powershellforpentesters) | [Open file](rooms/powershell%20for%20pentesters.txt) |
 | Precision | [Room](https://tryhackme.com/room/hfb1precision) | [Open file](rooms/precision.txt) |
@@ -820,7 +886,9 @@ One older room file is empty. Its entry is marked accordingly.
 | Prioritise | [Room](https://tryhackme.com/room/prioritise) | [Open file](rooms/prioritise.txt) |
 | Probe | [Room](https://tryhackme.com/room/probe) | [Open file](rooms/probe.txt) |
 | Profiles | [Room](https://tryhackme.com/room/profilesroom) | [Open file](rooms/profiles.txt) |
+| Prompt Defence | [Room](https://tryhackme.com/room/promptdefence) | [Open file](rooms/prompt%20defence.txt) |
 | Prompt Engineering | [Room](https://tryhackme.com/room/promptengineeringaisec) | [Open file](rooms/prompt%20engineering.txt) |
+| Prompt Injection | [Room](https://tryhackme.com/room/promptinjectionls) | [Open file](rooms/prompt%20injection.txt) |
 | Protocols and Servers | [Room](https://tryhackme.com/room/protocolsandservers) | [Open file](rooms/protocols%20and%20servers.txt) |
 | Protocols and Servers 2 | [Room](https://tryhackme.com/room/protocolsandservers2) | [Open file](rooms/protocols%20and%20servers%202.txt) |
 | Prototype Pollution | [Room](https://tryhackme.com/room/prototypepollution) | [Open file](rooms/prototype%20pollution.txt) |
@@ -849,7 +917,9 @@ One older room file is empty. Its entry is marked accordingly.
 | Race Conditions | [Room](https://tryhackme.com/room/raceconditionsattacks) | [Open file](rooms/race%20conditions.txt) |
 | Race Conditions Challenge | [Room](https://tryhackme.com/room/raceconditions) | [Open file](rooms/race%20conditions%20challenge.txt) |
 | Racetrack Bank | [Room](https://tryhackme.com/room/racetrackbank) | [Open file](rooms/racetrack%20bank.txt) |
+| RAG Security Fundamentals | [Room](https://tryhackme.com/room/ragsecurityfundamentals) | [Open file](rooms/rag%20security%20fundamentals.txt) |
 | RazorBlack | [Room](https://tryhackme.com/room/raz0rblack) | [Open file](rooms/razorblack.txt) |
+| Re-Testing | [Room](https://tryhackme.com/room/retesting) | [Open file](rooms/re-testing.txt) |
 | React2Shell: CVE-2025-55182 | [Room](https://tryhackme.com/room/react2shellcve202555182) | [Open file](rooms/react2shell%20cve-2025-55182.txt) |
 | Recovering Active Directory | [Room](https://tryhackme.com/room/recoveringactivedirectory) | [Open file](rooms/recovering%20active%20directory.txt) |
 | Recovery | [Room](https://tryhackme.com/room/recovery) | [Open file](rooms/recovery.txt) |
@@ -868,10 +938,12 @@ One older room file is empty. Its entry is marked accordingly.
 | REloaded | [Room](https://tryhackme.com/room/reloaded) | [Open file](rooms/reloaded.txt) |
 | REMnux: Getting Started | [Room](https://tryhackme.com/room/remnuxgettingstarted) | [Open file](rooms/remnux%20getting%20started.txt) |
 | REmux The Tmux | [Room](https://tryhackme.com/room/tmuxremux) | [Open file](rooms/remux%20the%20tmux.txt) |
+| Report Writing for SOC L2 | [Room](https://tryhackme.com/room/reportwritingsocl2) | [Open file](rooms/report%20writing%20for%20soc%20l2.txt) |
 | Request Smuggling: WebSockets | [Room](https://tryhackme.com/room/wsrequestsmuggling) | [Open file](rooms/request%20smuggling%20websockets.txt) |
 | Res | [Room](https://tryhackme.com/room/res) | [Open file](rooms/res.txt) |
 | Reset | [Room](https://tryhackme.com/room/resetui) | [Open file](rooms/reset.txt) |
 | Resource Policies & SCPs | [Room](https://tryhackme.com/room/resourcepoliciesscps) | [Open file](rooms/resource%20policies%20%26%20scps.txt) |
+| Response and Recovery | [Room](https://tryhackme.com/room/responseandrecovery) | [Open file](rooms/response%20and%20recovery.txt) |
 | ret2libc | [Room](https://tryhackme.com/room/ret2libc) | [Open file](rooms/ret2libc.txt) |
 | Retracted | [Room](https://tryhackme.com/room/retracted) | [Open file](rooms/retracted.txt) |
 | Retro | [Room](https://tryhackme.com/room/retro) | [Open file](rooms/retro.txt) |
@@ -884,12 +956,14 @@ One older room file is empty. Its entry is marked accordingly.
 | Rocket | [Room](https://tryhackme.com/room/rocket) | [Open file](rooms/rocket.txt) |
 | RootMe | [Room](https://tryhackme.com/room/rrootme) | [Open file](rooms/rootme.txt) |
 | Roundcube: CVE-2025-49113 | [Room](https://tryhackme.com/room/roundcubecve202549113) | [Open file](rooms/roundcube%20cve-2025-49113.txt) |
+| Royal Router | [Room](https://tryhackme.com/room/hfb1royalrouter) | [Open file](rooms/royal%20router.txt) |
 | Runtime Detection Evasion | [Room](https://tryhackme.com/room/runtimedetectionevasion) | [Open file](rooms/runtime%20detection%20evasion.txt) |
 | RustScan | [Room](https://tryhackme.com/room/rustscan) | [Open file](rooms/rustscan.txt) |
 | SafeZone | [Room](https://tryhackme.com/room/safezone) | [Open file](rooms/safezone.txt) |
 | Sakura Room | [Room](https://tryhackme.com/room/sakura) | [Open file](rooms/sakura%20room.txt) |
 | Sandbox Evasion | [Room](https://tryhackme.com/room/sandboxevasion) | [Open file](rooms/sandbox%20evasion.txt) |
 | SAST | [Room](https://tryhackme.com/room/sast) | [Open file](rooms/sast.txt) |
+| Scheme Catcher | [Room](https://tryhackme.com/room/sq2-aoc2025-jxiokusd9r) | [Open file](rooms/scheme%20catcher.txt) |
 | Scripting | [Room](https://tryhackme.com/room/scripting) | [Open file](rooms/scripting.txt) |
 | SDLC | [Room](https://tryhackme.com/room/sdlc) | [Open file](rooms/sdlc.txt) |
 | Sea Surfer | [Room](https://tryhackme.com/room/seasurfer) | [Open file](rooms/sea%20surfer.txt) |
@@ -900,12 +974,16 @@ One older room file is empty. Its entry is marked accordingly.
 | Secure GitOps | [Room](https://tryhackme.com/room/securegitops) | [Open file](rooms/secure%20gitops.txt) |
 | Secure Network Architecture | [Room](https://tryhackme.com/room/introtosecurityarchitecture) | [Open file](rooms/secure%20network%20architecture.txt) |
 | Securing AI Systems | [Room](https://tryhackme.com/room/securingaisystems) | [Open file](rooms/securing%20ai%20systems.txt) |
+| Securing the AI Supply Chain | [Room](https://tryhackme.com/room/securing-the-ai-supplychain) | [Open file](rooms/securing%20the%20ai%20supply%20chain.txt) |
 | Security Awareness | [Room](https://tryhackme.com/room/securityawarenessintro) | [Open file](rooms/security%20awareness.txt) |
 | Security Engineer Intro | [Room](https://tryhackme.com/room/securityengineerintro) | [Open file](rooms/security%20engineer%20intro.txt) |
 | Security Footage | [Room](https://tryhackme.com/room/securityfootage) | [Open file](rooms/security%20footage.txt) |
 | Security Operations | [Room](https://tryhackme.com/room/securityoperations) | [Open file](rooms/security%20operations.txt) |
 | Security Principles | [Room](https://tryhackme.com/room/securityprinciples) | [Open file](rooms/security%20principles.txt) |
 | SeeTwo | [Room](https://tryhackme.com/room/seetworoom) | [Open file](rooms/seetwo.txt) |
+| Senior Security Analyst Intro | [Room](https://tryhackme.com/room/seniorsecanalystintro) | [Open file](rooms/senior%20security%20analyst%20intro.txt) |
+| Sensitive Information Disclosure | [Room](https://tryhackme.com/room/sensitiveinformationdisclosure) | [Open file](rooms/sensitive%20information%20disclosure.txt) |
+| Sequel Dump | [Room](https://tryhackme.com/room/hfb1sequeldump) | [Open file](rooms/sequel%20dump.txt) |
 | Server-side Template Injection | [Room](https://tryhackme.com/room/serversidetemplateinjection) | [Open file](rooms/server-side%20template%20injection.txt) |
 | Services | [Room](https://tryhackme.com/room/services) | [Open file](rooms/services.txt) |
 | Servidae: Log Analysis in ELK | [Room](https://tryhackme.com/room/servidae) | [Open file](rooms/servidae%20log%20analysis%20in%20elk.txt) |
@@ -915,12 +993,16 @@ One older room file is empty. Its entry is marked accordingly.
 | Shadow Trace | [Room](https://tryhackme.com/room/shadowtrace) | [Open file](rooms/shadow%20trace.txt) |
 | Shaker | [Room](https://tryhackme.com/room/shaker) | [Open file](rooms/shaker.txt) |
 | SharePoint Online Monitoring | [Room](https://tryhackme.com/room/sharepointonlinemonitoring) | [Open file](rooms/sharepoint%20online%20monitoring.txt) |
+| Shell Payload Generation & Delivery | [Room](https://tryhackme.com/room/shellgenerationdelivery) | [Open file](rooms/shell%20payload%20generation%20%26%20delivery.txt) |
+| Shells & Listeners Fundamentals | [Room](https://tryhackme.com/room/shellsfundamentals) | [Open file](rooms/shells%20%20listeners%20fundamentals.txt) |
 | Shells Overview | [Room](https://tryhackme.com/room/shellsoverview) | [Open file](rooms/shells%20overview.txt) |
 | Shock and Silence | [Room](https://tryhackme.com/room/shockandsilence) | [Open file](rooms/shock%20and%20silence.txt) |
 | Shodan.io | [Room](https://tryhackme.com/room/shodan) | [Open file](rooms/shodan.io.txt) |
 | SigHunt | [Room](https://tryhackme.com/room/sighunt) | [Open file](rooms/sighunt.txt) |
 | Sigma | [Room](https://tryhackme.com/room/sigma) | [Open file](rooms/sigma.txt) |
+| Sigma Language | [Room](https://tryhackme.com/room/sigmalanguage) | [Open file](rooms/sigma%20language.txt) |
 | Signature Evasion | [Room](https://tryhackme.com/room/signatureevasion) | [Open file](rooms/signature%20evasion.txt) |
+| Signed Messages | [Room](https://tryhackme.com/room/lafb2026e8) | [Open file](rooms/signed%20messages.txt) |
 | Silver Platter | [Room](https://tryhackme.com/room/silverplatter) | [Open file](rooms/silver%20platter.txt) |
 | Simple CTF | [Room](https://tryhackme.com/room/easyctf) | [Open file](rooms/simple%20ctf.txt) |
 | SimpleHelp: CVE-2024-57727 | [Room](https://tryhackme.com/room/simplehelpcve202457727) | [Open file](rooms/simplehelp%20cve-2024-57727.txt) |
@@ -929,6 +1011,7 @@ One older room file is empty. Its entry is marked accordingly.
 | Smag Grotto | [Room](https://tryhackme.com/room/smaggrotto) | [Open file](rooms/smag%20grotto.txt) |
 | Smol | [Room](https://tryhackme.com/room/smol) | [Open file](rooms/smol.txt) |
 | Snapped Phish-ing Line | [Room](https://tryhackme.com/room/snappedphishingline) | [Open file](rooms/snapped%20phish-ing%20line.txt) |
+| Sneaky Patch | [Room](https://tryhackme.com/room/hfb1sneakypatch) | [Open file](rooms/sneaky%20patch.txt) |
 | Snort | [Room](https://tryhackme.com/room/snort) | [Open file](rooms/snort.txt) |
 | Snort Challenge - Live Attacks | [Room](https://tryhackme.com/room/snortchallenges2) | [Open file](rooms/snort%20challenge%20-%20live%20attacks.txt) |
 | Snort Challenge - The Basics | [Room](https://tryhackme.com/room/snortchallenges1) | [Open file](rooms/snort%20challenge%20-%20the%20basics.txt) |
@@ -939,6 +1022,7 @@ One older room file is empty. Its entry is marked accordingly.
 | SOC Fundamentals | [Room](https://tryhackme.com/room/socfundamentals) | [Open file](rooms/soc%20fundamentals.txt) |
 | SOC L1 Alert Reporting | [Room](https://tryhackme.com/room/socl1alertreporting) | [Open file](rooms/soc%20l1%20alert%20reporting.txt) |
 | SOC L1 Alert Triage | [Room](https://tryhackme.com/room/socl1alerttriage) | [Open file](rooms/soc%20l1%20alert%20triage.txt) |
+| SOC L2 Alert Triage | [Room](https://tryhackme.com/room/socl2alerttriage) | [Open file](rooms/soc%20l2%20alert%20triage.txt) |
 | SOC Metrics and Objectives | [Room](https://tryhackme.com/room/socmetricsobjectives) | [Open file](rooms/soc%20metrics%20and%20objectives.txt) |
 | SOC Role in Blue Team | [Room](https://tryhackme.com/room/socroleinblueteam) | [Open file](rooms/soc%20role%20in%20blue%20team.txt) |
 | SOC Workbooks and Lookups | [Room](https://tryhackme.com/room/socworkbookslookups) | [Open file](rooms/soc%20workbooks%20and%20lookups.txt) |
@@ -946,6 +1030,7 @@ One older room file is empty. Its entry is marked accordingly.
 | Soupedecode 01 | [Room](https://tryhackme.com/room/soupedecode01) | [Open file](rooms/soupedecode%2001.txt) |
 | Source | [Room](https://tryhackme.com/room/source) | [Open file](rooms/source.txt) |
 | Source Code Security | [Room](https://tryhackme.com/room/sourcecodesecurity) | [Open file](rooms/source%20code%20security.txt) |
+| Speed Chatting | [Room](https://tryhackme.com/room/lafb2026e4) | [Open file](rooms/speed%20chatting.txt) |
 | Splunk 2 | [Room](https://tryhackme.com/room/splunk2gcd5) | [Open file](rooms/splunk%202.txt) |
 | Splunk 3 | [Room](https://tryhackme.com/room/splunk3zs) | [Open file](rooms/splunk%203.txt) |
 | Splunk: Basics | [Room](https://tryhackme.com/room/splunk101) | [Open file](rooms/splunk%20basics.txt) |
@@ -970,6 +1055,7 @@ One older room file is empty. Its entry is marked accordingly.
 | Startup | [Room](https://tryhackme.com/room/startup) | [Open file](rooms/startup.txt) |
 | Stealth | [Room](https://tryhackme.com/room/stealth) | [Open file](rooms/stealth.txt) |
 | Steel Mountain | [Room](https://tryhackme.com/room/steelmountain) | [Open file](rooms/steel%20mountain.txt) |
+| Stolen Mount | [Room](https://tryhackme.com/room/hfb1stolenmount) | [Open file](rooms/stolen%20mount.txt) |
 | STS Credentials Lab | [Room](https://tryhackme.com/room/stscredentialslab) | [Open file](rooms/sts%20credentials%20lab.txt) |
 | StuxCTF | [Room](https://tryhackme.com/room/stuxctf) | [Open file](rooms/stuxctf.txt) |
 | Subdomain Enumeration | [Room](https://tryhackme.com/room/subdomainenumeration) | [Open file](rooms/subdomain%20enumeration.txt) |
@@ -979,6 +1065,7 @@ One older room file is empty. Its entry is marked accordingly.
 | Super Secret TIp | [Room](https://tryhackme.com/room/supersecrettip) | [Open file](rooms/super%20secret%20tip.txt) |
 | Super-Spam | [Room](https://tryhackme.com/room/superspamr) | [Open file](rooms/super-spam.txt) |
 | Supplemental Memory | [Room](https://tryhackme.com/room/supplementalmemory) | [Open file](rooms/supplemental%20memory.txt) |
+| Supply Chain Attack Vectors | [Room](https://tryhackme.com/room/supplychain-attack-vectors) | [Open file](rooms/supply%20chain%20attack%20vectors.txt) |
 | Supply Chain Attack: Lottie | [Room](https://tryhackme.com/room/supplychainattacks) | [Open file](rooms/supply%20chain%20attack%20lottie.txt) |
 | Surfer | [Room](https://tryhackme.com/room/surfer) | [Open file](rooms/surfer.txt) |
 | Sustah | [Room](https://tryhackme.com/room/sustah) | [Open file](rooms/sustah.txt) |
@@ -1000,28 +1087,36 @@ One older room file is empty. Its entry is marked accordingly.
 | That's The Ticket | [Room](https://tryhackme.com/room/thatstheticket) | [Open file](rooms/thats%20the%20ticket.txt) |
 | The Bandit Surfer | [Room](https://tryhackme.com/room/surfingyetiiscomingtotown) | [Open file](rooms/the%20bandit%20surfer.txt) |
 | The Blob Blog | [Room](https://tryhackme.com/room/theblobblog) | [Open file](rooms/the%20blob%20blog.txt) |
+| The Blue Team Perspective | [Room](https://tryhackme.com/room/theblueteamperspective) | [Open file](rooms/the%20blue%20team%20perspective.txt) |
+| The Case: Seven Minutes on the Seine | [Room](https://tryhackme.com/room/thecasesevenminutesontheseine) | [Open file](rooms/the%20case%20seven%20minutes%20on%20the%20seine.txt) |
 | The CIA Triad | [Room](https://tryhackme.com/room/theciatriad) | [Open file](rooms/the%20cia%20triad.txt) |
 | The Cod Caper | [Room](https://tryhackme.com/room/thecodcaper) | [Open file](rooms/the%20cod%20caper.txt) |
 | The Docker Rodeo | [Room](https://tryhackme.com/room/dockerrodeo) | [Open file](rooms/the%20docker%20rodeo.txt) |
+| The find command | [Room](https://tryhackme.com/room/thefindcommand) | [Open file](rooms/the%20find%20command.txt) |
 | The Game | [Room](https://tryhackme.com/room/hfb1thegame) | [Open file](rooms/the%20game.txt) |
 | The Game v2 | [Room](https://tryhackme.com/room/hfb1thegamev2) | [Open file](rooms/the%20game%20v2.txt) |
+| The Great Disappearing Act | [Room](https://tryhackme.com/room/sq1-aoc2025-fzpnrt2sau) | [Open file](rooms/the%20great%20disappearing%20act.txt) |
 | The Great Escape | [Room](https://tryhackme.com/room/thegreatescape) | [Open file](rooms/the%20great%20escape.txt) |
 | The Greenholt Phish | [Room](https://tryhackme.com/room/phishingemails5fgjlzxc) | [Open file](rooms/the%20greenholt%20phish.txt) |
 | The Hacker Methodology | [Room](https://tryhackme.com/room/hackermethodology) | [Open file](rooms/the%20hacker%20methodology.txt) |
 | The Hidden Gateway | [Room](https://tryhackme.com/room/thehiddengateway3) | [Open file](rooms/the%20hidden%20gateway.txt) |
 | The Impossible Challenge | [Room](https://tryhackme.com/room/theimpossiblechallenge) | [Open file](rooms/the%20impossible%20challenge.txt) |
+| The Last Trial | [Room](https://tryhackme.com/room/thelasttrial) | [Open file](rooms/the%20last%20trial.txt) |
 | The Lay of the Land | [Room](https://tryhackme.com/room/thelayoftheland) | [Open file](rooms/the%20lay%20of%20the%20land.txt) |
 | The London Bridge | [Room](https://tryhackme.com/room/thelondonbridge) | [Open file](rooms/the%20london%20bridge.txt) |
 | The Marketplace | [Room](https://tryhackme.com/room/marketplace) | [Open file](rooms/the%20marketplace.txt) |
+| The Phishing Pond | [Room](https://tryhackme.com/room/phishingpond) | [Open file](rooms/the%20phishing%20pond.txt) |
 | The Quest for Least Privilege | [Room](https://tryhackme.com/room/thequestforleastprivilege) | [Open file](rooms/the%20quest%20for%20least%20privilige.txt) |
 | The Return of the Yeti | [Room](https://tryhackme.com/room/adv3nt0fdbopsjcap) | [Open file](rooms/the%20return%20of%20the%20yeti.txt) |
 | The Server From Hell | [Room](https://tryhackme.com/room/theserverfromhell) | [Open file](rooms/the%20server%20from%20hell.txt) |
+| The Silent Transfer | [Room](https://tryhackme.com/room/operationsilenttransfer) | [Open file](rooms/the%20silent%20transfer.txt) |
 | The Sticker Shop | [Room](https://tryhackme.com/room/thestickershop) | [Open file](rooms/the%20sticker%20shop.txt) |
 | The Witch's Cauldron | [Room](https://tryhackme.com/room/cauldron) | [Open file](rooms/the%20witchs%20cauldron.txt) |
 | TheHive Project | [Room](https://tryhackme.com/room/thehiveproject) | [Open file](rooms/thehive%20project.txt) |
 | Theseus | [Room](https://tryhackme.com/room/theseus) | [Open file](rooms/theseus.txt) |
 | Thompson | [Room](https://tryhackme.com/room/bsidesgtthompson) | [Open file](rooms/thompson.txt) |
 | Threat Hunting With YARA | [Room](https://tryhackme.com/room/threathuntingwithyara) | [Open file](rooms/threat%20hunting%20with%20yara.txt) |
+| Threat Hunting with Zui | [Room](https://tryhackme.com/room/threathuntingwithzui) | [Open file](rooms/threat%20hunting%20with%20zui.txt) |
 | Threat Hunting: Endgame | [Room](https://tryhackme.com/room/threathuntingendgame) | [Open file](rooms/threat%20hunting%20endgame.txt) |
 | Threat Hunting: Foothold | [Room](https://tryhackme.com/room/threathuntingfoothold) | [Open file](rooms/threat%20hunting%20foothold.txt) |
 | Threat Hunting: Introduction | [Room](https://tryhackme.com/room/introductiontothreathunting) | [Open file](rooms/threat%20hunting%20introduction.txt) |
@@ -1029,6 +1124,7 @@ One older room file is empty. Its entry is marked accordingly.
 | Threat Intel & Containment | [Room](https://tryhackme.com/room/intelcreationandcontainment) | [Open file](rooms/threat%20intel%20%26%20containment.txt) |
 | Threat Intelligence for SOC | [Room](https://tryhackme.com/room/threatintelligenceforsoc) | [Open file](rooms/threat%20intelligence%20for%20soc.txt) |
 | Threat Intelligence Tools | [Room](https://tryhackme.com/room/threatinteltools) | [Open file](rooms/threat%20intelligence%20tools.txt) |
+| Threat Modeling for Pentesters | [Room](https://tryhackme.com/room/threatmodelingforpentesters) | [Open file](rooms/threat%20modeling%20for%20pentesters.txt) |
 | Threat Modelling | [Room](https://tryhackme.com/room/threatmodelling) | [Open file](rooms/threat%20modelling.txt) |
 | tmux | [Room](https://tryhackme.com/room/rptmux) | [Open file](rooms/tmux.txt) |
 | toc2 | [Room](https://tryhackme.com/room/toc2) | [Open file](rooms/toc2.txt) |
@@ -1041,6 +1137,7 @@ One older room file is empty. Its entry is marked accordingly.
 | ToolsRus | [Room](https://tryhackme.com/room/toolsrus) | [Open file](rooms/toolsrus.txt) |
 | Tor | [Room](https://tryhackme.com/room/torforbeginners) | [Open file](rooms/tor.txt) |
 | Traffic Analysis Essentials | [Room](https://tryhackme.com/room/trafficanalysisessentials) | [Open file](rooms/traffic%20analysis%20essentials.txt) |
+| Traffic Analysis Pitfalls | [Room](https://tryhackme.com/room/trafficanalysispitfalls) | [Open file](rooms/traffic%20analysis%20pitfalls.txt) |
 | Training Impact on Teams | [Room](https://tryhackme.com/room/training) | [Open file](rooms/training%20impact%20on%20teams.txt) |
 | Traverse | [Room](https://tryhackme.com/room/traverse) | [Open file](rooms/traverse.txt) |
 | Trooper | [Room](https://tryhackme.com/room/trooper) | [Open file](rooms/trooper.txt) |
@@ -1062,13 +1159,17 @@ One older room file is empty. Its entry is marked accordingly.
 | Umbrella | [Room](https://tryhackme.com/room/umbrella) | [Open file](rooms/umbrella.txt) |
 | Unattended | [Room](https://tryhackme.com/room/unattended) | [Open file](rooms/unattended.txt) |
 | Unbaked Pie | [Room](https://tryhackme.com/room/unbakedpie) | [Open file](rooms/unbaked%20pie.txt) |
+| Understanding AI Supply Chains | [Room](https://tryhackme.com/room/understanding-ai-supplychains) | [Open file](rooms/understanding%20ai%20supply%20chains.txt) |
+| Understanding Vulnerability Databases | [Room](https://tryhackme.com/room/understandingvulnerabilitydatabases) | [Open file](rooms/understanding%20vulnerability%20databases.txt) |
 | Undiscovered | [Room](https://tryhackme.com/room/undiscoveredup) | [Open file](rooms/undiscovered.txt) |
 | Unified Kill Chain | [Room](https://tryhackme.com/room/unifiedkillchain) | [Open file](rooms/unified%20kill%20chain.txt) |
 | Unstable Twin | [Room](https://tryhackme.com/room/unstabletwin) | [Open file](rooms/unstable%20twin.txt) |
 | Upload Vulnerabilities | [Room](https://tryhackme.com/room/uploadvulns) | [Open file](rooms/upload%20vulnerabilities.txt) |
 | Uranium CTF | [Room](https://tryhackme.com/room/uranium) | [Open file](rooms/uranium%20ctf.txt) |
 | Valley | [Room](https://tryhackme.com/room/valleype) | [Open file](rooms/valley.txt) |
+| Vectara | [Room](https://tryhackme.com/room/vectara) | [Open file](rooms/vectara.txt) |
 | Velociraptor | [Room](https://tryhackme.com/room/velociraptorhp) | [Open file](rooms/velociraptor.txt) |
+| Virtualisation Basics | [Room](https://tryhackme.com/room/virtualisationbasics) | [Open file](rooms/virtualisation%20basics.txt) |
 | Virtualization and Containers | [Room](https://tryhackme.com/room/virtualizationandcontainers) | [Open file](rooms/virtualization%20and%20containers.txt) |
 | Void Execution | [Room](https://tryhackme.com/room/hfb1voidexecution) | [Open file](rooms/void%20execution.txt) |
 | Volatility | [Room](https://tryhackme.com/room/volatility) | [Open file](rooms/volatility.txt) |
@@ -1103,7 +1204,12 @@ One older room file is empty. Its entry is marked accordingly.
 | Web Application Basics | [Room](https://tryhackme.com/room/webapplicationbasics) | [Open file](rooms/web%20application%20basics.txt) |
 | Web Application Security | [Room](https://tryhackme.com/room/introwebapplicationsecurity) | [Open file](rooms/web%20application%20security.txt) |
 | Web Enumeration | [Room](https://tryhackme.com/room/webenumerationv2) | [Open file](rooms/web%20enumeration.txt) |
+| Web Frameworks: .NET | [Room](https://tryhackme.com/room/webframeworksnet) | [Open file](rooms/web%20frameworks%20.net.txt) |
+| Web Frameworks: Code Review | [Room](https://tryhackme.com/room/webframeworkscodereview) | [Open file](rooms/web%20frameworks%20code%20review.txt) |
+| Web Frameworks: Java | [Room](https://tryhackme.com/room/webframeworksjava) | [Open file](rooms/web%20frameworks%20java.txt) |
+| Web Frameworks: Python | [Room](https://tryhackme.com/room/webframeworkspython) | [Open file](rooms/web%20frameworks%20python.txt) |
 | Web Security Essentials | [Room](https://tryhackme.com/room/websecurityessentials) | [Open file](rooms/web%20security%20essentials.txt) |
+| Web Server Attacks - I | [Room](https://tryhackme.com/room/webserverattacks) | [Open file](rooms/web%20server%20attacks%20-%20i.txt) |
 | Web Server Attacks - II | [Room](https://tryhackme.com/room/webserverattacks2) | [Open file](rooms/web%20server%20attacks%20-%20ii.txt) |
 | WebGOAT | [Room](https://tryhackme.com/room/webgoat) | [Open file](rooms/webgoat.txt) |
 | WebOSINT | [Room](https://tryhackme.com/room/webosint) | [Open file](rooms/webosint.txt) |
@@ -1113,12 +1219,15 @@ One older room file is empty. Its entry is marked accordingly.
 | What is Networking? | [Room](https://tryhackme.com/room/whatisnetworking) | [Open file](rooms/what%20is%20networking.txt) |
 | What the Shell? | [Room](https://tryhackme.com/room/introtoshells) | [Open file](rooms/what%20the%20shell.txt) |
 | Whats Your Name? | [Room](https://tryhackme.com/room/whatsyourname) | [Open file](rooms/whats%20your%20name.txt) |
+| White Rabbit | [Room](https://tryhackme.com/room/whiterabbit) | [Open file](rooms/white%20rabbit.txt) |
 | Whiterose | [Room](https://tryhackme.com/room/whiterose) | [Open file](rooms/whiterose.txt) |
 | WhyHackMe | [Room](https://tryhackme.com/room/whyhackme) | [Open file](rooms/whyhackme.txt) |
 | Wifi Hacking 101 | [Room](https://tryhackme.com/room/wifihacking101) | [Open file](rooms/wifi%20hacking%20101.txt) |
 | Willow | [Room](https://tryhackme.com/room/willow) | [Open file](rooms/willow.txt) |
 | Windows Applications Forensics | [Room](https://tryhackme.com/room/windowsapplications) | [Open file](rooms/windows%20applications%20forensics.txt) |
 | Windows Base | [Room](https://tryhackme.com/room/windowsbase) | [Open file](rooms/windows%20base.txt) |
+| Windows Basics | [Room](https://tryhackme.com/room/windowsbasics) | [Open file](rooms/windows%20basics.txt) |
+| Windows CLI Basics | [Room](https://tryhackme.com/room/windowsclibasics) | [Open file](rooms/windows%20cli%20basics.txt) |
 | Windows Command Line | [Room](https://tryhackme.com/room/windowscommandline) | [Open file](rooms/windows%20command%20line.txt) |
 | Windows Event Logs | [Room](https://tryhackme.com/room/windowseventlogs) | [Open file](rooms/windows%20event%20logs.txt) |
 | Windows Forensics 1 | [Room](https://tryhackme.com/room/windowsforensics1) | [Open file](rooms/windows%20forensics%201.txt) |
@@ -1131,6 +1240,7 @@ One older room file is empty. Its entry is marked accordingly.
 | Windows Local Persistence | [Room](https://tryhackme.com/room/windowslocalpersistence) | [Open file](rooms/windows%20local%20persistence.txt) |
 | Windows Logging for SOC | [Room](https://tryhackme.com/room/windowsloggingforsoc) | [Open file](rooms/windows%20logging%20for%20soc.txt) |
 | Windows Memory & Processes | [Room](https://tryhackme.com/room/windowsmemoryandprocs) | [Open file](rooms/windows%20memory%20%26%20processes.txt) |
+| Windows Memory & User Activity | [Room](https://tryhackme.com/room/windowsmemoryanduseractivity) | [Open file](rooms/windows%20memory%20and%20user%20activity.txt) |
 | Windows Network Analysis | [Room](https://tryhackme.com/room/windowsnetworkanalysis) | [Open file](rooms/windows%20network%20analysis.txt) |
 | Windows PowerShell | [Room](https://tryhackme.com/room/windowspowershell) | [Open file](rooms/windows%20powershell.txt) |
 | Windows PrivEsc | [Room](https://tryhackme.com/room/windows10privesc) | [Open file](rooms/windows%20privesc.txt) |
@@ -1143,6 +1253,7 @@ One older room file is empty. Its entry is marked accordingly.
 | Windows User Account Forensics | [Room](https://tryhackme.com/room/windowsuseraccountforensics) | [Open file](rooms/windows%20user%20account%20forensics.txt) |
 | Windows User Activity Analysis | [Room](https://tryhackme.com/room/windowsuseractivity) | [Open file](rooms/windows%20user%20activity%20analysis.txt) |
 | Windows x64 Assembly | [Room](https://tryhackme.com/room/win64assembly) | [Open file](rooms/windows%20x64%20assembly.txt) |
+| Wireless Security | [Room](https://tryhackme.com/room/wirelesssecurity) | [Open file](rooms/wireless%20security.txt) |
 | Wireshark 101 | [Room](https://tryhackme.com/room/wireshark) | [Open file](rooms/wireshark%20101.txt) |
 | Wireshark: Packet Operations | [Room](https://tryhackme.com/room/wiresharkpacketoperations) | [Open file](rooms/wireshark%20packet%20operations.txt) |
 | Wireshark: The Basics | [Room](https://tryhackme.com/room/wiresharkthebasics) | [Open file](rooms/wireshark%20the%20basics.txt) |

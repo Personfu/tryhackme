@@ -1,0 +1,50 @@
+Response and Recovery
+https://tryhackme.com/room/responseandrecovery
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Response%20and%20Recovery
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+Containment
+
+Q2
+Controlled isolation
+
+Q3
+Near term
+
+Q4
+security;alert;suspicious;password;verify
+
+Q5
+True
+
+Q6
+Security Updates
+
+Q7
+Remove the malicious inbox rules immediately
+
+Q8
+3
+
+Q9
+Block phishing domain at the email gateway
+
+Q10
+5
+
+Q11
+Board_Meeting_Notes_July.docx
+
+Q12
+Revoking all external sharing links created by the attacker from SharePoint
+
+Q13
+none
+
+Q14
+MFA
+
+Q15
+Near term

@@ -1,0 +1,23 @@
+SOC L2 Alert Triage
+https://tryhackme.com/room/socl2alerttriage
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/SOC%20L2%20Alert%20Triage
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+Escalated Alert
+
+Q2
+Yea
+
+Q3
+Timeline
+
+Q4
+Containment
+
+Q5
+Yea
+
+Q6
+THM{triage_done_right!}

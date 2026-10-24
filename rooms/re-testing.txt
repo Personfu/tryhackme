@@ -1,0 +1,38 @@
+Re-Testing
+https://tryhackme.com/room/retesting
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Re-Testing
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+Full reassessment
+
+Q2
+SOW
+
+Q3
+Remediation window
+
+Q4
+Risk Accepted
+
+Q5
+Fail
+
+Q6
+CVE-2023-37679
+
+Q7
+Incomplete Vendor Patches
+
+Q8
+200
+
+Q9
+/dashboard
+
+Q10
+Fail
+
+Q11
+Notes

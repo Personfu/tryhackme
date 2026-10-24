@@ -1,0 +1,17 @@
+Scheme Catcher
+https://tryhackme.com/room/sq2-aoc2025-JxiOKUSD9R
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Scheme%20Catcher
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+THM{Welcom3_to_th3_eastmass_pwnland}
+
+Q2
+THM{byp4ss_and_pack_is_pwn_you_n33d}
+
+Q3
+THM{theres_someth1g_in_th3_w4t3r_that_cannot_l3ak}
+
+Q4
+THM{final-boss_defeat3d-yay}

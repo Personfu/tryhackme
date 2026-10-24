@@ -1,0 +1,39 @@
+Host-Server Configuration Reviews
+https://tryhackme.com/room/hostserverconfigurationreviews
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Host-Server%20Configuration%20Reviews
+Room link evidence: https://tryhackme.com/room/hostserverconfigurationreviews
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+nay
+
+Q2
+CAT I
+
+Q3
+Nessus
+
+Q4
+SUID
+
+Q5
+situational awareness
+
+Q6
+0644
+
+Q7
+3
+
+Q8
+/opt/admin-tools/logviewer
+
+Q9
+8
+
+Q10
+0x0
+
+Q11
+8

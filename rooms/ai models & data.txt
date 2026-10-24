@@ -1,0 +1,42 @@
+AI Models & Data
+https://tryhackme.com/room/aimodelsdata
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/AI%20Models%20%26%20Data
+Room link evidence: https://medium.com/@lawvye/ai-models-data-thm-tryhackme-walkthrough-5238572995a3
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+Data Provenance
+
+Q2
+Common Crawl
+
+Q3
+ML-BOM
+
+Q4
+Epoch
+
+Q5
+Overfitting
+
+Q6
+Quantisation
+
+Q7
+Federated Learning
+
+Q8
+Fine-tuning
+
+Q9
+Pre-trained Model
+
+Q10
+Model Card
+
+Q11
+Weights
+
+Q12
+THM{A_m0del_Stud3nt}

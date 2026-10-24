@@ -1,0 +1,41 @@
+Phishing Books
+https://tryhackme.com/room/phishingbooks
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Phishing%20Books
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+DMARC=none
+
+Q2
+Typosquatting
+
+Q3
+T1583.001
+
+Q4
+.html
+
+Q5
+442f2965cb6e9147da7908bb4eb73a72
+
+Q6
+http://lib-service.com:8083
+
+Q7
+T1027
+
+Q8
+I love to phish books from libraries ^^
+
+Q9
+var src = reversed.split("").reverse().join("");
+
+Q10
+http://xn--librarytlu-13cwe32432-kwr.com:8082
+
+Q11
+Cobalt Dickens | Silent Librarian
+
+Q12
+Research and Proprietary Data

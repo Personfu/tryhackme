@@ -1,0 +1,45 @@
+Intro to AD Breaching
+https://tryhackme.com/room/introductiontoactivedirectorybreaching
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Intro%20to%20AD%20Breaching
+Room link evidence: https://www.linkedin.com/posts/tryhackme_tryhackme-weekly-walkthrough-drop-activity-7462852133185560576-eJIN
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+Breaching
+
+Q2
+Kerberos
+
+Q3
+42
+
+Q4
+first.last
+
+Q5
+Jen5k1ns2025!
+
+Q6
+MegaCorp01!
+
+Q7
+2
+
+Q8
+alice.moore
+
+Q9
+CN=svc.ldap,OU=Service Accounts,DC=thm,DC=loc
+
+Q10
+Pr1ntBind2025!
+
+Q11
+Trustno1
+
+Q12
+Network Security: LAN Manager authentication level
+
+Q13
+636

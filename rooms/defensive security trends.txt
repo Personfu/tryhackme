@@ -1,0 +1,48 @@
+Defensive Security Trends
+https://tryhackme.com/room/defensivesecuritytrends
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Defensive%20Security%20Trends
+Room link evidence: https://simontaplin.net/2026/06/28/answers-for-the-tryhackme-defensive-security-trends-room/
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+17 hours
+
+Q2
+Automate it
+
+Q3
+AnyDesk
+
+Q4
+Nay
+
+Q5
+39%
+
+Q6
+Initial Access Brokers
+
+Q7
+Lumma Stealer
+
+Q8
+Nay
+
+Q9
+Nay
+
+Q10
+None
+
+Q11
+Nx Console
+
+Q12
+TanStack
+
+Q13
+240%
+
+Q14
+VPN

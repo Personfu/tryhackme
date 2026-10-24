@@ -1,0 +1,37 @@
+Windows Memory & User Activity
+https://tryhackme.com/room/windowsmemoryanduseractivity
+
+Task 4.1 — Volatility plugin for login sessions
+windows.sessions
+
+Task 4.2 — Console user when WINWORD.EXE and updater.exe ran
+DESKTOP-3NMNM0H/operator
+
+Task 4.3 — Command-line executable seen in UserAssist
+cmd.exe
+
+Task 4.4 — Volatility plugin for GUI-launched programs
+windows.registry.userassist
+
+Task 5.1 — Document supplied to WINWORD.EXE
+cv-resume-test.docm
+
+Task 5.2 — Plugin for process handle tables
+windows.handles
+
+Task 5.3 — Path of the document open in WINWORD.EXE
+C:\Users\operator\Documents\cv-resume-test.docm
+
+Task 5.4 — WINWORD.EXE switch for a new instance
+/n
+
+Task 6.1 — Command used to identify the dumped document type
+file
+
+Task 6.2 — Executable downloaded by the macro
+pdfupdater.exe
+
+Task 6.3 — Download URL embedded in the macro
+http://attacker.thm/pdfupdater.exe
+
+Source: https://tryhackmyoffsecbox.github.io/TryHackMe-CN/en/docs/Modules/Memory%20Analysis/windowsmemoryanduseractivity/

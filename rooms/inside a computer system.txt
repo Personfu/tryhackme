@@ -1,0 +1,10 @@
+Inside a Computer System
+https://tryhackme.com/room/insideacomputer
+
+Q: Component exercise flag?
+A: THM{4llpccomp0n3nts1d3nt1f13d}
+
+Q: Boot sequence exercise flag?
+A: THM{pc5ucce55fully5t4rt3d}
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Inside%20a%20Computer%20System

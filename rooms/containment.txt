@@ -1,0 +1,7 @@
+ContAInment
+https://tryhackme.com/room/containment
+
+Q: Ransomware containment flag?
+A: thm{23,82,20,17,53}
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/ContAInment

@@ -1,0 +1,51 @@
+Exchange Online Monitoring
+https://tryhackme.com/room/exchangeonlinemonitoring
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Exchange%20Online%20Monitoring
+Room link evidence: https://medium.com/@Sle3pyHead/exchange-online-monitoring-walkthrough-notes-tryhackme-1cfaac81fd6e
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+Lateral Movement
+
+Q2
+One Outlook Web
+
+Q3
+New-InboxRule
+
+Q4
+Cleanup
+
+Q5
+Verify
+
+Q6
+d4ruy6g@protonmail.com
+
+Q7
+Urgent: Verify Your Account
+
+Q8
+2
+
+Q9
+190.2.149.93
+
+Q10
+Ursynow
+
+Q11
+Maintenance
+
+Q12
+x7tpq2m@protonmail.com
+
+Q13
+Action Required: Password Reset
+
+Q14
+138.199.21.211
+
+Q15
+emma.clarke@techcorp.thm

@@ -1,0 +1,7 @@
+Order
+https://tryhackme.com/room/hfb1order
+
+Q: Challenge flag?
+A: THM{the_hackfinity_highschool}
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Order

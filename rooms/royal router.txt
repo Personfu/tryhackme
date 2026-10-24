@@ -1,0 +1,7 @@
+Royal Router
+https://tryhackme.com/room/hfb1royalrouter
+
+Q: Router challenge flag?
+A: THM{EXFILTRATING_A_MIPS_ROUTER}
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Royal%20Router

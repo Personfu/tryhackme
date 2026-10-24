@@ -1,0 +1,16 @@
+Database SQL Basics
+https://tryhackme.com/room/databasesqlbasics
+
+Q: Database equivalent of a spreadsheet?
+A: table
+
+Q: Total orders returned?
+A: 50
+
+Q: Least expensive drink?
+A: Tea
+
+Q: Most expensive drink?
+A: Latte
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Database%20SQL%20Basics

@@ -1,0 +1,50 @@
+Shells & Listeners Fundamentals
+https://tryhackme.com/room/shellsfundamentals
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Shells%20%26%20Listeners%20Fundamentals
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+R
+
+Q2
+T
+
+Q3
+R
+
+Q4
+socat
+
+Q5
+msfvenom
+
+Q6
+-l
+
+Q7
+nc 10.10.10.11 8090
+
+Q8
+-n
+
+Q9
+TCP-L:8080
+
+Q10
+pipes
+
+Q11
+fg
+
+Q12
+stty cols 238
+
+Q13
+sudo python3 -m http.server 80
+
+Q14
+verify=0
+
+Q15
+-newkey rsa:2048

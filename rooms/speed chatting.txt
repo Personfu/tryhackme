@@ -1,0 +1,7 @@
+Speed Chatting
+https://tryhackme.com/room/lafb2026e4
+
+Q: Messaging application flag?
+A: THM{R3v3rs3_Sh3ll_L0v3_C0nn3ct10ns}
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Speed%20Chatting

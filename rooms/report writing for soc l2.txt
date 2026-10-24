@@ -1,0 +1,35 @@
+Report Writing for SOC L2
+https://tryhackme.com/room/reportwritingsocl2
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Report%20Writing%20for%20SOC%20L2
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+L2
+
+Q2
+Reports
+
+Q3
+Yea
+
+Q4
+Yea
+
+Q5
+THM{executive_summary_approved}
+
+Q6
+Nay
+
+Q7
+Attack Timeline
+
+Q8
+THM{trysaveme_would_be_proud}
+
+Q9
+Context
+
+Q10
+Nay

@@ -1,0 +1,36 @@
+Modern Web Stacks
+https://tryhackme.com/room/modernwebstacks
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Modern%20Web%20Stacks
+Room link evidence: https://josepraveen.medium.com/modern-web-stacks-tryhackme-practical-lab-f8df3a3db677
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+X-Powered-By: Express
+
+Q2
+connect.sid
+
+Q3
+THM{pr0t0_p0llut3d}
+
+Q4
+window.__next_f
+
+Q5
+THM{m1ddl3w4r3_byp4ss3d}
+
+Q6
+csrfmiddlewaretoken
+
+Q7
+vuln_db
+
+Q8
+Apache/2.4.49 (Unix)
+
+Q9
+--path-as-is
+
+Q10
+THM{4p4ch3_p4th_tr4v3rs4l}

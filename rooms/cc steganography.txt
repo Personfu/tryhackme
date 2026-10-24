@@ -1,0 +1,71 @@
+CC: Steganography
+https://tryhackme.com/room/ccstego
+
+Task 2.1 — Steghide action for hiding a file
+embed
+
+Task 2.2 — Steghide flag for the embedded file
+-ef
+
+Task 2.3 — Steghide flag for the cover file
+-cf
+
+Task 2.4 — Steghide passphrase flag
+-p
+
+Task 2.5 — Steghide action for extracting data
+extract
+
+Task 2.6 — Steghide flag for the stego file
+-sf
+
+Task 2.7 — Hidden message in jpeg1
+pinguftw
+
+Task 3.1 — zsteg least-significant-bit option
+--lsb
+
+Task 3.2 — zsteg most-significant-bit option
+--msb
+
+Task 3.3 — zsteg verbose option
+-v
+
+Task 3.4 — zsteg option to extract a named payload
+-E
+
+Task 3.5 — Hidden message in png1
+nootnoot
+
+Task 3.6 — Payload channel and bit ordering for png1
+b1,bgr,lsb,xy
+
+Task 4.1 — Document name in jpeg3 metadata
+Hello :)
+
+Task 5.1 — Stegoveritas metadata option
+-meta
+
+Task 5.2 — Stegoveritas option for Steghide data
+-steghide
+
+Task 5.3 — Stegoveritas LSB extraction option
+-extractLSB
+
+Task 5.4 — Hidden message in jpeg2
+kekekekek
+
+Task 6.1 — Hidden text in wav2 spectrogram
+Google
+
+Task 7.1 — Final exam key 1
+superkeykey
+
+Task 7.2 — Final exam key 2
+fatality
+
+Task 7.3 — Final exam key 3
+killshot
+
+Sources: https://blog.dhilipsanjay.in/ctfs/tryhackme/tryhackme/ccsteganography
+Source: https://www.kumaratuljaiswal.in/2020/11/tryhackme-cc-steganography.html

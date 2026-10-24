@@ -1,0 +1,7 @@
+Hide and Seek
+https://tryhackme.com/room/hfb1hideandseek
+
+Q: Challenge flag?
+A: THM{y0u_g0t_3v3ryth1ng_d0wn}
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Hide%20and%20Seek

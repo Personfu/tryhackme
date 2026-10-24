@@ -1,0 +1,7 @@
+Stolen Mount
+https://tryhackme.com/room/hfb1stolenmount
+
+Q: File-sharing challenge flag?
+A: THM{n0t_s3cur3_f1l3_sh4r1ng}
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Stolen%20Mount

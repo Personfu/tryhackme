@@ -1,0 +1,42 @@
+Introduction to Wordlists
+https://tryhackme.com/room/introductiontowordlists
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Introduction%20to%20Wordlists
+Room link evidence: https://tryhackme.com/room/introductiontowordlists
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+crunch
+
+Q2
+4
+
+Q3
+1
+
+Q4
+4
+
+Q5
+security
+
+Q6
+161
+
+Q7
+Helios2009!
+
+Q8
+-u
+
+Q9
+%
+
+Q10
+200
+
+Q11
+alex.johnson
+
+Q12
+THM{w0rdlists_win_rooms}

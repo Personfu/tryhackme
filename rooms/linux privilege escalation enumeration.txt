@@ -1,0 +1,45 @@
+Linux Privilege Escalation: Enumeration
+https://tryhackme.com/room/linprivenum
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Linux%20Privilege%20Escalation%3A%20Enumeration
+Room link evidence: https://medium.com/@sornphut/linux-privilege-escalation-enumeration-tryhackme-walkthrough-ac8a24133994
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+linux-enumeration
+
+Q2
+6.8.0-1017-aws
+
+Q3
+Ubuntu 24.04.1 LTS
+
+Q4
+/root/backup.sh
+
+Q5
+4.0.1really4.0.1-0ubuntu0.24.04.3
+
+Q6
+C.UTF-8
+
+Q7
+THM{history-is-not-safe}
+
+Q8
+/usr/bin/nmap
+
+Q9
+list
+
+Q10
+ens5
+
+Q11
+53
+
+Q12
+THM{not-so-hidden}
+
+Q13
+THM{found-the-flag}

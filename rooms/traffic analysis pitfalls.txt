@@ -1,0 +1,41 @@
+Traffic Analysis Pitfalls
+https://tryhackme.com/room/trafficanalysispitfalls
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Traffic%20Analysis%20Pitfalls
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+4
+
+Q2
+800
+
+Q3
+6946
+
+Q4
+15180
+
+Q5
+2026-03-27
+
+Q6
+26
+
+Q7
+C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE
+
+Q8
+6
+
+Q9
+WKST-HR-02
+
+Q10
+847823104
+
+Q11
+6108
+
+Q12
+2026-04-06 21:55:44

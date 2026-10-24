@@ -1,0 +1,24 @@
+Checkpoint
+https://tryhackme.com/room/checkpoint
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Checkpoint
+Room link evidence: https://tryhackme.com/module/ai-supply-chain-security
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+/etc/passwd
+
+Q2
+security_review_flag
+
+Q3
+CommunityReview
+
+Q4
+THM{supp1y_ch41n_0wn3d}
+
+Q5
+Reject
+
+Q6
+B

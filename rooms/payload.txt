@@ -1,0 +1,26 @@
+Payload
+https://tryhackme.com/room/payload
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Payload
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+trustworthy-ai-lab
+
+Q2
+21
+
+Q3
+system
+
+Q4
+hostname
+
+Q5
+POST
+
+Q6
+manipulate_output
+
+Q7
+THM{b4ckd00r_1n_pl41n_s1ght}

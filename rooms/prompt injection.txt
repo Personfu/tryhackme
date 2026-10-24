@@ -1,0 +1,47 @@
+Prompt Injection
+https://tryhackme.com/room/promptinjectionls
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Prompt%20Injection
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+context window
+
+Q2
+system prompt
+
+Q3
+ChatML
+
+Q4
+next-token prediction
+
+Q5
+prompt injection
+
+Q6
+tokens
+
+Q7
+OWASP
+
+Q8
+Sydney
+
+Q9
+format-based injection
+
+Q10
+THM{duD3_wh3r3s_my_c4R}
+
+Q11
+indirect prompt injection
+
+Q12
+zero-click
+
+Q13
+EchoLeak
+
+Q14
+adam.driver@llmborghini.com

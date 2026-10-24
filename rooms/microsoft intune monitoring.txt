@@ -1,0 +1,42 @@
+Microsoft Intune Monitoring
+https://tryhackme.com/room/msintunemonitoring
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Microsoft%20Intune%20Monitoring
+Room link evidence: https://github.com/winterrdog/tryhackme-free-rooms/blob/main/README.md
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+Cloud-based
+
+Q2
+Entra ID
+
+Q3
+Conditional Access
+
+Q4
+deviceDetail
+
+Q5
+d66b71f3-a644-4392-89b2-d97ba5612356
+
+Q6
+LPT-08312
+
+Q7
+149.40.62.43
+
+Q8
+c0709410-f1e0-4619-ac73-eca347ca1b8b
+
+Q9
+2026-03-17 18:57:57
+
+Q10
+THM{hello_world_from_intune!}
+
+Q11
+B
+
+Q12
+Multi Admin Approval

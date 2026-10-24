@@ -1,0 +1,33 @@
+AI & Automation in Detection Engineering
+https://tryhackme.com/room/aiautomationdetectioneng
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/AI%20%26%20Automation%20in%20Detection%20Engineering
+Room link evidence: https://classroom.anir0y.in/post/thm-room-aiautomationdetectioneng/
+Answers follow the source's question order; room revisions may change numbering.
+
+Q1
+pull request
+
+Q2
+YAML
+
+Q3
+MSSP SOC
+
+Q4
+THM{pr0c_cr34t10n_l0gs0urc3_fix3d}
+
+Q5
+Suspicious PowerShell Encoded Cmd
+
+Q6
+Indirect Prompt Injection
+
+Q7
+False Confidence
+
+Q8
+Validation Agent
+
+Q9
+THM{A1_D3T3CT1ON_ENG}

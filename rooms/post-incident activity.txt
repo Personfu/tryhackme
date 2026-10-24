@@ -1,0 +1,44 @@
+Post-Incident Activity
+https://tryhackme.com/room/postincidentactivity
+
+Source: https://github.com/cosmicline/TryHackMe-Answers/blob/e750bcb8aa3be24eb5fce03369f35ccc5ad704f7/Post-Incident%20Activity
+Answers follow the source question order; room revisions may change numbering.
+
+Q1
+Lessons learned meeting
+
+Q2
+Preparation
+
+Q3
+Executive Summary
+
+Q4
+Technical Summary
+
+Q5
+Alert fatigue
+
+Q6
+Microsoft Secure Score
+
+Q7
+Phishing
+
+Q8
+MFA
+
+Q9
+3
+
+Q10
+Entra ID sign-in logs
+
+Q11
+Full_Employee_PII_Data.xlsx
+
+Q12
+New-InboxRule
+
+Q13
+location.countryOrRegion

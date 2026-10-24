@@ -1,0 +1,41 @@
+The find command
+https://tryhackme.com/room/thefindcommand
+
+Task 2.1 — Find files ending in .xml
+find / -type f -name "*.xml"
+
+Task 2.2 — Find user.txt under /home without case sensitivity
+find /home -type f -iname user.txt
+
+Task 2.3 — Find directories with exploits in the name
+find / -type d -name "*exploits*"
+
+Task 3.1 — Find files owned by kittycat
+find / -type f -user kittycat
+
+Task 3.2 — Find files exactly 150 bytes long
+find / -type f -size 150c
+
+Task 3.3 — Find .txt files under /home smaller than 2 KiB
+find /home -type f -size -2k -name "*.txt"
+
+Task 3.4 — Find files with exact 644 permissions
+find / -type f -perm 644
+
+Task 3.5 — Find files with read permission for anyone
+find / -type f -perm /444
+
+Task 3.6 — Find .sh files writable by others
+find / -type f -perm -o=w -name "*.sh"
+
+Task 3.7 — Find root-owned SUID files under /usr/bin
+find /usr/bin -type f -user root -perm -u=s
+
+Task 3.8 — Find .png files not accessed in the last 10 days
+find / -type f -atime +10 -name "*.png"
+
+Task 3.9 — Find /usr/bin files modified within two hours
+find /usr/bin -type f -mmin -120
+
+Source: https://dev.to/applegamer22/tryhackme-the-find-command-10jg
+Source: https://razrexe.medium.com/tryhackme-the-find-command-walkthrough-by-razrexe-f68b94d4509a

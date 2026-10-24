@@ -1,0 +1,162 @@
+CC: Radare2
+https://tryhackme.com/room/ccradare2
+
+Answers follow task and question order in the linked source.
+
+Task 2.1 — Command Line Options
+-A
+
+Task 2.2 — Command Line Options
+-d
+
+Task 2.3 — Command Line Options
+-w
+
+Task 2.4 — Command Line Options
+-
+
+Task 3.1 — Analyzation
+aaa
+
+Task 3.2 — Analyzation
+af
+
+Task 3.3 — Analyzation
+afl
+
+Task 3.4 — Analyzation
+12
+
+Task 3.5 — Analyzation
+secret_func
+
+Task 4.1 — Information
+ia
+
+Task 4.2 — Information
+izz
+
+Task 4.3 — Information
+iM
+
+Task 4.4 — Information
+j
+
+Task 4.5 — Information
+ie
+
+Task 4.6 — Information
+goodjob
+
+Task 5.1 — Navigating Through Memory
+s
+
+Task 5.2 — Navigating Through Memory
+s
+
+Task 5.3 — Navigating Through Memory
+s+5
+
+Task 5.4 — Navigating Through Memory
+s-12
+
+Task 5.5 — Navigating Through Memory
+s-
+
+Task 5.6 — Navigating Through Memory
+s main
+
+Task 5.7 — Navigating Through Memory
+sr rax
+
+Task 6.1 — Printing
+px
+
+Task 6.2 — Printing
+pd
+
+Task 6.3 — Printing
+pdf @ main
+
+Task 6.4 — Printing
+pxe
+
+Task 6.5 — Printing
+pC
+
+Task 6.6 — Printing
+1
+
+Task 6.7 — Printing
+5
+
+Task 7.1 — The Mid-term
+13
+
+Task 7.2 — The Mid-term
+you_found_me
+
+Task 7.3 — The Mid-term
+4
+
+Task 7.4 — The Mid-term
+12
+
+Task 7.5 — The Mid-term
+192
+
+Task 7.6 — The Mid-term
+midterm_func
+
+Task 7.7 — The Mid-term
+px 4
+
+Task 8.1 — Debugging
+db
+
+Task 8.2 — Debugging
+dr
+
+Task 8.3 — Debugging
+dc
+
+Task 8.4 — Debugging
+ds
+
+Task 8.5 — Debugging
+ds 2
+
+Task 8.6 — Debugging
+dbi
+
+Task 9.1 — Visual mode
+vV
+
+Task 9.2 — Visual mode
+:
+
+Task 9.3 — Visual mode
+q
+
+Task 9.4 — Visual mode
+s
+
+Task 9.5 — Visual mode
+;
+
+Task 10.1 — Write Mode
+w
+
+Task 10.2 — Write Mode
+wc
+
+Task 10.3 — Write Mode
+wa
+
+Task 11.1 — The Final Exam
+oekZ_Z_j
+
+Source: https://github.com/Silentsoul04/CTFs-3/blob/e38c75c2fe8336d575651e89f575b072e57a2489/TryHackMe/CCRadare2.md
+Source: https://monosource.gitbooks.io/radare2-explorations/content/intro/getting_info.html
+Task 4.3 uses iM for the main address; the walkthrough prints im, which reports memory allocation.
+
