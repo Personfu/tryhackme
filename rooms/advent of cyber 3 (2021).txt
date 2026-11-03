@@ -266,7 +266,7 @@ What other file in that bucket looks interesting to you?
 wp-backup.zip
 
 What is the AWS Access Key ID in that file?
-AKIAQI52OJVCPZXFYAOI
+<AWS_ACCESS_KEY_ID>
 
 What is the AWS Account ID that access-key works for?
 019181489476
