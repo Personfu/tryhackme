@@ -61,7 +61,7 @@ THM{791d43d46018a0d89361dbf60d5d9eb8}
 Now that you read the index.php, there is a login credential PHP file's path. Use the PHP filter technique to read its content. What are the username and password?
 McSkidy:A0C315Aw3s0m
 
-Use the credentials to login into the web application. Help McSkidy to recover the server's password. What is the password of the flag.thm.aoc server?
+Use the credentials to login into the web application. Help McSkidy to recover the server's password. What is the password of the flag.thm.aoc server? 
 THM{552f313b52e3c3dbf5257d8c6db7f6f1}
 
 The web application logs all users' requests, and only authorized users can read the log file. Use the LFI to gain RCE via the log file page. What is the hostname of the webserver? The log file location is at ./includes/logs/app_access.log.
@@ -85,7 +85,7 @@ Microsoft Windows 11 Pro
 What was the password set for the new "backdoor" account?
 grinchstolechristmas
 
-In one of the transcription logs,  the bad actor interacts with the target under the new backdoor user account, and copies a unique file to the Desktop. Before it is copied to the Desktop, what is the full path of the original file?
+In one of the transcription logs,  the bad actor interacts with the target under the new backdoor user account, and copies a unique file to the Desktop. Before it is copied to the Desktop, what is the full path of the original file? 
 C:\Users\santa\AppData\Local\Microsoft\Windows\UsrClass.dat
 
 The actor uses a Living Off The Land binary (LOLbin) to encode this file, and then verifies it succeeded by viewing the output file. What is the name of this LOLbin?
@@ -94,7 +94,7 @@ certutil.exe
 Drill down into the folders and see if you can find anything that might indicate how we could better track down what this SantaRat really is. What specific folder name clues us in that this might be publicly accessible software hosted on a code-sharing platform?
 .github
 
-Additionally, there is a unique folder named "Bag of Toys" on the Desktop! This must be where Santa prepares his collection of toys, and this is certainly sensitive data that the actor could have compromised. What is the name of the file found in this folder?
+Additionally, there is a unique folder named "Bag of Toys" on the Desktop! This must be where Santa prepares his collection of toys, and this is certainly sensitive data that the actor could have compromised. What is the name of the file found in this folder? 
 bag_of_toys.zip
 
 What is the name of the user that owns the SantaRat repository?
@@ -118,7 +118,7 @@ How many original files were present in Santa's Bag of Toys?
 In the HTTP #1 - GET requests section, which directory is found on the web server?
 login
 
-What is the username and password used in the login page in the HTTP #2 - POST section?
+What is the username and password used in the login page in the HTTP #2 - POST section? 
 McSkidy:Christmas2021!
 
 What is the User-Agent's name that has been sent in HTTP #2 - POST section?
@@ -247,7 +247,7 @@ keybase.io
 What is the bitcoin address of the operator?
 bc1q5q2w2x6yka5gchr89988p2c8w8nquem6tndw2f
 
-What platform does the operator leak the bitcoin address on?
+What platform does the operator leak the bitcoin address on? 
 GitHub
 
 What is the operator's personal email?
@@ -337,7 +337,7 @@ The file has 68 characters in the start known as the known string. It can be app
 We changed the text in the string $a as shown in the eicaryara rule we wrote, from X5O to X50, that is, we replaced the letter O with the number 0. The condition for the Yara rule is $a and $b and $c and $d. If we are to only make a change to the first boolean operator in this condition, what boolean operator shall we replace the 'and' with, in order for the rule to still hit the file?
 or
 
-What option is used in the Yara command in order to list down the metadata of the rules that are a hit to a file?
+What option is used in the Yara command in order to list down the metadata of the rules that are a hit to a file? 
 -m
 
 What section contains information about the author of the Yara rule?
