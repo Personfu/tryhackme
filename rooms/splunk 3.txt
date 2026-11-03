@@ -44,12 +44,12 @@ What is the short hostname of the only Frothly endpoint to show evidence of defe
 BTUN-L
 
 What IAM user access key generates the most distinct errors when attempting to access IAM resources?
-AKIAJOGCDXJ5NW5PXUPA
+<AWS_ACCESS_KEY_ID>
 
 Bud accidentally commits AWS access keys to an external code repository. Shortly after, he receives a notification from AWS that the account had been compromised. What is the support case ID that Amazon opens on his behalf?
 5244329601
 
-AWS access keys consist of two parts: an access key ID (e.g., AKIAIOSFODNN7EXAMPLE) and a secret access key (e.g., wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY). What is the secret access key of the key that was leaked to the external code repository?
+AWS access keys consist of two parts: an access key ID (e.g., <AWS_ACCESS_KEY_ID>) and a secret access key (e.g., <AWS_SECRET_ACCESS_KEY>). What is the secret access key of the key that was leaked to the external code repository?
 Bx8/gTsYC98T0oWiFhpmdROqhELPtXJSR9vFPNGk
 
 Using the leaked key, the adversary makes an unauthorized attempt to create a key for a specific resource. What is the name of that resource? Answer guidance: One word.
